@@ -1,0 +1,32 @@
+der
+P
+
+GK F_Fielding
+DF C_Nica
+DF L_Shaw
+DF R_Keogh
+DF S_Barker
+DF C_Bryson
+DF D_Rotariu
+DM A_Chipciu
+DM R_Sterling
+FW P_Coutinho
+FW A_Kozlov
+
+GK A_Legzinds
+DF J_Brayford
+FW J_Hendrick
+FW P_Coutts
+FW M_Jacobs
+
+PK: A_Kozlov
+
+CHANGEPOS 10 DM IF MIN = 51
+SUB 11 14 FW IF MIN = 57
+SUB 7 16 DF IF MIN = 59
+SUB 6 15 DF IF MIN = 75
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 79 SCORE >= 2

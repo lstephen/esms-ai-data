@@ -1,0 +1,36 @@
+gly
+P
+
+GK I_Galca
+DF E_Gheorghe
+DF T_Niculaie
+DF T_Kucek
+DF C_Ganea
+DF M_Petri
+DM J_Byrn
+DM D_Vasiliu
+MF T_Balescu
+MF V_Baicu
+FW P_Muresanu
+
+GK D_Goldis
+DF C_Filipescu
+DF N_Teodorescu
+DF J_Pavlenco
+FW J_Caragiale
+
+PK: M_Petri
+
+SUB 9 16 FW IF MIN = 45
+SUB 10 15 DM IF MIN = 51
+CHANGEPOS 11 MF IF MIN = 52
+CHANGEPOS 11 FW IF MIN = 61
+CHANGEPOS 11 MF IF MIN = 62
+CHANGEPOS 11 FW IF MIN = 74
+CHANGEPOS 15 MF IF MIN = 75
+SUB 2 13 DF IF MIN = 80
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 75 SCORE >= 2

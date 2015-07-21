@@ -1,0 +1,31 @@
+tthr
+P
+
+GK C_Turner
+DF A_Andreasen
+DF I_Muresanu
+DF A_Sub
+DF J_Fox
+DF F_Parasca
+DF N_Barbulescu
+MF Juninho
+MF P_Singh
+FW J_Guidetti
+FW C_Albescu
+
+GK C_Poenaru
+DF S_Vagini
+DF N_Saul
+DF Kim_Dong_Wong
+FW Quintero
+
+PK: J_Guidetti
+
+SUB 11 16 FW IF MIN = 45
+SUB 4 13 DF IF MIN = 46
+SUB 7 14 DF IF MIN = 56
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 63 SCORE >= 2

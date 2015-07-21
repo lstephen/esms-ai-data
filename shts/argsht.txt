@@ -1,0 +1,30 @@
+arg
+E
+
+GK L_Alvarez
+DF E_Garay
+DF W_Perri
+DF R_Ayala
+DM G_Figueroa
+DM S_Gates
+DM P_Gilbough
+MF D_Gutierrez
+MF J_Weatherbie
+MF X_Striplin
+FW N_Liden
+
+GK O_Heiden
+DF O_Punch
+DF A_Wible
+MF Enzo_Perez
+FW J_Francisco
+
+PK: N_Liden
+
+SUB 4 13 DF IF MIN = 61
+SUB 3 14 DF IF MIN = 68
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 73 SCORE = 1
+TACTIC D IF MIN >= 42 SCORE >= 2

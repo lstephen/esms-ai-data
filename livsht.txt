@@ -1,0 +1,32 @@
+liv
+A
+
+GK P_Reina
+DF R_Varane
+DF D_Agger
+DF L_Bonucci
+DF V_Forren
+DF M_Skrtel
+DF J_Allen
+DM S_Gerrard
+AM J_Mata
+AM L_Suarez
+FW D_Sturridge
+
+GK P_Gulasci
+DF S_Coates
+DF L_Leiva
+FW Lucas
+FW E_Bennett
+
+PK: L_Suarez
+
+CHANGEPOS 8 AM IF MIN = 59
+SUB 6 13 DF IF MIN = 60
+SUB 8 15 DM IF MIN = 61
+SUB 7 14 DF IF MIN = 73
+TACTIC P IF MIN >= 73 SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 58 SCORE >= 2

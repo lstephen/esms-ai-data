@@ -1,0 +1,31 @@
+gli
+A
+
+GK B_Sefton
+DF L_Sents
+DF K_Hartell
+DF L_Aldai
+DF H_Kazuyoshi
+DF S_Gehring
+DM C_Begbie
+DM E_Jones
+DM Campbundo
+AM Babybinho
+FW C_Massanet
+
+GK R_Prussak
+DF W_Kelsen
+DF I_Rumley
+DF M_DeFree
+FW B_Davies
+
+PK: Babybinho
+
+SUB 4 14 DF IF MIN = 54
+SUB 11 16 FW IF MIN = 61
+SUB 3 15 DF IF MIN = 68
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC C IF MIN >= 32 SCORE = 1
+TACTIC L IF MIN >= 30 SCORE >= 2

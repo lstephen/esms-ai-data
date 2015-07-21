@@ -1,0 +1,31 @@
+nor
+P
+
+GK J_Ruddy
+DF D_Blind
+DF J_Garrido
+DF M_Turner
+DF A_Elmohamady
+DF K_Strootman
+DF X_Shaqiri
+DM R_Snodgrass
+DM J_Howson
+FW G_Castro
+FW S_Eto'o
+
+GK L_Camp
+DF R_Martin
+DF R_Bennett
+FW W_Hoolahan
+FW A_Pilkington
+
+PK: S_Eto'o
+
+SUB 3 13 DF IF MIN = 58
+SUB 10 15 FW IF MIN = 60
+SUB 4 14 DF IF MIN = 69
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC P IF SCORE >= 2
