@@ -1,31 +1,31 @@
 tth
-E
+P
 
 GK R_Ceni
+DF A_Wisdom
 DF A_Pereira
-DF M_Richards
-DF S_Irwin
-DM A_Wisdom
-DM S_Howey
-DM Doriva
-MF S_Perrotta
-MF A_Johnson
-MF Fernandinho
-FW R_Sharp
+DF S_Howey
+DF Fernandinho
+DF Doriva
+DF Ridoutkha
+DM M_Saganowski
+MF S_Nasri
+FW S_Perrotta
+FW A_Johnson
 
 GK J_Hunter
-DM Ridoutkha
-MF S_Defour
-MF M_Saganowski
-FW M_De_Cala
+DF M_Richards
+FW J_Navas
+FW S_Defour
+FW R_Sharp
 
-PK: R_Sharp
+PK: S_Perrotta
 
-SUB 9 15 MF IF MIN = 54
-SUB 11 16 FW IF MIN = 56
-SUB 7 13 DM IF MIN = 75
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 36 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
+SUB 10 14 MF IF MIN = 55
+SUB 11 16 FW IF MIN = 60
+SUB 8 15 DM IF MIN = 75
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 66 SCORE >= 2
