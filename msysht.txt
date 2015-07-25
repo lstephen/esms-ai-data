@@ -9,23 +9,25 @@ DF M_Schultz
 DF Q_Bolbat
 DM X_Fliegner
 MF P_Prosser
-FW D_Tikhomirov
+FW C_Parry
 FW D_Dillinger
 FW A_Belousov
 
 GK A_Kapustov
-DF I_Yolkin
 DF M_Karetnikov
 DF D_Wathen
+FW C_Picheloup
 FW J_Pichugin
 
 PK: D_Dillinger
 
-SUB 11 16 FW IF MIN = 45
-SUB 8 15 DM IF MIN = 60
-SUB 4 13 DF IF MIN = 75
+CHANGEPOS 9 DM IF MIN = 45
+SUB 11 15 MF IF MIN = 50
+CHANGEPOS 9 MF IF MIN = 55
+SUB 8 14 DM IF MIN = 60
+SUB 10 16 FW IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+TACTIC D IF MIN >= 55 SCORE >= 2
