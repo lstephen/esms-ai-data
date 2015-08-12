@@ -1,31 +1,33 @@
 mis
-P
+E
 
 GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
 DF Khamirutzox
-DF K_Prescott
-DF M_Tensfeldt
-DM J_Latal
+DM K_Prescott
+DM M_Tensfeldt
 DM D_Bledsoe
 MF M_Westbay
-FW O_Aguilar
+MF J_Latal
+MF O_Aguilar
 FW H_Lewis
 
 GK T_Helms
-DF M_Boxall
-DF F_Leboeuf
-DF Tarildo
-FW C_Yastrzemski
+DF B_Schweig
+DM F_Leboeuf
+DM Tarildo
+MF C_Yastrzemski
 
 PK: H_Lewis
 
-SUB 4 13 DF IF MIN = 55
-SUB 10 16 MF IF MIN = 60
-SUB 8 15 DM IF MIN = 70
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 63 SCORE >= 2
+SUB 7 14 DF IF MIN = 45
+CHANGEPOS 3 DM IF MIN = 50
+SUB 3 16 MF IF MIN = 55
+CHANGEPOS 9 DM IF MIN = 60
+SUB 6 15 DM IF MIN = 75
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 83 SCORE = 1
+TACTIC D IF MIN >= 42 SCORE >= 2
