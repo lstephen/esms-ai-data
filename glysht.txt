@@ -2,29 +2,34 @@ gly
 P
 
 GK D_Goldis
+DF E_Gheorghe
 DF M_Petri
 DF T_Niculaie
-DF C_Filipescu
 DF C_Ganea
 DF T_Kucek
 DM J_Byrn
 DM D_Vasiliu
 MF T_Balescu
+MF V_Baicu
 FW P_Muresanu
-FW J_Caragiale
 
 DF I_Ilie
-DF N_Teodorescu
+DF C_Filipescu
 DF J_Pavlenco
-FW V_Baicu
+FW J_Caragiale
 FW C_Minea
 
 PK: M_Petri
 
-SUB 9 14 MF IF MIN = 55
-SUB 4 12 DF IF MIN = 65
+SUB 10 14 MF IF MIN = 50
+SUB 9 15 FW IF MIN = 55
+CHANGEPOS 11 MF IF MIN = 60
+CHANGEPOS 14 DM IF MIN = 65
+CHANGEPOS 11 FW IF MIN = 75
+SUB 2 13 DF IF MIN = 78
+CHANGEPOS 14 MF IF MIN = 81
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 70 SCORE >= 2
+TACTIC D IF MIN >= 80 SCORE >= 2
