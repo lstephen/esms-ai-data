@@ -1,31 +1,31 @@
 wat
-E
+A
 
 GK I_Akinfeev
 DF S_Bassong
 DF J_Paredes
 DF D_Pudil
-DM G_Tamas
-DM D_Jones
-DM J_Colback
-MF D_Tozser
-MF G_Munari
-MF A_Guedioura
+DF G_Tamas
+DF C_Cathcart
+DM S_Murray
+AM I_Anya
+AM A_Abdi
+AM L_Dyer
 FW T_Deeney
 
 GK H_Gomes
-DM T_Hoban
-MF S_Murray
-AM I_Anya
-AM A_Abdi
+GK J_Bond
+DF T_Hoban
+DM D_Tozser
+FW O_Ighalo
 
 PK: T_Deeney
 
-SUB 8 15 MF IF MIN = 55
-SUB 9 14 MF IF MIN = 60
-SUB 10 16 MF IF MIN = 75
-TACTIC A IF MIN >= 68 SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 36 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
+SUB 10 15 DM IF MIN = 50
+SUB 7 16 FW IF MIN = 65
+SUB 6 14 DF IF MIN = 81
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF MIN >= 50 SCORE = 1
+TACTIC D IF MIN >= 67 SCORE >= 2
