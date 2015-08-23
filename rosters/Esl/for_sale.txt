@@ -18,6 +18,19 @@ G_Mercado     27 arg  1 15  5  3 26 300 199 837 871   8   0  734   1   0   0  14
 L_Vangioni    27 arg  1 15  6  3 18 300 172 924 989   8   0  623   0   0   0  10   3   2   0   0   2   1   0 100
 J_Henderson   24 eng  1  5 16  5 27 300 952 347 568  10   1  837   0   0   0   4  16   7   0   1   2   0   0 100
 
+M_Bunn 30 eng 15 1 1 1 18 258 300 300 300 - Buy now 1mill
+
+S_Whittaker 30 sco 1 12 6 3 26 300 725 747 782 # Buy now 3mill
+I_Miquel 22 spa 1 11 3 4 29 300 300 800 750 # Buy now 1.5mill
+J_Hooiveld 31 ned 1 11 4 5 22 300 68 634 584 # Buy now 1mill
+
+V_Odjidja 25 bel 1 7 12 4 23 300 662 734 824 # Buy now 3mill
+A_Martinez 28 spa 1 4 11 3 24 300 765 415 824 # Buy now 1.5mill
+C_McGrandles 19 sco 1 5 10 4 19 300 389 745 439 # Buy now 1mill
+
+L_Grabban 26 jam 1 4 9 12 17 300 748 418 337 # Buy now 3mill
+C_Jerome 28 eng 1 3 8 11 20 300 800 500 700 # Buy now 2mill
+
 
 A_McGregor    32 sco 22  1  1  1 20 241 300 300 300   4   0  381   0  30   7   0   0   0   0   0   0   0   0 100 #hul
 P_Cech        32 cze 20  1  1  1 16 971 300 300 300   5   0  477   0  39   9   0   0   0   0   0   0   0   0 100 #hul
