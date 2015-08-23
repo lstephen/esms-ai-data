@@ -18,7 +18,7 @@ G_Mercado     27 arg  1 15  5  3 26 300 199 837 871   8   0  734   1   0   0  14
 L_Vangioni    27 arg  1 15  6  3 18 300 172 924 989   8   0  623   0   0   0  10   3   2   0   0   2   1   0 100
 J_Henderson   24 eng  1  5 16  5 27 300 952 347 568  10   1  837   0   0   0   4  16   7   0   1   2   0   0 100
 
-M_Bunn 30 eng 15 1 1 1 18 258 300 300 300 - Buy now 1mill
+M_Bunn 30 eng 15 1 1 1 18 258 300 300 300 # Buy now 1mill
 
 S_Whittaker 30 sco 1 12 6 3 26 300 725 747 782 # Buy now 3mill
 I_Miquel 22 spa 1 11 3 4 29 300 300 800 750 # Buy now 1.5mill
