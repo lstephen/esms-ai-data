@@ -1,31 +1,31 @@
 tthr
-P
+A
 
 GK C_Turner
-DF A_Andreasen
+DF S_Vagini
+DF K_Traore
 DF I_Muresanu
 DF A_Sub
-DF J_Fox
-DF F_Parasca
-DF N_Barbulescu
-MF Juninho
-MF P_Singh
+DM J_Fox
+DM D_Iacobescu
+DM N_Barbulescu
 FW J_Guidetti
+FW L_Prado
 FW C_Albescu
 
 GK C_Poenaru
-DF S_Vagini
-DF N_Saul
-DF Kim_Dong_Wong
+DF A_Andreasen
+AM Juninho
+AM Kim_Dong_Wong
 FW Quintero
 
-PK: J_Guidetti
+PK: L_Prado
 
-SUB 4 14 DF IF MIN = 45
-SUB 11 15 DM IF MIN = 50
-SUB 7 13 DF IF MIN = 55
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 54 SCORE >= 2
+SUB 11 13 DF IF MIN = 45
+SUB 5 15 MF IF MIN = 50
+SUB 8 14 DM IF MIN = 65
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 61 SCORE = 1
+TACTIC D IF MIN >= 43 SCORE >= 2
