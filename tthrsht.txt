@@ -15,7 +15,7 @@ FW J_Guidetti
 
 GK C_Poenaru
 DF K_Traore
-AM Juninho
+DM J_Fox
 FW Quintero
 FW L_Prado
 
@@ -23,9 +23,9 @@ PK: J_Guidetti
 
 SUB 8 14 DM IF MIN = 45
 SUB 5 13 DF IF MIN = 50
-SUB 10 16 FW IF MIN = 55
+SUB 10 15 AM IF MIN = 55
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 77 SCORE = 1
+TACTIC D IF MIN >= 56 SCORE = 1
 TACTIC D IF MIN >= 30 SCORE >= 2
