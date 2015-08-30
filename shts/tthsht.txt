@@ -16,14 +16,14 @@ FW R_Sharp
 GK J_Hunter
 DF S_Irwin
 MF M_Saganowski
-AM J_Navas
+AM A_Johnson
 FW M_De_Cala
 
 PK: R_Sharp
 
-SUB 11 16 FW IF MIN = 50
-SUB 8 14 MF IF MIN = 55
-SUB 9 15 MF IF MIN = 76
+SUB 11 16 FW IF MIN = 55
+SUB 9 14 MF IF MIN = 58
+SUB 8 15 MF IF MIN = 75
 TACTIC E IF MIN >= 2 SCORE <= -2
 TACTIC E IF MIN >= 3 SCORE = -1
 TACTIC C IF SCORE = 0
