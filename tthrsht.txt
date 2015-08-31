@@ -8,24 +8,24 @@ DF A_Sub
 DF J_Fox
 DF D_Iacobescu
 DF N_Barbulescu
-DM Juninho
 DM V_Nicu
+MF Juninho
 MF D_Hasdeu
-FW Hugo_Sanchez
+FW J_Guidetti
 
 GK C_Poenaru
 DF A_Andreasen
-DF Kim_Dong_Wong
+DF N_Saul
+DF F_Parasca
 FW Quintero
-FW J_Guidetti
 
-PK: Hugo_Sanchez
+PK: J_Guidetti
 
-SUB 4 14 DM IF MIN = 45
-SUB 10 13 DF IF MIN = 50
-SUB 9 16 FW IF MIN = 55
+SUB 10 14 DM IF MIN = 45
+SUB 4 15 DF IF MIN = 50
+SUB 7 13 DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 78 SCORE >= 2
+TACTIC D IF MIN >= 60 SCORE >= 2
