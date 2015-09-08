@@ -14,16 +14,16 @@ AM A_Johnson
 FW Hugo_Sanchez
 
 GK J_Hunter
-DF S_Irwin
+DF M_Richards
 AM J_Navas
-AM S_Defour
+FW M_Harewood
 FW R_Sharp
 
 PK: Hugo_Sanchez
 
-SUB 8 15 DM IF MIN = 51
-SUB 11 16 FW IF MIN = 60
+SUB 8 15 FW IF MIN = 50
 SUB 4 13 DF IF MIN = 70
+SUB 9 16 FW IF MIN = 81
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
