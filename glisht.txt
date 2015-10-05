@@ -1,33 +1,31 @@
 gli
-C
+P
 
 GK G_Stopper
 DF L_Sents
-DF K_Hartell
 DF H_Kazuyoshi
-DF V_Swabenthal
-DM S_Gehring
-MF C_Begbie
+DF L_Tenant
+DF C_Begbie
+DF K_Peacham
+DM Campbundo
+DM V_Swabenthal
+DM W_Kelsen
 MF E_Jones
-AM Babybinho
-AM Campbundo
-FW M_DeFree
+FW Babybinho
 
 GK B_Sefton
-AM K_Peacham
-AM W_Kelsen
-FW L_Aldai
-FW Q_Gehrken
+DF K_Hartell
+DF N_Culling
+FW C_Massanet
+FW M_DeFree
 
-PK: M_DeFree
+PK: Babybinho
 
-SUB 11 16 FW IF MIN = 50
-SUB 10 13 DM IF MIN = 65
-SUB 9 14 MF IF MIN = 78
-CHANGEPOS 14 AM IF MIN = 81
-CHANGEPOS 14 MF IF MIN = 84
-TACTIC E IF MIN >= 21 SCORE <= -2
-TACTIC E IF MIN >= 40 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
+SUB 4 13 DF IF MIN = 50
+SUB 7 15 FW IF MIN = 51
+SUB 11 16 FW IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC C IF MIN >= 90 SCORE = 1
+TACTIC D IF MIN >= 78 SCORE >= 2
