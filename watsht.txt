@@ -9,23 +9,23 @@ DF G_Tamas
 DF J_Colback
 DM S_Murray
 MF E_Konoplyanka
-FW M_M_Daehli
 FW I_Anya
 FW A_Abdi
+FW T_Deeney
 
 GK H_Gomes
 GK J_Bond
-DF C_Cathcart
 DF D_Jones
-FW T_Deeney
+FW M_M_Daehli
+FW L_Grabban
 
-PK: A_Abdi
+PK: T_Deeney
 
-SUB 10 16 FW IF MIN = 44
-SUB 6 14 DF IF MIN = 65
-SUB 4 15 DF IF MIN = 70
+SUB 10 15 FW IF MIN = 55
+SUB 6 14 DF IF MIN = 70
+SUB 9 16 FW IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 83 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE >= 2
