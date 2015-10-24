@@ -1,0 +1,34 @@
+thu
+A
+
+GK L_Riviello
+DF B_Colosimo
+DF N_Prosise
+DF R_Bourque
+DF Q_Campbell
+DF H_Zschiesche
+DM N_Hes
+DM G_Vialli
+FW R_Toodeetoo
+FW G_Lineker
+FW Brillianto
+
+GK I_Katchalot
+DF A_Thompson
+FW L_Kingsley
+FW Neo
+FW P_Luyindula
+
+PK: R_Toodeetoo
+
+SUB 10 14 AM IF MIN = 47
+CHANGEPOS 14 MF IF MIN = 60
+CHANGEPOS 14 AM IF MIN = 70
+CHANGEPOS 14 MF IF MIN = 75
+SUB 4 13 DF IF MIN = 78
+SUB 11 15 FW IF MIN = 81
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 32 SCORE >= 2

@@ -1,0 +1,31 @@
+thy
+A
+
+GK L_Ronaldo
+DF E_Rodriguez
+DF Q_Galvan
+DF M_Sacco
+DF N_Aguirre
+DF M_Sorrentino
+DM H_Renton
+AM W_Wender
+FW G_Edu
+FW T_Orosz
+FW W_Eduardo
+
+GK H_Penu
+DF L_Kerr
+DF V_Watson
+FW Y_Armando
+FW D_F_Dingle
+
+PK: W_Eduardo
+
+SUB 2 13 DF IF MIN = 50
+SUB 7 15 DM IF MIN = 75
+SUB 10 16 FW IF MIN = 87
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF MIN >= 21 SCORE = 1
+TACTIC L IF MIN >= 30 SCORE >= 2
