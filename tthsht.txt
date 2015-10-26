@@ -3,29 +3,29 @@ P
 
 GK R_Ceni
 DF A_Wisdom
-DF B_Sagna
+DF S_Vagini
 DF S_Howey
 DF J_Jurado
 DF Doriva
 DF M_Oezil
-DM Fernandinho
 DM A_Parada
-MF S_Perrotta
+MF S_Nasri
+MF A_Johnson
 FW Hugo_Sanchez
 
 GK J_Hunter
 DF A_Pereira
-DF S_Vagini
-FW A_Johnson
+DF B_Sagna
+FW S_Defour
 FW R_Sharp
 
 PK: Hugo_Sanchez
 
-SUB 11 16 FW IF MIN = 45
+SUB 10 15 MF IF MIN = 55
 SUB 3 13 DF IF MIN = 60
-SUB 8 15 MF IF MIN = 84
+SUB 11 16 FW IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 66 SCORE >= 2
+TACTIC D IF MIN >= 60 SCORE >= 2
