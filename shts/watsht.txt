@@ -7,25 +7,25 @@ DF J_Paredes
 DF D_Pudil
 DF G_Tamas
 DF C_Cathcart
-DM E_Konoplyanka
+DM S_Murray
+AM E_Konoplyanka
 AM M_M_Daehli
 AM I_Anya
-AM A_Abdi
 FW T_Deeney
 
 GK H_Gomes
+GK J_Bond
 DF T_Hoban
-DM J_Colback
-AM S_Murray
-FW L_Grabban
+FW A_Abdi
+FW O_Ighalo
 
 PK: T_Deeney
 
-SUB 9 16 FW IF MIN = 70
-SUB 6 14 DF IF MIN = 72
-SUB 8 15 DM IF MIN = 81
+SUB 6 14 DF IF MIN = 70
+SUB 10 15 AM IF MIN = 75
+SUB 11 16 FW IF MIN = 90
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 68 SCORE = 1
-TACTIC D IF MIN >= 62 SCORE >= 2
+TACTIC P IF MIN >= 32 SCORE = 1
+TACTIC D IF MIN >= 52 SCORE >= 2
