@@ -3,7 +3,6 @@ Forward04    19  pol 1  8  8  19 31 300 300 300 300 
 Defender01   20  par 3  18 7  6  32 300 300 300 300 
 Defender06   30  rom 3  22 9  5  20 500 500 500 500 
 Midfielder11 20  rus 3  9  19 11 21 500 500 500 500 
-Midfielder08 19  ken 2  9  17 13 40 300 300 300 300 
 Defender03   23  jpn 1  21 4  6  11 700 700 700 700 
 Keeper09     29  kor 25 1  1  2  43 600 600 600 600 
 Forward06    28  egy 1  4  9  20 31 300 300 300 300 
@@ -108,3 +107,5 @@ Midfielder27 19  ice 3  7  18 8  31 400 400 400 400 
 Ali_g         33 fin  1  4 23  5 35 300 753 774  97
 N_Alexander   29 sco 15  3  5  1 19 831 300 300 300
 M_Hornschuh   26 ger  1 23  4  5 42 600 270 828 705
+D_Templeton   23 sco  2  9  5 23 30 300 369 271 585
+T_Hurlock     28 eng  1  8 23 18 37 300 219  44 656
