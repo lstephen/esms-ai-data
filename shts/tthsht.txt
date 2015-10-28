@@ -16,14 +16,14 @@ FW Hugo_Sanchez
 GK J_Hunter
 DF A_Pereira
 DF B_Sagna
-FW S_Defour
+FW J_Navas
 FW R_Sharp
 
 PK: Hugo_Sanchez
 
-SUB 10 15 MF IF MIN = 55
-SUB 3 13 DF IF MIN = 60
-SUB 11 16 FW IF MIN = 70
+SUB 8 15 MF IF MIN = 60
+SUB 6 13 DF IF MIN = 65
+SUB 11 16 FW IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
