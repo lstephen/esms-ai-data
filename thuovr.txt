@@ -1,6 +1,6 @@
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 G_Vialli        22 DF 17/23/11  38   2  38  31  30  30  33 |  44   7/  7 ||  52 ||  35 MF  34 MF  36     36 AM  34     38     37 MF       
-L_Riviello      27 GK    26     39  39   2   2   2   2   2 |  43   8/  9 ||  50 ||  39     39     39     39     39     39     39          
+L_Riviello      27 GK    26     39  39   2   2   2   2   2 |  43   8/  9 ||  50 ||  39     39     39     39     39     39     39    I     
 B_Colosimo      30 DF 25/15/17  41   2  41  29  26  27  35 |  42   8/  8 ||  50 ||  39     36 MF  44     38 AM  46     41     36          
 H_Zschiesche    21 DF 21/16/11  36   2  36  27  24  24  28 |  43   4/  4 ||  47 ||  33     32 MF  36     33 AM  37     36     32 DM       
 N_Hes           29 DF 15/25/14  38   2  38  33  32  33  37 |  39   9/  9 ||  47 ||  37 MF  34 MF  37 AM  39 AM  34     38     41 MF       
@@ -19,29 +19,29 @@ N_Nelson        21 DF 12/20/ 6  29   2  29  25  25  23  24 |  37   0/  1 ||  37 
 E_Rodriguez     20 DF 18/12/ 6  29   2  29  21  18  17  20 |  36  -3/ -2 ||  36 ||  26     25 MF  28     26     28     29     26 DM   R r 
 P_Holowaty      17 DF 14/ 2/ 8  18   2  18  10   8   9  13 |  35 -14/ -7 ||  35 ||  18     17     20     17     23     18     18      R r 
 W_Wender        17 FW  4/13/11  22   2  17  16  17  18  22 |  35 -10/ -3 ||  35 ||  20 AM  17 AM  25     20 AM  19     22     22 MF   R r 
+A_Thompson      22 DF 21/11/ 5  31   2  31  21  18  17  19 |  37  -2/ -2 ||  35 ||  28     28     29     28     30     31     26 DM       
 S_Cohen         17 DF  8/14/ 6  20   2  20  18  18  17  19 |  34  -8/ -2 ||  34 ||  20 MF  18 MF  19     20 AM  17 MF  20     22 MF   R r 
+R_Jorge         18 GK    15     23  23   2   2   2   2   2 |  34  -9/ -4 ||  34 ||  23     23     23     23     23     23     23      R r 
 M_Sorrentino    19 DF 15/ 5/12  22   2  22  14  12  14  20 |  34  -9/ -8 ||  34 ||  22     19     26     22 FW  28     22     21      R r 
 H_Penu          20 GK    16     24  24   2   2   2   2   2 |  34  -7/ -4 ||  34 ||  24     24     24     24     24     24     24      R r 
 M_Sacco         20 DF 16/ 4/11  22   2  22  14  11  12  18 |  34 -10/ -8 ||  34 ||  22     20     25     21 FW  28     22     22      R r 
-A_Thompson      22 DF 21/10/ 5  30   2  30  21  17  16  18 |  37  -3/ -3 ||  34 ||  27     28     29     27     30     30     26          
 R_Bourque       30 DF 23/12/ 9  35   2  35  24  20  20  24 |  33   1/  1 ||  34 ||  32     31     35     31     36     35     30          
 Y_Anderson      17 DF 13/ 8/ 3  20   2  20  14  12  11  12 |  33 -11/ -5 ||  33 ||  18     18     19     18     19     20     18 DM   R r 
 P_Ale           18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21      R r 
-R_Jorge         18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21      R r 
-G_Edu           19 FW  5/ 9/15  23   2  16  14  14  17  23 |  33  -9/ -7 ||  33 ||  21     17 AM  28     22     23     23     20 AM   R r 
+G_Edu           19 FW  5/ 9/16  24   2  17  14  14  17  24 |  33  -8/ -7 ||  33 ||  22     17 AM  30     23     24     24     21 AM   R r 
 T_Orosz         19 FW  4/ 8/15  22   2  15  12  13  16  22 |  33 -10/ -7 ||  33 ||  20     15 AM  28     21     23     22     19 AM   R r 
 L_Kerr          20 DF 16/ 5/ 9  22   2  22  14  11  12  17 |  33  -9/ -8 ||  33 ||  22     20     24     21     27     22     21      R r 
 I_Katchalot     28 GK    21     32  32   2   2   2   2   2 |  33   0/  0 ||  33 ||  32     32     32     32     32     32     32          
-W_Eduardo       19 FW  6/ 9/15  23   2  17  14  14  17  23 |  32  -9/ -7 ||  32 ||  21     17 AM  28     23     23     23     20 AM   R r 
+V_Watson        19 DF 15/ 3/ 8  20   2  20  12   9  10  14 |  32 -12/-10 ||  32 ||  20     19     22     19     24     20     19      R r 
+W_Eduardo       19 FW  6/10/15  24   2  18  15  15  18  24 |  32  -8/ -7 ||  32 ||  22     18 AM  29     23     24     24     21 AM   R r 
 Y_Armando       19 FW  6/14/ 9  21   2  19  17  18  18  21 |  32  -8/ -6 ||  32 ||  20 MF  18 MF  23     21 AM  18 MF  21     23 MF   R r 
 Neo             30 FW  6/11/23  33   2  21  18  18  23  33 |  32   0/  0 ||  32 ||  30     23     42     32     34     33     29          
-V_Watson        19 DF 15/ 3/ 8  20   2  20  12   9  10  14 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19      R r 
 X_Walters       19 DF 15/ 4/ 7  20   2  20  13  10  10  14 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19      R r 
 U_Poulsen       25 DF 20/11/ 5  30   2  30  21  17  16  18 |  33  -3/ -3 ||  31 ||  27     27     28     27     29     30     26 DM       
-R_Toodeetoo     32 FW  3/16/25  38   2  23  21  23  28  38 |  28   3/  3 ||  31 ||  33     25 AM  48     35     37     38     34 AM       
 I_Simoes        20 DF 16/ 6/ 3  21   2  21  14  11  10  12 |  30 -10/ -9 ||  30 ||  20     21     20     20     22     21     19      R r 
+R_Toodeetoo     32 FW  3/16/24  37   2  22  21  23  27  37 |  28   2/  3 ||  30 ||  32     24 AM  46     34     36     37     33 AM       
 B_Cattaneo      19 DF  6/14/ 3  17   2  17  16  16  15  15 |  27 -10/ -8 ||  27 ||  18 MF  16 MF  16 MF  18 MF  14 MF  17     20 MF   R r 
-H_Hoobler       31 MF  6/24/ 8  28   2  26  26  28  27  28 |  26   1/  1 ||  27 ||  30     25     30     29     23     28     35          
+H_Hoobler       31 FW  6/24/ 8  28   2  26  26  28  27  28 |  26   1/  1 ||  27 ||  30 MF  25 MF  30 MF  29 MF  23 MF  28 MF  35 MF       
 K_Stewart       31 DF  9/23/ 6  28   2  28  26  27  26  26 |  25   1/  1 ||  26 ||  29 MF  26 MF  28 MF  29 MF  23 MF  28     33 MF       
 
 ** 1st XI (1/5) **
@@ -61,17 +61,17 @@ FW G_Lineker
   STOPPING      39      39      39      39      39      39      39 
   TACKLING     131     163     106     135     150     123     125 
    PASSING     116      79     129     123      61     151     120 
-  SHOOTING      84      40     137      69     129      72      79 
-   SH Mean      18      21      18      20      17      19      19 
- SH Median      21      21      21      21      17      21      21 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      19      13      24      19      14      22      20 
+  SHOOTING      83      39     135      68     128      71      78 
+   SH Mean      18      21      18      19      17      19      18 
+ SH Median      21      21      17      21      17      21      21 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      19      13      22      19      14      21      19 
    GK Qual      26      26      26      26      26      26      26 
   GK Bonus      23      18      29      23      20      26      24 
        Agg      26      26      26      26      26      26      26 
-   Scoring     105      66     132     105      84     125     106 
+   Scoring     105      66     131     105      83     124     106 
  Defending     131     163     106     135     150     123     125 
-   Overall     276     231     288     278     253     296     274 
+   Overall     275     230     285     277     252     295     273 
 
 ** 1st XI (2/5) **
 EUROPEAN
@@ -90,17 +90,17 @@ FW R_Toodeetoo
   STOPPING      39      39      39      39      39      39      39 
   TACKLING     121     158      82     127     149     106     117 
    PASSING     142     102     150     144      70     160     161 
-  SHOOTING      67      32     116      52     109      52      60 
-   SH Mean      18      21      17      19      17      19      19 
- SH Median      21      25      17      21      17      21      21 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      21      16      25      20      14      23      22 
+  SHOOTING      66      31     114      51     108      51      59 
+   SH Mean      18      20      17      18      17      19      18 
+ SH Median      17      24      17      21      17      21      21 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      19      15      24      20      14      23      22 
    GK Qual      26      26      26      26      26      26      26 
   GK Bonus      26      19      35      25      20      28      27 
        Agg      22      22      22      22      22      22      22 
-   Scoring     117      79     138     113      83     124     127 
+   Scoring     116      79     138     113      83     124     127 
  Defending     121     158      82     127     149     106     117 
-   Overall     284     252     261     285     252     281     293 
+   Overall     282     251     260     284     251     280     292 
 
 ** 1st XI (3/5) **
 ATTACKING
@@ -112,24 +112,24 @@ DF Q_Campbell
 DF H_Zschiesche
 DM N_Hes
 DM G_Vialli
-MF H_Hoobler
 FW R_Toodeetoo
-FW Neo
+FW G_Lineker
+FW Brillianto
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     143     176     117     147     165     135     141 
-   PASSING     104      71     115     109      53     133     107 
-  SHOOTING      87      41     143      73     133      75      81 
-   SH Mean      19      22      19      20      18      20      20 
- SH Median      23      23      23      23      17      23      23 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      18      12      23      18      13      21      19 
+  TACKLING     146     178     117     151     165     137     142 
+   PASSING      89      59     106      96      47     126      86 
+  SHOOTING     100      52     163      88     149      90      95 
+   SH Mean      19      21      18      20      18      20      19 
+ SH Median      20      21      20      21      20      21      20 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      16      11      21      16      14      20      16 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      22      18      27      22      19      24      22 
-       Agg      23      23      23      23      23      23      23 
-   Scoring      98      61     125      97      80     114      98 
- Defending     143     176     117     147     165     135     141 
-   Overall     274     229     291     274     255     291     273 
+  GK Bonus      21      17      27      21      19      24      21 
+       Agg      27      27      27      27      27      27      27 
+   Scoring      93      56     125      93      81     114      89 
+ Defending     146     178     117     151     165     137     142 
+   Overall     267     221     290     270     257     292     258 
 
 ** 1st XI (4/5) **
 COUNTER_ATTACK
@@ -148,17 +148,17 @@ FW R_Toodeetoo
   STOPPING      39      39      39      39      39      39      39 
   TACKLING     116     155      78     125     141     102     109 
    PASSING     143     103     149     145      71     161     163 
-  SHOOTING      74      39     125      60     119      58      69 
-   SH Mean      18      20      18      19      17      19      19 
+  SHOOTING      73      38     124      59     118      57      68 
+   SH Mean      18      20      17      19      17      19      18 
  SH Median      21      21      17      21      17      21      21 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      22      15      26      21      15      24      24 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      21      15      25      21      15      23      23 
    GK Qual      26      26      26      26      26      26      26 
   GK Bonus      26      20      37      25      21      29      29 
        Agg      22      22      22      22      22      22      22 
-   Scoring     120      82     141     117      87     127     132 
+   Scoring     119      82     141     116      87     126     131 
  Defending     116     155      78     125     141     102     109 
-   Overall     284     254     257     287     254     279     291 
+   Overall     283     253     256     286     253     278     290 
 
 ** 1st XI (5/5) **
 NORMAL
@@ -166,32 +166,32 @@ GK L_Riviello
 DF B_Colosimo
 DF N_Prosise
 DF R_Bourque
-DF H_Zschiesche
-DM G_Vialli
+DF Q_Campbell
+DM H_Zschiesche
 MF N_Hes
 MF H_Hoobler
+MF G_Vialli
 MF K_Stewart
-AM G_Lineker
-FW R_Toodeetoo
+FW G_Lineker
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     122     161      93     130     146     112     115 
-   PASSING     136      97     143     140      69     158     152 
-  SHOOTING      75      38     127      60     123      59      72 
-   SH Mean      18      21      18      19      17      19      18 
- SH Median      21      21      17      21      17      21      21 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      21      14      24      20      15      23      22 
+  TACKLING     134     176      95     140     161     120     123 
+   PASSING     136      97     143     140      69     156     155 
+  SHOOTING      64      27     108      47     107      49      60 
+   SH Mean      15      17      15      16      15      16      16 
+ SH Median      16      21      16      17      14      17      16 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      16      12      20      16      11      18      18 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      25      19      32      24      21      27      27 
-       Agg      22      22      22      22      22      22      22 
-   Scoring     116      77     138     113      87     125     125 
- Defending     122     161      93     130     146     112     115 
-   Overall     284     250     276     286     256     287     289 
+  GK Bonus      24      18      31      23      20      26      26 
+       Agg      26      26      26      26      26      26      26 
+   Scoring     112      74     131     109      82     120     123 
+ Defending     134     176      95     140     161     120     123 
+   Overall     283     250     271     284     254     284     290 
 
 ** Reserves XI **
 PASSING
-GK L_Ronaldo
+GK R_Jorge
 DF E_Rodriguez
 DF Q_Galvan
 DF N_Aguirre
@@ -205,18 +205,18 @@ FW W_Eduardo
                  N       D       A       C       L       P       E 
   STOPPING      23      23      23      23      23      23      23 
   TACKLING      86     106      70      89      97      81      82 
-   PASSING      62      40      73      67      33      89      60 
+   PASSING      62      41      73      68      34      90      60 
   SHOOTING      66      34     107      56     100      58      64 
    SH Mean      12      13      12      13      12      13      12 
  SH Median      12      15      12      15      11      15      12 
     SH Max      15      15      15      15      15      15      15 
   SH Bonus      11       8      14      12       9      14      11 
    GK Qual      15      15      15      15      15      15      15 
-  GK Bonus      13      10      16      13      12      15      13 
-       Agg      22      22      22      22      22      22      22 
-   Scoring      63      38      84      64      56      79      61 
+  GK Bonus      13      10      17      13      12      15      13 
+       Agg      19      19      19      19      19      19      19 
+   Scoring      64      38      84      64      56      79      61 
  Defending      86     106      70      89      97      81      82 
-   Overall     171     140     184     173     164     189     164 
+   Overall     171     140     184     174     165     189     165 
 
 ** At Potential XI **
 PASSING
@@ -229,33 +229,33 @@ DF H_Renton
 DM N_Nelson
 DM S_Cohen
 FW L_Kingsley
-FW Brillianto
+FW Neo
 FW D_F_Dingle
 
 ** First XI **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 G_Vialli        22 DF 17/23/11  38   2  38  31  30  30  33 |  44   7/  7 ||  52 ||  35 MF  34 MF  36     36 AM  34     38     37 MF       
-L_Riviello      27 GK    26     39  39   2   2   2   2   2 |  43   8/  9 ||  50 ||  39     39     39     39     39     39     39          
+L_Riviello      27 GK    26     39  39   2   2   2   2   2 |  43   8/  9 ||  50 ||  39     39     39     39     39     39     39    I     
 B_Colosimo      30 DF 25/15/17  41   2  41  29  26  27  35 |  42   8/  8 ||  50 ||  39     36 MF  44     38 AM  46     41     36          
 H_Zschiesche    21 DF 21/16/11  36   2  36  27  24  24  28 |  43   4/  4 ||  47 ||  33     32 MF  36     33 AM  37     36     32 DM       
 N_Hes           29 DF 15/25/14  38   2  38  33  32  33  37 |  39   9/  9 ||  47 ||  37 MF  34 MF  37 AM  39 AM  34     38     41 MF       
 Q_Campbell      23 DF 22/10/16  34   2  34  23  20  21  29 |  44   1/  1 ||  45 ||  33     29 MF  38     32 FW  40     34     31          
 G_Lineker       26 FW 13/17/21  37   2  32  26  26  28  37 |  40   4/  4 ||  44 ||  34     30 AM  43     36     36 DF  37     34 AM       
+Brillianto      21 FW  7/16/20  34   2  25  22  23  26  34 |  41   0/  0 ||  41 ||  30     25 AM  40     32     32     34     31 AM       
 N_Prosise       25 DF 24/ 8/12  34   2  34  22  17  18  24 |  40   0/  0 ||  40 ||  33     31     36     31     39     34     31          
 R_Bourque       30 DF 23/12/ 9  35   2  35  24  20  20  24 |  33   1/  1 ||  34 ||  32     31     35     31     36     35     30          
-Neo             30 FW  6/11/23  33   2  21  18  18  23  33 |  32   0/  0 ||  32 ||  30     23     42     32     34     33     29          
-R_Toodeetoo     32 FW  3/16/25  38   2  23  21  23  28  38 |  28   3/  3 ||  31 ||  33     25 AM  48     35     37     38     34 AM       
-H_Hoobler       31 FW  6/24/ 8  28   2  26  26  28  27  28 |  26   1/  1 ||  27 ||  30 MF  25 MF  30 MF  29 MF  23 MF  28     35 MF       
+R_Toodeetoo     32 FW  3/16/24  37   2  22  21  23  27  37 |  28   2/  3 ||  30 ||  32     24 AM  46     34     36     37     33 AM       
+H_Hoobler       31 FW  6/24/ 8  28   2  26  26  28  27  28 |  26   1/  1 ||  27 ||  30 MF  25 MF  30 MF  29 MF  23 MF  28 MF  35 MF       
 K_Stewart       31 DF  9/23/ 6  28   2  28  26  27  26  26 |  25   1/  1 ||  26 ||  29 MF  26 MF  28 MF  29 MF  23 MF  28     33 MF       
 
 ** First Squad (20) **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-Brillianto      21 FW  7/16/20  34   2  25  22  23  26  34 |  41   0/  0 ||  41 ||  30     25 AM  40     32     32     34     31 AM       
 L_Kingsley      22 FW  6/20/15  32   2  26  24  25  27  32 |  40   0/  0 ||  40 ||  29 AM  24 AM  36     30 AM  26 AM  32     33 MF       
 P_Luyindula     22 FW 13/ 8/21  30   2  25  18  17  20  30 |  40   0/  0 ||  40 ||  30     24     37     32     33 DF  30     27          
 N_Nelson        21 DF 12/20/ 6  29   2  29  25  25  23  24 |  37   0/  1 ||  37 ||  28 MF  26 MF  26     28 AM  23     29     30 MF       
-A_Thompson      22 DF 21/10/ 5  30   2  30  21  17  16  18 |  37  -3/ -3 ||  34 ||  27     28     29     27     30     30     26          
+A_Thompson      22 DF 21/11/ 5  31   2  31  21  18  17  19 |  37  -2/ -2 ||  35 ||  28     28     29     28     30     31     26 DM       
 I_Katchalot     28 GK    21     32  32   2   2   2   2   2 |  33   0/  0 ||  33 ||  32     32     32     32     32     32     32          
+Neo             30 FW  6/11/23  33   2  21  18  18  23  33 |  32   0/  0 ||  32 ||  30     23     42     32     34     33     29          
 U_Poulsen       25 DF 20/11/ 5  30   2  30  21  17  16  18 |  33  -3/ -3 ||  31 ||  27     27     28     27     29     30     26 DM       
 
 ** Reserves XI **
@@ -265,13 +265,13 @@ N_Aguirre       19 DF 15/12/ 9  27   2  27  20  18  18  22 |  37  -4/ -2 ||  37 
 Q_Galvan        20 DF 15/ 9/11  25   2  25  18  16  17  22 |  36  -6/ -5 ||  36 ||  24     22 MF  27     23 AM  28     25     22      R r 
 W_Wender        17 FW  4/13/11  22   2  17  16  17  18  22 |  35 -10/ -3 ||  35 ||  20 AM  17 AM  25     20 AM  19     22     22 MF   R r 
 S_Cohen         17 DF  8/14/ 6  20   2  20  18  18  17  19 |  34  -8/ -2 ||  34 ||  20 MF  18 MF  19     20 AM  17 MF  20     22 MF   R r 
+R_Jorge         18 GK    15     23  23   2   2   2   2   2 |  34  -9/ -4 ||  34 ||  23     23     23     23     23     23     23      R r 
 M_Sorrentino    19 DF 15/ 5/12  22   2  22  14  12  14  20 |  34  -9/ -8 ||  34 ||  22     19     26     22 FW  28     22     21      R r 
-G_Edu           19 FW  5/ 9/15  23   2  16  14  14  17  23 |  33  -9/ -7 ||  33 ||  21     17 AM  28     22     23     23     20 AM   R r 
 T_Orosz         19 FW  4/ 8/15  22   2  15  12  13  16  22 |  33 -10/ -7 ||  33 ||  20     15 AM  28     21     23     22     19 AM   R r 
 E_Rodriguez     20 DF 15/12/ 6  26   2  26  20  17  17  19 |  33  -5/ -4 ||  33 ||  23     23 MF  25     23 DM  25     26     23 DM   R r 
-L_Ronaldo       20 GK    15     23  23   2   2   2   2   2 |  33  -9/ -6 ||  33 ||  23     23     23     23     23     23     23      R r 
 M_Sacco         20 DF 15/ 4/11  21   2  21  13  11  12  18 |  33 -10/ -9 ||  33 ||  21     19     25     21 FW  27     21     21      R r 
-W_Eduardo       19 FW  6/ 9/15  23   2  17  14  14  17  23 |  32  -9/ -7 ||  32 ||  21     17 AM  28     23     23     23     20 AM   R r 
+G_Edu           19 FW  5/ 9/15  23   2  16  14  14  17  23 |  32  -9/ -8 ||  32 ||  21     17 AM  28     22     23     23     20 AM   R r 
+W_Eduardo       19 FW  6/10/15  24   2  18  15  15  18  24 |  32  -8/ -7 ||  32 ||  22     18 AM  29     23     24     24     21 AM   R r 
 Y_Armando       19 FW  6/14/ 9  21   2  19  17  18  18  21 |  32  -8/ -6 ||  32 ||  20 MF  18 MF  23     21 AM  18 MF  21     23 MF   R r 
 L_Kerr          20 DF 15/ 5/ 9  21   2  21  14  11  12  17 |  32 -10/ -9 ||  32 ||  21     19     24     20     25     21     20      R r 
 B_Cattaneo      19 DF  6/14/ 3  17   2  17  16  16  15  15 |  27 -10/ -8 ||  27 ||  18 MF  16 MF  16 MF  18 MF  14 MF  17     20 MF   R r 
@@ -279,41 +279,41 @@ B_Cattaneo      19 DF  6/14/ 3  17   2  17  16  16  15  15 |  27 -10/ -8 ||  27 
 ** Reserves Squad (21) **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 D_F_Dingle      16 FW  8/ 9/13  22   2  19  15  14  16  22 |  38 -10/ -1 ||  38 ||  20     18 AM  25     22     22 DF  22     19 AM   R r 
+L_Ronaldo       20 GK    18     27  27   2   2   2   2   2 |  37  -4/ -1 ||  37 ||  27     27     27     27     27     27     27      R r 
 P_Holowaty      17 DF 14/ 2/ 8  18   2  18  10   8   9  13 |  35 -14/ -7 ||  35 ||  18     17     20     17     23     18     18      R r 
 H_Penu          20 GK    16     24  24   2   2   2   2   2 |  34  -7/ -4 ||  34 ||  24     24     24     24     24     24     24      R r 
 Y_Anderson      17 DF 13/ 8/ 3  20   2  20  14  12  11  12 |  33 -11/ -5 ||  33 ||  18     18     19     18     19     20     18 DM   R r 
 P_Ale           18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21      R r 
-R_Jorge         18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21      R r 
 
 ** Training Squad **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 P_Luyindula     22 FW 13/ 8/21  30   2  25  18  17  20  30 |  40   0/  0 ||  40 ||  30     24     37     32     33 DF  30     27          
+L_Ronaldo       20 GK    18     27  27   2   2   2   2   2 |  37  -4/ -1 ||  37 ||  27     27     27     27     27     27     27      R r 
 P_Holowaty      17 DF 14/ 2/ 8  18   2  18  10   8   9  13 |  35 -14/ -7 ||  35 ||  18     17     20     17     23     18     18      R r 
 H_Penu          20 GK    16     24  24   2   2   2   2   2 |  34  -7/ -4 ||  34 ||  24     24     24     24     24     24     24      R r 
 Y_Anderson      17 DF 13/ 8/ 3  20   2  20  14  12  11  12 |  33 -11/ -5 ||  33 ||  18     18     19     18     19     20     18 DM   R r 
 P_Ale           18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21      R r 
-R_Jorge         18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21      R r 
 
 ** Potentials **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-Brillianto      21 FW  7/16/20  34   2  25  22  23  26  34 |  41   0/  0 ||  41 ||  30     25 AM  40     32     32     34     31 AM       
 L_Kingsley      22 FW  6/20/15  32   2  26  24  25  27  32 |  40   0/  0 ||  40 ||  29 AM  24 AM  36     30 AM  26 AM  32     33 MF       
 D_F_Dingle      16 FW  8/ 9/13  22   2  19  15  14  16  22 |  38 -10/ -1 ||  38 ||  20     18 AM  25     22     22 DF  22     19 AM   R r 
 N_Nelson        21 DF 12/20/ 6  29   2  29  25  25  23  24 |  37   0/  1 ||  37 ||  28 MF  26 MF  26     28 AM  23     29     30 MF       
-A_Thompson      22 DF 21/10/ 5  30   2  30  21  17  16  18 |  37  -3/ -3 ||  34 ||  27     28     29     27     30     30     26          
+A_Thompson      22 DF 21/11/ 5  31   2  31  21  18  17  19 |  37  -2/ -2 ||  35 ||  28     28     29     28     30     31     26 DM       
 I_Katchalot     28 GK    21     32  32   2   2   2   2   2 |  33   0/  0 ||  33 ||  32     32     32     32     32     32     32          
+Neo             30 FW  6/11/23  33   2  21  18  18  23  33 |  32   0/  0 ||  32 ||  30     23     42     32     34     33     29          
 U_Poulsen       25 DF 20/11/ 5  30   2  30  21  17  16  18 |  33  -3/ -3 ||  31 ||  27     27     28     27     29     30     26 DM       
 
 ** Remaining **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-V_Watson        19 DF 15/ 3/ 8  20   2  20  12   9  10  14 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19      R r 
+V_Watson        19 DF 15/ 3/ 8  20   2  20  12   9  10  14 |  32 -12/-10 ||  32 ||  20     19     22     19     24     20     19      R r 
 X_Walters       19 DF 15/ 4/ 7  20   2  20  13  10  10  14 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19      R r 
 I_Simoes        20 DF 16/ 6/ 3  21   2  21  14  11  10  12 |  30 -10/ -9 ||  30 ||  20     21     20     20     22     21     19      R r 
 
                                 GK    DF    DM    MF    AM    FW 
                        Count     6    18     1     8     2     9 
                          Max    39    39    36    37    36    34 
-                  1st XI (N)    39    32    36    29          33 
+                  1st XI (N)    39    32    36    29          32 
                   1st XI (P)    39    34    33    27          37 
              Replacement (N)    32    33    27    29    29    30 
              Replacement (P)    32    34    25    25    27    34 
@@ -325,160 +325,160 @@ I_Simoes        20 DF 16/ 6/ 3  21   2  21  14  11  10  12 |  30 -10/ -9 ||  30 
                    ATTACKING    21    19          16    37    23 
               COUNTER_ATTACK    21    17          18    20    21 
                    LONG_BALL    21    19          14    26    19 
-                     PASSING    21    17          28          21 
+                     PASSING    21    17                      21 
                     EUROPEAN    21    18    18    20    19    27 
 
 ** Selection **
-COUNTER_ATTACK                 OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-L_Riviello      27 GK    26     39  39   2   2   2   2   2 |  43   8/  9 ||  50 ||  39     39     39     39     39     39     39          
-N_Hes           29 AM 15/25/14  39   2  31  36  36  39  34 |  39   9/  9 ||  47 ||  37 MF  34 MF  37     39     34 DF  38 DF  41 MF       
-B_Colosimo      30 AM 25/15/17  38   2  37  36  32  38  37 |  42   8/  8 ||  50 ||  39 DF  36 MF  44 DF  38     46 DF  41 DF  36 DF       
-G_Vialli        22 AM 17/23/11  36   2  31  35  34  36  31 |  44   7/  7 ||  52 ||  35 MF  34 MF  36 DF  36     34 DF  38 DF  37 MF       
-G_Lineker       26 FW 13/17/21  36   2  27  29  29  35  36 |  40   4/  4 ||  44 ||  34     30 AM  43     36     36 DF  37     34 AM       
-R_Toodeetoo     32 FW  3/16/25  35   2  17  22  24  30  35 |  28   3/  3 ||  31 ||  33     25 AM  48     35     37     38     34 AM       
-H_Zschiesche    21 AM 21/16/11  33   2  32  32  29  33  30 |  43   4/  4 ||  47 ||  33 DF  32 MF  36 DF  33     37 DF  36 DF  32 DM       
-Q_Campbell      23 FW 22/10/16  32   2  31  29  25  31  32 |  44   1/  1 ||  45 ||  33 DF  29 MF  38 DF  32     40 DF  34 DF  31 DF       
-Brillianto      21 FW  7/16/20  32   2  20  24  25  30  32 |  41   0/  0 ||  41 ||  30     25 AM  40     32     32     34     31 AM       
-P_Luyindula     22 FW 13/ 8/21  32   2  22  22  20  27  32 |  40   0/  0 ||  40 ||  30     24     37     32     33 DF  30     27          
+EUROPEAN                       OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
+N_Hes           29 MF 15/25/14  41   2  28  38  41  37  27 |  39   9/  9 ||  47 ||  37     34     37 AM  39 AM  34 DF  38 DF  41          
+G_Vialli        22 MF 17/23/11  37   2  28  37  37  33  24 |  44   7/  7 ||  52 ||  35     34     36 DF  36 AM  34 DF  38 DF  37          
+B_Colosimo      30 DF 25/15/17  36   2  36  35  32  31  28 |  42   8/  8 ||  50 ||  39     36 MF  44     38 AM  46     41     36          
+H_Hoobler       31 MF  6/24/ 8  35   2  16  29  35  31  19 |  26   1/  1 ||  27 ||  30     25     30     29     23     28     35          
+G_Lineker       26 AM 13/17/21  34   2  27  29  33  34  30 |  40   4/  4 ||  44 ||  34 FW  30     43 FW  36 FW  36 DF  37 FW  34          
+K_Stewart       31 MF  9/23/ 6  33   2  18  30  33  29  17 |  25   1/  1 ||  26 ||  29     26     28     29     23     28 DF  33          
+R_Toodeetoo     32 AM  3/16/24  33   2  17  22  30  33  31 |  28   2/  3 ||  30 ||  32 FW  24     46 FW  34 FW  36 FW  37 FW  33          
+L_Kingsley      22 MF  6/20/15  33   2  18  26  33  31  24 |  40   0/  0 ||  40 ||  29 AM  24 AM  36 FW  30 AM  26 AM  32 FW  33          
+H_Zschiesche    21 DM 21/16/11  32   2  30  32  30  27  22 |  43   4/  4 ||  47 ||  33 DF  32 MF  36 DF  33 AM  37 DF  36 DF  32          
 I_Katchalot     28 GK    21     32  32   2   2   2   2   2 |  33   0/  0 ||  33 ||  32     32     32     32     32     32     32          
-Neo             30 FW  6/11/23  32   2  17  20  20  27  32 |  32   0/  0 ||  32 ||  30     23     42     32     34     33     29          
-R_Bourque       30 DF 23/12/ 9  31   2  31  30  26  29  27 |  33   1/  1 ||  34 ||  32     31     35     31     36     35     30          
-N_Prosise       25 DF 24/ 8/12  31   2  31  28  23  28  28 |  40   0/  0 ||  40 ||  33     31     36     31     39     34     31          
-L_Kingsley      22 AM  6/20/15  30   2  20  25  27  30  28 |  40   0/  0 ||  40 ||  29     24     36 FW  30     26     32 FW  33 MF       
-H_Hoobler       31 MF  6/24/ 8  29   2  20  27  29  29  23 |  26   1/  1 ||  27 ||  30     25     30     29     23     28 FW  35          
-K_Stewart       31 MF  9/23/ 6  29   2  22  28  29  29  22 |  25   1/  1 ||  26 ||  29     26     28     29     23     28 DF  33          
-N_Nelson        21 AM 12/20/ 6  28   2  24  28  28  28  22 |  37   0/  1 ||  37 ||  28 MF  26 MF  26 DF  28     23 DF  29 DF  30 MF       
-A_Thompson      22 DF 21/10/ 5  27   2  27  26  22  24  21 |  37  -3/ -3 ||  34 ||  27     28     29     27     30     30     26          
-U_Poulsen       25 DF 20/11/ 5  27   2  27  26  22  24  21 |  33  -3/ -3 ||  31 ||  27     27     28     27     29     30     26 DM       
+Q_Campbell      23 DF 22/10/16  31   2  31  28  24  25  24 |  44   1/  1 ||  45 ||  33     29 MF  38     32 FW  40     34     31          
+N_Prosise       25 DF 24/ 8/12  31   2  31  27  21  20  20 |  40   0/  0 ||  40 ||  33     31     36     31     39     34     31          
+Brillianto      21 AM  7/16/20  31   2  20  24  30  31  28 |  41   0/  0 ||  41 ||  30 FW  25     40 FW  32 FW  32 FW  34 FW  31          
+N_Nelson        21 MF 12/20/ 6  30   2  20  29  30  26  16 |  37   0/  1 ||  37 ||  28     26     26 DF  28 AM  23 DF  29 DF  30          
+R_Bourque       30 DF 23/12/ 9  30   2  30  29  24  22  18 |  33   1/  1 ||  34 ||  32     31     35     31     36     35     30          
+Neo             30 FW  6/11/23  29   2  19  19  24  28  29 |  32   0/  0 ||  32 ||  30     23     42     32     34     33     29          
+P_Luyindula     22 FW 13/ 8/21  27   2  24  20  22  25  27 |  40   0/  0 ||  40 ||  30     24     37     32     33 DF  30     27          
+A_Thompson      22 DM 21/11/ 5  26   2  26  26  21  18  14 |  37  -2/ -2 ||  35 ||  28 DF  28 DF  29 DF  28 DF  30 DF  31 DF  26          
+U_Poulsen       25 DM 20/11/ 5  26   2  25  26  21  18  13 |  33  -3/ -3 ||  31 ||  27 DF  27 DF  28 DF  27 DF  29 DF  30 DF  26          
 
-COUNTER_ATTACK
-GK L_Riviello
+EUROPEAN
+GK I_Katchalot
 DF B_Colosimo
 DF N_Prosise
 DF R_Bourque
 DM H_Zschiesche
+DM N_Hes
 DM G_Vialli
-MF N_Hes
 MF H_Hoobler
 MF K_Stewart
-AM G_Lineker
+MF G_Lineker
 FW R_Toodeetoo
                  N       D       A       C       L       P       E 
-  STOPPING      39      39      39      39      39      39      39 
-  TACKLING     116     155      78     125     141     102     109 
-   PASSING     143     103     149     145      71     161     163 
-  SHOOTING      74      39     125      60     119      58      69 
-   SH Mean      18      20      18      19      17      19      19 
- SH Median      21      21      17      21      17      21      21 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      22      15      26      21      15      24      24 
-   GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      26      20      37      25      21      29      29 
-       Agg      22      22      22      22      22      22      22 
-   Scoring     120      82     141     117      87     127     132 
- Defending     116     155      78     125     141     102     109 
-   Overall     284     254     257     287     254     279     291 
+  STOPPING      32      32      32      32      32      32      32 
+  TACKLING     121     158      82     127     149     106     117 
+   PASSING     142     102     150     144      70     160     161 
+  SHOOTING      66      31     114      51     108      51      59 
+   SH Mean      18      20      17      18      17      19      18 
+ SH Median      17      24      17      21      17      21      21 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      19      15      24      20      14      23      22 
+   GK Qual      21      21      21      21      21      21      21 
+  GK Bonus      21      16      28      20      16      23      22 
+       Agg      21      21      21      21      21      21      21 
+   Scoring     116      79     138     113      83     124     127 
+ Defending     121     158      82     127     149     106     117 
+   Overall     277     247     254     279     247     274     287 
 
-GK I_Katchalot
-AM N_Nelson
-FW Q_Campbell
+DF Q_Campbell
+MF N_Nelson
+MF L_Kingsley
+AM Brillianto
 FW Neo
-FW Brillianto
 
-SUB GK I_Katchalot GK IF INJURED GK
+SUB GK Q_Campbell GK IF INJURED GK
 SUB DF Q_Campbell DF IF INJURED DF
-SUB DM N_Nelson DM IF INJURED DM
-SUB MF N_Nelson MF IF INJURED MF
-SUB AM N_Nelson AM IF INJURED AM
+SUB DM L_Kingsley DM IF INJURED DM
+SUB MF L_Kingsley MF IF INJURED MF
+SUB AM L_Kingsley AM IF INJURED AM
 SUB FW Neo FW IF INJURED FW
 
-CHANGEPOS G_Vialli MF IF MIN = 65
-SUB K_Stewart Neo FW IF MIN = 66
-SUB H_Zschiesche Q_Campbell DF IF MIN = 70
-CHANGEPOS B_Colosimo DM IF MIN = 75
-CHANGEPOS R_Toodeetoo AM IF MIN = 78
-SUB R_Toodeetoo N_Nelson MF IF MIN = 81
-CHANGEPOS G_Vialli DM IF MIN = 84
+SUB H_Hoobler Q_Campbell DF IF MIN = 40
+CHANGEPOS N_Hes MF IF MIN = 45
+CHANGEPOS B_Colosimo DM IF MIN = 50
+SUB R_Toodeetoo Neo FW IF MIN = 60
+SUB G_Lineker L_Kingsley MF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 89 SCORE = 1
-TACTIC D IF MIN >= 51 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 78 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
 
 ** Reserves Selection **
-PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-N_Aguirre       19 DF 15/12/ 9  27   2  27  20  18  18  22 |  37  -4/ -2 ||  37 ||  24     23 MF  27     25 AM  27     27     24 DM     r 
-E_Rodriguez     20 DF 15/12/ 6  26   2  26  20  17  17  19 |  33  -5/ -4 ||  33 ||  23     23 MF  25     23 DM  25     26     23 DM     r 
-Q_Galvan        20 DF 15/ 9/11  25   2  25  18  16  17  22 |  36  -6/ -5 ||  36 ||  24     22 MF  27     23 AM  28     25     22        r 
-H_Renton        16 DF 12/14/ 8  25   2  25  20  19  19  22 |  40  -5/  3 ||  43 ||  23 DM  22 MF  24     24 AM  23     25     24 MF     r 
-W_Eduardo       19 FW  6/ 9/15  23   2  17  14  14  17  23 |  32  -9/ -7 ||  32 ||  21     17 AM  28     23     23     23     20 AM     r 
-G_Edu           19 FW  5/ 9/15  23   2  16  14  14  17  23 |  33  -9/ -7 ||  33 ||  21     17 AM  28     22     23     23     20 AM     r 
+EUROPEAN                       OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
+N_Aguirre       19 DM 15/12/ 9  24   2  22  24  22  21  17 |  37  -4/ -2 ||  37 ||  24 DF  23 MF  27 DF  25 AM  27 DF  27 DF  24        r 
+H_Renton        16 MF 12/14/ 8  24   2  19  24  24  21  16 |  40  -5/  3 ||  43 ||  23 DM  22     24 DF  24 AM  23 DF  25 DF  24        r 
+E_Rodriguez     20 DM 15/12/ 6  23   2  21  23  21  18  14 |  33  -5/ -4 ||  33 ||  23 DF  23 MF  25 DF  23     25 DF  26 DF  23        r 
+Y_Armando       19 MF  6/14/ 9  23   2  14  20  23  21  16 |  32  -8/ -6 ||  32 ||  20     18     23 FW  21 AM  18     21 FW  23        r 
+R_Jorge         18 GK    15     23  23   2   2   2   2   2 |  34  -9/ -4 ||  34 ||  23     23     23     23     23     23     23        r 
 H_Penu          20 GK    15     23  23   2   2   2   2   2 |  33  -9/ -6 ||  33 ||  23     23     23     23     23     23     23        r 
 L_Ronaldo       20 GK    15     23  23   2   2   2   2   2 |  33  -9/ -6 ||  33 ||  23     23     23     23     23     23     23        r 
-M_Sorrentino    19 DF 15/ 5/12  22   2  22  14  12  14  20 |  34  -9/ -8 ||  34 ||  22     19     26     22 FW  28     22     21        r 
-T_Orosz         19 FW  4/ 8/15  22   2  15  12  13  16  22 |  33 -10/ -7 ||  33 ||  20     15 AM  28     21     23     22     19 AM     r 
-D_F_Dingle      16 FW  8/ 9/13  22   2  19  15  14  16  22 |  38 -10/ -1 ||  38 ||  20     18 AM  25     22     22 DF  22     19 AM     r 
-W_Wender        17 FW  4/13/11  22   2  17  16  17  18  22 |  35 -10/ -3 ||  35 ||  20 AM  17 AM  25     20 AM  19     22     22 MF     r 
-L_Kerr          20 DF 15/ 5/ 9  21   2  21  14  11  12  17 |  32 -10/ -9 ||  32 ||  21     19     24     20     25     21     20        r 
-M_Sacco         20 DF 15/ 4/11  21   2  21  13  11  12  18 |  33 -10/ -9 ||  33 ||  21     19     25     21 FW  27     21     21        r 
+Q_Galvan        20 DF 15/ 9/11  22   2  22  21  19  19  18 |  36  -6/ -5 ||  36 ||  24     22 MF  27     23 AM  28     25     22        r 
+S_Cohen         17 MF  8/14/ 6  22   2  15  21  22  19  13 |  34  -8/ -2 ||  34 ||  20     18     19 DF  20 AM  17     20 DF  22        r 
+W_Wender        17 MF  4/13/11  22   2  12  17  22  21  17 |  35 -10/ -3 ||  35 ||  20 AM  17 AM  25 FW  20 AM  19 FW  22 FW  22        r 
+W_Eduardo       19 AM  6/10/15  21   2  15  16  20  21  20 |  32  -8/ -7 ||  32 ||  22 FW  18     29 FW  23 FW  24 FW  24 FW  21        r 
+M_Sorrentino    19 DF 15/ 5/12  21   2  21  17  15  16  17 |  34  -9/ -8 ||  34 ||  22     19     26     22 FW  28     22     21        r 
 P_Ale           18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21        r 
-R_Jorge         18 GK    14     21  21   2   2   2   2   2 |  33 -10/ -6 ||  33 ||  21     21     21     21     21     21     21        r 
-Y_Armando       19 FW  6/14/ 9  21   2  19  17  18  18  21 |  32  -8/ -6 ||  32 ||  20 MF  18 MF  23     21 AM  18 MF  21     23 MF     r 
-I_Simoes        20 DF 15/ 6/ 3  20   2  20  14  11  10  11 |  29 -11/-10 ||  29 ||  19     20     20     19     21     20     18        r 
-S_Cohen         17 DF  8/14/ 6  20   2  20  18  18  17  19 |  34  -8/ -2 ||  34 ||  20 MF  18 MF  19     20 AM  17 MF  20     22 MF     r 
-X_Walters       19 DF 15/ 4/ 7  20   2  20  13  10  10  14 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19        r 
-Y_Anderson      17 DF 13/ 8/ 3  20   2  20  14  12  11  12 |  33 -11/ -5 ||  33 ||  18     18     19     18     19     20     18 DM     r 
-V_Watson        19 DF 15/ 3/ 8  20   2  20  12   9  10  14 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19        r 
-P_Holowaty      17 DF 14/ 2/ 8  18   2  18  10   8   9  13 |  35 -14/ -7 ||  35 ||  18     17     20     17     23     18     18        r 
-B_Cattaneo      19 DF  6/14/ 3  17   2  17  16  16  15  15 |  27 -10/ -8 ||  27 ||  18 MF  16 MF  16 MF  18 MF  14 MF  17     20 MF     r 
+M_Sacco         20 DF 15/ 4/11  21   2  21  16  13  14  16 |  33 -10/ -9 ||  33 ||  21     19     25     21 FW  27     21     21        r 
+G_Edu           19 AM  5/ 9/15  20   2  14  15  19  20  20 |  32  -9/ -8 ||  32 ||  21 FW  17     28 FW  22 FW  23 FW  23 FW  20        r 
+B_Cattaneo      19 MF  6/14/ 3  20   2  11  19  20  17  10 |  27 -10/ -8 ||  27 ||  18     16     16     18     14     17 DF  20        r 
+L_Kerr          20 DF 15/ 5/ 9  20   2  20  17  14  14  14 |  32 -10/ -9 ||  32 ||  21     19     24     20     25     21     20        r 
+D_F_Dingle      16 AM  8/ 9/13  19   2  16  17  18  19  18 |  38 -10/ -1 ||  38 ||  20 FW  18     25 FW  22 FW  22 DF  22 FW  19        r 
+T_Orosz         19 AM  4/ 8/15  19   2  12  13  17  19  19 |  33 -10/ -7 ||  33 ||  20 FW  15     28 FW  21 FW  23 FW  22 FW  19        r 
+V_Watson        19 DF 15/ 3/ 8  19   2  19  15  11  11  12 |  32 -12/-10 ||  32 ||  20     19     22     19     24     20     19        r 
+X_Walters       19 DF 15/ 4/ 7  19   2  19  16  12  11  12 |  31 -12/-10 ||  31 ||  20     19     22     19     24     20     19        r 
+I_Simoes        20 DF 15/ 6/ 3  18   2  18  17  12  10   8 |  29 -11/-10 ||  29 ||  19     20     20     19     21     20     18        r 
+P_Holowaty      17 DF 14/ 2/ 8  18   2  18  13   9  10  12 |  35 -14/ -7 ||  35 ||  18     17     20     17     23     18     18        r 
+Y_Anderson      17 DM 13/ 8/ 3  18   2  17  18  14  12   9 |  33 -11/ -5 ||  33 ||  18 DF  18 DF  19 DF  18 DF  19 DF  20 DF  18        r 
 
-PASSING
-GK L_Ronaldo
-DF E_Rodriguez
+EUROPEAN
+GK R_Jorge
 DF Q_Galvan
-DF N_Aguirre
+DF M_Sacco
 DF M_Sorrentino
-DF H_Renton
-DM S_Cohen
+DM E_Rodriguez
+DM N_Aguirre
+DM H_Renton
+MF S_Cohen
+MF B_Cattaneo
 MF Y_Armando
-FW W_Wender
-FW G_Edu
 FW W_Eduardo
                  N       D       A       C       L       P       E 
   STOPPING      23      23      23      23      23      23      23 
-  TACKLING      86     106      70      89      97      81      82 
-   PASSING      62      40      73      67      33      89      60 
-  SHOOTING      66      34     107      56     100      58      64 
-   SH Mean      12      13      12      13      12      13      12 
- SH Median      12      15      12      15      11      15      12 
+  TACKLING      84     111      53      90     104      73      81 
+   PASSING      87      63      92      88      43      97     100 
+  SHOOTING      44      19      76      34      73      34      39 
+   SH Mean      11      12      11      12      11      12      12 
+ SH Median      11      15      11      12      11      12      12 
     SH Max      15      15      15      15      15      15      15 
-  SH Bonus      11       8      14      12       9      14      11 
+  SH Bonus      12       8      15      11       8      13      13 
    GK Qual      15      15      15      15      15      15      15 
-  GK Bonus      13      10      16      13      12      15      13 
-       Agg      22      22      22      22      22      22      22 
-   Scoring      63      38      84      64      56      79      61 
- Defending      86     106      70      89      97      81      82 
-   Overall     171     140     184     173     164     189     164 
+  GK Bonus      14      11      20      13      11      15      15 
+       Agg      24      24      24      24      24      24      24 
+   Scoring      73      48      87      70      53      76      80 
+ Defending      84     111      53      90     104      73      81 
+   Overall     182     161     165     182     164     177     188 
 
 GK H_Penu
 DF L_Kerr
-DF B_Cattaneo
-FW T_Orosz
-FW D_F_Dingle
+MF W_Wender
+AM G_Edu
+AM T_Orosz
 
 SUB GK H_Penu GK IF INJURED GK
 SUB DF L_Kerr DF IF INJURED DF
-SUB DM B_Cattaneo DM IF INJURED DM
-SUB MF B_Cattaneo MF IF INJURED MF
-SUB AM B_Cattaneo AM IF INJURED AM
-SUB FW T_Orosz FW IF INJURED FW
+SUB DM W_Wender DM IF INJURED DM
+SUB MF W_Wender MF IF INJURED MF
+SUB AM W_Wender AM IF INJURED AM
+SUB FW G_Edu FW IF INJURED FW
 
-SUB G_Edu T_Orosz FW IF MIN = 55
-SUB W_Eduardo D_F_Dingle FW IF MIN = 60
-SUB M_Sorrentino L_Kerr DF IF MIN = 75
-TACTIC A IF MIN >= 39 SCORE <= -2
-TACTIC A IF MIN >= 86 SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 74 SCORE >= 2
+SUB W_Eduardo G_Edu FW IF MIN = 50
+CHANGEPOS H_Renton MF IF MIN = 78
+SUB B_Cattaneo L_Kerr DF IF MIN = 81
+CHANGEPOS Q_Galvan DM IF MIN = 84
+SUB Q_Galvan T_Orosz AM IF MIN = 87
+CHANGEPOS H_Renton DM IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 57 SCORE = 1
+TACTIC D IF MIN >= 41 SCORE >= 2
 

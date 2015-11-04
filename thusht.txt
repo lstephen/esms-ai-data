@@ -1,35 +1,33 @@
 thu
-C
+E
 
-GK L_Riviello
+GK I_Katchalot
 DF B_Colosimo
 DF N_Prosise
 DF R_Bourque
 DM H_Zschiesche
+DM N_Hes
 DM G_Vialli
-MF N_Hes
 MF H_Hoobler
 MF K_Stewart
-AM G_Lineker
+MF G_Lineker
 FW R_Toodeetoo
 
-GK I_Katchalot
-AM N_Nelson
-FW Q_Campbell
+DF Q_Campbell
+MF N_Nelson
+MF L_Kingsley
+AM Brillianto
 FW Neo
-FW Brillianto
 
 PK: R_Toodeetoo
 
-CHANGEPOS 6 MF IF MIN = 65
-SUB 9 15 FW IF MIN = 66
-SUB 5 14 DF IF MIN = 70
-CHANGEPOS 2 DM IF MIN = 75
-CHANGEPOS 11 AM IF MIN = 78
-SUB 11 13 MF IF MIN = 81
-CHANGEPOS 6 DM IF MIN = 84
+SUB 8 12 DF IF MIN = 40
+CHANGEPOS 6 MF IF MIN = 45
+CHANGEPOS 2 DM IF MIN = 50
+SUB 11 16 FW IF MIN = 60
+SUB 10 14 MF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 89 SCORE = 1
-TACTIC D IF MIN >= 51 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 78 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
