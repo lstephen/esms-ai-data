@@ -1,31 +1,31 @@
 tthr
-P
+A
 
 GK C_Turner
+DF M_Richards
+DF A_Andreasen
 DF S_Irwin
 DF I_Muresanu
-DF A_Kiwi
-DF J_Fox
-DF Ridoutkha
-DF N_Barbulescu
-DM V_Nicu
-MF H_Vulcan
-MF D_Hasdeu
+DM J_Fox
+DM Juninho
+DM D_Hasdeu
+AM D_Iacobescu
+AM H_Vulcan
 FW J_Guidetti
 
 GK C_Poenaru
-DF M_Richards
-DF N_Saul
-DF Juninho
-FW P_Singh
+DM Ridoutkha
+DM F_Parasca
+AM P_Singh
+FW G_Hutopila
 
 PK: J_Guidetti
 
-SUB 3 13 DF IF MIN = 50
-SUB 10 15 MF IF MIN = 55
-SUB 9 14 DM IF MIN = 60
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 55 SCORE >= 2
+SUB 8 14 DF IF MIN = 45
+SUB 10 15 DM IF MIN = 50
+SUB 5 13 DF IF MIN = 55
+TACTIC P IF MIN >= 55 SCORE <= -2
+TACTIC P IF MIN >= 55 SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF MIN >= 31 SCORE = 1
+TACTIC D IF MIN >= 30 SCORE >= 2
