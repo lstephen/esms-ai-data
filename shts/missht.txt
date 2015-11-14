@@ -8,24 +8,24 @@ DF Khamirutzox
 DF K_Prescott
 DF M_Tensfeldt
 DM J_Latal
+DM D_Bledsoe
 MF M_Westbay
 MF C_Yastrzemski
-FW O_Aguilar
 FW H_Lewis
 
 GK T_Helms
 DF M_Boxall
 DF F_Leboeuf
 DF Tarildo
-DF D_Bledsoe
+FW C_Bannell
 
 PK: H_Lewis
 
-SUB 4 14 DF IF MIN = 60
-SUB 10 16 DM IF MIN = 75
-SUB 6 15 DF IF MIN = 78
+SUB 4 15 DF IF MIN = 60
+SUB 6 13 DF IF MIN = 70
+SUB 2 14 DF IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
