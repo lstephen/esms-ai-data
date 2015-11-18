@@ -3,7 +3,7 @@ E
 
 GK L_Riviello
 DF B_Colosimo
-DF N_Prosise
+DF R_Bourque
 DF A_Thompson
 DM H_Zschiesche
 DM N_Hes
@@ -16,18 +16,18 @@ FW R_Toodeetoo
 GK I_Katchalot
 DM U_Poulsen
 MF N_Nelson
-MF L_Kingsley
+AM Brillianto
 FW Neo
 
 PK: R_Toodeetoo
 
-SUB 11 16 FW IF MIN = 45
-CHANGEPOS 6 MF IF MIN = 50
-CHANGEPOS 10 DM IF MIN = 55
+SUB 4 13 DF IF MIN = 55
+CHANGEPOS 6 MF IF MIN = 60
+SUB 11 16 FW IF MIN = 65
+CHANGEPOS 10 DM IF MIN = 70
 SUB 10 14 DM IF MIN = 81
-SUB 8 15 MF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 45 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC C IF MIN >= 60 SCORE = 1
+TACTIC D IF MIN >= 44 SCORE >= 2
