@@ -1,31 +1,31 @@
 tth
-C
+P
 
 GK R_Ceni
 DF A_Wisdom
 DF S_Vagini
 DF S_Howey
-DM Doriva
-DM M_Oezil
-MF J_Jurado
+DF J_Jurado
+DF Doriva
+DF M_Oezil
+DM A_Parada
 MF A_Johnson
-MF A_Parada
 MF S_Defour
 FW Hugo_Sanchez
 
 GK J_Hunter
-DF B_Sagna
-AM S_Perrotta
+DF S_Irwin
+FW S_Perrotta
+FW J_Navas
 FW R_Sharp
-FW J_Piere
 
 PK: Hugo_Sanchez
 
-SUB 4 13 DF IF MIN = 75
-SUB 11 16 FW IF MIN = 78
-SUB 6 14 MF IF MIN = 87
-TACTIC E IF MIN >= 24 SCORE <= -2
-TACTIC E IF MIN >= 47 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 41 SCORE = 1
-TACTIC L IF MIN >= 38 SCORE >= 2
+SUB 10 15 MF IF MIN = 37
+SUB 9 16 FW IF MIN = 70
+SUB 7 14 DF IF MIN = 90
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 77 SCORE >= 2
