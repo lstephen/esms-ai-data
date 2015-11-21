@@ -1,43 +1,12 @@
-K_Toure       33 ivo  1 14  5  5 20 300 357 670 674
+P_Cech        33 cze 20  1  1  1 16 948 300 300 300
 
-L_Stindi      25 ger  1  6 15  7 21 300 300 300 300
+G_Mercado     28 arg  1 15  5  3 26 300 536 931 901  
+F_Gardos      27 rom  1 13  5  5 19 300 354 872 821  
 
-A_Smithies    24 eng 20  1  1  1 12 845 300 300 300
+G_Boyd        30 sco  1  2 14  6 24 300 967 403 920  
+F_Lampard     37 eng  1  4 13  8 20 300 269 504 191  
+J_Hogg        26 eng  1  8 12  4 16 300 191 937 907  
+E_Huws        22 wal  1  9 12  5 20 300 167 437 419 
 
-M_Hudson      32 eng  1 13  4  3 12 300 748 803 745   
-A_Gerrard     28 ire  1 13  7  5 13 300  55 982 946   
-J_Lynch       27 wal  1 12  3  4 26 300 703 881 992   
-L_Allinson    21 eng  1 12  1  1 16 300 560 712 705  
-P_Dixon       27 sco  1 12  4  2 14 300 178 825 944
-
-A_Hammill     26 eng  1  5 13  9 21 300  82 151 709   
-J_Butterfield 24 eng  1  7 13  3 19 300 986  54 953   
-R_Majewski    27 pol  1  4 12  8 25 300 844  12 658   
-
-G_Mercado     27 arg  1 15  5  3 26 300 199 837 871   8   0  734   1   0   0  14   5   5   0   1   4   0   0  97
-L_Vangioni    27 arg  1 15  6  3 18 300 172 924 989   8   0  623   0   0   0  10   3   2   0   0   2   1   0 100
-J_Henderson   24 eng  1  5 16  5 27 300 952 347 568  10   1  837   0   0   0   4  16   7   0   1   2   0   0 100
-
-M_Bunn 30 eng 15 1 1 1 18 258 300 300 300 # Buy now 1mill
-
-S_Whittaker 30 sco 1 12 6 3 26 300 725 747 782 # Buy now 3mill
-I_Miquel 22 spa 1 11 3 4 29 300 300 800 750 # Buy now 1.5mill
-J_Hooiveld 31 ned 1 11 4 5 22 300 68 634 584 # Buy now 1mill
-
-V_Odjidja 25 bel 1 7 12 4 23 300 662 734 824 # Buy now 3mill
-A_Martinez 28 spa 1 4 11 3 24 300 765 415 824 # Buy now 1.5mill
-C_McGrandles 19 sco 1 5 10 4 19 300 389 745 439 # Buy now 1mill
-
-L_Grabban 26 jam 1 4 9 12 17 300 748 418 337 # Buy now 3mill
-C_Jerome 28 eng 1 3 8 11 20 300 800 500 700 # Buy now 2mill
-
-A_McGregor 32 Sco 22 1 1 1 386 300 300 300
-
-J_Perch 29 eng 1 12 5 4 20 300 866 999 860 # Buy now 3mill
-D_Dervite 26 fra 1 11 7 5 24 300 748 679 718 # Buy now 1.5mill
-
-G_Boyd 29 sco 1 2 14 6 24 300 952 24 796 # Buy now 8mill
-C_Coady 21 eng 1 3 11 8 14 300 766 452 51 # Buy now 1.5mill
-
-M_Emnes 26 ned 1 3 7 11 19 300 800 600 600 # Buy now 2mill
-
+Eder          27 por  1  4  5 13 21 300 336 348 389   
+R_Gestede     27 ben  1  4  8 12 16 300 813 651 909
