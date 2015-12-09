@@ -6,25 +6,25 @@ DF S_Bassong
 DF J_Paredes
 DF D_Pudil
 DF G_Tamas
-DF C_Cathcart
-DM E_Konoplyanka
-AM M_M_Daehli
-AM I_Anya
-AM A_Abdi
-FW T_Deeney
-
-GK M_Sportiello
-GK H_Gomes
-GK J_Bond
 DF T_Hoban
+DM S_Murray
+AM E_Konoplyanka
+AM M_M_Daehli
+AM A_Abdi
 FW M_Vydra
 
-PK: T_Deeney
+GK M_Sportiello
+GK J_Bond
+DM J_Colback
+FW I_Anya
+FW T_Deeney
 
-SUB 3 15 DF IF MIN = 60
-SUB 10 16 FW IF MIN = 81
+PK: M_Vydra
+
+SUB 9 16 FW IF MIN = 47
+SUB 8 15 AM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 81 SCORE = 1
-TACTIC D IF MIN >= 64 SCORE >= 2
+TACTIC P IF MIN >= 26 SCORE = 1
+TACTIC D IF MIN >= 62 SCORE >= 2
