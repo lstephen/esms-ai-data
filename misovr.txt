@@ -23,7 +23,7 @@ D_Dillinger     21 FW  5/13/18  29   2  20  18  19  22  29 |  37  -2/ -1 ||  37 
 P_Levanda       21 DF 19/ 6/10  27   2  27  17  13  14  19 |  37  -5/ -4 ||  37 ||  26     24     29     25     31     27     25      R r 
 P_Deegan        24 FW 11/ 8/21  30   2  23  17  16  20  30 |  37   0/  0 ||  37 ||  29     23     37     31     32     30     26          
 T_Helms         22 GK    20     30  30   2   2   2   2   2 |  37  -1/ -1 ||  36 ||  30     30     30     30     30     30     30          
-Khamirutzox     27 DF 23/12/ 6  34   9  34  24  19  18  21 |  36   0/  0 ||  36 ||  31     31     32     31     34     34     29          
+Khamirutzox     27 DF 23/12/ 6  34   9  34  24  19  18  21 |  36   0/  0 ||  36 ||  31     31     32     31     34     34     29 DM       
 S_Dobre         18 DF 16/ 5/ 7  22   2  22  14  11  11  15 |  35 -10/ -5 ||  35 ||  21     20     23     20     25     22     20      R r 
 M_Bivins        21 FW  6/ 6/18  24   2  16  12  12  16  24 |  35  -6/ -5 ||  35 ||  23     18     31     24     26     24     22     SR r 
 Tarildo         26 DF 16/20/ 4  32   2  32  27  25  23  23 |  35   0/  0 ||  35 ||  29 DM  29 MF  28     30 DM  26     32     32 DM       
@@ -253,7 +253,7 @@ C_de_Vil        22 DF 17/19/ 5  33   3  33  27  25  23  24 |  39   0/  0 ||  39 
 A_Boerkel       22 FW  8/ 9/21  30   2  21  16  16  20  30 |  39  -1/ -1 ||  38 ||  28     22     37     30     32     30     26          
 P_Deegan        24 FW 11/ 8/21  30   2  23  17  16  20  30 |  37   0/  0 ||  37 ||  29     23     37     31     32     30     26          
 T_Helms         22 GK    20     30  30   2   2   2   2   2 |  37  -1/ -1 ||  36 ||  30     30     30     30     30     30     30          
-Khamirutzox     27 DF 23/12/ 6  34   9  34  24  19  18  21 |  36   0/  0 ||  36 ||  31     31     32     31     34     34     29          
+Khamirutzox     27 DF 23/12/ 6  34   9  34  24  19  18  21 |  36   0/  0 ||  36 ||  31     31     32     31     34     34     29 DM       
 C_Bannell       26 FW  3/19/14  29   2  21  21  23  25  29 |  33   0/  0 ||  33 ||  27 AM  21 AM  33     26 AM  24 AM  29     30 MF       
 B_Schweig       25 DF 20/11/ 8  31   2  31  22  18  18  21 |  35  -3/ -3 ||  32 ||  28     27     31     28     32     31     27          
 F_Leboeuf       25 DF 19/15/ 5  32   2  32  24  21  20  21 |  33  -2/ -2 ||  31 ||  28     28 MF  29     28 DM  29     32     29 DM       
@@ -402,7 +402,7 @@ Q_Delmore       23 FW  5/10/20  29   2  19  16  16  20  29 |  36  -3/ -3 ||  33 
 I_Schnell       24 FW  7/21/ 9  27   3  25  24  25  25  27 |  33   0/  0 ||  33 ||  28 MF  24 MF  28 AM  27 AM  23 MF  27     32 MF       
 W_Tamindzic     27 DF 21/16/ 4  34  12  34  26  22  21  21 |  33   0/  0 ||  33 ||  30     30 DM  31     30 DM  31     34     31 DM       
 T_Pratchett     24 DF 21/ 9/ 5  29   2  29  20  16  15  17 |  34  -4/ -4 ||  31 ||  27     27     28     27     30     29     26          
-B_Meetze        30 DF 21/15/ 5  34   2  34  25  22  20  22 |  30  -1/ -1 ||  29 ||  30     29 MF  31     30     31     34     30 DM       
+B_Meetze        30 DF 21/15/ 5  34   2  34  25  22  20  22 |  30  -1/ -1 ||  29 ||  30     29 MF  31     30 DM  31     34     30 DM       
 A_Ladorlass     26 FW  2/21/ 8  24   2  20  22  24  23  24 |  30  -3/ -3 ||  27 ||  25 MF  19 MF  27 AM  24 MF  18 MF  24     30 MF       
 M_Rui-Costa     23 DF  7/20/ 3  23   2  23  22  23  21  20 |  30  -4/ -4 ||  26 ||  24 MF  21 MF  22 MF  24 MF  17 MF  23     28 MF       
 Q_Zuniga        25 MF  5/21/ 5  24   2  22  22  24  22  22 |  29  -3/ -3 ||  26 ||  25     21     25     25     18     24     30          
@@ -414,6 +414,7 @@ W_Leyland       30 MF  5/21/ 5  24   2  22  22  24  22  22 |  24  -3/ -3 ||  20 
 
 ** /for_sale.txt **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
+Camelino        27 FW  4/21/24  41   3  27  26  28  32  41 |  43   9/  9 ||  51 ||  36 AM  28 AM  50     37     37     41     38 AM       
 G_C_Moore       22 DF 21/16/14  37   5  37  28  25  26  31 |  45   3/  3 ||  49 ||  34     32 MF  38     35 AM  39     37     33 DM       
 C_Dundas        20 DF 18/18/ 9  34   2  34  27  25  24  27 |  42   1/  2 ||  44 ||  30 DM  30 MF  33     32 AM  32     34     32 DM     r 
 X_Cullie        20 DF 17/16/12  33   2  33  25  23  24  28 |  42   0/  1 ||  43 ||  29     29 MF  33     31 AM  33     33     30 DM     r 
@@ -511,14 +512,13 @@ SUB MF Tarildo MF IF INJURED MF
 SUB AM Tarildo AM IF INJURED AM
 SUB FW P_Deegan FW IF INJURED FW
 
-SUB D_Bledsoe Khamirutzox DF IF MIN = 45
-CHANGEPOS M_Tensfeldt DM IF MIN = 50
-SUB G_C_Moore Tarildo DM IF MIN = 66
-SUB K_Prescott C_de_Vil DM IF MIN = 90
+SUB G_C_Moore C_de_Vil DM IF MIN = 75
+SUB D_Bledsoe Khamirutzox DM IF MIN = 78
+SUB O_Aguilar Tarildo MF IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 58 SCORE = 1
+TACTIC D IF MIN >= 87 SCORE = 1
 TACTIC D IF MIN >= 46 SCORE >= 2
 
 ** Reserves Selection **
@@ -574,24 +574,24 @@ FW D_Dillinger
 
 GK A_Kapustov
 DF I_Yolkin
-DF S_Dobre
+MF I_Ungureanu
 MF D_Fidatov
 AM J_Pichugin
 
 SUB GK A_Kapustov GK IF INJURED GK
-SUB DF S_Dobre DF IF INJURED DF
-SUB DM J_Pichugin DM IF INJURED DM
-SUB MF J_Pichugin MF IF INJURED MF
-SUB AM J_Pichugin AM IF INJURED AM
+SUB DF I_Yolkin DF IF INJURED DF
+SUB DM I_Ungureanu DM IF INJURED DM
+SUB MF I_Ungureanu MF IF INJURED MF
+SUB AM I_Ungureanu AM IF INJURED AM
 SUB FW J_Pichugin FW IF INJURED FW
 
-SUB A_Pilbean J_Pichugin MF IF MIN = 12
-CHANGEPOS P_Prosser DM IF MIN = 45
-SUB P_Prosser S_Dobre DF IF MIN = 70
-CHANGEPOS M_Schultz DM IF MIN = 75
+SUB C_Parry J_Pichugin MF IF MIN = 60
+CHANGEPOS Q_Bolbat MF IF MIN = 81
+SUB P_Levanda I_Yolkin DF IF MIN = 84
+SUB Q_Bolbat I_Ungureanu MF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC E IF SCORE = 1
-TACTIC D IF MIN >= 49 SCORE >= 2
+TACTIC C IF MIN >= 84 SCORE = 1
+TACTIC D IF MIN >= 48 SCORE >= 2
 
