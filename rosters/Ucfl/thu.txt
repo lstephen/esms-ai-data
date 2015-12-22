@@ -1,47 +1,53 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-L_Riviello        27 ger 26  1  1  1 27 1317  300  300  300   2   0   0 120,000
-I_Katchalot       28 eng 21  1  1  1 21  411  300  300  300   0   0   0   8,800
-B_Colosimo        30 ita  1 25 15 17 29  300  138  881  802   0   0   0 150,684
-N_Prosise         25 col  1 24  8 12  6  300  676  423  306   0   2   0  83,012
-R_Bourque         30 can  1 23 12  9 18  300  720  200  811  14   0   0  55,642
-Q_Campbell        23 aus  1 22 10 16 58  300  439   33  303  24   0   1  30,787
-H_Zschiesche      21 ger  1 21 16 11 47  300  284  752  364   4   0   0  15,818
-A_Thompson        22 nir  1 21 11  5  4  300  694   28  357   0   0   0  13,031
-U_Poulsen         25 den  1 20 11  5  4  300  377  773  719   0   0   0   7,374
-N_Hes             29 ger  1 15 25 14 14  300  974  135  613  10   0   0 146,508
-H_Hoobler         31 bel  1  6 24  8 26  300  529  109  797   2   0   0  77,212
-G_Vialli          22 ita  1 17 23 11  4  300  457  571  818   0   0   0  63,546
-K_Stewart         31 sco  1  9 23  6 25  300  713  682  436   4   0   0  49,773
-N_Nelson          21 cyp  1 12 20  6 34  300  589  536  622   4   0   0   7,680
-L_Kingsley        22 nga  1  6 20 15 32  300  275  408  581   0   0   0   8,305
-R_Toodeetoo       32 rsa  1  3 16 24 15  300  380  785  901  10   0   0  90,745
-Neo               30 arg  1  6 11 23  8  300  528  571  355   0   0   0  52,434
-P_Luyindula       22 fra  1 13  8 21 24  300  100  253  321   0   0   0  13,304
-G_Lineker         26 eng  1 13 17 21 28  300  835  135  631   2   0   0  16,510
-Brillianto        21 bra  1  7 16 20 55  300  849  687  213  12   0   0   8,611
+G_Stopper         29 mex 26  2  2  2 37  301  382  382  382   0   0   0     TBC
+B_Sefton          24 sco 21  2  2  2 14  171  141  141  141   0   0   0     TBC
+R_Prussak         22 cze 20  1  1  1 14  848  855  855  855   0   0   0     TBC
+L_Aldai           23 isr  1 23  8 19 21  846   29  120  667   0   0   0     TBC
+L_Sents           32 por  2 23 16  9 22  904  348  512  108   0   0   0     TBC
+K_Hartell         25 eng  2 22 10 19 37  259  406  946  235   0   0   0     TBC
+L_Tenant          23 aus  2 20 16  6 19  213  723  875  626   0   0   0     TBC
+N_Culling         21 wal  1 19 14 12 16  817  255  166   72   0   0   0     TBC
+Babybinho         24 bra  2  5 24 20 10  279  512  194  325   0   0   0     TBC
+C_Begbie          27 sco  2 18 24  7 14  139  809  982  750   0   0   0     TBC
+E_Jones           27 eng  2 10 24 14 21  285  101  475  913   0   0   0     TBC
+S_Gehring         29 ger  2 21 24 11 26  234   80  424  794   0   0   0     TBC
+Campbundo         23 bra  1 16 22 13  8  936  974  590  828   0   0   0     TBC
+Kiko_Pogona       22 aus  1  8 21 19 22  954  831  116  653   0   0   0     TBC
+V_Swabenthal      23 saf  1 17 21  5 11  876  909  213  780   0   0   0     TBC
+L_Suvillaga       21 per  1 11 20 20 31  635  364  584   33   0   0   0     TBC
+K_Peacham         29 ire  2 17 20  8 60  621  920  932  737   0   0   0     TBC
+W_Kelsen          30 wal  2 17 20 12 42  623  101  688  251   0   0   0     TBC
+C_Massanet        24 den  2  5 19 19 20  125  260  566  933   0   0   0     TBC
+Q_Gehrken         27 isr  2 15  8 23 47  675  523  940  427   0   0   0     TBC
+P_Rynne           22 usa  1 17  8 22  9  534  490  576   88   0   0   0     TBC
+M_DeFree          23 fra  1 19  9 22 46  822   53   39   33   0   0   0     TBC
+Hugo_Snatch       21 spa  1 17 10 18 17  774  544   94  884   0   0   0     TBC
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-L_Riviello         GK  22   0 2082   0 132  35   5   0   0   0   0   0                 -
-I_Katchalot        GK   2   1  126   0   6   6   0   0   0   0   0   0                 -
-B_Colosimo         DF  23   0 2208   2   0   0   0  29  20  25   2   3                 -
-N_Prosise          DF  23   0 2099   1   0   0   0  44   9  13   0   0                 -
-R_Bourque          DF  14   1 1149   1   0   0   0  15   3   5   1   0                 -
-Q_Campbell         DF  17   2 1283   0   0   0   0  20   7  11   0   0                 -
-H_Zschiesche       DF  13   1 1160   1   0   0   0  14  10   8   1   3                 -
-A_Thompson         DF  20  12 1089   0   0   0   0  14   4   3   0   0                 -
-U_Poulsen          DF   1   1   23   0   0   0   0   0   0   0   0   0                 -
-N_Hes              MF  18   1 1524   0   0   0   0   6  19  19   2   0                 -
-H_Hoobler          MF  22   6 1577   1   0   0   0   2  25  10   0   6                 -
-G_Vialli           MF  23   0 2169   0   0   0   0  13  35  14   0   2                 -
-K_Stewart          MF  17   3 1323   1   0   0   0   2  36   9   3   5                 -
-N_Nelson           MF  12   3  665   0   0   0   0   4  13   6   2   0                 -
-L_Kingsley         MF   8   5  515   0   0   0   0   1   4   7   2   0                 -
-R_Toodeetoo        FW  22   0 2011   1   0   0   0   0  14  59  10   0                 -
-Neo                FW  19   8 1237   1   0   0   0   1   5  29   8   1                 -
-P_Luyindula        FW  12   3  727   0   0   0   0   3   2  12   1   0                 -
-G_Lineker          FW   7   3  361   0   0   0   0   2   6  15   3   0                 -
-Brillianto         FW   9   0  761   0   0   0   0   1   8  12   1   0                 -
+G_Stopper          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
+B_Sefton           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
+R_Prussak          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
+L_Aldai            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+L_Sents            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+K_Hartell          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+L_Tenant           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+N_Culling          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Babybinho          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+C_Begbie           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+E_Jones            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+S_Gehring          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Campbundo          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Kiko_Pogona        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+V_Swabenthal       MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+L_Suvillaga        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+K_Peacham          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+W_Kelsen           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+C_Massanet         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Q_Gehrken          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+P_Rynne            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_DeFree           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Hugo_Snatch        FW   0   0    0   0   0   0   0   0   0   0   0   0                 -

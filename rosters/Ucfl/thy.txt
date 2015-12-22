@@ -1,55 +1,52 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-L_Ronaldo         20 bra 19  1  1  1 34   42  300  300  300   0   0   0   3,200
-H_Penu            20 est 16  1  1  1 37  732  300  300  300   0   0   0     900
-R_Jorge           18 esp 15  1  1  1  7  193  300  300  300   0   0   0     450
-P_Ale             18 arg 14  1  1  1 23  186  300  300  300   0   0   0     300
-E_Rodriguez       20 col  1 18 12  6 33  300  578  445  478  10   0   0   3,423
-Q_Galvan          20 arg  1 17  9 11 18  300  799  248  772   2   0   0   2,289
-X_Walters         19 wal  1 16  4  7 10  300   65  286  981   2   0   0   1,178
-M_Sacco           20 ita  1 16  4 11 61  300  903  681  287  18   0   0   1,268
-I_Simoes          20 bra  1 16  7  3  7  300  714   38  856   2   0   0   1,231
-L_Kerr            20 nir  1 16  5  9 15  300  645  215  397   0   0   0   1,271
-V_Watson          19 nir  1 15  3  8 11  300  850  471  759   2   0   0     585
-N_Aguirre         19 arg  1 15 12  9 30  300  673  843  706   4   0   0     826
-M_Sorrentino      19 ita  1 15  5 12 22  300  479  288  241   0   0   0     684
-P_Holowaty        17 ukr  1 14  2  8 47  300  994  325  436   0   0   0     378
-Y_Anderson        17 nir  1 13  8  3  6  300  329  505  753   0   0   0     303
-H_Renton          16 nzl  1 12 14  8 11  300  469  261  334   2   0   0     560
-S_Cohen           17 arg  1  8 14  6 38  300  482  604  995  10   0   0     469
-B_Cattaneo        19 ita  1  6 14  3  5  300  178  893  969   0   0   0     408
-Y_Armando         19 bra  1  7 14  9 15  300    8  721  653   0   0   0     496
-W_Wender          17 bra  1  4 13 11  4  300  994  368  582   0   0   0     348
-G_Edu             19 esp  1  5 10 16  9  300  153  115  123   0   0   0   1,420
-T_Orosz           19 hun  1  4  8 15 71  300  902  757  926   2   0   0     664
-W_Eduardo         19 bra  1  7 10 15 27  300   31   89  386   2   0   0     751
-D_F_Dingle        16 eng  1  8  9 13 28  300   86  863  901   2   0   0     347
-
+P_Eustice         20 eng 20  1  1  1 26  236  762  762  762   0   0   0     TBC
+I_Galca           19 rom 16  1  1  1 30  356  408  408  408   0   0   0     TBC
+D_Goldis          19 rom 14  1  1  1 14  388  618  618  618   0   0   0     TBC
+E_Gheorghe        19 rom  1 16 10  4 18  408  372  580  309   0   0   0     TBC
+I_Ilie            18 rom  1 14  5  4 18  516   60  885  405   0   0   0     TBC
+T_Niculaie        19 rom  1 15 11  6  7  618  834  768  986   0   0   0     TBC
+G_Stoica          19 rom  1 15  2  8 35  408  244  787  266   0   0   0     TBC
+C_Ganea           18 rom  1 13 13  6 16  516  255  867  509   0   0   0     TBC
+C_Filipescu       19 rom  1 14  9  6 40  612  817  382  851   0   0   0     TBC
+N_Teodorescu      18 rom  1 12  8  4 34  516  373  546  826   0   0   0     TBC
+O_Radacanu        19 rom  1  4 17 11 33  654    8  643  535   0   0   0     TBC
+P_Muresanu        20 rom  1  6 16 15 28  618  947  795  912   0   0   0     TBC
+J_Byrn            20 sco  1 10 16  5 25  718  886  656  920   0   0   0     TBC
+J_Pavlenco        18 rom  1  7 14  2  9  408  546  422  902   0   0   0     TBC
+T_Kucek           19 rom  1 15 15  8 55  618  380  108  917   0   0   0     TBC
+T_Balescu         17 rom  1  3 13  5  8  408  417  664  714   0   0   0     TBC
+D_Vasiliu         19 rom  1 11 14  8 10  618  946  985  251   0   0   0     TBC
+V_Baicu           17 rom  1  4 12 10 45  408   79  344  339   0   0   0     TBC
+M_Burtnett        20 can  1  7  9 17 19  726  847  981  669   0   0   0     TBC
+M_Petri           20 rom  1 16  9 16  7  618  957  656  298   0   0   0     TBC
+J_Caragiale       17 rom  1  5 13 14 15  408  319  301  456   0   0   0     TBC
+N_Bumbescu        18 rom  1  9  3 14 38  516  848  388  347   0   0   0     TBC
+C_Minea           18 rom  1  6  9 11  9  516  276  781  377   0   0   0     TBC
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-L_Ronaldo          GK  19   0 1837   1  94  29   3   0   0   0   0   0                 -
-H_Penu             GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-R_Jorge            GK   2   0  188   0  12   1   1   0   0   0   0   0                 -
-P_Ale              GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-E_Rodriguez        DF  19   0 1496   1   0   0   0  18  20  14   3   1                 -
-Q_Galvan           DF  21   0 1975   2   0   0   0  26  21  24   4   2                 -
-X_Walters          DF   9   0  822   0   0   0   0  11   2  10   0   0                 -
-M_Sacco            DF  17   0 1548   0   0   0   0  16   6  18   1   0                 -
-I_Simoes           DF  14   8  866   0   0   0   0   6   6   5   0   0                 -
-L_Kerr             DF   5   3  255   0   0   0   0   6   0   5   2   0                 -
-V_Watson           DF   5   3  352   0   0   0   0   2   1   1   0   0                 -
-N_Aguirre          DF  10   0  942   0   0   0   0   8  14   6   0   2                 -
-M_Sorrentino       DF   3   0  283   0   0   0   0   2   2   4   0   0                 -
-P_Holowaty         DF   7   0  602   0   0   0   0   8   3   6   0   0                 -
-Y_Anderson         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-H_Renton           MF  21   0 2006   0   0   0   0   7  30  13   4   1                 -
-S_Cohen            MF  18   0 1722   0   0   0   0   5  39  11   0   0                 -
-B_Cattaneo         MF  19   9 1227   0   0   0   0   4  28   6   0   1                 -
-Y_Armando          MF  15   2 1056   0   0   0   0   6  19  17   0   5                 -
-W_Wender           MF   9   1  683   0   0   0   0   0  11   7   1   0                 -
-G_Edu              FW  21   2 1653   1   0   0   0   6  13  35   5   2                 -
-T_Orosz            FW  18   5 1356   0   0   0   0   1   2  35   3   0                 -
-W_Eduardo          FW   8   5  362   0   0   0   0   1   1  16   2   0                 -
-D_F_Dingle         FW  11   2  910   1   0   0   0   1   8  16   2   3                 -
+P_Eustice          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
+I_Galca            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
+D_Goldis           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
+E_Gheorghe         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+I_Ilie             DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+T_Niculaie         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+G_Stoica           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+C_Ganea            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+C_Filipescu        DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+N_Teodorescu       DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+O_Radacanu         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+P_Muresanu         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+J_Byrn             MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+J_Pavlenco         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+T_Kucek            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+T_Balescu          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+D_Vasiliu          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+V_Baicu            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_Burtnett         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_Petri            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+J_Caragiale        FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+N_Bumbescu         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+C_Minea            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
