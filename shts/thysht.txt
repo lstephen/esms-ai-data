@@ -1,33 +1,30 @@
 thy
-A
+P
 
-GK R_Jorge
-DF E_Rodriguez
-DF Q_Galvan
-DF M_Sacco
-DF N_Aguirre
-DF M_Sorrentino
-DM H_Renton
-DM Y_Armando
-FW G_Edu
-FW T_Orosz
-FW W_Eduardo
+GK I_Galca
+DF E_Gheorghe
+DF T_Niculaie
+DF C_Ganea
+DF T_Kucek
+DF M_Petri
+DM J_Byrn
+DM D_Vasiliu
+FW O_Radacanu
+FW P_Muresanu
+FW J_Caragiale
 
-GK L_Ronaldo
-GK H_Penu
-DF L_Kerr
-FW W_Wender
-FW D_F_Dingle
+GK P_Eustice
+GK D_Goldis
+DF C_Filipescu
+DF J_Pavlenco
+FW M_Burtnett
 
-PK: W_Eduardo
+PK: P_Muresanu
 
-SUB 5 14 DF IF MIN = 60
-CHANGEPOS 8 MF IF MIN = 65
-SUB 8 16 AM IF MIN = 81
-SUB 10 15 AM IF MIN = 82
-CHANGEPOS 16 FW IF MIN = 84
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC L IF MIN >= 57 SCORE = 1
-TACTIC L IF MIN >= 29 SCORE >= 2
+SUB 2 14 DF IF MIN = 45
+SUB 11 16 FW IF MIN = 84
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 84 SCORE >= 2
