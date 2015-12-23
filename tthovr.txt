@@ -551,3 +551,77 @@ TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 69 SCORE >= 2
 
+** Reserves Selection **
+ATTACKING                      OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
+J_Guidetti      25 FW  5/10/21  38   3  20  22  26  33  38 |  42  -3/ -3 ||  39 ||  25     20     38     28     31     30     27 AM     r 
+G_Bogoescu      19 FW  6/ 7/19  33   3  19  19  21  28  33 |  48  -5/ -1 ||  48 ||  23     19     33     26     28     26     22 AM     r 
+D_Iacobescu     19 FW  9/17/14  32   2  25  27  28  31  32 |  51  -4/  2 ||  53 ||  27 AM  25 MF  32     27 AM  31 MF  29     29 MF     r 
+C_Turner        25 GK    21     32  32   5   4   4   4   4 |  45  -9/ -9 ||  36 ||  32     32     32     32     32     32     32        r 
+P_Singh         21 AM  9/19/12  31   5  25  28  28  31  30 |  47  -3/ -3 ||  44 ||  27     26 MF  31     27     31 MF  29 FW  31 MF     r 
+G_Hutopila      19 FW  9/17/13  31   3  24  26  27  30  31 |  50  -4/  0 ||  50 ||  26 AM  25 MF  31     26 AM  30 MF  28     29 MF     r 
+C_Poenaru       22 GK    20     30  30   5   5   5   6   6 |  46 -10/-10 ||  36 ||  30     30     30     30     30     30     30        r 
+Juninho         23 AM 10/20/10  30   3  25  28  28  30  28 |  45  -2/ -2 ||  42 ||  27 DM  28 MF  30     28 MF  32 MF  28 DF  32 MF     r 
+S_Vagini        21 DF 20/ 9/ 6  28   1  28  21  13  15  14 |  46  -5/ -5 ||  41 ||  27     29 MF  28     27     39 MF  29     25 DM     r 
+A_Andreasen     22 DF 20/ 8/ 7  27   4  27  20  13  15  15 |  43  -5/ -5 ||  38 ||  26     28 MF  27     26     38 MF  28     24 DM     r 
+J_Fox           19 DM 12/19/ 7  27   1  25  27  25  26  23 |  50  -3/  2 ||  52 ||  27     28 MF  27     27     32 MF  28 DF  30 MF     r 
+H_Vulcan        16 FW  6/14/12  27   1  19  22  23  26  27 |  50  -9/  3 ||  53 ||  22 AM  19 MF  27     22 AM  23 MF  24     24 MF     r 
+Ridoutkha       19 DM 13/18/ 6  26   3  25  26  22  23  20 |  49  -3/  3 ||  52 ||  26     28 MF  26     27     33 MF  29 DF  29        r 
+N_Saul          21 DM 11/20/ 4  26   5  23  26  23  23  19 |  45  -3/ -3 ||  45 ||  26     27 MF  26     27 MF  29 MF  27 DF  29 MF     r 
+F_Parasca       19 DM 13/17/ 7  25   3  25  25  22  23  22 |  48  -4/  2 ||  50 ||  26     28 MF  25     26     33 MF  28 DF  28        r 
+D_Hasdeu        14 FW  7/14/10  24   3  19  21  22  24  24 |  54 -10/  4 ||  58 ||  21 AM  20 MF  24 AM  21 AM  24 MF  22     23 MF     r 
+I_Muresanu      14 DF 16/ 7/ 6  23   5  23  17  12  13  14 |  54 -10/  4 ||  58 ||  21     23 MF  23     21     31 MF  23     20 DM     r 
+A_Kiwi          17 DF 15/ 9/ 6  23   2  23  19  14  15  15 |  49 -10/  0 ||  49 ||  21     23 MF  23     21     31 MF  24     21 DM     r 
+I_Lupu          16 AM  8/13/ 9  22   2  19  20  20  22  22 |  48 -10/  1 ||  49 ||  20     20 MF  22     20     24 MF  21 FW  22 MF     r 
+V_Nicu          14 AM  9/14/ 7  21   5  20  21  19  21  20 |  53  -9/  4 ||  56 ||  20 DM  21 MF  21     20 DM  25 MF  22 DF  23 MF     r 
+N_Barbulescu    14 DM 10/13/ 6  20   3  19  20  18  19  17 |  52 -10/  4 ||  56 ||  20     21 MF  20     20     25 MF  21 DF  22        r 
+
+ATTACKING
+GK C_Turner
+DF S_Vagini
+DF A_Andreasen
+DF Ridoutkha
+DF F_Parasca
+DF V_Nicu
+DM J_Fox
+DM Juninho
+DM D_Hasdeu
+AM D_Iacobescu
+FW J_Guidetti
+                 N       D       A       C       L       P       E 
+  STOPPING      32      32      32      32      32      32      32 
+  TACKLING      99     135      90     102     109      98      92 
+   PASSING      97      65     103      98      47     117      94 
+  SHOOTING      48      24      77      46      64      45      46 
+   SH Mean      15      18      14      15      14      15      14 
+ SH Median      14      21      14      14      14      14      14 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      15      11      17      15      11      16      15 
+   GK Qual      21      21      21      21      21      21      21 
+  GK Bonus      19      14      21      19      16      20      19 
+       Agg      25      25      25      25      25      25      25 
+   Scoring      81      51      94      81      53      93      78 
+ Defending      99     135      90     102     109      98      92 
+   Overall     212     185     223     214     174     227     203 
+
+GK C_Poenaru
+DM N_Saul
+AM P_Singh
+FW G_Hutopila
+FW G_Bogoescu
+
+SUB GK C_Poenaru GK IF INJURED GK
+SUB DF N_Saul DF IF INJURED DF
+SUB DM N_Saul DM IF INJURED DM
+SUB MF N_Saul MF IF INJURED MF
+SUB AM N_Saul AM IF INJURED AM
+SUB FW G_Bogoescu FW IF INJURED FW
+
+SUB V_Nicu N_Saul DF IF MIN = 45
+SUB D_Hasdeu P_Singh DM IF MIN = 50
+SUB D_Iacobescu G_Hutopila AM IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 38 SCORE >= 2
+
