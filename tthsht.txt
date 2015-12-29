@@ -14,16 +14,15 @@ MF S_Defour
 FW Hugo_Sanchez
 
 GK J_Hunter
-DM B_Sagna
-MF J_Navas
+DM S_Irwin
+DM M_Oezil
 MF A_Parada
 AM R_Sharp
 
 PK: Hugo_Sanchez
 
-SUB 10 14 MF IF MIN = 50
-SUB 4 13 DF IF MIN = 65
-SUB 11 16 FW IF MIN = 75
+SUB 7 14 DM IF MIN = 60
+SUB 9 15 MF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
