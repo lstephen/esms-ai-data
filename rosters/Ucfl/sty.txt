@@ -1,28 +1,28 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
 M_Silva           20 uru 21  1  1  1 21   59  723  723  723   0   0   0     TBC
-S_Burditt         17 xxx 13  1  1  1 35  227  408  408  408   0   0   0     TBC
-G_Aylwin          20 usa  1 17  3  6 10  667  886  870  426   0   0   0     TBC
-I_Cumplido        18 xxx  1 16  9  5 10  408  516  361  123   0   0   0     TBC
-P_Swingler        19 xxx  1 16  6  8 10  408  822  955  767   0   0   0     TBC
-Y_Gullage         19 fra  1 16  4  8 34  667  383  200  408   0   0   0     TBC
-Q_Sutphin         20 usa  1 16  5  9 14  793  907  559  621   0   0   0     TBC
-O_Vought          18 xxx  1 15 11  4 16  408  281  359   91   0   0   0     TBC
-G_Uzzle           19 aus  1 15  6  5 43  661  687   10  887   0   0   0     TBC
-D_Summerson       18 swe  1 14  2  7  8  548  366  993  436   0   0   0     TBC
-F_Munichman       20 ger  1  5 19 16 49  793  848  384  669   0   0   0     TBC
-R_Sykora          18 cro  1 10 17 14 24  578  940  448  173   0   0   0     TBC
-N_Swaford         20 wak  1 10 16  6 20  793  644  934  784   0   0   0     TBC
-H_Yurko           19 jap  1  6 15  4 14  548  448  449  632   0   0   0     TBC
-S_Butts           20 eng  1  9 15  5 21  793   24  690  507   0   0   0     TBC
-R_Dunnington      18 ire  1  4 14  7 20  548  409  740  468   0   0   0     TBC
-Q_Huebner         19 ger  1  8 14  4 19  548  691  404  432   0   0   0     TBC
-P_Wroten          19 eng  1  8 14  4 38  548  450  405  386   0   0   0     TBC
-U_Dumler          19 t&t  1 11 14  3 25  667  744  326  207   0   0   0     TBC
-C_Luziardi        20 ita  1  8 12 18 33  667   91  576  995   0   0   0     TBC
-F_Muirfoot        19 ire  1  9 10 17 32  667  205  431  573   0   0   0     TBC
-O_Busie           17 xxx  1  8  4 16 16  408  509  843  582   0   0   0     TBC
-C_Avitts          17 xxx  1  6  2 13 26  408  257  890  529   0   0   0     TBC
+S_Burditt         17 xxx 11  1  1  1 35  227  408  408  408   0   0   0     TBC
+G_Aylwin          20 usa  1 16  3  6 10  667  886  870  426   0   0   0     TBC
+P_Swingler        19 xxx  1 15  6  8 10  408  822  955  767   0   0   0     TBC
+Y_Gullage         19 fra  1 15  4  8 34  667  383  200  408   0   0   0     TBC
+Q_Sutphin         20 usa  1 15  5  9 14  793  907  559  621   0   0   0     TBC
+I_Cumplido        18 xxx  1 14  9  5 10  408  516  361  123   0   0   0     TBC
+G_Uzzle           19 aus  1 14  6  5 43  661  687   10  887   0   0   0     TBC
+O_Vought          18 xxx  1 13 11  4 16  408  281  359   91   0   0   0     TBC
+D_Summerson       18 swe  1 12  2  7  8  548  366  993  436   0   0   0     TBC
+F_Munichman       20 ger  1  5 18 16 49  793  848  384  669   0   0   0     TBC
+R_Sykora          18 cro  1 10 16 14 24  578  940  448  173   0   0   0     TBC
+N_Swaford         20 wak  1 10 15  6 20  793  644  934  784   0   0   0     TBC
+H_Yurko           19 jap  1  6 14  4 14  548  448  449  632   0   0   0     TBC
+S_Butts           20 eng  1  9 14  5 21  793   24  690  507   0   0   0     TBC
+Q_Huebner         19 ger  1  8 13  4 19  548  691  404  432   0   0   0     TBC
+P_Wroten          19 eng  1  8 13  4 38  548  450  405  386   0   0   0     TBC
+U_Dumler          19 t&t  1 11 13  3 25  667  744  326  207   0   0   0     TBC
+R_Dunnington      18 ire  1  4 12  7 20  548  409  740  468   0   0   0     TBC
+C_Luziardi        20 ita  1  8 12 17 33  667   91  576  995   0   0   0     TBC
+F_Muirfoot        19 ire  1  9 10 16 32  667  205  431  573   0   0   0     TBC
+O_Busie           17 xxx  1  8  4 14 16  408  509  843  582   0   0   0     TBC
+C_Avitts          17 xxx  1  6  2 11 26  408  257  890  529   0   0   0     TBC
 
 
 ----------------------------------------------------------------------------------------
@@ -31,22 +31,22 @@ Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass          
 M_Silva            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 S_Burditt          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 G_Aylwin           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-I_Cumplido         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Swingler         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Y_Gullage          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Sutphin          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-O_Vought           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+I_Cumplido         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 G_Uzzle            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+O_Vought           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 D_Summerson        DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_Munichman        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 R_Sykora           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 N_Swaford          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 H_Yurko            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 S_Butts            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-R_Dunnington       MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Huebner          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Wroten           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 U_Dumler           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+R_Dunnington       MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 C_Luziardi         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_Muirfoot         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 O_Busie            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -

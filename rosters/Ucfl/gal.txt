@@ -7,9 +7,9 @@ D_Klausman        30 aut 22  1  1  1 16  870  300  300  300   0   0   0  19,000
 R_Balfe           29 jam  1 26 18 11 14  300 1040  188  163   0   0   0 205,153
 T_Popovic         24 aus  1 24 13 20 30  300  551  232  560   0   0   0 101,016
 F_Beckenbauer     24 ger  1 24 20  9 28  300  100  893  910   0   0   0 104,762
-H_Danukas         23 ltu  1 23 13  9 28  300  931  475  693   0   0   0  56,973
 I_Pardini         24 ita  1 23 17 10 23  300  293  752  930   0   0   0  62,920
 F_de_Boer         33 ned  1 23  9  7 12  300  366  483   20   0   0   0  50,399
+Roofinnilda       21 esp  1 21 19  5 34  300   49  304  527   0   0   0  15,881
 E_Killoran        30 irl  1 21  8  4 18  300  594  109  483   0   0   0  11,795
 X_Stewart         22 aus  1 20  4 10 33  300  531  801  206   0   0   0   6,406
 R_Riley           24 eng  1 20 14  9 43  300  925  910  970   0   0   0   8,391
@@ -23,8 +23,9 @@ T_Caradog         26 wal  1  5 21 15 23  300  586  450  659   0   0   0  14,456
 S_Griffiths       23 wal  1  5 20 12 20  300  616  766  640   0   0   0   7,582
 J_Nico            21 fra  1  5 19 12 12  300    5   49  276   0   0   0   5,043
 F_Goncalves       22 bra  1  5 19 13 27  300  902  724  547   0   0   0   5,186
+L_Burrows         32 usa  1 16 22 27 18  300  538  302  276   0   0   0 291,916
 D_Turnbull        26 eng  1 12 18 26 10  300  546  583  237   0   0   0 206,999
-M_Modica          24 ita  1  6 18 24 43  300  791  608  653   0   0   0  97,753
+R_Baggio          32 ita  1  7 22 25 49  300  536  726  561   0   0   0 157,469
 U_Vargas          22 col  1 14 11 20  4  300  804  111  586   0   0   0   8,256
 V_Dani            23 esp  1  9  7 20 12  300  975  922  341   0   0   0   6,933
 
@@ -39,9 +40,9 @@ D_Klausman         GK   0   0    0   0   0   0   0   0   0   0   0   0          
 R_Balfe            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 T_Popovic          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_Beckenbauer      DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-H_Danukas          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 I_Pardini          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_de_Boer          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Roofinnilda        DF   0   0    0   0   0   0   0   0   0   0   0   0      On_Loan(lhr)
 E_Killoran         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 X_Stewart          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 R_Riley            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
@@ -55,7 +56,8 @@ T_Caradog          MF   0   0    0   0   0   0   0   0   0   0   0   0          
 S_Griffiths        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 J_Nico             MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_Goncalves        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+L_Burrows          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 D_Turnbull         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
-M_Modica           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+R_Baggio           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 U_Vargas           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 V_Dani             FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
