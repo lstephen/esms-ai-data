@@ -4,28 +4,28 @@ P
 GK C_Turner
 DF B_Sagna
 DF I_Muresanu
-DF J_Fox
+DF A_Kiwi
 DF Ridoutkha
 DF N_Barbulescu
 DF V_Nicu
 DM N_Saul
-DM D_Hasdeu
 MF H_Vulcan
+MF D_Hasdeu
 FW J_Guidetti
 
 GK C_Poenaru
-DF S_Vagini
+DF J_Fox
 DF Juninho
 DF F_Parasca
 FW D_Iacobescu
 
 PK: J_Guidetti
 
-SUB 9 14 DM IF MIN = 45
-SUB 3 13 DF IF MIN = 55
-SUB 7 15 DF IF MIN = 65
+SUB 10 14 DM IF MIN = 45
+SUB 3 15 DF IF MIN = 50
+SUB 7 13 DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 63 SCORE >= 2
+TACTIC D IF MIN >= 67 SCORE >= 2
