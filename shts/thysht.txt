@@ -3,10 +3,10 @@ P
 
 GK I_Galca
 DF E_Gheorghe
-DF T_Niculaie
-DF C_Ganea
-DF T_Kucek
 DF M_Petri
+DF T_Niculaie
+DF T_Kucek
+DF C_Ganea
 DM J_Byrn
 DM D_Vasiliu
 FW O_Radacanu
@@ -21,10 +21,11 @@ FW M_Burtnett
 
 PK: P_Muresanu
 
-SUB 2 14 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 84
+SUB 8 15 DM IF MIN = 78
+SUB 9 16 FW IF MIN = 84
+SUB 3 14 DF IF MIN = 89
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 84 SCORE >= 2
+TACTIC C IF MIN >= 84 SCORE >= 2
