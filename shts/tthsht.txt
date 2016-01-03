@@ -4,27 +4,27 @@ P
 GK R_Ceni
 DF A_Wisdom
 DF S_Irwin
+DF M_Twaddle
 DF S_Howey
 DF J_Jurado
 DF Doriva
-DF M_Oezil
 DM L_Robert
 DM A_Parada
 MF A_Johnson
-FW Hugo_Sanchez
+FW Diaviera
 
 GK J_Hunter
-DF M_Twaddle
+DF M_Richards
+DF M_Oezil
 FW S_Defour
-FW R_Sharp
-FW J_Piere
+FW Hugo_Sanchez
 
-PK: Hugo_Sanchez
+PK: Diaviera
 
-SUB 3 13 DF IF MIN = 45
-SUB 11 15 FW IF MIN = 65
+SUB 11 16 FW IF MIN = 55
+SUB 3 14 DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 73 SCORE >= 2
+TACTIC D IF MIN >= 74 SCORE >= 2
