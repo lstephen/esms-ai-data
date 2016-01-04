@@ -1,7 +1,6 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
 L_Bowler          30 eng 27  1  1  1 31 1126  300  300  300   0   0   0 155,000
-X_Brzozka         22 pol 23  1  1  1 11  720  300  300  300   0   0   0  36,000
 P_Rigio           26 ita 23  1  1  1 18  430  300  300  300   0   0   0  36,000
 D_Klausman        30 aut 22  1  1  1 16  870  300  300  300   0   0   0  19,000
 R_Balfe           29 jam  1 26 18 11 14  300 1040  188  163   0   0   0 205,153
@@ -34,7 +33,6 @@ V_Dani            23 esp  1  9  7 20 12  300  975  922  341   0   0   0   6,933
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
 L_Bowler           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-X_Brzozka          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Rigio            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 D_Klausman         GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 R_Balfe            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -

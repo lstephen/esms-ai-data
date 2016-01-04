@@ -2,21 +2,25 @@ Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
 G_Mills           20 eng 16  1  1  1 11  439  300  300  300   0   0   0     900
 T_Menegat         20 ita 15  1  1  1 11   57  300  300  300   0   0   0     450
-L_Semeraro        19 ita 14  1  1  1 58  507  300  300  300   0   0   0     300
 F_Leonardo        19 bra 14  1  1  1  5  156  300  300  300   0   0   0     300
 Y_Orellana        20 arg  1 16  4 11  3  300  817  597  508   0   0   0   1,268
 S_Pereyra         18 arg  1 14  5  8  5  300  664  223  453   0   0   0     432
 W_Charbonnier     19 fra  1 14 10  4 10  300  484  336  771   0   0   0     488
 A_Kelly           20 nir  1 14  9  3  8  300  170  770  787   0   0   0     462
 O_Murray          18 sco  1 13 10  2 18  300  499  793  765   0   0   0     323
+Q_Woods           17 NIR  1 12  5  5  9  300  990  387  844   0   0   0     197
+W_Pedro_Paulo     18 bra  1 12  4  9 29  300  443  736  506   0   0   0     206
+S_Sammarco        16 ITA  1 11  8  6 71  300  865  828  413   0   0   0     154
 J_Petersen        20 usa  1 10 17  4 16  300  556  534  528   0   0   0   2,128
 M_Voronine        18 lva  1 13 15  5 12  300  412  462   41   0   0   0     804
 Q_Giglio          18 ita  1  9 14  7 34  300  406   21  948   0   0   0     496
 Q_Jacobs          18 ned  1  7 13 10  6  300  834  640  333   0   0   0     353
+N_Rossi           17 ITA  1  6 12  6  5  300  204  893  930   0   0   0     212
 Q_Michel          20 bra  1  7  6 15 20  300  485   14  842   0   0   0     649
 K_Grassi          20 ita  1  7  4 15 13  300  227  350  704   0   0   0     598
 W_Juarez          20 arg  1  3  7 15 48  300  535   62  671   0   0   0     627
 U_Martinez        17 uru  1  2  3 12  7  300  858  659  942   0   0   0     163
+M_Joly            17 FRA  1  3  9 12  3  300  290  339  860   0   0   0     228
 
 
 ----------------------------------------------------------------------------------------
@@ -24,18 +28,22 @@ Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass          
 ----------------------------------------------------------------------------------------
 G_Mills            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 T_Menegat          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-L_Semeraro         GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_Leonardo         GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Y_Orellana         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 S_Pereyra          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 W_Charbonnier      DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 A_Kelly            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 O_Murray           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Q_Woods            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+W_Pedro_Paulo      DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+S_Sammarco         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 J_Petersen         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 M_Voronine         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Giglio           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Jacobs           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+N_Rossi            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Michel           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 K_Grassi           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 W_Juarez           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 U_Martinez         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_Joly             FW   0   0    0   0   0   0   0   0   0   0   0   0                 -

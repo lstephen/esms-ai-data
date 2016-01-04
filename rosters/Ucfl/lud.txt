@@ -1,7 +1,6 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
 U_Petre           31 mlt 26  1  1  1 15  410  300  300  300   0   0   0 120,000
-K_Burgiousop      25 cyp 19  1  1  1  9  874  300  300  300   0   0   0   3,200
 A_Thepot          21 fra 18  1  1  1 13  802  300  300  300   0   0   0   2,100
 J_Fernando        28 esp  1 26  8  9 14  300  232  128  170   0   0   0 162,230
 H_Danukas         23 ltu  1 23 13  9 28  300  931  475  693   0   0   0  56,973
@@ -10,7 +9,6 @@ O_Chop            26 chn  1 22 16 10 20  300  514  226  859   0   0   0  33,120
 S_Tipaldi         22 ita  1 21 18 12 13  300  594   27  252   0   0   0  16,698
 W_Harris          21 wal  1 18 11  8 10  300  559  907  189   0   0   0   3,417
 M_Bossis          19 fra  1 17  9  5 25  300  400  847  207   0   0   0   2,091
-U_Sergio          21 esp  1 16  5 11  4  300  531  860   74   0   0   0   1,316
 E_McCaulder       26 sco  1 17 24  7 35  300  551   89   23   0   0   0  96,666
 B_Galindo         27 ita  1  8 24  9  4  300  782  511  115   0   0   0  81,199
 J_Francisco       22 cyp  1 18 21  7  3  300   69  439  333   0   0   0  15,860
@@ -25,7 +23,6 @@ M_Modica          24 ita  1  6 18 24 43  300  791  608  653   0   0   0  97,753
 R_Frigerio        29 esp  1 16 10 24 13  300  914  796   21   0   0   0  90,987
 C_Dugarry         26 fra  1 17 13 22 19  300  333  914   96   0   0   0  33,336
 K_Tinorua         22 fra  1  7 15 21 37  300  734  963  553   0   0   0  14,791
-M_Bergevain       28 fra  1 12  7 21  3  300  162  238  118   0   0   0  12,780
 R_De_Santis       21 ita  1  9  7 18  3  300  235  557   46   0   0   0   3,068
 L_Weller          21 ger  1  7 10 17 34  300  720  635  369   0   0   0   2,227
 
@@ -34,7 +31,6 @@ L_Weller          21 ger  1  7 10 17 34  300  720  635  369   0   0   0   2,227
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
 U_Petre            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-K_Burgiousop       GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 A_Thepot           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 J_Fernando         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 H_Danukas          DF   0   0    0   0   0   0   0   0   0   0   0   0      On_Loan(gal)
@@ -43,7 +39,6 @@ O_Chop             DF   0   0    0   0   0   0   0   0   0   0   0   0          
 S_Tipaldi          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 W_Harris           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 M_Bossis           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-U_Sergio           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 E_McCaulder        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 B_Galindo          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 J_Francisco        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
@@ -58,6 +53,5 @@ M_Modica           FW   0   0    0   0   0   0   0   0   0   0   0   0      On_L
 R_Frigerio         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 C_Dugarry          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 K_Tinorua          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
-M_Bergevain        FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 R_De_Santis        FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 L_Weller           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -

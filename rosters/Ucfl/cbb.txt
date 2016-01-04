@@ -25,7 +25,6 @@ R_Delicata        23 mlt  1 13 17 24 17  300  329   58  471   0   0   0 102,466
 J_Soleil_Jr       21 bra  1  9 19 21 26  300  390   97   60   0   0   0  16,551
 F_Gaev            21 blr  1 13 15 20 39  300  604  742  545   0   0   0   8,991
 D_Merlo           23 cyp  1  7 17 20  4  300  982  134  499   0   0   0   8,820
-Q_Vicini          25 ita  1 16 15 20 36  300  979  110   82   0   0   0   9,285
 P_Altevogt        25 blr  1 11  7 20 20  300  775  468  663   0   0   0   7,129
 
 
@@ -57,5 +56,4 @@ R_Delicata         FW   0   0    0   0   0   0   0   0   0   0   0   0      On_L
 J_Soleil_Jr        FW   0   0    0   0   0   0   0   0   0   0   0   0      On_Loan(ldn)
 F_Gaev             FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 D_Merlo            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
-Q_Vicini           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Altevogt         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
