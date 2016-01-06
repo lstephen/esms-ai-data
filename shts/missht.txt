@@ -15,15 +15,14 @@ FW Camelino
 
 GK T_Helms
 DF Khamirutzox
-DF B_Schweig
-DF Tarildo
+DF C_de_Vil
+FW C_Bannell
 FW A_Boerkel
 
 PK: Camelino
 
-SUB 8 15 DM IF MIN = 70
-SUB 2 13 DF IF MIN = 75
-SUB 6 14 DF IF MIN = 90
+SUB 8 14 DM IF MIN = 65
+SUB 5 13 DF IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
