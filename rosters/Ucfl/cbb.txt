@@ -20,7 +20,6 @@ L_Pellegrini      23 cyp  1 15 21 11 28  300  856  594  514   0   0   0  15,462
 Q_Jorgensen       23 nor  1 10 21 16 16  300  863  657  736   0   0   0  15,650
 R_F_Owen          25 eng  1 15 21 19 69  300   50  477  223   0   0   0  17,557
 S_Wold            26 nor  1  4 20 16 16  300  764  673  776   0   0   0   8,317
-S_Groth           27 ger  1 13 12 25  9  300  585  654  348   0   0   0 136,242
 R_Delicata        23 mlt  1 13 17 24 17  300  329   58  471   0   0   0 102,466
 J_Soleil_Jr       21 bra  1  9 19 21 26  300  390   97   60   0   0   0  16,551
 F_Gaev            21 blr  1 13 15 20 39  300  604  742  545   0   0   0   8,991
@@ -51,7 +50,6 @@ L_Pellegrini       MF   0   0    0   0   0   0   0   0   0   0   0   0          
 Q_Jorgensen        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 R_F_Owen           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 S_Wold             MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-S_Groth            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 R_Delicata         FW   0   0    0   0   0   0   0   0   0   0   0   0      On_Loan(ldn)
 J_Soleil_Jr        FW   0   0    0   0   0   0   0   0   0   0   0   0      On_Loan(ldn)
 F_Gaev             FW   0   0    0   0   0   0   0   0   0   0   0   0                 -

@@ -3,6 +3,7 @@ Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 T_Marras          25 ita 22  1  1  1 53  123  300  300  300   0   0   0  19,000
 P_Navarra         24 ita 20  1  1  1  4  524  300  300  300   0   0   0   4,900
 M_Helio           24 bra  1 23  7  8  6  300  696  742  664   0   0   0  48,364
+M_Ulrey           32 fra  1 23  7  9 38  300  570  170  761   0   0   0  48,990
 B_Andrews         22 eng  1 22 16 13 59  300  119   10  256   0   0   0  34,156
 De_Passa          32 esp  1 22 15  5 32  300  908  444  492   0   0   0  30,658
 L_Graham          22 sco  1 21  8 13  4  300  549  479   46   0   0   0  13,304
@@ -24,6 +25,7 @@ Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass          
 T_Marras           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Navarra          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 M_Helio            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_Ulrey            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 B_Andrews          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 De_Passa           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 L_Graham           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
