@@ -6,12 +6,12 @@ DF E_Gheorghe
 DF T_Niculaie
 DF T_Kucek
 DF C_Ganea
-DF M_Petri
+DF L_Voiculescu
 DM J_Byrn
 DM D_Vasiliu
-MF T_Balescu
+FW O_Radacanu
 FW P_Muresanu
-FW J_Caragiale
+FW M_Burtnett
 
 GK D_Goldis
 DF C_Filipescu
@@ -19,13 +19,12 @@ DF N_Teodorescu
 DF J_Pavlenco
 FW V_Baicu
 
-PK: M_Petri
+PK: P_Muresanu
 
-SUB 9 15 DM IF MIN = 55
-SUB 3 13 DF IF MIN = 65
-CHANGEPOS 15 MF IF MIN = 70
+SUB 3 13 DF IF MIN = 63
+SUB 11 16 FW IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 72 SCORE >= 2
+TACTIC P IF SCORE >= 2
