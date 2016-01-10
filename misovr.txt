@@ -7,7 +7,7 @@ G_C_Moore       23 DF 21/16/15  38   5  38  28  25  26  32 |  45   4/  4 ||  49 
 R_Figueiredo    26 DF 24/16/13  40   6  40  29  25  26  31 |  44   6/  6 ||  49 ||  36     34 MF  41     36 AM  42     40     35 DM       
 J_Latal         30 DF 16/24/16  39  12  39  33  32  33  38 |  38  10/ 10 ||  47 ||  38 MF  35 MF  40 FW  40 AM  37     39     40 MF       
 M_Tensfeldt     25 DF 21/15/15  37   2  37  27  24  25  32 |  43   3/  3 ||  46 ||  34     32 MF  39     34 AM  39     37     32 DM       
-C_Yastrzemski   27 FW  6/24/16  36   2  29  28  30  31  36 |  40   7/  7 ||  46 ||  33 MF  28 AM  40     34 AM  29 AM  36     38 MF       
+C_Yastrzemski   27 FW  6/24/16  36   2  29  28  30  31  36 |  40   7/  7 ||  46 ||  33 MF  28 AM  40     34 AM  29 MF  36     38 MF       
 D_Bledsoe       27 DF 17/19/15  36   2  36  29  27  28  34 |  38   5/  5 ||  43 ||  33 MF  32 MF  37     35 AM  36     36     34 MF       
 Q_Bonnette      20 GK    21     32  32   2   2   2   2   2 |  40   0/  2 ||  42 ||  32     32     32     32     32     32     32      R r 
 O_Aguilar       28 FW  4/22/18  36   2  26  25  28  30  36 |  37   6/  6 ||  42 ||  32 AM  26 AM  41     32 AM  30     36     36 MF       
@@ -428,7 +428,7 @@ C_de_Vil        22 DF 17/19/ 5  33   3  33  27  25  23  24 |  39   0/  0 ||  39 
 P_Fox           16 DF 14/ 7/ 7  21   2  21  15  12  13  16 |  38 -11/ -3 ||  38 ||  20     19     22     19     23     21     19        r  5m
 Kiki_Cortez     20 FW  5/14/17  29   2  21  19  20  22  29 |  38  -2/  0 ||  38 ||  25     21 AM  35     27     27     29     27 AM     r  1.5m
 Julio_Romero    27 FW  9/21/13  31   3  29  26  27  27  31 |  35   3/  3 ||  38 ||  30 MF  26 MF  33     31 AM  27 MF  31     34 MF        2m
-Willy_Wonka     16 FW  4/14/ 8  20   2  17  16  17  17  20 |  37  -8/  0 ||  37 ||  19 MF  16 MF  21 AM  19 AM  16 MF  20     22 MF     r  5m
+Willy_Wonka     16 FW  4/14/ 8  20   2  17  16  17  17  20 |  37  -8/  0 ||  37 ||  19 MF  16 MF  21     19 AM  16 MF  20     22 MF     r  5m
 T_Burgess       21 DF 19/ 8/10  28   2  28  19  15  16  21 |  37  -4/ -4 ||  37 ||  27     25     30     26     31     28     25        r 
 Le_Tex          20 DF 19/ 9/ 5  27   2  27  19  15  14  17 |  36  -6/ -4 ||  36 ||  25     25     26     25     28     27     24        r 
 U_Plonka        20 DF 17/ 6/11  25   2  25  16  13  14  20 |  36  -6/ -4 ||  36 ||  24     22     27     23     30     25     23        r  1m
@@ -456,7 +456,7 @@ K_Prescott      29 DF 23/19/15  43   8  43  33  30  33  35 |  43   7/  7 ||  50 
 P_Litto         27 DF 24/16/15  42  12  42  30  27  31  33 |  44   7/  7 ||  51 ||  37     35 MF  42     37 AM  43     41     35 DM       
 O_Aguilar       28 FW  4/22/18  41   2  28  33  36  39  41 |  37   6/  6 ||  42 ||  32 AM  26 AM  41     32 AM  30     36     36 MF       
 R_Figueiredo    26 DF 24/16/13  41   6  41  29  26  29  30 |  44   6/  6 ||  49 ||  36     34 MF  41     36 AM  42     40     35 DM       
-C_Yastrzemski   27 FW  6/24/16  40   2  30  34  36  39  40 |  40   7/  7 ||  46 ||  33 MF  28 AM  40     34 AM  29 AM  36     38 MF       
+C_Yastrzemski   27 FW  6/24/16  40   2  30  34  36  39  40 |  40   7/  7 ||  46 ||  33 MF  28 AM  40     34 AM  29 MF  36     38 MF       
 J_Latal         30 FW 16/24/16  40  12  39  36  36  39  40 |  38  10/ 10 ||  47 ||  38 MF  35 MF  40     40 AM  37 DF  39 DF  40 MF       
 G_C_Moore       23 DF 21/16/15  39   5  39  29  27  31  33 |  45   4/  4 ||  49 ||  34     33 MF  39     35 AM  40     38     33 DM       
 M_Tensfeldt     25 DF 21/15/15  39   2  39  29  26  30  32 |  43   3/  3 ||  46 ||  34     32 MF  39     34 AM  39     37     32 DM       
@@ -465,7 +465,7 @@ A_Boerkel       22 FW  8/ 9/21  37   2  28  24  25  32  37 |  39  -1/ -1 ||  38 
 D_Bledsoe       27 DF 17/19/15  37   2  37  31  30  33  35 |  38   5/  5 ||  43 ||  33 MF  32 MF  37     35 AM  36     36     34 MF       
 P_Deegan        24 FW 11/ 8/21  37   2  30  24  24  31  37 |  37   0/  0 ||  37 ||  29     23     37     31     32     30     26          
 C_Bannell       26 FW  3/19/14  33   2  23  27  30  32  33 |  33   0/  0 ||  33 ||  27 AM  21 AM  33     26 AM  24 AM  29     30 MF       
-Khamirutzox     27 DF 23/12/ 6  32   9  32  20  17  17  17 |  36   0/  0 ||  36 ||  31     31     32     31     34     34     29          
+Khamirutzox     27 DF 23/12/ 6  32   9  32  20  17  17  17 |  36   0/  0 ||  36 ||  31     31     32     31     34     34     29 DM       
 B_Schweig       25 DF 20/11/ 8  31   2  31  20  17  19  19 |  35  -3/ -3 ||  32 ||  28     27     31     28     32     31     27          
 T_Helms         22 GK    20     30  30   2   2   2   2   2 |  37  -1/ -1 ||  36 ||  30     30     30     30     30     30     30          
 C_de_Vil        22 DF 17/19/ 5  29   3  29  25  23  22  20 |  39   0/  0 ||  39 ||  29 DM  29 MF  29     30 DM  28     33     32 DM       
@@ -503,21 +503,22 @@ FW Camelino
 
 GK T_Helms
 DF Khamirutzox
-DF C_de_Vil
-FW C_Bannell
+DF B_Schweig
+DF Tarildo
 FW A_Boerkel
 
 SUB GK T_Helms GK IF INJURED GK
 SUB DF Khamirutzox DF IF INJURED DF
-SUB DM C_Bannell DM IF INJURED DM
-SUB MF C_Bannell MF IF INJURED MF
-SUB AM C_Bannell AM IF INJURED AM
+SUB DM Tarildo DM IF INJURED DM
+SUB MF Tarildo MF IF INJURED MF
+SUB AM Tarildo AM IF INJURED AM
 SUB FW A_Boerkel FW IF INJURED FW
 
-SUB D_Bledsoe C_de_Vil DM IF MIN = 65
-SUB M_Tensfeldt Khamirutzox DF IF MIN = 78
+SUB M_Tensfeldt Khamirutzox DF IF MIN = 50
+SUB D_Bledsoe Tarildo DM IF MIN = 65
+SUB G_C_Moore B_Schweig DF IF MIN = 90
 TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
+TACTIC P IF MIN >= 65 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 44 SCORE >= 2
@@ -576,8 +577,8 @@ FW D_Dillinger
 
 GK A_Kapustov
 DF I_Yolkin
+DM Q_Bolbat
 DM D_Wathen
-MF P_Prosser
 FW A_Belousov
 
 SUB GK A_Kapustov GK IF INJURED GK
@@ -587,15 +588,12 @@ SUB MF D_Wathen MF IF INJURED MF
 SUB AM D_Wathen AM IF INJURED AM
 SUB FW A_Belousov FW IF INJURED FW
 
-CHANGEPOS C_Parry AM IF MIN = 45
-CHANGEPOS D_Tikhomirov MF IF MIN = 55
-CHANGEPOS C_Parry MF IF MIN = 65
-SUB J_Pichugin D_Wathen DM IF MIN = 70
-SUB S_Dobre I_Yolkin DF IF MIN = 87
-CHANGEPOS C_Parry AM IF MIN = 90
+SUB J_Pichugin Q_Bolbat DM IF MIN = 48
+SUB C_Owen D_Wathen DM IF MIN = 81
+CHANGEPOS C_Parry MF IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC C IF MIN >= 55 SCORE = 1
-TACTIC D IF MIN >= 49 SCORE >= 2
+TACTIC C IF MIN >= 48 SCORE = 1
+TACTIC D IF MIN >= 48 SCORE >= 2
 
