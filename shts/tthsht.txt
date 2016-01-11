@@ -7,25 +7,24 @@ DF M_Richards
 DF M_Twaddle
 DM S_Howey
 DM Doriva
+MF S_Perrotta
 MF A_Johnson
 MF J_Jurado
 MF L_Robert
-MF A_Parada
 FW Diaviera
 
 GK J_Hunter
 DF A_Pereira
-AM Djalma_Santos
+MF A_Parada
 FW Hugo_Sanchez
 FW M_De_Cala
 
 PK: Diaviera
 
-SUB 5 14 MF IF MIN = 55
-SUB 3 13 DF IF MIN = 60
-SUB 7 15 FW IF MIN = 78
-TACTIC A IF MIN >= 66 SCORE <= -2
-TACTIC P IF MIN >= 78 SCORE = -1
+SUB 10 14 MF IF MIN = 36
+SUB 9 15 FW IF MIN = 90
+TACTIC A IF MIN >= 51 SCORE <= -2
+TACTIC P IF MIN >= 42 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC L IF MIN >= 55 SCORE = 1
-TACTIC L IF MIN >= 35 SCORE >= 2
+TACTIC D IF MIN >= 40 SCORE = 1
+TACTIC D IF MIN >= 21 SCORE >= 2
