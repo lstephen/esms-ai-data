@@ -2,15 +2,14 @@ Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
 L_Tsaritsyn       19 rus 14  1  1  1 33  566  300  300  300   0   0   0     300
 P_Napolitano      19 ita 14  1  1  1 21  322  300  300  300   0   0   0     300
-B_Friedel         16 usa 12  1  1  1 56  897  300  300  300   0   0   0     140
+B_Friedel         16 usa 13  1  1  1 56  897  300  300  300   0   0   0     140
 N_Novoseltsev     20 rus  1 17  4 10  4  288  787  892  301   0   0   0   1,905
 L_Sheremetyev     20 rus  1 17  6  5  4  300  217  596  744   0   0   0   1,881
 B_Ankudinov       20 rus  1 16  7  4  4  300  662  210  421   0   0   0   1,253
 M_Makimushkin     19 rus  1 15 13  7  3  300  140  825   44   0   0   0     828
-Q_Nikitin         20 rus  1 15  8  7 26  300  997  553  146   0   0   0     700
 P_Markov          18 rus  1 14  7 10  5  300  802  523  272   0   0   0     486
 G_Doherty         18 irl  1 14  4  8 40  300  578  635  418   0   0   0     414
-G_Frolov          19 rus  1 14  6  4 30  300  752   73  588   0   0   0     416
+M_Jaime           17 BRA  1 13  6  6 53  300  711  701  270   0   0   0     295
 A_Sokoloff        20 rus  1 16 17 13 18  300   94  298  957   0   0   0   2,845
 E_Zolnerowich     20 rus  1  5 17 10  9  300   11    2  891   0   0   0   2,161
 E_Alkaev          20 rus  1 12 16 15 24  300  401  858  567   0   0   0   1,816
@@ -19,7 +18,7 @@ V_Petrov          18 rus  1 10 15  8 30  300  631  169  701   0   0   0     763
 I_Rumyantsev      19 rus  1  7 15  4 23  300  793  235  513   0   0   0     639
 M_Hazard          18 eng  1  5 14  5 51  300  431  598  456   0   0   0     406
 T_Venables        17 eng  1  6 13  4 36  300  455  804  490   0   0   0     283
-T_Sherwood        16 eng  1  5 12  5 36  300  973  286  747   0   0   0     197
+T_Sherwood        16 eng  1  7 12  5 36  300  973  286  747   0   0   0     197
 T_Plutin          20 rus  1 10  7 17 21  300  400  726  324   0   0   0   2,115
 Q_Osinov          20 rus  1 10  6 16 19  300  806  120  634   0   0   0   1,341
 L_Tershchenko     19 rus  1  4 10 15 12  300   63  544  745   0   0   0     715
@@ -37,10 +36,9 @@ N_Novoseltsev      DF   0   0    0   0   0   0   0   0   0   0   0   0          
 L_Sheremetyev      DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 B_Ankudinov        DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 M_Makimushkin      DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-Q_Nikitin          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Markov           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 G_Doherty          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-G_Frolov           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_Jaime            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 A_Sokoloff         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 E_Zolnerowich      MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 E_Alkaev           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
