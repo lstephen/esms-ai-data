@@ -1,43 +1,43 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-X_Jesus           19 esp 14  1  1  1  3  374  300  300  300   0   0   0     300
-C_Luque           17 arg 12  1  1  1 28  467  300  300  300   0   0   0     140
-Junior            19 bra  1 16  7  4 23  300  277  362  719   0   0   0   1,253
-H_Montagnani      19 esp  1 15  6  7 12  300  530  118  771   0   0   0     649
-U_Casagrande      20 ita  1 15  6  5 14  300  285  746   85   0   0   0     625
-F_Brescia         18 ita  1 14  2  9  9  300  451  916  905   0   0   0     386
-X_Queiroz         19 bra  1 14  5  7 10  300   56  308  399   0   0   0     423
-B_Fedorov         17 UKR  1 13 12 12 18  300  101  553  819   0   0   0     391
-J_Charlton        16 eng  1 12  4  7  5  300  974  889  599   0   0   0     177
-S_Francisco       20 bra  1  2 17  5  6  300  895  591  769   0   0   0   1,712
-X_Alberto         20 esp  1  5 16  9 23  300  631  928  723   0   0   0   1,372
-K_Nunez           18 arg  1  7 14  5  6  300  267   22  712   0   0   0     443
-B_Bremner         18 sco  1  5 14  8 23  300  400  426  209   0   0   0     461
-A_Josimar         17 bra  1  7 13  8 66  300  185   90  340   0   0   0     327
-H_Ayala           17 ecu  1  5 13  9  3  300  905  119  321   0   0   0     328
-F_Orsi            20 ita  1  8  6 16  3  300  456  623  835   0   0   0   1,296
-F_Castro          20 hon  1  4  8 15 32  300  323  235  547   0   0   0     664
-P_Lorimer         17 sco  1  4  7 13  6  300  971  745  313   0   0   0     283
+X_Jesus           19 esp 14  1  1  1  3  448  300  300  300   0   0   0     300
+C_Luque           17 arg 12  1  1  1 28  517  300  300  300   0   0   0     140
+Junior            19 bra  1 16  7  4 23  300  352  418  759   0   0   0   1,253
+H_Montagnani      19 esp  1 15  6  7 12  300  576  151  814   0   0   0     649
+U_Casagrande      20 ita  1 15  6  5 14  300  331  789  112   0   0   0     625
+F_Brescia         18 ita  1 14  2  9  9  300  514  949  948   0   0   0     386
+X_Queiroz         19 bra  1 14  5  7 10  300  102  335  442   0   0   0     423
+J_Charlton        16 eng  1 13  4  7  5  300   84  929  655   0   0   0     177
+B_Fedorov         17 UKR  1 13 12 12 18  300  157  619  846   0   0   0     391
+S_Francisco       20 bra  1  2 17  5  6  300  922  643  812   0   0   0   1,712
+X_Alberto         20 esp  1  5 16  9 23  300  658  974  766   0   0   0   1,372
+K_Nunez           18 arg  1  7 14  5  6  300  310   73  759   0   0   0     443
+B_Bremner         18 sco  1  5 14  8 23  300  440  525  285   0   0   0     461
+A_Josimar         17 bra  1  7 13  8 66  300  212  136  383   0   0   0     327
+H_Ayala           17 ecu  1  5 13  9  3  300  932  165  364   0   0   0     328
+F_Orsi            20 ita  1  8  6 16  3  300  499  650  884   0   0   0   1,296
+F_Castro          20 hon  1  4  8 15 32  300  350  278  593   0   0   0     664
+P_Lorimer         17 sco  1  4  7 13  6  300  998  788  372   0   0   0     283
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-X_Jesus            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-C_Luque            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-Junior             DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-H_Montagnani       DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+X_Jesus            GK   1   0   70   0   3   0   0   0   0   0   0   0                 -
+C_Luque            GK   1   1   27   0   1   0   0   0   0   0   0   0                 -
+Junior             DF   1   0   97   0   0   0   0   0   0   0   0   0                 -
+H_Montagnani       DF   1   0   97   0   0   0   0   0   1   0   0   0                 -
 U_Casagrande       DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-F_Brescia          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-X_Queiroz          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-B_Fedorov          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-J_Charlton         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-S_Francisco        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+F_Brescia          DF   1   0   97   0   0   0   0   1   1   0   0   0                 -
+X_Queiroz          DF   1   1   17   0   0   0   0   0   0   0   0   0                 -
+J_Charlton         DF   1   0   97   0   0   0   0   3   0   0   0   0                 -
+B_Fedorov          DF   1   0   97   0   0   0   0   0   0   0   0   1                 -
+S_Francisco        MF   1   0   97   0   0   0   0   0   1   0   0   0                 -
 X_Alberto          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-K_Nunez            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-B_Bremner          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
+K_Nunez            MF   1   0   97   0   0   0   0   0   0   1   1   0                 -
+B_Bremner          MF   1   0   97   1   0   0   0   0   2   1   1   1                 -
 A_Josimar          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 H_Ayala            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-F_Orsi             FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+F_Orsi             FW   1   0   80   0   0   0   0   0   0   1   0   0                 -
 F_Castro           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
-P_Lorimer          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+P_Lorimer          FW   1   0   97   0   0   0   0   0   0   1   0   0                 -
