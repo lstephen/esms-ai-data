@@ -8,24 +8,24 @@ DF K_Hartell
 DF S_Gehring
 DF M_DeFree
 DM C_Begbie
-DM E_Jones
 DM Campbundo
 AM Babybinho
+AM Kiko_Pogona
 FW L_Suvillaga
 
 GK B_Sefton
 DF L_Tenant
-FW Kiko_Pogona
+FW C_Massanet
 FW Q_Gehrken
 FW P_Rynne
 
 PK: M_DeFree
 
-SUB 6 16 DF IF MIN = 60
-SUB 11 14 FW IF MIN = 65
-SUB 3 13 DF IF MIN = 87
+SUB 6 16 DF IF MIN = 45
+SUB 7 14 AM IF MIN = 65
+SUB 2 13 DF IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 29 SCORE >= 2
+TACTIC C IF MIN >= 26 SCORE = 1
+TACTIC D IF MIN >= 41 SCORE >= 2
