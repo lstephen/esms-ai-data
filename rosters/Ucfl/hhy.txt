@@ -1,49 +1,49 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-T_Morello         19 ita 14  1  1  1 40  792  300  300  300   0   0   0     300
-O_Schulz          17 ger 13  1  1  1  4  365  300  300  300   0   0   0     200
-R_Jonquet         19 fra  1 16 13  5  7  300  905  803  155   0   0   0   1,563
-J_Storm           18 mlt  1 15 10  5 14  300  762  501  882   0   0   0     727
-M_Carrizo         18 arg  1 14  9  5  7  300  723  799   39   0   0   0     479
-K_De_Santis       16 ITA  1 11  6  5  4  300  999  752  306   0   0   0     TBC
-D_Rocheteau       19 fra  1  9 17 14  3  300  133  209  562   0   0   0   2,572
-M_Pinel           19 fra  1 13 16  6 51  300  436  394   80   0   0   0   1,585
-R_Girard          18 fra  1  7 15  4 37  300  952  400  110   2   0   0     639
-J_Vazquez         19 uru  1  9 15  3 24  300  286  675  809   0   0   0     678
-L_Muller          19 fra  1  4 14  7 13  300  280  611  860   0   0   0     434
-J-M_Guillou       19 fra  1  7 14 13 22  300  769  574  153   0   0   0     569
-V_Kelmendi        17 ALB  1  5 13 10 51  300  576  880  232   0   0   0     TBC
-F_Pedro           17 ESP  1  5 13  4 26  300  330  909  136   0   0   0     TBC
-Q_Flavio          20 bra  1  9 13 17 11  300  263  635  997   0   0   0   2,502
-O_Rouyer          20 fra  1  5  8 16 36  300  983   48  357   0   0   0   1,324
-W_Smith           19 eng  1  3  6 15  7  300  495  739  703   0   0   0     601
-J_Papageorgiou    18 gre  1  3  9 14  6  300   36  132  994   0   0   0     462
-G_Soler           19 fra  1  8  9 14  9  300  147  739  634   0   0   0     505
-M_Paris           17 ita  1  7  7 13 25  300  134  388  984   0   0   0     314
-Q_Prosperi        17 ITA  1  7  7 13 30  300  433  810  526   0   0   0     TBC
+T_Morello         19 ita 14  1  1  1 40  838  300  300  300   0   0   0     300
+O_Schulz          17 ger 13  1  1  1  4  411  300  300  300   0   0   0     200
+R_Jonquet         19 fra  1 16 13  5  7  300  951  864  190   0   0   0   1,563
+J_Storm           18 mlt  1 15 10  5 14  300  825  562  910   0   0   0     727
+M_Carrizo         18 arg  1 14  9  5  7  300  764  838   69   0   0   0     479
+K_De_Santis       16 ITA  1 12  6  5  4  300   45  795  333   0   0   0     TBC
+D_Rocheteau       19 fra  1  9 17 14  3  300  185  309  660   0   0   0   2,572
+M_Pinel           19 fra  1 13 16  6 51  300  492  482  121   0   0   0   1,585
+R_Girard          18 fra  1  7 15  4 37  300  995  451  138   2   0   0     639
+J_Vazquez         19 uru  1  9 15  3 24  300  329  739  836   0   0   0     678
+L_Muller          19 fra  1  4 14  7 13  300  307  669  946   0   0   0     434
+J-M_Guillou       19 fra  1  7 14 13 22  300  796  620  196   0   0   0     569
+V_Kelmendi        17 ALB  1  5 13 10 51  300  603  926  275   0   0   0     TBC
+F_Pedro           17 ESP  1  5 13  4 26  300  373  955  163   0   0   0     TBC
+Q_Flavio          20 bra  1  9 13 18 11  300  290  701   53   0   0   0   2,502
+O_Rouyer          20 fra  1  6  8 16 36  300   23  110  439   0   0   0   1,324
+J_Papageorgiou    18 gre  1  3  9 15  6  300   63  175   40   0   0   0     462
+W_Smith           19 eng  1  3  6 15  7  300  522  782  749   0   0   0     601
+M_Paris           17 ita  1  7  7 14 25  300  177  415   30   0   0   0     314
+G_Soler           19 fra  1  8  9 14  9  300  174  782  680   0   0   0     505
+Q_Prosperi        17 ITA  1  7  7 13 30  300  476  837  572   0   0   0     TBC
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-T_Morello          GK   1   0   96   0   4   2   0   0   0   0   0   0                 -
+T_Morello          GK   2   0  190   0   6   4   0   0   0   0   0   0                 -
 O_Schulz           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-R_Jonquet          DF   1   0   96   0   0   0   0   2   2   2   0   0                 -
-J_Storm            DF   1   0   96   0   0   0   0   1   0   1   0   0                 -
-M_Carrizo          DF   1   0   96   0   0   0   0   3   1   1   0   0                 -
+R_Jonquet          DF   2   0  190   0   0   0   0   2   5   6   0   0                 -
+J_Storm            DF   2   0  190   0   0   0   0   2   3   2   0   0                 -
+M_Carrizo          DF   2   0  190   0   0   0   0   3   2   2   0   0                 -
 K_De_Santis        DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-D_Rocheteau        MF   1   0   11   0   0   0   0   0   0   0   0   0                 -
-M_Pinel            MF   1   0   96   0   0   0   0   4   1   1   0   0                 -
-R_Girard           MF   1   0   96   0   0   0   0   0   1   0   0   0                 -
-J_Vazquez          MF   1   0   96   0   0   0   0   0   0   1   0   0                 -
-L_Muller           MF   1   0   96   0   0   0   0   0   2   1   0   0                 -
+D_Rocheteau        MF   2   0  105   1   0   0   0   1   3   4   2   1                 -
+M_Pinel            MF   2   0  190   0   0   0   0   4   2   2   0   1                 -
+R_Girard           MF   2   0  190   0   0   0   0   0   1   1   0   0                 -
+J_Vazquez          MF   2   0  190   0   0   0   0   0   3   1   0   0                 -
+L_Muller           MF   2   0  190   0   0   0   0   0   4   4   2   0                 -
 J-M_Guillou        MF   1   1   85   0   0   0   0   0   3   0   0   0                 -
 V_Kelmendi         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 F_Pedro            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-Q_Flavio           FW   1   0   96   0   0   0   0   0   0   4   1   0                 -
-O_Rouyer           FW   1   0   96   0   0   0   0   0   0   3   0   0                 -
-W_Smith            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+Q_Flavio           FW   2   0  190   0   0   0   0   0   0   8   1   1                 -
+O_Rouyer           FW   2   0  190   0   0   0   0   0   1   7   1   0                 -
 J_Papageorgiou     FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
-G_Soler            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+W_Smith            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 M_Paris            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+G_Soler            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Prosperi         FW   0   0    0   0   0   0   0   0   0   0   0   0                 -

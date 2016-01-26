@@ -1,55 +1,55 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-U_Petre           31 mlt 26  1  1  1 15  303  300  300  300   0   0   0 120,000
-A_Thepot          21 fra 18  1  1  1 13  848  300  300  300   0   0   0   2,100
-J_Fernando        28 esp  1 26  8  9 14  300  251  128  170   0   0   0 162,230
-H_Danukas         23 ltu  1 23 13  9 28  300  960  478  700   2   0   0  56,973
-B_Serafini        25 ita  1 22 20  4 33  300  499  501  667   0   0   0  33,983
-S_Tipaldi         22 ita  1 21 18 12 13  300  607   37  257   0   0   0  16,698
-W_Harris          21 wal  1 18 11  8 10  300  605  950  216   0   0   0   3,417
-M_Bossis          19 fra  1 17 10  5 25  300  470  890  234   0   0   0   2,091
-E_McCaulder       26 sco  1 17 24  7 35  300  630  166   51   0   0   0  96,666
-B_Galindo         27 ita  1  8 24  9  4  300  801  555  118   0   0   0  81,199
-L_Aguero          22 esp  1 11 22 19 20  300   86  570  908   0   0   0  35,667
-J_Francisco       22 cyp  1 18 21  7  3  300  120  500  378   0   0   0  15,860
+U_Petre           31 mlt 26  1  1  1 15  146  300  300  300   0   0   0 120,000
+A_Thepot          21 fra 18  1  1  1 13  894  300  300  300   0   0   0   2,100
+J_Fernando        28 esp  1 26  8  9 14  300  308  139  170   0   0   0 162,230
+H_Danukas         23 ltu  1 23 13  9 28  300  991  494  703   2   0   0  56,973
+B_Serafini        25 ita  1 22 20  4 33  300  556  501  667   0   0   0  33,983
+S_Tipaldi         22 ita  1 21 18 12 13  300  620   47  262   0   0   0  16,698
+W_Harris          21 wal  1 18 11  8 10  300  651  993  243   0   0   0   3,417
+M_Bossis          19 fra  1 17 10  5 25  300  559  944  264   0   0   0   2,091
+E_McCaulder       26 sco  1 17 24  7 35  300  623  151   25   0   0   0  96,666
+B_Galindo         27 ita  1  8 24  9  4  300  801  566  118   0   0   0  81,199
+L_Aguero          22 esp  1 11 22 19 20  300  110  631  930   0   0   0  35,667
+J_Francisco       22 cyp  1 18 21  7  3  300  142  524  357   0   0   0  15,860
 P_Klimovich       24 blr  1  7 21 13 12  300  208  657  816   0   0   0  14,079
 A_Asanovic        26 cro  1 12 21 16 36  300  734  748  136   0   0   0  15,985
-L_Chavez          21 bol  1  4 19 11  7  300  648   82  332   0   0   0   4,833
-Q_Borges          21 uru  1  3 18 11 24  300  374  794  564   0   0   0   3,184
-T_Ngcobo          22 wal  1 13 18  7  4  300  741  525  947   0   0   0   3,570
-T_Yeboah          22 gha  1  7 19 24 17  300  505  410  840   0   6   0     TBC
-M_Modica          24 ita  1  6 18 24 43  300  791  619  665   0   0   0  97,753
-R_Frigerio        29 esp  1 16 10 24 13  300  933  796   33   0   0   0  90,987
+L_Chavez          21 bol  1  4 19 11  7  300  675  128  375   0   0   0   4,833
+Q_Borges          21 uru  1  3 18 11 24  300  401  840  607   0   0   0   3,184
+T_Ngcobo          22 wal  1 13 18  7  4  300  751  538  952   0   0   0   3,570
+T_Yeboah          22 gha  1  7 19 24 17  300  510  420  853   0   5   0     TBC
+M_Modica          24 ita  1  6 18 24 43  300  791  630  683   0   0   0  97,753
+R_Frigerio        29 esp  1 16 10 24 13  300  933  796   51   0   0   0  90,987
 C_Dugarry         26 fra  1 17 13 22 19  300  333  914   96   0   0   0  33,336
-K_Tinorua         22 fra  1  7 15 21 37  300  739  973  566   0   0   0  14,791
-R_De_Santis       21 ita  1  9  7 18  3  300  278  584   92   0   0   0   3,068
-L_Weller          21 ger  1  7 10 17 34  300  747  678  415   0   0   0   2,227
+K_Tinorua         22 fra  1  7 15 21 37  300  744  983  579   0   0   0  14,791
+R_De_Santis       21 ita  1  9  7 18  3  300  321  611  138   0   0   0   3,068
+L_Weller          21 ger  1  7 10 17 34  300  774  721  461   0   0   0   2,227
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-U_Petre            GK   1   0   96   0   9   1   0   0   0   0   0   0                 -
+U_Petre            GK   2   0  192   0  12   3   0   0   0   0   0   0                 -
 A_Thepot           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-J_Fernando         DF   1   0   96   0   0   0   0   1   0   0   0   0                 -
-H_Danukas          DF   1   0   96   0   0   0   0   1   0   2   0   0      On_Loan(gal)
-B_Serafini         DF   1   0   96   0   0   0   0   4   2   0   0   1                 -
+J_Fernando         DF   2   0  192   0   0   0   0   4   1   0   0   0                 -
+H_Danukas          DF   2   0  192   0   0   0   0   2   1   2   0   0      On_Loan(gal)
+B_Serafini         DF   2   0  192   0   0   0   0   7   2   0   0   1                 -
 S_Tipaldi          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 W_Harris           DF   1   1   13   0   0   0   0   0   0   0   0   0                 -
-M_Bossis           DF   1   0   63   0   0   0   0   0   0   0   0   0                 -
-E_McCaulder        MF   1   0   96   0   0   0   0   3   5   2   0   0                 -
-B_Galindo          MF   1   0   96   0   0   0   0   1   4   1   0   0                 -
-L_Aguero           MF   1   0   96   1   0   0   0   0   2   8   2   0      On_Loan(int)
-J_Francisco        MF   1   0   83   0   0   0   0   1   1   2   0   0                 -
+M_Bossis           DF   2   0  128   0   0   0   0   1   1   1   0   0                 -
+E_McCaulder        MF   2   0  192   0   0   0   0   4   6   2   0   0                 -
+B_Galindo          MF   2   0  192   0   0   0   0   1   5   1   0   0                 -
+L_Aguero           MF   2   0  192   1   0   0   0   1   5  10   2   0      On_Loan(int)
+J_Francisco        MF   2   0  179   0   0   0   0   3   3   2   0   0                 -
 P_Klimovich        MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 A_Asanovic         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 L_Chavez           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Borges           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 T_Ngcobo           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 T_Yeboah           FW   1   0   70   0   0   0   0   0   0   2   0   0                 -
-M_Modica           FW   1   0   96   0   0   0   0   0   1   2   0   0      On_Loan(gal)
-R_Frigerio         FW   1   1   33   0   0   0   0   1   0   2   0   0                 -
-C_Dugarry          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
+M_Modica           FW   2   0  192   0   0   0   0   0   2   6   0   0      On_Loan(gal)
+R_Frigerio         FW   2   1  129   0   0   0   0   1   0   4   0   0                 -
+C_Dugarry          FW   1   1   31   0   0   0   0   0   0   0   0   0                 -
 K_Tinorua          FW   1   1   26   0   0   0   0   0   0   0   0   0                 -
 R_De_Santis        FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 L_Weller           FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
