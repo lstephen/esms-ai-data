@@ -2,30 +2,30 @@ tth
 C
 
 GK R_Ceni
-DF A_Wisdom
 DF M_Richards
 DF A_Pereira
+DF M_Twaddle
 DM S_Howey
 DM Doriva
 MF S_Perrotta
 MF A_Johnson
 MF L_Robert
-MF A_Parada
+MF S_Defour
 FW Diaviera
 
 GK J_Hunter
+MF A_Parada
 AM Djalma_Santos
-AM S_Defour
-FW M_Twaddle
+AM P_McStay
 FW Hugo_Sanchez
 
 PK: Diaviera
 
-SUB 8 14 MF IF MIN = 45
-SUB 9 13 MF IF MIN = 55
-SUB 11 16 FW IF MIN = 84
-TACTIC E IF MIN >= 5 SCORE <= -2
-TACTIC E IF MIN >= 9 SCORE = -1
+SUB 7 13 MF IF MIN = 63
+SUB 11 16 FW IF MIN = 81
+SUB 6 14 MF IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 39 SCORE = 1
-TACTIC D IF MIN >= 20 SCORE >= 2
+TACTIC D IF MIN >= 42 SCORE = 1
+TACTIC L IF MIN >= 41 SCORE >= 2
