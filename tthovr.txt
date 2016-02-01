@@ -1,14 +1,14 @@
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 Doriva          18 DF 18/20/ 9  36   3  36  31  27  27  29 |  58   2/  8 ||  66 ||  32 DM  35 MF  33     33 DM  43 MF  36     35 DM     r 
 I_Muresanu      14 DF 17/ 7/ 6  24   5  24  18  13  14  16 |  55  -7/  7 ||  62 ||  22     24 MF  24     22     33 MF  24     21 DM   R r 
-D_Hasdeu        14 FW  7/14/10  22   3  21  18  18  20  22 |  54 -10/  3 ||  57 ||  21 AM  20 MF  24 AM  21 AM  24 MF  22     23 MF   R r 
+D_Hasdeu        14 FW  7/14/10  22   3  21  18  18  20  22 |  54 -10/  3 ||  57 ||  21 AM  20 MF  24     21 AM  24 MF  22     23 MF   R r 
 N_Barbulescu    14 DF 10/14/ 6  22   3  22  20  18  18  19 |  52  -9/  4 ||  57 ||  21 DM  22 MF  21 DM  21 DM  26 MF  22     22 DM   R r 
-A_Wisdom        28 DF 24/20/ 8  41   3  41  34  28  28  29 |  50   7/  7 ||  57 ||  36     41 MF  38     37 DM  51 MF  41     39 DM  S    
+A_Wisdom        28 DF 24/20/ 8  41   3  41  34  28  28  29 |  50   7/  7 ||  57 ||  36     41 MF  38     37 DM  51 MF  41     39 DM       
 R_Ceni          28 GK    29     44  44   6   4   4   7   9 |  54   3/  3 ||  57 ||  44     44     44     44     44     44     44          
 J_Fox           19 DF 13/21/ 8  31   2  31  28  26  26  27 |  53  -1/  4 ||  56 ||  29 DM  31 MF  29 DM  30 DM  35 MF  31     33 MF   R r 
 V_Nicu          14 DF  9/14/ 7  22   5  22  19  18  19  20 |  53 -10/  3 ||  55 ||  20 DM  21 MF  21 AM  20 DM  25 MF  22     23 MF   R r 
 H_Vulcan        16 FW  6/15/12  25   2  21  19  20  22  25 |  51  -9/  3 ||  54 ||  23 AM  20 MF  28     23 AM  24 MF  25     25 MF   R r 
-Ridoutkha       19 DF 14/19/ 6  30   3  30  26  24  24  24 |  50  -2/  3 ||  53 ||  28 DM  30 MF  27 DM  28 DM  34 MF  30     30 DM   R r 
+Ridoutkha       19 DF 14/19/ 6  30   3  30  26  24  24  24 |  50  -2/  2 ||  53 ||  28 DM  30 MF  27 DM  28 DM  34 MF  30     30 DM   R r 
 D_Iacobescu     19 FW  9/17/14  29   2  26  23  23  26  29 |  51  -5/  0 ||  51 ||  27 AM  25 MF  32     27 AM  31 MF  29     29 MF   R r 
 J_Hunter        28 GK    27     41  41   5   4   2   3   3 |  51   0/  0 ||  51 ||  41     41     41     41     41     41     41          
 G_Hutopila      19 FW  9/17/13  28   3  26  23  23  25  28 |  50  -5/ -1 ||  50 ||  26 AM  25 MF  31     26 AM  30 MF  28     29 MF   R r 
@@ -22,7 +22,7 @@ J_Navas         26 FW  6/23/13  32   3  27  26  28  30  32 |  45  -1/ -1 ||  45 
 Djalma_Santos   27 FW  7/23/14  33   2  28  27  28  30  33 |  45   0/  0 ||  45 ||  31 AM  28 MF  37 AM  32 AM  31 MF  33     36 MF       
 Hugo_Sanchez    28 FW  9/15/23  37   3  27  23  23  30  37 |  45   0/  0 ||  45 ||  31 AM  27 AM  44     35     36 MF  37     34 AM       
 S_Howey         28 DF 20/18/ 4  35   3  35  29  24  23  23 |  44   1/  1 ||  45 ||  30 DM  35 MF  31     31 DM  42 MF  35     34 DM     r 
-J_Jurado        30 DF 14/24/ 7  34   2  34  31  29  28  29 |  42   2/  2 ||  45 ||  32 DM  34 MF  32 DM  33 MF  38 MF  34     36 MF  S    
+J_Jurado        30 DF 14/24/ 7  34   2  34  31  29  28  29 |  42   2/  2 ||  45 ||  32 DM  34 MF  32 DM  33 MF  38 MF  34     36 MF       
 J_Piere         22 FW  6/ 7/23  30   2  18  14  14  22  30 |  47  -3/ -3 ||  44 ||  27     22     39     30     33     30     25 AM       
 M_Twaddle       30 DF 20/12/18  34   3  34  27  22  27  32 |  42   2/  2 ||  44 ||  31     34 MF  35     34 FW  48 MF  34     30 DM     r 
 P_Singh         21 FW  9/19/12  29   5  27  24  24  26  29 |  47  -4/ -4 ||  43 ||  27 AM  26 MF  31 AM  27 AM  31 MF  29     31 MF   R r 
@@ -204,13 +204,13 @@ FW H_Vulcan
 ** First XI **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 Doriva          18 DF 18/20/ 9  36   3  36  31  27  27  29 |  58   2/  8 ||  66 ||  32 DM  35 MF  33     33 DM  43 MF  36     35 DM     r 
-A_Wisdom        28 DF 24/20/ 8  41   3  41  34  28  28  29 |  50   7/  7 ||  57 ||  36     41 MF  38     37 DM  51 MF  41     39 DM  S    
+A_Wisdom        28 DF 24/20/ 8  41   3  41  34  28  28  29 |  50   7/  7 ||  57 ||  36     41 MF  38     37 DM  51 MF  41     39 DM       
 R_Ceni          28 GK    29     44  44   6   4   4   7   9 |  54   3/  3 ||  57 ||  44     44     44     44     44     44     44          
 A_Johnson       29 FW  6/24/17  37   3  29  28  30  33  37 |  45   3/  3 ||  48 ||  34 AM  28 MF  41 AM  35 AM  32 MF  37     38 MF       
 Diaviera        31 FW  8/11/27  37   2  24  20  20  29  37 |  45   3/  3 ||  47 ||  33     27     48     37     40     37     32 AM       
 S_Perrotta      33 FW  8/24/18  38   3  31  29  31  34  38 |  42   4/  4 ||  46 ||  35 AM  31 MF  43     36 AM  36 MF  38     39 MF       
 S_Howey         28 DF 20/18/ 4  35   3  35  29  24  23  23 |  44   1/  1 ||  45 ||  30 DM  35 MF  31     31 DM  42 MF  35     34 DM     r 
-J_Jurado        30 DF 14/24/ 7  34   2  34  31  29  28  29 |  42   2/  2 ||  45 ||  32 DM  34 MF  32 DM  33 MF  38 MF  34     36 MF  S    
+J_Jurado        30 DF 14/24/ 7  34   2  34  31  29  28  29 |  42   2/  2 ||  45 ||  32 DM  34 MF  32 DM  33 MF  38 MF  34     36 MF       
 M_Twaddle       30 DF 20/12/18  34   3  34  27  22  27  32 |  42   2/  2 ||  44 ||  31     34 MF  35     34 FW  48 MF  34     30 DM     r 
 M_Richards      26 DF 23/10/ 5  32   3  32  24  17  18  18 |  43   0/  0 ||  43 ||  30     32 DM  31     29     43 MF  32     28 DM       
 L_Robert        31 DF 12/23/10  32   2  32  29  29  29  30 |  41   1/  1 ||  42 ||  31 DM  32 MF  32 AM  32 MF  36 MF  32     36 MF       
@@ -231,9 +231,9 @@ P_McStay        32 FW  7/23/13  32   2  28  27  28  30  32 |  40   0/  0 ||  39 
 ** Reserves XI **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 J_Fox           19 DF 13/21/ 8  31   2  31  28  26  26  27 |  53  -1/  4 ||  56 ||  29 DM  31 MF  29 DM  30 DM  35 MF  31     33 MF   R r 
-Ridoutkha       19 DF 14/19/ 6  30   3  30  26  24  24  24 |  50  -2/  3 ||  53 ||  28 DM  30 MF  27 DM  28 DM  34 MF  30     30 DM   R r 
+Ridoutkha       19 DF 14/19/ 6  30   3  30  26  24  24  24 |  50  -2/  2 ||  53 ||  28 DM  30 MF  27 DM  28 DM  34 MF  30     30 DM   R r 
 D_Iacobescu     19 FW  9/17/14  29   2  26  23  23  26  29 |  51  -5/  0 ||  51 ||  27 AM  25 MF  32     27 AM  31 MF  29     29 MF   R r 
-S_Vagini        21 DF 22/10/ 6  31   2  31  24  17  18  19 |  48  -1/ -1 ||  48 ||  29     31 DM  30     29     42 MF  31     27 DM   R r 
+S_Vagini        21 DF 22/10/ 6  31   2  31  24  17  18  19 |  48  -1/ -1 ||  48 ||  29     31 MF  30     29     42 MF  31     27 DM   R r 
 P_Singh         21 FW  9/19/12  29   5  27  24  24  26  29 |  47  -4/ -4 ||  43 ||  27 AM  26 MF  31 AM  27 AM  31 MF  29     31 MF   R r 
 B_Sagna         25 DF 22/10/ 7  32   3  32  24  17  19  20 |  44   0/  0 ||  43 ||  29     31 MF  31     29     43 MF  32     28 DM   R r 
 S_Irwin         26 DF 21/12/ 8  32   3  32  25  19  21  22 |  43   0/  0 ||  43 ||  29     32 MF  31     29     43 MF  32     29 DM   R r 
@@ -269,7 +269,7 @@ C_Poenaru       22 GK    20     30  30   5   4   4   5   6 |  46 -10/-10 ||  36 
 ** Potentials **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 I_Muresanu      14 DF 17/ 7/ 6  24   5  24  18  13  14  16 |  55  -7/  7 ||  62 ||  22     24 MF  24     22     33 MF  24     21 DM   R r 
-D_Hasdeu        14 FW  7/14/10  22   3  21  18  18  20  22 |  54 -10/  3 ||  57 ||  21 AM  20 MF  24     21 AM  24 MF  22     23 MF   R r 
+D_Hasdeu        14 FW  7/14/10  22   3  21  18  18  20  22 |  54 -10/  3 ||  57 ||  21 AM  20 MF  24 AM  21 AM  24 MF  22     23 MF   R r 
 N_Barbulescu    14 DF 10/14/ 6  22   3  22  20  18  18  19 |  52  -9/  4 ||  57 ||  21 DM  22 MF  21 DM  21 DM  26 MF  22     22 DM   R r 
 V_Nicu          14 DF  9/14/ 7  22   5  22  19  18  19  20 |  53 -10/  3 ||  55 ||  20 DM  21 MF  21 AM  20 DM  25 MF  22     23 MF   R r 
 H_Vulcan        16 FW  6/15/12  25   2  21  19  20  22  25 |  51  -9/  3 ||  54 ||  23 AM  20 MF  28     23 AM  24 MF  25     25 MF   R r 
@@ -281,7 +281,7 @@ Hugo_Sanchez    28 FW  9/15/23  37   3  27  23  23  30  37 |  45   0/  0 ||  45 
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     9    13     0    12     4 
+                       Count     4     9    13     0    13     4 
                          Max    44    36    36    32    35    33 
                   1st XI (N)    44    28    31    31          33 
                   1st XI (P)    44    32    29    30          37 
@@ -292,20 +292,20 @@ PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     
                          Min
                       NORMAL    30    22    20          21    27 
                    DEFENSIVE    30          32    20    27    22 
-                   ATTACKING    30    24    21          21    28 
+                   ATTACKING    30    24    21          21    24 
               COUNTER_ATTACK    30    22    20    27    21    30 
                    LONG_BALL    30                24          33 
                      PASSING    30    22                      22 
-                    EUROPEAN    30          21    23    25    25 
+                    EUROPEAN    30          21    22    25    25 
 
 ** /for_auction.txt **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 S_Romero        14 GK    16     24  24   5   4   4   4   4 |  56 -16/ -3 ||  56 ||  24     24     24     24     24     24     24        r 
 Keeper03        15 GK    16     24  24   4   4   3   4   5 |  54 -16/ -3 ||  54 ||  24     24     24     24     24     24     24        r 
 Keeper04        16 GK    15     23  23   4   3   4   3   4 |  51 -18/ -6 ||  51 ||  23     23     23     23     23     23     23        r 
-A_Kiwi          17 DF 15/ 9/ 6  24   2  24  19  14  15  17 |  49  -8/  1 ||  50 ||  21     23 MF  23     21     31 MF  24     21 DM     r 
 Keeper10        16 GK    14     21  21   5   3   3   4   5 |  49 -19/ -7 ||  49 ||  21     21     21     21     21     21     21        r 
 Keeper12        16 GK    14     21  21   2   2   2   2   2 |  49 -19/ -7 ||  49 ||  21     21     21     21     21     21     21        r 
+A_Kiwi          17 DF 15/ 9/ 6  24   2  24  19  14  15  17 |  49  -8/  1 ||  49 ||  21     23 MF  23     21     31 MF  24     21 DM     r 
 Forward04       19 FW  8/ 8/19  27   2  20  16  15  21  27 |  49  -6/ -2 ||  49 ||  24     20     34     27     29     27     23 AM     r 
 Forward21       20 FW  9/ 8/20  28   3  21  17  15  22  28 |  49  -5/ -4 ||  49 ||  25     22     35     29     31 MF  28     24 AM     r 
 Forward22       20 FW  8/ 7/21  28   5  20  15  14  22  28 |  49  -5/ -2 ||  49 ||  26     22     36     29     31     28     24 AM     r 
@@ -322,12 +322,12 @@ Midfielder17    20 DF  8/21/ 7  26   5  26  24  25  24  25 |  45  -4/ -2 ||  45 
 Defender01      20 DF 18/ 7/ 6  25   5  25  19  13  14  16 |  44  -6/ -5 ||  44 ||  23     25 MF  25     23     34 MF  25     21 DM     r 
 Defender09      20 DF 18/ 7/ 6  25   2  25  19  13  14  16 |  44  -6/ -3 ||  44 ||  23     25 MF  25     23     34 MF  25     21 DM     r 
 Forward18       20 FW  6/ 9/17  25   3  18  15  15  20  25 |  44  -9/ -7 ||  44 ||  22     18 AM  31     25     26     25     23 AM     r 
-Pedro           20 DF  8/18/ 8  24   3  24  22  22  23  24 |  44  -7/ -5 ||  44 ||  23 DM  24 MF  25 AM  24 MF  26 MF  24     28 MF     r 
+Pedro           20 DF  8/18/ 8  24   3  24  22  22  23  24 |  44  -7/ -5 ||  44 ||  23 AM  24 MF  25 AM  24 MF  26 MF  24     28 MF     r 
 Keeper09        29 GK    25     38  38   2   2   2   2   3 |  47  -3/ -3 ||  44 ||  38     38     38     38     38     38     38        r 
 Forward02       20 FW  6/ 7/17  24   3  16  13  13  19  24 |  43  -9/ -7 ||  43 ||  21     18     30     24     25     24     21 AM     r 
 Forward13       20 FW  6/ 7/17  24   5  16  13  13  19  24 |  43  -9/ -8 ||  43 ||  21     18     30     24     25     24     21 AM     r 
 Defender07      20 DF 17/ 6/ 6  23   2  23  17  12  13  15 |  42  -8/ -6 ||  42 ||  22     23 MF  23     22     32 MF  23     20 DM     r 
-Defender11      20 DF 17/ 5/ 7  23   5  23  17  11  13  15 |  42  -8/ -6 ||  42 ||  22     23 MF  23     21     33 MF  23     20        r 
+Defender11      20 DF 17/ 5/ 7  23   5  23  17  11  13  15 |  42  -8/ -6 ||  42 ||  22     23     23     21     33 MF  23     20        r 
 Keeper18        29 GK    24     36  36   6   5   4   4   4 |  45  -4/ -4 ||  41 ||  36     36     36     36     36     36     36        r 
 M_Oakley        30 FW 10/23/12  32   3  31  28  29  30  32 |  41   0/  0 ||  41 ||  31 AM  30 MF  35 AM  31 AM  34 MF  32     36 MF       
 G_Meazza        20 FW  4/ 7/15  21   5  14  12  12  17  21 |  40 -12/ -9 ||  40 ||  18     15     27     21     22     21     19 AM     r 
@@ -425,7 +425,7 @@ Diaviera        31 FW  8/11/27  37   2  24  20  20  29  37 |  45   3/  3 ||  47 
 Defender20      16 DF 13/ 5/ 6  19   2  19  14  10  11  13 |  46 -12/ -2 ||  46 ||  17     18 MF  19     17     26 MF  19     16 DM     r 
 Brandon_Statz   33 GK    27     41  41   7   7   8   8   8 |  46   0/  0 ||  46 ||  41     41     41     41     41     41     41          
 Reinaldo        27 DF 24/10/ 6  33   2  33  25  18  18  20 |  43   1/  1 ||  45 ||  31     33 DM  32     31     45 MF  33     29 DM       
-K_Abrha         30 DF 26/ 9/ 6  35   2  35  26  17  18  19 |  42   3/  3 ||  45 ||  32     35 DM  34     32     47 MF  35     29 DM       
+K_Abrha         30 DF 26/ 9/ 6  35   2  35  26  17  18  19 |  42   3/  3 ||  45 ||  32     35     34     32     47 MF  35     29 DM       
 J_Diakiese      23 DF 23/ 8/ 6  31   5  31  23  15  16  18 |  45  -1/ -1 ||  44 ||  29     31 DM  30     29     42 MF  31     26 DM       
 L_Inagzij       28 DF 24/10/ 6  33   2  33  25  18  18  20 |  42   1/  1 ||  44 ||  31     33 DM  32     31     45 MF  33     29 DM       
 T_Grant         25 DF 23/ 9/ 6  32   3  32  24  16  17  19 |  44   0/  0 ||  43 ||  29     31 DM  31     29     43 MF  32     27 DM       
@@ -459,7 +459,7 @@ J_Hart          31 GK    28     42  42   6   4   4   7   9 |  49   2/  2 ||  51 
 J_Hernandez     26 FW  7/23/18  37   2  30  28  29  33  37 |  48   3/  3 ||  50 ||  34 AM  29 MF  42     35 AM  34 MF  37     38 MF       
 Colocini        20 DF 20/ 9/ 6  29   5  29  22  16  17  18 |  48  -3/ -1 ||  48 ||  26     28 MF  28     26     38 MF  29     25 DM     r 
 D_Foe           20 FW  5/ 6/20  26   3  16  12  12  19  26 |  47  -7/ -6 ||  47 ||  23     19     34     26     29     26     22 AM     r 
-Daley_Blind     20 DF 20/ 8/ 6  28   5  28  21  15  16  17 |  47  -4/ -1 ||  47 ||  26     28 DM  27     26     38 MF  28     24 DM     r 
+Daley_Blind     20 DF 20/ 8/ 6  28   5  28  21  15  16  17 |  47  -4/ -2 ||  47 ||  26     28 DM  27     26     38 MF  28     24 DM     r 
 H_Bonmann       20 GK    18     27  27   8   7   6   7   8 |  47 -13/-10 ||  47 ||  27     27     27     27     27     27     27        r 
 Henrique        26 DF 24/10/ 8  34   2  34  26  18  20  22 |  45   2/  2 ||  47 ||  31     34 MF  33     31     46 MF  34     29 DM       
 L_Dita          26 GK    25     38  38   4   3   2   2   3 |  50  -3/ -3 ||  47 ||  38     38     38     38     38     38     38        r 
@@ -467,13 +467,13 @@ G_Chiellini     19 DF  8/20/ 6  25   3  25  23  24  23  23 |  46  -5/  0 ||  46 
 Gastro          20 FW  7/ 7/18  25   3  18  14  13  19  25 |  45  -8/ -5 ||  45 ||  22     19     32     25     27     25     22 AM     r 
 A_Carlos        32 DF 25/12/ 8  36   2  36  28  20  22  23 |  41   4/  4 ||  45 ||  33     36 MF  35     33     49 MF  36     32 DM       
 S_Logan         34 DF 27/10/ 8  37   5  37  28  19  20  22 |  40   5/  5 ||  45 ||  34     37 DM  36     34     51 MF  37     31 DM       
-Coatesinho      20 FW  5/15/13  26   5  20  19  20  22  26 |  44  -8/ -6 ||  44 ||  23 AM  20 MF  29     24 AM  23 MF  26     26 AM     r 
+Coatesinho      20 FW  5/15/13  26   5  20  19  20  22  26 |  44  -8/ -7 ||  44 ||  23 AM  20 MF  29     24 AM  23 MF  26     26 AM     r 
 D_Criscrito     32 DF 26/10/ 7  36   3  36  27  18  20  21 |  41   4/  4 ||  44 ||  33     35 DM  35     33     49 MF  36     31 DM       
 P_Hunter        33 DF 25/11/ 9  36   2  36  27  20  21  24 |  40   4/  4 ||  44 ||  33     36 MF  35     33     49 MF  36     31 DM       
 S_Murray        20 FW  7/15/10  23   3  21  19  19  21  23 |  43  -9/ -7 ||  43 ||  22 AM  21 MF  25 AM  22 AM  25 MF  23     25 MF     r 
-M_Sarr          21 DF 21/ 5/11  28   3  28  20  13  17  20 |  46  -3/ -3 ||  43 ||  27     28     29     26     41 MF  28     25        r 
+M_Sarr          21 DF 21/ 5/11  28   3  28  20  13  17  20 |  46  -3/ -3 ||  43 ||  27     28 MF  29     26     41 MF  28     25        r 
 D_Sulejmani     29 FW  2/16/24  37   2  21  20  23  30  37 |  44  -1/ -1 ||  43 ||  31 AM  24 AM  46     33     36     37     34 AM       
-G_Southward     20 DF 14/10/ 6  23   2  23  19  15  16  17 |  42  -9/ -6 ||  42 ||  21     23 MF  22     21 DM  30 MF  23     21 DM     r 
+G_Southward     20 DF 14/10/ 6  23   2  23  19  15  16  17 |  42  -9/ -6 ||  42 ||  21     23 MF  22     21     30 MF  23     21 DM     r 
 E_Typutryi      21 DF 20/ 7/ 9  28   2  28  21  14  17  19 |  45  -3/ -3 ||  42 ||  26     28 MF  28     26     39 MF  28     24        r 
 K_Richard       30 DF  9/26/ 9  31   2  31  30  31  30  31 |  40   2/  2 ||  42 ||  31 MF  31 MF  34 AM  33 MF  32 MF  31     38 MF       
 J_Redknapp      21 FW  6/21/ 9  26   3  24  24  25  25  26 |  45  -4/ -4 ||  41 ||  26 AM  24 MF  29 AM  26 MF  25 MF  26     31 MF     r 
@@ -487,147 +487,148 @@ O_Bernat        21 DF 17/ 7/ 6  24   3  24  18  13  14  16 |  41  -7/ -7 ||  34 
 A_Carvajal      21 DF 17/ 6/ 7  24   5  24  18  12  14  16 |  41  -7/ -7 ||  33 ||  22     23 MF  24     22     33 MF  24     20        r 
 
 ** Selection **
-COUNTER_ATTACK                 OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-R_Ceni          28 GK    29     44  44   5   5   5   7   9 |  54   3/  3 ||  57 ||  44     44     44     44     44     44     44          
-J_Hunter        28 GK    27     41  41   5   4   3   3   4 |  51   0/  0 ||  51 ||  41     41     41     41     41     41     41          
-Diaviera        31 FW  8/11/26  35   1  19  21  21  30  35 |  43   1/  1 ||  44 ||  31     26     46     35     38     36     31 AM       
-Hugo_Sanchez    28 FW  9/15/23  35   3  22  25  25  32  35 |  45   0/  0 ||  45 ||  31 AM  27 AM  44     35     36 MF  37     34 AM       
-A_Johnson       29 AM  6/24/17  35   3  22  29  31  35  32 |  45   3/  3 ||  48 ||  34     28 MF  41     35     32 MF  37 FW  38 MF       
-S_Perrotta      33 AM  8/23/17  34   3  23  29  31  34  32 |  40   2/  2 ||  42 ||  34     29 MF  40 FW  34     34 MF  36 FW  37 MF       
-M_Twaddle       30 FW 20/12/18  34   3  31  30  27  29  34 |  42   2/  2 ||  44 ||  31 DF  34 MF  35 DF  34     48 MF  34 DF  30 DM     r 
-Doriva          18 DM 18/20/ 9  32   3  30  32  31  28  27 |  57   1/  7 ||  64 ||  32     35 MF  32 DF  32     42 MF  35 DF  34        r 
-Djalma_Santos   27 AM  7/23/14  32   2  22  28  30  32  29 |  45   0/  0 ||  45 ||  31     28 MF  37     32     31 MF  33 FW  36 MF       
-L_Robert        31 MF 12/23/10  32   2  26  31  32  30  28 |  41   1/  1 ||  42 ||  31 DM  32     32 AM  32     36     32 DF  36          
-P_McStay        32 AM  7/23/13  31   2  22  28  30  31  28 |  40   0/  0 ||  39 ||  31     28 MF  36     31     30 MF  32 FW  36 MF       
-J_Navas         26 AM  6/23/13  31   3  21  27  29  31  28 |  45  -1/ -1 ||  45 ||  31     27 MF  36     31     29 MF  32 FW  35 MF       
-M_De_Cala       25 FW  9/ 6/23  31   3  18  18  16  25  31 |  45  -3/ -3 ||  42 ||  28     23     38     31     34     30     25          
-S_Defour        22 AM  8/23/11  30   3  22  28  30  30  27 |  47  -1/ -1 ||  47 ||  30     28 MF  33     30     31 MF  30 FW  35 MF       
-S_Howey         28 DM 19/17/ 4  30   3  29  30  28  22  22 |  42  -1/ -1 ||  41 ||  29     33 MF  29 DF  30     40 MF  33 DF  32        r 
-J_Piere         22 FW  6/ 7/23  30   2  15  16  16  25  30 |  47  -3/ -3 ||  44 ||  27     22     39     30     33     30     25 AM       
-A_Parada        32 MF 11/22/ 7  29   1  24  29  29  26  23 |  36  -2/ -2 ||  35 ||  29 DM  29     29 DM  29     32     30 DF  33        r 
-A_Pereira       31 DF 23/ 8/ 8  28   3  28  26  21  18  23 |  37  -1/ -1 ||  36 ||  29     30 MF  30     28     43 MF  31     26 DM       
-M_Richards      26 DF 22/10/ 5  28   3  28  26  22  17  20 |  41  -1/ -1 ||  40 ||  28     30 DM  29     28     41 MF  30     27 DM     r 
+PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
+R_Ceni          28 GK    29     44  44   6   4   4   7   9 |  54   3/  3 ||  57 ||  44     44     44     44     44     44     44          
+A_Wisdom        28 DF 24/20/ 8  41   3  41  34  28  28  29 |  50   7/  7 ||  57 ||  36     41 MF  38     37 DM  51 MF  41     39 DM       
+J_Hunter        28 GK    27     41  41   5   4   2   3   3 |  51   0/  0 ||  51 ||  41     41     41     41     41     41     41          
+S_Perrotta      33 FW  8/24/18  38   3  31  29  31  34  38 |  42   4/  4 ||  46 ||  35 AM  31 MF  43     36 AM  36 MF  38     39 MF       
+Diaviera        31 FW  8/11/27  37   1  24  20  20  29  37 |  44   2/  2 ||  47 ||  32     27     47     36     39     37     32 AM       
+Hugo_Sanchez    28 FW  9/15/23  37   3  27  23  23  30  37 |  45   0/  0 ||  45 ||  31 AM  27 AM  44     35     36 MF  37     34 AM       
+A_Johnson       29 FW  6/24/17  36   3  29  27  29  32  36 |  45   2/  2 ||  46 ||  33 AM  28 MF  40 AM  34 AM  31 MF  36     38 MF       
+Doriva          18 DF 18/20/ 9  35   3  35  30  26  27  28 |  57   1/  7 ||  64 ||  32 DM  35 MF  32     32 DM  42 MF  35     34 DM     r 
+J_Jurado        30 DF 14/24/ 7  34   2  34  31  29  28  29 |  42   2/  2 ||  45 ||  32 DM  34 MF  32 DM  33 MF  38 MF  34     36 MF       
+M_Twaddle       30 DF 20/12/18  34   3  34  26  21  26  31 |  41   1/  1 ||  43 ||  31     33 MF  34     33 FW  47 MF  34     29 DM     r 
+Djalma_Santos   27 FW  7/23/14  33   2  28  27  28  30  33 |  45   0/  0 ||  45 ||  31 AM  28 MF  37 AM  32 AM  31 MF  33     36 MF       
+S_Howey         28 DF 19/17/ 4  32   3  32  27  22  21  21 |  41  -1/ -1 ||  40 ||  28 DM  32 MF  29     29 DM  39 MF  32     31 DM     r 
+P_McStay        32 FW  7/23/13  32   2  28  27  28  30  32 |  40   0/  0 ||  39 ||  31 AM  28 MF  36 AM  31 AM  30 MF  32     36 MF       
+J_Navas         26 FW  6/23/13  32   3  27  26  28  30  32 |  45  -1/ -1 ||  45 ||  31 AM  27 MF  36 AM  31 AM  29 MF  32     35 MF       
+L_Robert        31 DF 12/23/10  32   1  32  29  28  28  30 |  40   0/  0 ||  40 ||  30 DM  31 MF  32 AM  31 MF  35 MF  32     35 MF       
+A_Parada        32 DF 12/23/ 7  31   2  31  29  28  27  27 |  38   0/  0 ||  38 ||  30 DM  31 MF  30 DM  31 MF  34 MF  31     35 MF       
+A_Pereira       31 DF 22/ 8/ 8  30   3  30  22  15  17  19 |  36  -1/ -1 ||  34 ||  28     29 MF  29     28     42 MF  30     25 DM     r 
+M_Richards      26 DF 21/ 9/ 5  30   3  30  23  16  16  17 |  41  -2/ -2 ||  39 ||  27     30 DM  28     27     40 MF  30     26 DM     r 
+J_Piere         22 FW  6/ 7/23  30   2  18  14  14  22  30 |  47  -3/ -3 ||  44 ||  27     22     39     30     33     30     25 AM       
+M_De_Cala       25 FW  9/ 6/23  30   3  20  16  14  22  30 |  45  -3/ -3 ||  42 ||  28     23     38     31     34     30     25          
+S_Defour        22 FW  8/23/11  30   3  28  26  27  28  30 |  47  -1/ -1 ||  46 ||  29 AM  27 MF  33 AM  29 AM  30 MF  30     34 MF       
 
-COUNTER_ATTACK
+PASSING
 GK R_Ceni
-DF M_Richards
-DF A_Pereira
+DF A_Wisdom
 DF M_Twaddle
-DM S_Howey
-DM Doriva
+DF S_Howey
+DF J_Jurado
+DF A_Parada
+DF Doriva
+DM L_Robert
 MF S_Perrotta
 MF A_Johnson
-MF L_Robert
-MF S_Defour
 FW Diaviera
                  N       D       A       C       L       P       E 
   STOPPING      44      44      44      44      44      44      44 
-  TACKLING     101     158      83     113     151      99      95 
-   PASSING     143     103     147     144      71     154     166 
-  SHOOTING      55      34     102      50      87      51      59 
-   SH Mean      19      21      18      20      18      20      19 
- SH Median      18      26      17      26      17      26      18 
-    SH Max      26      26      26      26      26      26      26 
-  SH Bonus      22      16      25      24      14      26      24 
+  TACKLING     120     163     112     126     148     119     109 
+   PASSING     128      82     132     130      64     161     121 
+  SHOOTING      56      29      97      51      80      53      60 
+   SH Mean      20      24      19      20      19      20      19 
+ SH Median      18      27      18      27      18      27      18 
+    SH Max      27      27      27      27      27      27      27 
+  SH Bonus      20      15      22      22      14      25      20 
    GK Qual      29      29      29      29      29      29      29 
-  GK Bonus      31      22      38      29      22      32      34 
-       Agg      26      26      26      26      26      26      26 
-   Scoring     114      80     132     113      76     120     130 
- Defending     101     158      83     113     151      99      95 
-   Overall     267     257     264     278     244     275     278 
+  GK Bonus      27      20      30      26      21      30      28 
+       Agg      28      28      28      28      28      28      28 
+   Scoring     104      64     121     103      70     125     101 
+ Defending     120     163     112     126     148     119     109 
+   Overall     270     232     284     275     232     299     258 
 
 GK J_Hunter
-MF A_Parada
-AM Djalma_Santos
-AM P_McStay
+DF M_Richards
+DF A_Pereira
+FW Djalma_Santos
 FW Hugo_Sanchez
 
 SUB GK J_Hunter GK IF INJURED GK
-SUB DF A_Parada DF IF INJURED DF
+SUB DF A_Pereira DF IF INJURED DF
 SUB DM Djalma_Santos DM IF INJURED DM
 SUB MF Djalma_Santos MF IF INJURED MF
 SUB AM Djalma_Santos AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB S_Perrotta A_Parada MF IF MIN = 63
-SUB Diaviera Hugo_Sanchez FW IF MIN = 81
-SUB Doriva Djalma_Santos MF IF MIN = 90
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 42 SCORE = 1
-TACTIC L IF MIN >= 41 SCORE >= 2
-
-** Reserves Selection **
-PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
-S_Irwin         26 DF 21/12/ 8  32   3  32  25  19  21  22 |  43   0/  0 ||  43 ||  29     32 MF  31     29     43 MF  32     29 DM     r 
-B_Sagna         25 DF 22/10/ 7  32   3  32  24  17  19  20 |  44   0/  0 ||  43 ||  29     31 MF  31     29     43 MF  32     28 DM     r 
-C_Turner        25 GK    21     32  32   5   4   3   4   4 |  45  -9/ -9 ||  36 ||  32     32     32     32     32     32     32        r 
-S_Vagini        21 DF 22/10/ 6  31   1  31  24  17  18  19 |  48  -1/ -1 ||  46 ||  28     30 DM  29     28     41 MF  31     27 DM     r 
-C_Poenaru       22 GK    20     30  30   5   4   4   5   6 |  46 -10/-10 ||  36 ||  30     30     30     30     30     30     30        r 
-M_Oezil         29 DF 14/18/ 8  30   3  30  26  23  24  25 |  37  -3/ -3 ||  34 ||  27 DM  29 MF  27 DM  28 DM  35 MF  30     29 DM     r 
-J_Fox           19 DF 12/20/ 8  30   1  30  27  25  25  26 |  51  -2/  2 ||  53 ||  28 DM  29 MF  28 DM  28 DM  33 MF  30     31 MF     r 
-A_Andreasen     22 DF 21/ 8/ 7  29   5  29  22  15  17  18 |  44  -2/ -2 ||  42 ||  27     29 MF  29     27     40 MF  29     25 DM     r 
-D_Iacobescu     19 FW  9/17/14  29   2  26  23  23  26  29 |  51  -5/  0 ||  51 ||  27 AM  25 MF  32     27 AM  31 MF  29     29 MF     r 
-J_Guidetti      25 FW  5/10/20  29   3  18  15  16  23  29 |  41  -6/ -6 ||  35 ||  24     20     37     27     30     29     26 AM     r 
-Ridoutkha       19 DF 13/18/ 6  29   3  29  25  23  22  23 |  49  -4/  1 ||  50 ||  26 DM  28 MF  26 DM  27 DM  33 MF  29     29 DM     r 
-P_Singh         21 FW  9/19/12  29   5  27  24  24  26  29 |  47  -4/ -4 ||  43 ||  27 AM  26 MF  31 AM  27 AM  31 MF  29     31 MF     r 
-G_Hutopila      19 FW  9/17/13  28   3  26  23  23  25  28 |  50  -5/ -1 ||  50 ||  26 AM  25 MF  31     26 AM  30 MF  28     29 MF     r 
-F_Parasca       19 DF 13/17/ 7  28   3  28  24  22  22  23 |  48  -5/  0 ||  48 ||  26 DM  28 MF  25 DM  26 DM  33 MF  28     28 DM     r 
-N_Saul          21 DF 12/20/ 4  28   4  28  25  24  22  22 |  45  -4/ -4 ||  41 ||  26 DM  27 MF  25 DM  26 DM  30 MF  28     29 DM     r 
-H_Vulcan        16 FW  6/15/12  25   2  21  19  20  22  25 |  51  -9/  3 ||  54 ||  23 AM  20 MF  28     23 AM  24 MF  25     25 MF     r 
-I_Muresanu      14 DF 17/ 7/ 6  24   5  24  18  13  14  16 |  55  -7/  7 ||  62 ||  22     24 MF  24     22     33 MF  24     21 DM     r 
-D_Hasdeu        14 FW  7/14/10  22   3  21  18  18  20  22 |  54 -10/  3 ||  57 ||  21 AM  20 MF  24 AM  21 AM  24 MF  22     23 MF     r 
-N_Barbulescu    14 DF 10/14/ 6  22   3  22  19  18  18  19 |  52 -10/  4 ||  56 ||  20 DM  22 MF  20 DM  20 DM  25 MF  22     22 DM     r 
-V_Nicu          14 DF  9/14/ 7  22   5  22  19  18  19  20 |  53 -10/  3 ||  55 ||  20 DM  21 MF  21 AM  20 DM  25 MF  22     23 MF     r 
-
-PASSING
-GK C_Turner
-DF B_Sagna
-DF S_Irwin
-DF I_Muresanu
-DF J_Fox
-DF M_Oezil
-DF Ridoutkha
-DM V_Nicu
-MF H_Vulcan
-MF D_Hasdeu
-FW J_Guidetti
-                 N       D       A       C       L       P       E 
-  STOPPING      32      32      32      32      32      32      32 
-  TACKLING     111     150     104     115     137     110     101 
-   PASSING      87      55      90      88      44     112      80 
-  SHOOTING      42      21      71      38      59      40      45 
-   SH Mean      14      17      13      14      14      14      13 
- SH Median      12      20      12      20      12      20      12 
-    SH Max      20      20      20      20      20      20      20 
-  SH Bonus      12       9      14      14       8      16      12 
-   GK Qual      21      21      21      21      21      21      21 
-  GK Bonus      17      14      19      17      14      19      18 
-       Agg      23      23      23      23      23      23      23 
-   Scoring      72      43      84      71      49      88      68 
- Defending     111     150     104     115     137     110     101 
-   Overall     205     177     219     209     179     230     193 
-
-GK C_Poenaru
-DF S_Vagini
-DF N_Saul
-DF F_Parasca
-FW D_Iacobescu
-
-SUB GK C_Poenaru GK IF INJURED GK
-SUB DF S_Vagini DF IF INJURED DF
-SUB DM N_Saul DM IF INJURED DM
-SUB MF N_Saul MF IF INJURED MF
-SUB AM N_Saul AM IF INJURED AM
-SUB FW D_Iacobescu FW IF INJURED FW
-
-SUB I_Muresanu S_Vagini DF IF MIN = 45
-SUB D_Hasdeu F_Parasca DM IF MIN = 50
-SUB V_Nicu N_Saul DM IF MIN = 55
+SUB L_Robert Hugo_Sanchez FW IF MIN = 45
+SUB S_Howey M_Richards DF IF MIN = 50
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 55 SCORE >= 2
+TACTIC D IF MIN >= 76 SCORE >= 2
+
+** Reserves Selection **
+PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
+S_Irwin         26 DF 21/12/ 8  32   3  32  25  19  20  22 |  43  -1/ -1 ||  42 ||  29     31 MF  30     28     42 MF  32     28 DM     r 
+C_Turner        25 GK    21     32  32   5   4   3   4   4 |  45  -9/ -9 ||  36 ||  32     32     32     32     32     32     32        r 
+S_Vagini        21 DF 22/10/ 6  31   2  31  24  17  18  19 |  48  -1/ -1 ||  48 ||  29     31 DM  30     29     42 MF  31     27 DM     r 
+B_Sagna         25 DF 22/10/ 7  31   3  31  24  17  18  20 |  43  -1/ -1 ||  42 ||  29     31 MF  30     28     42 MF  31     27 DM     r 
+C_Poenaru       22 GK    20     30  30   5   4   4   5   6 |  46 -10/-10 ||  36 ||  30     30     30     30     30     30     30        r 
+A_Andreasen     22 DF 21/ 8/ 7  29   5  29  22  15  17  18 |  44  -2/ -2 ||  42 ||  27     29 MF  29     27     40 MF  29     25 DM     r 
+M_Oezil         29 DF 14/17/ 8  29   3  29  25  23  23  25 |  36  -4/ -4 ||  33 ||  27 DM  29 MF  26 DM  27 DM  34 MF  29     29 DM     r 
+D_Iacobescu     19 FW  9/17/14  29   2  26  23  23  26  29 |  51  -5/  0 ||  51 ||  27 AM  25 MF  32     27 AM  31 MF  29     29 MF     r 
+J_Fox           19 DF 12/20/ 7  29   1  29  26  24  24  25 |  50  -3/  2 ||  52 ||  27 DM  29 MF  27 DM  28 DM  33 MF  29     30 MF     r 
+P_Singh         21 FW  9/19/12  29   5  27  24  24  26  29 |  47  -4/ -4 ||  43 ||  27 AM  26 MF  31 AM  27 AM  31 MF  29     31 MF     r 
+N_Saul          21 DF 12/20/ 4  28   5  28  26  24  23  22 |  46  -4/ -4 ||  42 ||  27 DM  28 MF  26 DM  27 DM  31 MF  28     30 MF     r 
+J_Guidetti      25 FW  4/10/20  28   3  18  15  16  22  28 |  40  -6/ -6 ||  34 ||  24     19     36     27     29     28     25 AM     r 
+G_Hutopila      19 FW  9/17/13  28   3  26  23  23  25  28 |  50  -5/ -1 ||  50 ||  26 AM  25 MF  31     26 AM  30 MF  28     29 MF     r 
+Ridoutkha       19 DF 13/18/ 6  28   3  28  25  22  22  22 |  48  -4/  0 ||  48 ||  26 DM  28 MF  25 DM  26 DM  32 MF  28     28 DM     r 
+F_Parasca       19 DF 13/17/ 7  28   3  28  24  22  22  23 |  48  -5/  0 ||  48 ||  26 DM  28 MF  25 DM  26 DM  33 MF  28     28 DM     r 
+H_Vulcan        16 FW  6/15/12  24   1  20  19  19  22  24 |  51  -9/  3 ||  53 ||  22 AM  20 MF  27     23 AM  24 MF  24     25 MF     r 
+I_Muresanu      14 DF 17/ 7/ 6  24   5  24  18  13  14  16 |  55  -7/  7 ||  62 ||  22     24 MF  24     22     33 MF  24     21 DM     r 
+N_Barbulescu    14 DF 10/14/ 6  22   3  22  20  18  18  19 |  52  -9/  4 ||  57 ||  21 DM  22 MF  21 DM  21 DM  26 MF  22     22 DM     r 
+D_Hasdeu        14 FW  7/14/10  22   3  21  18  18  20  22 |  54 -10/  3 ||  57 ||  21 AM  20 MF  24 AM  21 AM  24 MF  22     23 MF     r 
+V_Nicu          14 DF  9/14/ 7  22   5  22  19  18  19  20 |  53 -10/  3 ||  55 ||  20 DM  21 MF  21 AM  20 DM  25 MF  22     23 MF     r 
+
+PASSING
+GK C_Turner
+DF S_Vagini
+DF S_Irwin
+DF I_Muresanu
+DF J_Fox
+DF M_Oezil
+DF N_Barbulescu
+DM N_Saul
+DM V_Nicu
+MF D_Hasdeu
+FW J_Guidetti
+                 N       D       A       C       L       P       E 
+  STOPPING      32      32      32      32      32      32      32 
+  TACKLING     113     151     106     117     132     112     104 
+   PASSING      86      55      91      88      43     110      79 
+  SHOOTING      38      18      63      35      52      37      40 
+   SH Mean      14      18      13      14      13      14      13 
+ SH Median      20      20      10      20      10      20      10 
+    SH Max      20      20      20      20      20      20      20 
+  SH Bonus      13       8      12      13       7      15      11 
+   GK Qual      21      21      21      21      21      21      21 
+  GK Bonus      17      13      19      17      14      19      17 
+       Agg      23      23      23      23      23      23      23 
+   Scoring      70      43      82      70      46      86      66 
+ Defending     113     151     106     117     132     112     104 
+   Overall     205     177     215     208     171     228     191 
+
+GK C_Poenaru
+DF B_Sagna
+DF Ridoutkha
+FW P_Singh
+FW D_Iacobescu
+
+SUB GK C_Poenaru GK IF INJURED GK
+SUB DF B_Sagna DF IF INJURED DF
+SUB DM P_Singh DM IF INJURED DM
+SUB MF P_Singh MF IF INJURED MF
+SUB AM P_Singh AM IF INJURED AM
+SUB FW D_Iacobescu FW IF INJURED FW
+
+SUB N_Barbulescu Ridoutkha DF IF MIN = 45
+SUB D_Hasdeu P_Singh MF IF MIN = 50
+SUB I_Muresanu B_Sagna DF IF MIN = 55
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 54 SCORE >= 2
 
