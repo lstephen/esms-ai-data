@@ -3,29 +3,29 @@ P
 
 GK I_Akinfeev
 DF S_Bassong
+DF J_Paredes
 DF Doria
+DF D_Pudil
 DF G_Tamas
-DF H_Arter
-DF J_Colback
 DM S_Murray
-DM D_Jones
+DM H_Arter
 MF M_M_Daehli
 MF E_Konoplyanka
 FW M_Vydra
 
 GK M_Sportiello
-GK J_Bond
-DF J_Paredes
-DF G_Munari
+DF J_Colback
+FW I_Anya
+FW A_Abdi
 FW T_Deeney
 
 PK: M_Vydra
 
-SUB 8 16 FW IF MIN = 45
-SUB 2 14 DF IF MIN = 77
-SUB 10 15 DM IF MIN = 90
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB 10 15 FW IF MIN = 43
+SUB 7 16 FW IF MIN = 65
+SUB 8 14 AM IF MIN = 90
+TACTIC A IF MIN >= 65 SCORE <= -2
+TACTIC A IF MIN >= 90 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+TACTIC D IF MIN >= 77 SCORE >= 2
