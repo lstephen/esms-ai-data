@@ -1,57 +1,57 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-J_Mowlik          19 usa 17  1  1  1  6  191  300  300  300   0   0   0     900
-U_Skinner         20 eng 15  1  1  1  6  868  300  300  300   0   0   0     450
-N_Papa            18 ITA 13  1  1  1  3  913  300  300  300   0   0   0     TBC
-P_Russell         20 usa  1 18  9  6 38  300  154  210  396   0   0   0   2,124
-T_Brown           20 eng  1 15 12  7 22  300  583  550  386   0   0   0     802
-C_Fuentes         20 arg  1 15  4  7  8  300  137  528  354   0   0   0     405
-P_Corti           19 arg  1 14  9  6 10  300  974  886  886   0   0   0     487
-C_Manu            19 esp  1 14  8  7 44  300  762  775  595   4   0   0     478
-J_Moretto         19 ita  1 14  3  8 45  300  493  153  391   0   0   0     396
-C_Velazquez       19 arg  1 14  6  8 10  300    5  712  367   0   0   0     308
-J_Clayton         17 bra  1 13  4  5 11  300  394  960  903   0   0   0     263
-Q_Muratore        19 ita  1 13  5  8 33  300  769   15  619   0   0   0     282
-L_Angel           19 esp  1 10 16  7 23  300  176   32  452   0   0   0     726
-Y_Nico            19 fra  1  5 15  8 29  300  274  128  249   0   0   0     461
-Y_Martin          19 wal  1  8 14  9  3  300  363  841  858   0   0   0     505
-G_Bergner         18 ger  1  5 13  5 10  300  869  492   99   0   0   0     270
-J_Francis         18 AUS  1 10 13  7 14  300  135  866  749   0   0   0     TBC
-Q_Pereyra         18 arg  1  3 13 12 32  300  778   12  705   0   0   0     258
-I_Olesen          18 den  1  6 12  8 53  300  817  870  428   0   0   0     232
-N_Valencia        20 col  1 13 10 16  4  300  287  191   54   2   0   0     823
-F_Martorello      18 mlt  1  8 10 15 39  300  791  688  176   0   0   0     523
-Leopoldo          19 bol  1  7  6 15 48  300  571  412  533   2   0   0     649
-H_Bertolucci      18 ita  1  6  6 14  3  300  311  723   18   0   0   0     295
-X_Karasev         17 BLR  1  9  5 13  9  300  895  574  150   0   0   0     TBC
-O_Okeke           16 NGA  1  2  5 12 16  300  876  892   10   0   0   0     TBC
+J_Mowlik          19 usa 17  1  1  1  6  257  300  300  300   0   0   0     900
+U_Skinner         20 eng 15  1  1  1  6  914  300  300  300   0   0   0     450
+N_Papa            18 ITA 13  1  1  1  3  959  300  300  300   0   0   0     TBC
+P_Russell         20 usa  1 18  9  6 38  300  212  253  423   0   0   0   2,124
+P_Corti           19 arg  1 15  9  6 10  300   32  929  914   0   0   0     487
+T_Brown           20 eng  1 15 12  7 22  300  641  599  414   0   0   0     802
+C_Fuentes         20 arg  1 15  4  7  8  300  183  555  397   0   0   0     405
+C_Manu            19 esp  1 14  8  7 44  300  832  824  624   4   0   0     478
+J_Moretto         19 ita  1 14  3  8 45  300  539  180  435   0   0   0     396
+C_Velazquez       19 arg  1 14  6  8 10  300   51  739  410   0   0   0     308
+J_Clayton         17 bra  1 13  4  5 11  300  440  987  946   0   0   0     263
+Q_Muratore        19 ita  1 13  5  8 33  300  815   42  662   0   0   0     282
+L_Angel           19 esp  1 10 16  7 23  300  219   84  479   0   0   0     726
+Y_Nico            19 fra  1  5 15  8 29  300  301  180  292   0   0   0     461
+Y_Martin          19 wal  1  8 14  9  3  300  390  893  902   0   0   0     505
+G_Bergner         18 ger  1  5 13  5 10  300  896  533  110   0   0   0     270
+J_Francis         18 AUS  1 10 13  7 14  300  190  912  779   0   0   0     TBC
+Q_Pereyra         18 arg  1  3 13 12 32  300  805   58  748   0   0   0     258
+I_Olesen          18 den  1  6 12  8 53  300  844  916  471   0   0   0     232
+N_Valencia        20 col  1 13 10 16  4  300  342  218  103   2   0   0     823
+F_Martorello      18 mlt  1  8 10 15 39  300  802  715  206   0   0   0     523
+Leopoldo          19 bol  1  7  6 15 48  300  626  439  582   2   0   0     649
+H_Bertolucci      18 ita  1  6  6 14  3  300  354  750   64   0   0   0     295
+X_Karasev         17 BLR  1  9  5 13  9  300  938  601  196   0   0   0     TBC
+O_Okeke           16 NGA  1  2  5 12 16  300  903  935   56   0   0   0     TBC
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-J_Mowlik           GK   4   0  379   0  32   4   1   0   0   0   0   0                 -
+J_Mowlik           GK   5   0  475   0  42   9   1   0   0   0   0   0                 -
 U_Skinner          GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 N_Papa             GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-P_Russell          DF   4   0  379   0   0   0   0   4   0   0   0   0                 -
-T_Brown            DF   4   0  379   0   0   0   0   4   5   4   1   0                 -
+P_Russell          DF   5   0  433   0   0   0   0   5   0   0   0   0                 -
+P_Corti            DF   5   0  475   1   0   0   0   8   2   7   2   1                 -
+T_Brown            DF   5   0  475   0   0   0   0   5   6   5   1   0                 -
 C_Fuentes          DF   2   0  190   0   0   0   0   1   0   1   0   0                 -
-P_Corti            DF   4   0  379   1   0   0   0   7   2   6   2   1                 -
-C_Manu             DF   2   0  148   0   0   0   0   1   2   2   0   0                 -
-J_Moretto          DF   1   1   41   0   0   0   0   1   0   1   0   0                 -
+C_Manu             DF   3   0  244   0   0   0   0   3   3   4   0   0                 -
+J_Moretto          DF   2   2   83   0   0   0   0   1   0   2   0   0                 -
 C_Velazquez        DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 J_Clayton          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Q_Muratore         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-L_Angel            MF   4   0  367   1   0   0   0   3   6   1   1   2                 -
-Y_Nico             MF   4   0  343   0   0   0   0   3   9   2   0   2                 -
-Y_Martin           MF   4   0  379   0   0   0   0   2   5   2   0   1                 -
-G_Bergner          MF   4   0  348   1   0   0   0   3   8   2   0   1                 -
-J_Francis          MF   1   1   36   0   0   0   0   0   2   0   0   0                 -
+L_Angel            MF   5   0  463   1   0   0   0   3   7   1   1   2                 -
+Y_Nico             MF   5   0  402   0   0   0   0   3  10   2   0   2                 -
+Y_Martin           MF   5   0  475   0   0   0   0   2   6   3   0   1                 -
+G_Bergner          MF   5   0  412   1   0   0   0   3   9   2   0   1                 -
+J_Francis          MF   2   2   73   0   0   0   0   1   2   1   0   0                 -
 Q_Pereyra          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 I_Olesen           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-N_Valencia         FW   3   1  282   1   0   0   0   3   4  11   3   0                 -
-F_Martorello       FW   3   1  221   0   0   0   0   3   5   7   2   1                 -
-Leopoldo           FW   4   0  286   0   0   0   0   2   0  10   3   0                 -
+N_Valencia         FW   4   1  378   1   0   0   0   4   4  12   3   0                 -
+F_Martorello       FW   4   2  253   0   0   0   0   3   5   7   2   1                 -
+Leopoldo           FW   5   0  382   0   0   0   0   3   0  11   3   0                 -
 H_Bertolucci       FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 X_Karasev          FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
 O_Okeke            FW   0   0    0   0   0   0   0   0   0   0   0   0                 -
