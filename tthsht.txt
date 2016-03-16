@@ -4,28 +4,29 @@ A
 GK R_Ceni
 DF A_Wisdom
 DF M_Richards
-DF A_Pereira
 DF M_Twaddle
 DF S_Howey
+DF Doriva
 DM J_Jurado
+DM L_Robert
 AM S_Perrotta
 AM A_Johnson
 FW Diaviera
-FW Hugo_Sanchez
 
 GK J_Hunter
-DF Doriva
-AM P_McStay
-AM J_Navas
-FW J_Piere
+DF A_Pereira
+DM A_Parada
+AM Djalma_Santos
+FW Hugo_Sanchez
 
 PK: Diaviera
+AGG 20
 
-SUB 9 15 AM IF MIN = 70
-SUB 10 14 AM IF MIN = 75
-SUB 7 13 DF IF MIN = 90
+SUB 10 14 DM IF MIN = 45
+SUB 8 16 FW IF MIN = 65
+SUB 4 13 DF IF MIN = 81
 TACTIC A IF SCORE <= -2
-TACTIC P IF MIN >= 90 SCORE = -1
+TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 10 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 41 SCORE >= 2

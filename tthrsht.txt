@@ -3,27 +3,28 @@ E
 
 GK C_Turner
 DF B_Sagna
-DF S_Vagini
+DF S_Irwin
 DF I_Muresanu
 DM J_Fox
-DM Ridoutkha
+DM M_Oezil
 DM N_Barbulescu
-MF Juninho
 MF H_Vulcan
 MF D_Hasdeu
+MF V_Nicu
 FW J_Guidetti
 
 GK C_Poenaru
-DM S_Irwin
-MF N_Saul
-MF P_Singh
-MF D_Iacobescu
+DM S_Vagini
+DM Ridoutkha
+DM N_Saul
+MF Juninho
 
 PK: J_Guidetti
+AGG 20
 
-SUB 7 13 DM IF MIN = 45
-SUB 10 15 MF IF MIN = 50
-SUB 9 14 MF IF MIN = 60
+SUB 7 14 DM IF MIN = 45
+SUB 10 16 MF IF MIN = 50
+SUB 9 15 MF IF MIN = 55
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
