@@ -1,53 +1,53 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-C_Castellini      17 cyp 17  1  1  1 11  679  300  300  300   0   0   0     450
-U_Holyfield       18 skn 16  1  1  1 27  101  300  300  300   0   0   0     450
-J_Grosbahs        17 cyp 14  1  1  1 10  634  300  300  300   0   0   0     300
-K_Sigurous        17 cyp  1 14 10  6 23  300  656  289  123   2   0   0     479
-G_Catalano        17 aus  1 14 13  7 15  300  616   67  638   0   0   0     551
-L_Messina         17 cyp  1 14  8  7  6  300  933   77  409   0   0   0     460
-A_Pfeeol          18 cyp  1 14  6  6 30  300  680  567  226   0   0   0     425
-H_Herbert         18 ita  1 14  2  8 37  300  454  720  870   0   0   0     378
-N_Judge           18 cyp  1 14  2  6 14  300  490  539  431   0   0   0     360
-F_Bartoli         16 cyp  1 13  4  9  5  300  559  118  972   0   0   0     177
-G_Atuin           17 rsa  1  8 15 11 37  300   98  197  785  14   0   0     533
-U_Miller          18 cyp  1 10 15  5 26  300  896  965  464   0   0   0     727
-A_Tredakovsky     19 rus  1 13 15  5 15  300  497  200  687   2   0   0     552
-O_Christie        17 sco  1 11 14  8  4  300   89  986   37   0   0   0     514
-K_Komol           18 fra  1  6 14  8 10  300   96  742  445   0   0   0     461
-E_Rojas           18 arg  1  4 14  5 25  300  449  899  469   0   0   0     397
-K_Vasquez         18 ita  1  6 14  9 15  300  792  584  136   0   0   0     469
-P_Denilson        18 cyp  1  2 14 11 15  300  179  604   58   0   0   0     463
-A_Andre_Luiz      15 cyp  1  9 12  8 14  300  748   25  338   0   0   0     147
-N_Kuplious        18 cyp  1  8  7 16  3  300  198  963  462   0   0   0     675
-Y_Elfulpolous     17 cyp  1  5  8 15  6  300   52  590  100   2   0   0     452
-U_Orlandi         18 cyp  1  3  9 15 12  300  545  578  108   0   0   0     462
-Y_Gonzalez        19 cyp  1  5  8 15 10  300  504  557  623   0   0   0     676
+C_Castellini      17 cyp 17  1  1  1 11  735  300  300  300   0   0   0   1,400
+U_Holyfield       18 skn 16  1  1  1 27  147  300  300  300   0   0   0     900
+J_Grosbahs        17 cyp 14  1  1  1 10  680  300  300  300   0   0   0     300
+L_Messina         17 cyp  1 15  8  7  6  300    1  126  438   0   0   0     700
+K_Sigurous        17 cyp  1 14 10  6 23  300  736  338  170   2   0   0     505
+G_Catalano        17 aus  1 14 13  7 15  300  696  116  666   0   0   0     569
+A_Pfeeol          18 cyp  1 14  6  6 30  300  726  610  253   0   0   0     433
+H_Herbert         18 ita  1 14  2  8 37  300  500  747  913   0   0   0     378
+N_Judge           18 cyp  1 14  2  6 14  300  536  566  474   0   0   0     360
+F_Bartoli         16 cyp  1 13  4 10  5  300  620  145   15   0   0   0     294
+U_Miller          18 cyp  1 10 16  5 26  300  939   34  491   0   0   0   1,420
+G_Atuin           17 rsa  1  8 15 11 37  300  138  348  866  14   0   0     789
+O_Christie        17 sco  1 11 15  8  4  300  144   48   65   0   0   0     789
+A_Tredakovsky     19 rus  1 13 15  5 15  300  540  275  714   2   0   0     804
+K_Komol           18 fra  1  6 14  8 10  300  123  788  488   0   0   0     469
+E_Rojas           18 arg  1  4 14  5 25  300  476  945  512   0   0   0     397
+K_Vasquez         18 ita  1  6 14  9 15  300  819  630  179   0   0   0     487
+P_Denilson        18 cyp  1  2 14 11 15  300  206  662  101   0   0   0     490
+A_Andre_Luiz      15 cyp  1  9 12  8 14  300  803   77  386   0   0   0     251
+N_Kuplious        18 cyp  1  8  8 16  3  300  241    2  522   0   0   0   1,391
+Y_Elfulpolous     17 cyp  1  5  8 15  6  300   78  632  156   4   0   0     676
+U_Orlandi         18 cyp  1  3  9 15 12  300  572  621  162   0   0   0     678
+Y_Gonzalez        19 cyp  1  5  8 15 10  300  531  600  669   0   0   0     676
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-C_Castellini       GK   8   0  764   1  48   8   3   0   0   0   0   0                 -
+C_Castellini       GK   9   0  859   1  51  11   3   0   0   0   0   0                 -
 U_Holyfield        GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 J_Grosbahs         GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-K_Sigurous         DF   8   0  764   0   0   0   0   6  11   2   0   2                 -
-G_Catalano         DF   8   0  764   1   0   0   0   8  11  15   3   2                 -
-L_Messina          DF   8   0  764   0   0   0   0   5   5  11   1   0                 -
+L_Messina          DF   9   0  859   0   0   0   0   6   6  13   1   0                 -
+K_Sigurous         DF   9   0  859   0   0   0   0   8  12   3   1   2                 -
+G_Catalano         DF   9   0  859   1   0   0   0  10  12  16   3   2                 -
 A_Pfeeol           DF   8   8  252   0   0   0   0   6   3   5   1   1                 -
 H_Herbert          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 N_Judge            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-F_Bartoli          DF   8   0  512   0   0   0   0   7   0   6   0   0                 -
-G_Atuin            MF   7   0  663   1   0   0   0   1  20  16   6   4                 -
-U_Miller           MF   8   0  733   2   0   0   0   6  22   8   2   4                 -
-A_Tredakovsky      MF   7   6  276   0   0   0   0   1   7   0   0   0                 -
-O_Christie         MF   8   0  764   1   0   0   0   5  16   8   0   2                 -
+F_Bartoli          DF   9   0  607   0   0   0   0   7   0   6   0   0                 -
+U_Miller           MF   9   0  828   2   0   0   0   6  25   8   2   4                 -
+G_Atuin            MF   8   0  758   2   0   0   0   1  26  20   7   6                 -
+O_Christie         MF   9   0  828   1   0   0   0   6  17   9   0   2                 -
+A_Tredakovsky      MF   8   7  307   0   0   0   0   1   8   0   0   1                 -
 K_Komol            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 E_Rojas            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 K_Vasquez          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-P_Denilson         MF   2   2   60   0   0   0   0   0   1   3   1   1                 -
-A_Andre_Luiz       MF   8   0  555   0   0   0   0   3   6   5   0   0                 -
-N_Kuplious         FW   8   0  738   0   0   0   0   2  10  37   7   1                 -
-Y_Elfulpolous      FW   8   0  571   0   0   0   0   0   1  13   4   0                 -
-U_Orlandi          FW   4   4  110   0   0   0   0   0   0   8   2   0                 -
+P_Denilson         MF   3   3   89   0   0   0   0   0   3   3   1   1                 -
+A_Andre_Luiz       MF   9   0  621   0   0   0   0   4   7   7   1   0                 -
+N_Kuplious         FW   9   0  833   0   0   0   0   2  12  40   7   1                 -
+Y_Elfulpolous      FW   9   0  639   0   0   0   0   0   1  14   4   0                 -
+U_Orlandi          FW   5   5  137   0   0   0   0   0   0  12   2   0                 -
 Y_Gonzalez         FW   3   3   83   0   0   0   0   0   1   3   0   0                 -
