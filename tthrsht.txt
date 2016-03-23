@@ -3,9 +3,9 @@ A
 
 GK C_Turner
 DF B_Sagna
-DF S_Vagini
 DF S_Irwin
 DF I_Muresanu
+DF S_Raducan
 DM N_Barbulescu
 DM V_Nicu
 DM I_Dalca
@@ -14,19 +14,19 @@ FW J_Guidetti
 FW R_Giurgiu
 
 GK C_Poenaru
+DF S_Vagini
 DM J_Fox
-DM M_Oezil
 AM P_Singh
 FW D_Iacobescu
 
 PK: J_Guidetti
 AGG 20
 
-SUB 8 16 AM IF MIN = 45
-SUB 11 14 DM IF MIN = 50
-SUB 7 13 DM IF MIN = 60
+SUB 8 14 DM IF MIN = 45
+SUB 7 13 DF IF MIN = 50
+SUB 11 16 AM IF MIN = 60
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 53 SCORE = 1
-TACTIC D IF MIN >= 37 SCORE >= 2
+TACTIC D IF MIN >= 66 SCORE = 1
+TACTIC D IF MIN >= 38 SCORE >= 2
