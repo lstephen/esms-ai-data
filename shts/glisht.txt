@@ -2,7 +2,7 @@ gli
 P
 
 GK G_Stopper
-DF L_Aldai
+DF K_Hartell
 DF L_Sents
 DF L_Tenant
 DF S_Gehring
@@ -14,7 +14,7 @@ FW L_Suvillaga
 FW Kiko_Pogona
 
 GK B_Sefton
-DF N_Culling
+DF L_Aldai
 DF W_Kelsen
 FW C_Massanet
 FW M_DeFree
@@ -22,11 +22,11 @@ FW M_DeFree
 PK: Babybinho
 AGG 20
 
-SUB 4 13 DF IF MIN = 66
-SUB 6 16 DF IF MIN = 70
-SUB 3 14 DF IF MIN = 75
-TACTIC A IF MIN >= 70 SCORE <= -2
+SUB 2 13 DF IF MIN = 50
+SUB 4 14 DF IF MIN = 60
+SUB 6 16 DF IF MIN = 75
+TACTIC A IF MIN >= 75 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 70 SCORE >= 2
+TACTIC L IF MIN >= 75 SCORE >= 2
