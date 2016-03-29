@@ -16,15 +16,15 @@ FW R_Giurgiu
 GK C_Poenaru
 DM S_Irwin
 DM Ridoutkha
-MF N_Saul
+MF Juninho
 AM J_Guidetti
 
 PK: R_Giurgiu
 AGG 20
 
-SUB 6 14 DM IF MIN = 45
-SUB 7 15 DM IF MIN = 50
-SUB 11 16 FW IF MIN = 60
+SUB 7 14 DM IF MIN = 45
+SUB 6 13 DM IF MIN = 50
+SUB 11 16 FW IF MIN = 55
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
