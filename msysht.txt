@@ -10,23 +10,23 @@ DF C_Parry
 DM Q_Bolbat
 DM D_Wathen
 FW D_Tikhomirov
-FW J_Pichugin
+FW C_Owen
 FW D_Dillinger
 
 GK A_Kapustov
 DF M_Maddix
 DF P_Prosser
-FW C_Owen
+DF I_Ungureanu
 FW A_Belousov
 
 PK: D_Dillinger
 AGG 20
 
-SUB 11 15 FW IF MIN = 65
-SUB 4 14 DF IF MIN = 87
-SUB 6 13 DF IF MIN = 90
-TACTIC P IF SCORE <= -2
+SUB 7 15 MF IF MIN = 65
+SUB 3 13 DF IF MIN = 70
+SUB 10 14 MF IF MIN = 75
+TACTIC A IF MIN >= 77 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 90 SCORE >= 2
+TACTIC D IF MIN >= 75 SCORE >= 2
