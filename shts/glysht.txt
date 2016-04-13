@@ -14,18 +14,18 @@ FW O_Radacanu
 FW P_Muresanu
 
 GK D_Goldis
-DF I_Ilie
 DF N_Teodorescu
 FW T_Balescu
 FW V_Baicu
+FW M_Burtnett
 
 PK: P_Muresanu
 AGG 20
 
-SUB 5 13 DF IF MIN = 60
-SUB 13 14 DF IF MIN = 78
+SUB 9 16 FW IF MIN = 65
+SUB 6 13 DF IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 70 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE >= 2

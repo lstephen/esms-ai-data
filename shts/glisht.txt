@@ -3,30 +3,30 @@ P
 
 GK G_Stopper
 DF K_Hartell
-DF L_Sents
 DF L_Tenant
+DF C_Begbie
 DF S_Gehring
 DF K_Peacham
-DM C_Begbie
 DM Campbundo
+DM W_Kelsen
 FW Babybinho
 FW L_Suvillaga
 FW Kiko_Pogona
 
-GK B_Sefton
+GK R_Prussak
 DF L_Aldai
 DF N_Culling
-DF W_Kelsen
-FW M_DeFree
+FW M_Le_Tissier
+FW C_Massanet
 
 PK: Babybinho
 AGG 20
 
-SUB 6 15 DF IF MIN = 60
-SUB 2 13 DF IF MIN = 70
-SUB 4 14 DF IF MIN = 77
+SUB 2 14 DF IF MIN = 55
+SUB 11 16 FW IF MIN = 60
+SUB 3 13 DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 79 SCORE >= 2
+TACTIC L IF MIN >= 84 SCORE >= 2
