@@ -1,53 +1,53 @@
 Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 -------------------------------------------------------------------------------
-L_Tsaritsyn       19 rus 15  1  1  1 33  196  300  300  300   0   0   0     450
-P_Napolitano      19 ita 15  1  1  1 21   40  300  300  300   0   0   0     300
-B_Friedel         16 usa 14  1  1  1 56  600  300  300  300   2   0   0     300
-N_Novoseltsev     20 rus  1 18  5 10  4  288  611  306  889   0   0   0   2,916
-L_Sheremetyev     20 rus  1 17  7  6  4  300  899  151   92   0   0   0   1,983
-B_Ankudinov       20 rus  1 17  7  4  4  300  440  840  845   2   0   0   1,917
-P_Markov          18 rus  1 15  7 10  5  300  667  948  913   0   0   0     711
-G_Doherty         18 irl  1 15  4  8 40  300  162  979  959   0   0   0     610
-M_Makimushkin     19 rus  1 15 14  7  3  300  798  496  415   0   0   0     853
-M_Jaime           17 BRA  1 14  7  6 53  300  395  272  649   0   0   0     451
-A_Sokoloff        20 rus  1 16 18 14 18  300  741   41  317   0   0   0   2,878
-E_Zolnerowich     20 rus  1  5 17 11  9  300  410  768  547   2   0   0   2,231
-R_Engalychev      20 rus  1  9 17  4  7  300  957  123  487   0   0   0   2,058
-M_Hazard          18 eng  1  6 15  5 51  300    2  217  810   0   0   0     600
-J_Pavlenco        18 rou  1  8 15  3  9  408  105   26  253   0   0   0     444
-I_Rumyantsev      19 rus  1  8 15  4 23  300  388  992  868   0   0   0     664
-T_Venables        17 eng  1  7 14  4 36  300   26  424  849   0   0   0     416
-T_Sherwood        16 eng  1  8 13  6 36  300  570    0  124   0   0   0     232
-T_Plutin          20 rus  1 10  8 18 21  300  939   92   25   0   0   0   2,186
-Q_Osinov          20 rus  1 11  6 17 19  300  388  464  319   2   0   0   2,079
-L_Tershchenko     19 rus  1  4 11 16 12  300  438  180  426   0   0   0   1,445
-R_Guba            17 rus  1  2 12 14  9  300  595  639  918   0   0   0     508
-C_Armstrong       18 eng  1  5  8 14 11  300  262   51  508   0   0   0     443
+L_Tsaritsyn       19 rus 15  1  1  1 33  262  300  300  300   0   0   0     450
+P_Napolitano      19 ita 15  1  1  1 21   86  300  300  300   0   0   0     300
+B_Friedel         16 usa 14  1  1  1 56  646  300  300  300   2   0   0     300
+N_Novoseltsev     20 rus  1 18  5 10  4  288  669  339  957   0   0   0   2,916
+L_Sheremetyev     20 rus  1 17  7  6  4  300  945  194  119   0   0   0   1,983
+B_Ankudinov       20 rus  1 17  7  4  4  300  486  883  872   2   0   0   1,917
+P_Markov          18 rus  1 15  7 10  5  300  713  975  956   0   0   0     711
+G_Doherty         18 irl  1 15  5  9 40  300  208    6    2   0   0   0     610
+M_Makimushkin     19 rus  1 15 14  7  3  300  844  539  442   0   0   0     853
+M_Jaime           17 BRA  1 14  7  6 53  300  441  315  676   0   0   0     451
+A_Sokoloff        20 rus  1 16 18 14 18  300  784   87  367   0   0   0   2,878
+E_Zolnerowich     20 rus  1  5 17 11  9  300  437  826  595   2   0   0   2,231
+R_Engalychev      20 rus  1 10 17  4  7  300   13  182  527   0   0   0   2,058
+I_Rumyantsev      19 rus  1  8 16  4 23  300  431   38  895   0   0   0     664
+M_Hazard          18 eng  1  6 15  5 51  300   70  334  851   0   0   0     600
+J_Pavlenco        18 rou  1  8 15  3  9  408  160  118  280   0   0   0     444
+T_Venables        17 eng  1  7 14  4 36  300   69  470  876   0   0   0     416
+T_Sherwood        16 eng  1  8 13  6 36  300  613   46  151   0   0   0     232
+T_Plutin          20 rus  1 11  8 18 21  300    7  138  106   0   0   0   2,186
+Q_Osinov          20 rus  1 11  6 17 19  300  431  503  366   2   0   0   2,079
+L_Tershchenko     19 rus  1  4 11 16 12  300  465  223  472   0   0   0   1,445
+R_Guba            17 rus  1  2 12 14  9  300  622  682  964   0   0   0     508
+C_Armstrong       18 eng  1  5  8 14 11  300  289   94  554   0   0   0     443
 
 
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-L_Tsaritsyn        GK   3   0  284   0  14   6   0   0   0   0   0   0                 -
+L_Tsaritsyn        GK   4   0  381   0  21   8   0   0   0   0   0   0                 -
 P_Napolitano       GK   5   0  475   0  28   6   2   0   0   0   0   0                 -
 B_Friedel          GK   6   0  611   0  17  15   0   0   0   0   0   0                 -
-N_Novoseltsev      DF  14   0 1370   1   0   0   0  18   5  13   0   1                 -
-L_Sheremetyev      DF   8   0  735   0   0   0   0   7   2   5   0   0                 -
-B_Ankudinov        DF  13   0 1273   1   0   0   0  14   6   4   3   1                 -
+N_Novoseltsev      DF  15   0 1467   1   0   0   0  19   6  17   1   1                 -
+L_Sheremetyev      DF   9   0  832   0   0   0   0   7   2   5   0   0                 -
+B_Ankudinov        DF  14   0 1370   1   0   0   0  14   6   4   3   1                 -
 P_Markov           DF  10   1  874   1   0   0   0  15   8  10   2   0                 -
 G_Doherty          DF   6   6  219   0   0   0   0   0   2   1   0   0                 -
 M_Makimushkin      DF  11   1 1081   0   0   0   0   5  11  12   0   2                 -
 M_Jaime            DF   5   0  349   0   0   0   0   3   2   5   1   0                 -
-A_Sokoloff         MF  11   0  925   0   0   0   0  10  18  10   1   3                 -
-E_Zolnerowich      MF  13   0 1261   1   0   0   0   3  26  18   3   0                 -
-R_Engalychev       MF   9   1  810   0   0   0   0   4  14   0   0   2                 -
-M_Hazard           MF   3   0  286   0   0   0   0   1   1   1   0   0                 -
-J_Pavlenco         MF   1   1   28   0   0   0   0   0   1   0   0   0                 -
+A_Sokoloff         MF  12   0 1022   0   0   0   0  10  18  14   2   3                 -
+E_Zolnerowich      MF  14   0 1358   1   0   0   0   3  28  21   3   0                 -
+R_Engalychev       MF  10   1  907   0   0   0   0   4  14   0   0   2                 -
 I_Rumyantsev       MF   8   0  798   0   0   0   0   3  15   2   0   3                 -
+M_Hazard           MF   4   0  383   1   0   0   0   2   6   2   0   1                 -
+J_Pavlenco         MF   2   1  125   0   0   0   0   1   4   0   0   1                 -
 T_Venables         MF   2   1  131   0   0   0   0   1   2   4   0   0                 -
 T_Sherwood         MF   4   2  326   0   0   0   0   1   5   0   0   0                 -
-T_Plutin           FW  10   1  793   0   0   0   0   1   4  24   5   1                 -
-Q_Osinov           FW  13   0 1105   0   0   0   0   6   7  25   5   0                 -
+T_Plutin           FW  11   1  890   0   0   0   0   2   5  26   6   1                 -
+Q_Osinov           FW  14   0 1202   0   0   0   0   6   9  26   5   0                 -
 L_Tershchenko      FW   9   0  862   0   0   0   0   2   9  16   3   1                 -
 R_Guba             FW   2   0  169   0   0   0   0   0   0   7   1   0                 -
 C_Armstrong        FW   5   5  118   0   0   0   0   0   2   7   2   0                 -
