@@ -3,30 +3,30 @@ P
 
 GK R_Ceni
 DF A_Wisdom
-DF M_Twaddle
+DF L_Nyatanga
 DF S_Howey
 DF J_Jurado
 DF D_McHale
 DF Doriva
-DM L_Robert
+DM S_R_Ramos
 DM A_Parada
 MF A_Johnson
 FW Diaviera
 
 GK J_Hunter
-DF L_Nyatanga
-DF S_R_Ramos
+DF M_Richards
+DF M_Twaddle
+FW Djalma_Santos
 FW Hugo_Sanchez
-FW M_De_Cala
 
 PK: Diaviera
 AGG 20
 
-SUB 7 13 DF IF MIN = 60
-SUB 9 15 FW IF MIN = 65
-SUB 11 14 DM IF MIN = 78
-TACTIC P IF SCORE <= -2
+SUB 6 13 DF IF MIN = 60
+SUB 9 16 FW IF MIN = 70
+SUB 5 15 MF IF MIN = 87
+TACTIC A IF MIN >= 87 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 78 SCORE >= 2
+TACTIC D IF MIN >= 74 SCORE >= 2
