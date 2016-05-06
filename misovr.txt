@@ -7,7 +7,7 @@ P_Litto         27 DF 24/16/15  41  12  41  29  26  27  33 |  44   7/  7 ||  51 
 R_Figueiredo    26 DF 24/16/14  40   6  40  29  26  26  32 |  44   6/  6 ||  50 ||  37     35 MF  41     36 AM  42     40     35 DM       
 M_Tensfeldt     25 DF 22/16/15  39   2  39  28  25  26  33 |  44   5/  5 ||  49 ||  35     33 MF  40     36 AM  41     39     34 DM       
 J_Latal         30 DF 16/24/16  39  12  39  33  32  33  38 |  38   9/  9 ||  47 ||  38 MF  35 MF  40 FW  40 AM  37     39     40 MF I     
-C_Yastrzemski   27 FW  6/24/16  36   2  29  28  30  31  36 |  40   5/  5 ||  45 ||  33 MF  28 AM  40     34 AM  29 MF  36     38 MF       
+C_Yastrzemski   27 FW  6/24/16  36   2  29  28  30  31  36 |  40   5/  5 ||  45 ||  33 MF  28 AM  40     34 AM  29 AM  36     38 MF       
 D_Bledsoe       27 DF 17/20/15  37   2  37  30  28  29  34 |  39   5/  5 ||  43 ||  34 MF  32 MF  37     36 AM  36     37     35 MF       
 O_Aguilar       28 FW  4/23/18  36   2  27  26  29  31  36 |  38   5/  5 ||  43 ||  33 AM  27 AM  42     33 AM  30 AM  36     37 MF       
 Q_Bonnette      20 GK    21     32  32   2   2   2   2   2 |  40   0/  2 ||  40 ||  32     32     32     32     32     32     32      R r 
@@ -241,7 +241,7 @@ P_Litto         27 DF 24/16/15  41  12  41  29  26  27  33 |  44   7/  7 ||  51 
 R_Figueiredo    26 DF 24/16/14  40   6  40  29  26  26  32 |  44   6/  6 ||  50 ||  37     35 MF  41     36 AM  42     40     35 DM       
 M_Tensfeldt     25 DF 22/16/15  39   2  39  28  25  26  33 |  44   5/  5 ||  49 ||  35     33 MF  40     36 AM  41     39     34 DM       
 J_Latal         30 DF 16/24/16  39  12  39  33  32  33  38 |  38   9/  9 ||  47 ||  38 MF  35 MF  40 FW  40 AM  37     39     40 MF I     
-C_Yastrzemski   27 FW  6/24/16  36   2  29  28  30  31  36 |  40   5/  5 ||  45 ||  33 MF  28 AM  40     34 AM  29 MF  36     38 MF       
+C_Yastrzemski   27 FW  6/24/16  36   2  29  28  30  31  36 |  40   5/  5 ||  45 ||  33 MF  28 AM  40     34 AM  29 AM  36     38 MF       
 D_Bledsoe       27 DF 17/20/15  37   2  37  30  28  29  34 |  39   5/  5 ||  43 ||  34 MF  32 MF  37     36 AM  36     37     35 MF       
 O_Aguilar       28 FW  4/23/18  36   2  27  26  29  31  36 |  38   5/  5 ||  43 ||  33 AM  27 AM  42     33 AM  30 AM  36     37 MF       
 Tarildo         26 DF 16/20/ 4  32   2  32  27  25  23  23 |  35   0/  0 ||  35 ||  29 DM  29 MF  28     30 DM  26     32     32 DM       
@@ -270,7 +270,7 @@ C_Owen          21 FW  9/10/17  27   2  22  17  17  19  27 |  34  -4/ -4 ||  30 
 A_Kapustov      19 GK    17     26  26   2   2   2   2   2 |  33  -6/ -6 ||  27 ||  26     26     26     26     26     26     26      R r 
 P_Levanda       21 DF 17/ 6/10  25   2  25  16  13  14  19 |  34  -7/ -7 ||  27 ||  24     22     27     23     29     25     23      R r 
 M_Schultz       19 DF 17/ 9/ 5  25   2  25  18  15  14  16 |  32  -8/ -8 ||  25 ||  23     23     24     23     25     25     22      R r 
-D_Wathen        19 DF  9/17/ 5  23   2  23  21  21  20  20 |  30  -6/ -6 ||  24 ||  23 MF  21 MF  21     23 AM  19 MF  23     26 MF   R r 
+D_Wathen        19 DF  9/17/ 5  23   2  23  21  21  20  20 |  30  -6/ -6 ||  24 ||  23 MF  21 MF  21 DM  23 AM  19 MF  23     26 MF   R r 
 Q_Bolbat        20 DF  9/17/ 3  23   2  23  20  20  19  18 |  30  -7/ -6 ||  24 ||  22 MF  21 MF  20 DM  22 MF  17 MF  23     25 MF   R r 
 P_Prosser       20 DF  7/17/ 5  21   2  21  20  20  19  20 |  30  -7/ -6 ||  23 ||  22 MF  20 MF  21 MF  22 MF  17 MF  21     25 MF   R r 
 A_Pilbean       21 DF 17/ 8/ 4  24   2  24  17  13  13  14 |  31  -9/ -9 ||  23 ||  22     22     23     22     24     24     21      R r 
@@ -430,14 +430,14 @@ C_de_Vil        22 DF 17/19/ 5  33   3  33  27  25  23  24 |  39   0/  0 ||  39 
 Kiki_Cortez     20 FW  5/14/17  29   2  21  19  20  22  29 |  37  -4/ -3 ||  37 ||  25     21 AM  35     27     27     29     27 AM     r  1.5m
 Julio_Romero    27 FW  9/21/13  31   3  29  26  27  27  31 |  35   2/  2 ||  37 ||  30 MF  26 MF  33     31 AM  27 MF  31     34 MF        2m
 P_Fox           16 DF 14/ 7/ 7  21   2  21  15  12  13  16 |  36 -11/ -4 ||  36 ||  20     19     22     19     23     21     19        r  5m
-Willy_Wonka     16 FW  4/14/ 8  20   2  17  16  17  17  20 |  35 -10/ -3 ||  35 ||  19 MF  16 AM  21 AM  19 AM  16 MF  20     22 MF     r  5m
+Willy_Wonka     16 FW  4/14/ 8  20   2  17  16  17  17  20 |  35 -10/ -3 ||  35 ||  19 MF  16 AM  21     19 AM  16 MF  20     22 MF     r  5m
 Le_Tex          20 DF 19/ 9/ 5  27   2  27  19  15  14  17 |  35  -6/ -5 ||  35 ||  25     25     26     25     28     27     24        r 
 U_Plonka        20 DF 17/ 6/11  25   2  25  16  13  14  20 |  35  -6/ -5 ||  35 ||  24     22     27     23     30     25     23        r  1m
 M_Banks         17 FW  5/ 5/15  20   2  13  10  10  13  20 |  34 -10/ -6 ||  34 ||  19     15     26     20     22     20     18        r  2m
 Rene_Kerkhof    17 DF 10/15/ 2  22   2  22  19  18  17  16 |  34  -9/ -4 ||  34 ||  20 DM  20 MF  19     21 DM  17     22     22 DM     r  2.5m
 T_Burgess       21 DF 19/ 8/10  28   2  28  19  15  16  21 |  37  -4/ -4 ||  33 ||  27     25     30     26     31     28     25        r 
 E_Butragueno    22 FW  2/11/20  29   2  16  15  17  20  29 |  36  -4/ -4 ||  33 ||  26     19     37     27     29     29     25 AM        2m
-M_Hutchinson    24 FW  5/19/13  29   3  23  22  24  25  29 |  35  -2/ -2 ||  33 ||  27 AM  22 AM  32     27 AM  23 AM  29     30 MF        500k
+M_Hutchinson    24 FW  5/19/13  29   3  23  22  24  25  29 |  35  -2/ -2 ||  33 ||  27 AM  22 AM  32     27 AM  23 MF  29     30 MF        500k
 Matt_Sindelar   25 FW  4/11/21  30   3  19  16  17  21  30 |  35  -2/ -2 ||  33 ||  27     21     39     29     31     30     26 AM        3m
 R_Ridings       16 DF 14/ 5/ 2  18   2  18  12   9   8   9 |  32 -14/ -8 ||  32 ||  17     18     17     17     19     18     16        r  3m
 Baz_Trident     18 DF 16/ 4/ 6  21   2  21  13  10  10  13 |  32 -10/ -8 ||  32 ||  20     20     22     20     24     21     20        r  2m
@@ -515,14 +515,14 @@ SUB MF C_de_Vil MF IF INJURED MF
 SUB AM C_de_Vil AM IF INJURED AM
 SUB FW A_Boerkel FW IF INJURED FW
 
-SUB M_Tensfeldt Khamirutzox DF IF MIN = 45
-SUB C_Yastrzemski A_Boerkel FW IF MIN = 66
-SUB D_Bledsoe C_de_Vil DM IF MIN = 90
+SUB G_C_Moore Khamirutzox DF IF MIN = 70
+SUB Tarildo C_de_Vil DM IF MIN = 78
+SUB R_Figueiredo F_Leboeuf DF IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 69 SCORE >= 2
+TACTIC L IF MIN >= 63 SCORE >= 2
 
 ** Reserves Selection **
 COUNTER_ATTACK                 OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
@@ -535,7 +535,7 @@ Q_Bonnette      20 GK    17     26  26   2   2   2   2   2 |  34  -6/ -4 ||  28 
 D_Tikhomirov    20 AM  3/17/14  25   2  15  20  22  25  24 |  36  -4/ -3 ||  36 ||  25     20     32 FW  25     23 FW  28 FW  28 MF     r 
 A_Belousov      17 FW  7/ 8/16  24   2  15  16  16  21  24 |  36  -7/ -3 ||  36 ||  22     18 AM  29     24     25     24     21        r 
 M_Bivins        21 FW  6/ 6/17  23   2  13  14  13  19  23 |  32  -7/ -7 ||  25 ||  22     17     29     23     25     23     21        r 
-D_Wathen        19 AM  9/17/ 5  23   2  19  22  23  23  18 |  30  -6/ -6 ||  24 ||  23 MF  21 MF  21 DF  23     19 MF  23 DF  26 MF     r 
+D_Wathen        19 AM  9/17/ 5  23   2  19  22  23  23  18 |  30  -6/ -6 ||  24 ||  23 MF  21 MF  21 DM  23     19 MF  23 DF  26 MF     r 
 M_Schultz       19 DF 17/ 9/ 5  23   2  23  22  19  21  18 |  32  -8/ -8 ||  25 ||  23     23     24     23     25     25     22        r 
 P_Levanda       21 DF 17/ 6/10  23   2  23  20  17  21  22 |  34  -7/ -7 ||  27 ||  24     22     27     23     29     25     23        r 
 Q_Bolbat        20 MF  9/17/ 3  22   2  18  22  22  22  16 |  30  -7/ -6 ||  24 ||  22     21     20 DM  22     17     23 DF  25        r 
@@ -579,9 +579,9 @@ FW C_Owen
 
 GK A_Kapustov
 DF M_Maddix
+MF I_Ungureanu
 AM D_Tikhomirov
 FW D_Dillinger
-FW A_Belousov
 
 SUB GK A_Kapustov GK IF INJURED GK
 SUB DF M_Maddix DF IF INJURED DF
@@ -590,13 +590,16 @@ SUB MF D_Tikhomirov MF IF INJURED MF
 SUB AM D_Tikhomirov AM IF INJURED AM
 SUB FW D_Dillinger FW IF INJURED FW
 
-SUB M_Schultz D_Tikhomirov AM IF MIN = 50
-SUB A_Pilbean M_Maddix DF IF MIN = 54
-CHANGEPOS Q_Bolbat DM IF MIN = 55
-SUB D_Wathen D_Dillinger FW IF MIN = 78
-TACTIC A IF MIN >= 59 SCORE <= -2
-TACTIC P IF MIN >= 78 SCORE = -1
+CHANGEPOS J_Pichugin FW IF MIN = 45
+CHANGEPOS C_Owen AM IF MIN = 50
+CHANGEPOS Q_Bolbat DM IF MIN = 60
+SUB A_Pilbean D_Tikhomirov AM IF MIN = 65
+CHANGEPOS D_Wathen DM IF MIN = 70
+SUB C_Owen I_Ungureanu MF IF MIN = 74
+SUB P_Prosser D_Dillinger AM IF MIN = 90
+TACTIC E IF MIN >= 4 SCORE <= -2
+TACTIC E IF MIN >= 8 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 49 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
 
