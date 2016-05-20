@@ -1,32 +1,32 @@
 tthr
-A
+C
 
 GK C_Turner
-DF B_Sagna
 DF S_Irwin
 DF I_Muresanu
 DF S_Raducan
-DM Juninho
-DM V_Nicu
+DM Ridoutkha
 DM I_Dalca
-AM D_Hasdeu
-FW J_Guidetti
+MF Juninho
+MF N_Saul
+MF D_Hasdeu
+MF V_Nicu
 FW R_Giurgiu
 
 GK C_Poenaru
-DF S_Vagini
+DF B_Sagna
 DM J_Fox
-AM P_Singh
-FW D_Iacobescu
+AM D_Iacobescu
+FW J_Guidetti
 
-PK: J_Guidetti
+PK: R_Giurgiu
 AGG 20
 
-SUB 8 14 DM IF MIN = 45
-SUB 7 13 DF IF MIN = 50
-SUB 11 16 AM IF MIN = 55
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 68 SCORE = 1
-TACTIC D IF MIN >= 38 SCORE >= 2
+SUB 6 14 MF IF MIN = 45
+SUB 4 13 DF IF MIN = 50
+SUB 11 16 FW IF MIN = 60
+TACTIC E IF MIN >= 18 SCORE <= -2
+TACTIC P IF MIN >= 60 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC L IF MIN >= 45 SCORE = 1
+TACTIC L IF MIN >= 28 SCORE >= 2
