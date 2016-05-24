@@ -1,34 +1,31 @@
 msy
-E
+P
 
 GK Q_Bonnette
 DF P_Levanda
 DF A_Pilbean
 DF M_Schultz
 DF I_Yolkin
+DF C_Parry
+DM D_Wathen
 DM Q_Bolbat
-MF C_Parry
-MF D_Tikhomirov
-MF D_Wathen
-MF J_Pichugin
+FW D_Tikhomirov
 FW D_Dillinger
+FW J_Pichugin
 
 GK A_Kapustov
 DF S_Dobre
-MF P_Prosser
-AM C_Owen
+DF P_Prosser
+FW C_Owen
 FW A_Belousov
 
 PK: D_Dillinger
 AGG 20
 
-SUB 11 15 FW IF MIN = 50
-CHANGEPOS 9 DM IF MIN = 65
-SUB 5 16 DF IF MIN = 69
-CHANGEPOS 16 MF IF MIN = 75
-SUB 4 13 DF IF MIN = 79
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 50 SCORE = 1
-TACTIC D IF MIN >= 42 SCORE >= 2
+SUB 10 15 FW IF MIN = 55
+SUB 5 13 DF IF MIN = 78
+TACTIC A IF MIN >= 72 SCORE <= -2
+TACTIC A IF MIN >= 83 SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 82 SCORE >= 2
