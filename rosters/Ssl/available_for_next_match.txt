@@ -4,11 +4,11 @@ bbs.txt 23
 bwr.txt 23
 coo.txt 18
 csb.txt 23
-der.txt 20
+der.txt 18
 fea.txt 20
-gpa.txt 20
-hoh.txt 22
-man.txt 20
+gpa.txt 19
+hoh.txt 23
+man.txt 18
 mis.txt 21
 pen.txt 25
 phe.txt 22
@@ -23,9 +23,9 @@ jud.txt 33
 mfc.txt 24
 mid.txt 20
 mod.txt 22
-shu.txt 27
+shu.txt 28
 stu.txt 20
-aas.txt 19
+aas.txt 15
 cat.txt 27
 col.txt 21
 dep.txt 21
@@ -46,7 +46,7 @@ dpy.txt 20
 fry.txt 23
 gpy.txt 20
 hhy.txt 23
-mry.txt 21
+mry.txt 20
 msy.txt 22
 npy.txt 24
 phy.txt 20
