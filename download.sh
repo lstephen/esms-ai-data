@@ -25,4 +25,4 @@ popd
 cp tmp/div2/gli.txt rosters/Ucfl/gli.txt
 cp tmp/youthdiv2/gly.txt rosters/Ucfl/gly.txt
 
-#rm -rf tmp
+rm -rf tmp
