@@ -24,7 +24,7 @@ C_Ganea         18 DF 14/14/ 7  27   2  27  21  19  19  21 |  37  -7/ -3 ||  37 
 L_Voiculescu    18 DF 13/15/ 6  26   2  26  21  20  19  21 |  37  -7/ -3 ||  37 ||  24 DM  23 MF  24     24 AM  23     26     25 DM   R r 
 T_Niculaie      19 DF 17/12/ 7  28   2  28  21  18  18  20 |  37  -7/ -5 ||  37 ||  25     24 MF  27     25     28     28     25 DM   R r 
 B_Sefton        24 GK    21     32  32   4   3   3   3   4 |  37   0/  0 ||  37 ||  32     32     32     32     32     32     32          
-I_Hagi          16 DF 12/ 5/ 8  18   2  18  12  10  11  15 |  36 -16/ -9 ||  36 ||  18     16     20     17 FW  21     18     17      R r 
+I_Hagi          16 DF 12/ 5/ 8  18   2  18  12  10  11  15 |  36 -16/ -9 ||  36 ||  18     16     20     17     21     18     17      R r 
 N_Bumbescu      18 FW 10/ 3/15  20   2  17  11   9  12  20 |  36 -13/ -9 ||  36 ||  21     17     24     22     24 DF  20     18      R r 
 I_Galca         19 GK    17     26  26   2   2   2   2   2 |  36  -6/ -3 ||  36 ||  26     26     26     26     26     26     26      R r 
 M_Le_Tissier    27 FW 12/20/14  32   2  31  27  27  27  32 |  36   0/  0 ||  36 ||  31 MF  28 MF  34     33 AM  30 DF  32     34 MF       
@@ -291,7 +291,7 @@ N_Teodorescu    18 DF 13/ 9/ 5  21   2  21  16  14  13  15 |  33 -13/ -9 ||  33 
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
 Hugo_Snatch     21 DF 18/10/19  31   2  31  22  19  22  31 |  44  -3/ -2 ||  44 ||  31 FW  28 AM  36     33 FW  38     31     29          
 P_Rynne         22 FW 17/ 8/22  32   2  30  20  18  22  32 |  45  -1/ -1 ||  44 ||  33     27 AM  38     35     39 DF  32     29          
-I_Hagi          16 DF 12/ 5/ 8  18   2  18  12  10  11  15 |  36 -16/ -9 ||  36 ||  18     16     20     17     21     18     17      R r 
+I_Hagi          16 DF 12/ 5/ 8  18   2  18  12  10  11  15 |  36 -16/ -9 ||  36 ||  18     16     20     17 FW  21     18     17      R r 
 N_Bumbescu      18 FW 10/ 3/15  20   2  17  11   9  12  20 |  36 -13/ -9 ||  36 ||  21     17     24     22     24 DF  20     18      R r 
 C_Vulcan        16 FW  3/13/ 6  17   2  15  14  15  15  17 |  35 -14/ -5 ||  35 ||  17 MF  14 MF  18 AM  16 AM  13 MF  17     19 MF   R r 
 F_Albu          16 FW  5/12/ 7  17   2  16  15  15  15  17 |  35 -14/ -5 ||  35 ||  17 MF  15 MF  18     17 AM  15 MF  17     19 MF   R r 
@@ -329,7 +329,7 @@ D_Goldis        19 GK    15     23  23   2   2   2   2   2 |  31  -9/ -7 ||  31 
                       NORMAL    23    18    24    17    20    19 
                    DEFENSIVE    23    16          14    16    17 
                    ATTACKING    23    20                18    18 
-              COUNTER_ATTACK    23    17    31          16    20 
+              COUNTER_ATTACK    23    17    31          16    17 
                    LONG_BALL    23    21          13    23    19 
                      PASSING    23    18                      17 
                     EUROPEAN    23    17    19    19    19    18 
@@ -399,10 +399,10 @@ FW M_DeFree
    Overall     292     262     253     298     258     285     294 
 
 GK R_Prussak
+AM N_Culling
 AM Kiko_Pogona
 FW L_Aldai
 FW Q_Gehrken
-FW P_Rynne
 
 SUB GK R_Prussak GK IF INJURED GK
 SUB DF L_Aldai DF IF INJURED DF
@@ -411,16 +411,16 @@ SUB MF Kiko_Pogona MF IF INJURED MF
 SUB AM Kiko_Pogona AM IF INJURED AM
 SUB FW Q_Gehrken FW IF INJURED FW
 
-SUB K_Hartell L_Aldai DF IF MIN = 50
-CHANGEPOS Babybinho MF IF MIN = 60
-SUB M_DeFree Q_Gehrken FW IF MIN = 65
-SUB Babybinho Kiko_Pogona AM IF MIN = 75
-CHANGEPOS Campbundo AM IF MIN = 78
-TACTIC E IF MIN >= 15 SCORE <= -2
-TACTIC E IF MIN >= 29 SCORE = -1
+CHANGEPOS Campbundo AM IF MIN = 50
+CHANGEPOS C_Begbie DM IF MIN = 55
+SUB M_DeFree Q_Gehrken FW IF MIN = 60
+SUB Babybinho Kiko_Pogona AM IF MIN = 65
+SUB K_Hartell N_Culling DF IF MIN = 81
+TACTIC P IF MIN >= 55 SCORE <= -2
+TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 58 SCORE >= 2
+TACTIC D IF MIN >= 77 SCORE >= 2
 
 ** Reserves Selection **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   N      D      A      C      L      P      E    
@@ -489,12 +489,11 @@ SUB MF M_Burtnett MF IF INJURED MF
 SUB AM M_Burtnett AM IF INJURED AM
 SUB FW M_Burtnett FW IF INJURED FW
 
-SUB O_Radacanu M_Burtnett FW IF MIN = 75
-CHANGEPOS P_Muresanu MF IF MIN = 78
-SUB J_Byrn N_Teodorescu DM IF MIN = 87
+SUB J_Byrn M_Burtnett FW IF MIN = 58
+SUB E_Gheorghe N_Teodorescu DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 78 SCORE = 1
-TACTIC D IF MIN >= 72 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 68 SCORE >= 2
 
