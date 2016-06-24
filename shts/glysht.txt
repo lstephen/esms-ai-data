@@ -1,31 +1,32 @@
 gly
 P
 
-GK I_Galca
+GK P_Eustice
+DF M_Petri
 DF E_Gheorghe
 DF T_Niculaie
 DF T_Kucek
-DF C_Filipescu
 DF C_Ganea
 DM J_Byrn
 DM D_Vasiliu
 DM L_Voiculescu
-FW O_Radacanu
 FW P_Muresanu
+FW J_Caragiale
 
+GK I_Galca
 GK D_Goldis
-DF N_Teodorescu
-DF I_Hagi
+DF C_Filipescu
+FW O_Radacanu
 FW M_Burtnett
-FW C_Minea
 
 PK: P_Muresanu
 AGG 20
 
-SUB 7 15 FW IF MIN = 58
-SUB 2 13 DF IF MIN = 87
+SUB 10 16 FW IF MIN = 60
+SUB 7 15 FW IF MIN = 70
+SUB 3 14 DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 68 SCORE >= 2
+TACTIC L IF MIN >= 76 SCORE >= 2
