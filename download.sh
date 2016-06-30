@@ -23,6 +23,6 @@ unzip -o youth.zip
 popd
 
 cp tmp/div2/gli.txt rosters/Ucfl/gli.txt
-cp tmp/youthdiv2/gly.txt rosters/Ucfl/gly.txt
+cp tmp/youthdiv1/gly.txt rosters/Ucfl/gly.txt
 
 rm -rf tmp
