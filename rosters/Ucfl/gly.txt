@@ -4,13 +4,11 @@ I_Galca           20 rou 17  1  1  1 30  797  408  408  408   0   0   0   1,400
 D_Goldis          20 rou 15  1  1  1 14  384  618  618  618   0   0   0     450
 E_Gheorghe        20 rou  1 17 11  5 18  408  705  767   38   0   0   0   2,231
 T_Niculaie        20 rou  1 17 12  7  7  618   76  894  700   0   0   0   2,367
-T_Kucek           20 rou  1 16 16 11 55  618  730  305  670   0   0   0   1,842
 G_Stoica          20 rou  1 16  3  9 35  408  478  401  277   0   0   0   1,175
 I_Ilie            19 rou  1 15  6  4 18  516   84  837  999   0   0   0     613
 C_Filipescu       20 rou  1 15 10  7 40  612  951  393  509   0   0   0     751
 N_Teodorescu      19 rou  1 13  9  5 34  516  470  550  472   0   0   0     328
 I_Hagi            17 rou  1 12  5  8  8  300  260  407   68   0   0   0     211
-O_Radacanu        20 rou  1  4 18 13 33  654  670  994  802   0   0   0   3,430
 D_Vasiliu         20 rou  1 13 16  8 10  618   39  367  891   0   0   0   1,630
 C_Ganea           19 rou  1 14 15  7 16  516  394   25  156   0   0   0     853
 L_Voiculescu      19 rou  1 13 15  6 58  300  572  853  155   0   0   0     816
@@ -30,13 +28,11 @@ I_Galca            GK   0   0    0   0   0   0   0   0   0   0   0   0          
 D_Goldis           GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
 E_Gheorghe         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 T_Niculaie         DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-T_Kucek            DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 G_Stoica           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 I_Ilie             DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 C_Filipescu        DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 N_Teodorescu       DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 I_Hagi             DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-O_Radacanu         MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 D_Vasiliu          MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 C_Ganea            MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 L_Voiculescu       MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
