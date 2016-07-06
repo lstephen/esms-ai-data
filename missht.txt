@@ -14,7 +14,7 @@ FW O_Aguilar
 FW Camelino
 
 GK T_Helms
-DF Khamirutzox
+DF F_Leboeuf
 DF Tarildo
 DF C_de_Vil
 FW D_Dillinger
@@ -22,11 +22,11 @@ FW D_Dillinger
 PK: Camelino
 AGG 20
 
-SUB 6 14 DF IF MIN = 72
-SUB 3 13 DF IF MIN = 81
-SUB 9 15 DM IF MIN = 84
+SUB 8 14 DM IF MIN = 50
+SUB 6 15 DF IF MIN = 75
+SUB 3 13 DF IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 80 SCORE >= 2
+TACTIC D IF MIN >= 77 SCORE >= 2
