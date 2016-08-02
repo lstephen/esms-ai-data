@@ -7,26 +7,26 @@ DF K_T-Catherine
 DF Doria
 DF J_Paredes
 DF G_Tamas
-DM S_Murray
 DM H_Arter
 MF M_M_Daehli
 MF E_Konoplyanka
+MF I_Anya
 FW M_Vydra
 
 GK M_Sportiello
-GK J_Bond
 DF D_Pudil
-FW I_Anya
+DF S_Murray
+DF J_Colback
 FW T_Deeney
 
 PK: M_Vydra
 AGG 20
 
-SUB 5 14 DF IF MIN = 60
-SUB 8 15 FW IF MIN = 70
-SUB 7 16 FW IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
+SUB 4 15 DF IF MIN = 45
+SUB 11 16 FW IF MIN = 70
+SUB 5 13 DF IF MIN = 87
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 43 SCORE >= 2
+TACTIC D IF MIN >= 48 SCORE >= 2
