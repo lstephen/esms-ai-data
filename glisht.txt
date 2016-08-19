@@ -1,32 +1,33 @@
 gli
-P
+E
 
 GK G_Stopper
 DF L_Aldai
 DF K_Hartell
 DF L_Tenant
-DF N_Culling
-DF S_Gehring
 DM C_Begbie
-DM Campbundo
-FW Babybinho
-FW L_Suvillaga
-FW Kiko_Pogona
-
-GK P_Eustice
-DF M_Petri
-FW M_Le_Tissier
-FW C_Massanet
+DM S_Gehring
+DM K_Peacham
+MF Babybinho
+MF Campbundo
+MF Kiko_Pogona
 FW M_DeFree
 
-PK: L_Suvillaga
+GK P_Eustice
+DM N_Culling
+MF M_Le_Tissier
+FW Q_Gehrken
+FW P_Rynne
+
+PK: M_DeFree
 AGG 20
 
-SUB 2 16 DF IF MIN = 60
-SUB 3 13 DF IF MIN = 78
-SUB 11 15 FW IF MIN = 90
-TACTIC A IF MIN >= 69 SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 73 SCORE >= 2
+SUB 8 14 MF IF MIN = 70
+SUB 7 13 DF IF MIN = 75
+CHANGEPOS 4 DM IF MIN = 78
+SUB 11 16 FW IF MIN = 84
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 70 SCORE = 1
+TACTIC D IF MIN >= 39 SCORE >= 2
