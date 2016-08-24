@@ -4,29 +4,29 @@ P
 GK AJ_Camodo
 DF P_Litto
 DF R_Figueiredo
-DF K_Prescott
 DF M_Tensfeldt
 DF G_C_Moore
+DF D_Bledsoe
 DM J_Latal
-DM D_Bledsoe
 DM C_de_Vil
 MF C_Yastrzemski
 FW O_Aguilar
+FW Camelino
 
 GK T_Helms
 DF M_Boxall
 DF F_Leboeuf
 DF Tarildo
-FW A_Boerkel
+FW D_Dillinger
 
-PK: O_Aguilar
+PK: Camelino
 AGG 20
 
-SUB 5 15 DF IF MIN = 55
-SUB 8 16 FW IF MIN = 81
-SUB 6 14 DF IF MIN = 84
+SUB 9 15 DM IF MIN = 55
+SUB 6 13 DF IF MIN = 60
+SUB 4 14 DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 63 SCORE >= 2
+TACTIC D IF MIN >= 71 SCORE >= 2
