@@ -1,7 +1,7 @@
 gly
 E
 
-GK I_Galca
+GK D_Goldis
 DF E_Gheorghe
 DF C_Filipescu
 DF I_Ilie
@@ -13,7 +13,7 @@ MF V_Baicu
 MF J_Caragiale
 FW N_Bumbescu
 
-GK D_Goldis
+GK I_Galca
 DF G_Stoica
 MF C_Vulcan
 MF C_Greco
@@ -22,11 +22,11 @@ FW W_Rehak
 PK: N_Bumbescu
 AGG 20
 
-SUB 4 13 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 78
-SUB 9 15 MF IF MIN = 81
+SUB 1 12 GK IF MIN = 58
+SUB 4 13 DF IF MIN = 60
+SUB 9 15 MF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 61 SCORE = 1
+TACTIC C IF MIN >= 67 SCORE = 1
 TACTIC D IF MIN >= 42 SCORE >= 2
