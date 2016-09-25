@@ -1,32 +1,32 @@
 wat
-A
+C
 
 GK I_Akinfeev
-DF S_Bassong
 DF Doria
 DF K_T-Catherine
 DF J_Paredes
-DF G_Tamas
-DM S_Murray
-AM M_M_Daehli
-AM I_Anya
+DM S_Bassong
+DM G_Tamas
+MF M_M_Daehli
+MF I_Anya
+MF S_Murray
+MF H_Arter
+FW A_Morata
+
+GK M_Sportiello
+DF D_Pudil
+DM J_Colback
 AM A_Abdi
 FW T_Deeney
 
-GK M_Sportiello
-GK J_Bond
-DF D_Pudil
-DM H_Arter
-FW V_Moses
-
-PK: T_Deeney
+PK: A_Morata
 AGG 20
 
-SUB 5 14 DF IF MIN = 60
-SUB 10 16 AM IF MIN = 70
-SUB 9 15 DM IF MIN = 87
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 5 SCORE = 1
-TACTIC D IF MIN >= 53 SCORE >= 2
+SUB 4 13 DF IF MIN = 60
+SUB 8 15 MF IF MIN = 70
+SUB 10 14 DM IF MIN = 75
+TACTIC A IF MIN >= 33 SCORE <= -2
+TACTIC E IF MIN >= 7 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 43 SCORE = 1
+TACTIC D IF MIN >= 22 SCORE >= 2
