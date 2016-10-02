@@ -3,27 +3,27 @@ Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 I_Galca           20 rou 18  1  1  1 30  253  408  408  408   0   0   0   2,100
 D_Goldis          20 rou 15  1  1  1 14  804  618  618  618   0   0   0     450
 R_Fusco           17 ITA 12  1  1  1 32  159  300  300  300   0   0   0     140
-E_Gheorghe        20 rou  1 18 12  5 18  408  185  171  270   2   0   0   3,376
-G_Stoica          20 rou  1 16  3  9 35  408  854  630  609   0   0   0   1,175
-C_Filipescu       20 rou  1 16 10  7 40  612  404  809  763   0   0   0   1,465
-I_Ilie            19 rou  1 15  7  5 18  516  593  197  213   0   0   0     651
+E_Gheorghe        20 rou  1 18 12  5 18  408  185  177  270   2   0   0   3,376
+G_Stoica          20 rou  1 16  3  9 35  408  877  629  614   2   0   0   1,175
+C_Filipescu       20 rou  1 16 10  7 40  612  403  814  762   2   0   0   1,465
+I_Ilie            19 rou  1 15  7  5 18  516  605  209  213   0   0   0     651
 Y_Koch            17 AUS  1 13  3  8 16  300  135  610  334   0   0   0     269
 N_Teodorescu      19 rou  1 13  9  5 34  516  862  894  692   0   0   0     328
-S_Johnson         16 ENG  1 12  6  2  3  300   20  300  728   0   0   0     127
+S_Johnson         16 ENG  1 12  6  2  3  300   20  300  728   0   0   0     193
 I_Hagi            17 rou  1 12  5  8  8  300  628  623  412   0   0   0     211
 Y_Sergio          17 BRA  1 12  5  5 14  300  271  310  517   0   0   0     197
 P_Luque           16 ARG  1 11  3  4 24  300  748   38  533   0   0   0     112
-L_Voiculescu      19 rou  1 14 16  6 58  300   12  322  409   2   0   0   1,585
-D_Vasiliu         20 rou  1 13 16  9 10  618  457  979  175   0   0   0   1,653
-T_Balescu         18 rou  1  4 15  7  8  408  265  200  110   2   0   0     639
-C_Ganea           19 rou  1 14 15  7 16  516  804  425  372  14   0   0     853
+L_Voiculescu      19 rou  1 14 16  6 58  300   20  312  399   2   0   0   1,633
+D_Vasiliu         20 rou  1 13 16  9 10  618  457  991  195   0   0   0   1,653
+T_Balescu         18 rou  1  4 15  7  8  408  249  189   98   2   0   0     639
+C_Ganea           19 rou  1 14 15  7 16  516  804  431  372  14   0   0     853
 C_Vulcan          17 rou  1  4 13  7 31  300  173  787  115   0   0   0     296
 C_Greco           17 ITA  1  5 13  8 11  300  611  314  673   0   0   0     315
 F_Albu            17 rou  1  6 13  8 40  300   95  144  125   0   0   0     321
 V_Baicu           18 rou  1  4 13 11 45  408  909  781  653   2   0   0     348
 Y_Berbis          16 AUS  1  7 11  3  7  300  910  712  512   0   0   0     137
-J_Caragiale       18 rou  1  6 15 17 15  408  199  797  459   0   0   0   2,544
-N_Bumbescu        19 rou  1 11  4 15 38  516  272  242  970   2   0   0     646
+J_Caragiale       18 rou  1  6 15 17 15  408  199  803  471   0   0   0   2,544
+N_Bumbescu        19 rou  1 11  4 15 38  516  284  242  971   2   0   0     646
 W_Rehak           18 CZE  1  9  7 13 38  300  235  668  945   0   0   0     327
 C_Minea           19 rou  1  7 11 12  9  516  112   97  784   0   0   0     267
 
@@ -31,29 +31,29 @@ C_Minea           19 rou  1  7 11 12  9  516  112   97  784   0   0   0     267
 ----------------------------------------------------------------------------------------
 Name              Pos Gam Sub  Min Mom Sav Con Cls Ktk Kps Sht Gls Ass            Status
 ----------------------------------------------------------------------------------------
-I_Galca            GK   6   1  539   0  23   9   1   0   0   0   0   0                 -
+I_Galca            GK   7   1  637   0  28  14   1   0   0   0   0   0                 -
 D_Goldis           GK   3   0  253   0   7   2   1   0   0   0   0   0                 -
 R_Fusco            GK   0   0    0   0   0   0   0   0   0   0   0   0                 -
-E_Gheorghe         DF   8   0  792   0   0   0   0   7   8   2   0   0                 -
-G_Stoica           DF   6   3  401   0   0   0   0   2   1   2   0   1                 -
-C_Filipescu        DF   8   0  792   1   0   0   0   6   6   4   1   1                 -
-I_Ilie             DF   7   0  596   1   0   0   0  12   2   7   0   1                 -
+E_Gheorghe         DF   9   0  890   0   0   0   0   7   9   2   0   0                 -
+G_Stoica           DF   7   3  499   0   0   0   0   4   1   4   0   1                 -
+C_Filipescu        DF   9   0  890   1   0   0   0   6   7   4   1   1                 -
+I_Ilie             DF   8   0  694   1   0   0   0  13   4   7   0   1                 -
 Y_Koch             DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 N_Teodorescu       DF   1   1   84   0   0   0   0   2   0   2   0   0                 -
 S_Johnson          DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 I_Hagi             DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 Y_Sergio           DF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 P_Luque            DF   1   1    9   0   0   0   0   0   0   0   0   0                 -
-L_Voiculescu       MF   8   0  768   0   0   0   0   7  11   5   1   1                 -
-D_Vasiliu          MF   8   0  788   2   0   0   0   4  21   4   2   4                 -
-T_Balescu          MF   7   0  663   1   0   0   0   0  10   9   3   1                 -
-C_Ganea            MF   7   0  666   0   0   0   0   5   7   4   0   0                 -
+L_Voiculescu       MF   9   0  866   0   0   0   0   9  12   7   1   1                 -
+D_Vasiliu          MF   9   0  886   2   0   0   0   4  23   5   3   4                 -
+T_Balescu          MF   8   0  761   1   0   0   0   0  10  11   3   1                 -
+C_Ganea            MF   8   0  764   0   0   0   0   5   8   4   0   0                 -
 C_Vulcan           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
 C_Greco            MF   4   4   62   0   0   0   0   0   2   3   0   1                 -
 F_Albu             MF   1   1   26   0   0   0   0   0   0   0   0   0                 -
 V_Baicu            MF   6   0  423   0   0   0   0   2   6   6   1   0                 -
 Y_Berbis           MF   0   0    0   0   0   0   0   0   0   0   0   0                 -
-J_Caragiale        FW   8   0  792   0   0   0   0   3  12  12   4   0                 -
-N_Bumbescu         FW   8   0  738   0   0   0   0   3   1  19   3   0                 -
+J_Caragiale        FW   9   0  890   0   0   0   0   3  13  15   4   0                 -
+N_Bumbescu         FW   9   0  836   0   0   0   0   4   1  20   3   0                 -
 W_Rehak            FW   4   3  168   0   0   0   0   0   1   5   0   0                 -
 C_Minea            FW   2   2   25   0   0   0   0   0   0   0   0   0                 -
