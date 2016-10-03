@@ -8,25 +8,25 @@ DF E_Banciu
 DM Ridoutkha
 DM M_Oezil
 MF J_Fox
+MF N_Saul
 MF N_Barbulescu
-MF M_Cristescu
 MF V_Nicu
 FW C_Sandulescu
 
 GK C_Poenaru
 DF B_Sagna
 MF Juninho
-MF N_Saul
+AM P_Singh
 AM D_Iacobescu
 
 PK: C_Sandulescu
 AGG 20
 
-SUB 10 14 MF IF MIN = 45
-SUB 9 14 DM IF MIN = 50
-SUB 11 16 FW IF MIN = 55
-TACTIC E IF MIN >= 12 SCORE <= -2
-TACTIC E IF MIN >= 24 SCORE = -1
+SUB 3 13 DF IF MIN = 45
+SUB 9 14 MF IF MIN = 55
+SUB 11 16 FW IF MIN = 60
+TACTIC E IF MIN >= 16 SCORE <= -2
+TACTIC E IF MIN >= 31 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 31 SCORE = 1
-TACTIC D IF MIN >= 16 SCORE >= 2
+TACTIC D IF MIN >= 27 SCORE = 1
+TACTIC D IF MIN >= 14 SCORE >= 2
