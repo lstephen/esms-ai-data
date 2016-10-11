@@ -6,25 +6,25 @@ DF S_Vagini
 DF E_Banciu
 DF J_Fox
 DF Ridoutkha
+DF N_Saul
 DF M_Oezil
-DF N_Barbulescu
+DM Juninho
 DM V_Nicu
-MF Da_Erikson
 FW D_Iacobescu
 FW C_Sandulescu
 
 GK C_Poenaru
 DF A_Andreasen
-DF Juninho
-DF N_Saul
+DF I_Muresanu
+DF F_Parasca
 FW P_Singh
 
 PK: C_Sandulescu
 AGG 20
 
-SUB 11 15 DM IF MIN = 45
+SUB 9 15 DM IF MIN = 45
 SUB 3 13 DF IF MIN = 50
-SUB 8 14 DM IF MIN = 55
+SUB 11 16 MF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
