@@ -21,11 +21,11 @@ M_Burtnett      21 FW  8/11/19  36   2  22  18  18  21  29 |  38  -6/ -6 ||  38 
 C_Massanet      25 FW  5/19/19  41   3  25  23  25  28  35 |  39   0/  0 ||  38 ||  35     33 AM  31     41     31 AM       
 Q_Gehrken       28 FW 15/ 8/23  40   3  28  19  18  22  33 |  38  -1/ -1 ||  37 ||  33     29     35     40     33          
 C_Ganea         19 DF 14/15/ 7  27   2  27  22  20  20  22 |  36  -5/ -3 ||  36 ||  27     26 DM  25 AM  26     25 DM   R r 
-L_Voiculescu    19 DF 14/16/ 6  28   2  28  23  21  20  22 |  36  -5/ -3 ||  36 ||  28     27 DM  26 DM  26     25 DM   R r 
+L_Voiculescu    19 DF 14/16/ 6  28   2  28  23  21  20  22 |  36  -5/ -3 ||  36 ||  28     27 DM  26 AM  26     25 DM   R r 
 D_Vasiliu       20 DF 13/17/ 9  28   2  28  24  23  22  25 |  36  -4/ -3 ||  36 ||  28     28 MF  28 AM  28     26 MF   R r 
 I_Galca         20 GK    18     27  27   2   2   2   2   2 |  36  -6/ -4 ||  36 ||  27     27     27     27     27      R r 
 R_Prussak       23 GK    21     32  32   2   2   2   2   2 |  38  -1/ -1 ||  36 ||  32     32     32     32     32          
-I_Hagi          17 DF 12/ 5/ 8  20   2  18  12  10  11  15 |  35 -15/ -9 ||  35 ||  18     17     17 FW  20     18      R r 
+I_Hagi          17 DF 12/ 5/ 8  20   2  18  12  10  11  15 |  35 -15/ -9 ||  35 ||  18     17     17     20     18      R r 
 W_Rehak         18 FW  9/ 7/14  26   2  18  14  13  15  22 |  35 -13/ -9 ||  35 ||  22     19     22     26     21      R r 
 N_Bumbescu      19 FW 11/ 4/16  27   2  19  12  11  14  22 |  35 -12/-10 ||  35 ||  22     20     24     27     22      R r 
 E_Gheorghe      20 DF 18/12/ 5  29   2  29  21  18  17  19 |  35  -6/ -5 ||  35 ||  29     25 DM  25     27     25      R r 
@@ -271,7 +271,7 @@ PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     
 J_Caragiale     18 FW  6/15/15  32   2  22  20  20  22  28 |  39  -6/ -2 ||  39 ||  28     26 AM  26     32     25 AM   R r 
 C_Ganea         19 DF 14/15/ 7  27   2  27  22  20  20  22 |  36  -5/ -3 ||  36 ||  27     26 DM  25 AM  26     25 DM   R r 
 W_Rehak         18 FW  9/ 7/14  26   2  18  14  13  15  22 |  35 -13/ -9 ||  35 ||  22     19     22     26     21      R r 
-L_Voiculescu    19 DF 14/15/ 6  27   2  27  22  20  19  21 |  35  -6/ -4 ||  35 ||  27     26 DM  25 DM  25     24 DM   R r 
+L_Voiculescu    19 DF 14/15/ 6  27   2  27  22  20  19  21 |  35  -6/ -4 ||  35 ||  27     26 DM  25 AM  25     24 DM   R r 
 V_Baicu         18 FW  4/13/11  25   2  17  16  17  18  22 |  34 -11/ -7 ||  34 ||  22     22 MF  20 AM  25     20 AM   R r 
 N_Bumbescu      19 FW 11/ 4/15  25   2  19  12  11  13  21 |  34 -13/-11 ||  34 ||  21     19     23     25     21      R r 
 D_Vasiliu       20 DF 13/15/ 9  27   2  27  22  21  21  24 |  34  -5/ -5 ||  34 ||  27     26 MF  26 AM  27     24 MF   R r 
@@ -282,7 +282,7 @@ T_Balescu       18 MF  4/15/ 7  23   2  17  17  18  18  19 |  32 -12/ -8 ||  32 
 C_Minea         19 FW  7/11/12  25   2  19  16  16  17  22 |  32 -11/ -9 ||  32 ||  22     20 AM  21     25     20      R r 
 I_Ilie          19 DF 15/ 7/ 5  22   2  22  15  12  12  14 |  32 -12/-10 ||  32 ||  22     19     20     22     20      R r 
 E_Gheorghe      20 DF 15/12/ 5  26   2  26  19  17  16  18 |  32  -8/ -7 ||  32 ||  26     23 DM  23 DM  24     22      R r 
-N_Teodorescu    19 DF 13/ 9/ 5  21   2  21  16  14  13  15 |  31 -12/ -9 ||  31 ||  21     19 DM  19     21     19      R r 
+G_Stoica        20 DF 15/ 3/ 9  23   2  20  12   9  10  15 |  31 -15/-13 ||  31 ||  20     20     19     23     20      R r 
 
 ** Reserves Squad (21) **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      E      C      A      N    
@@ -321,9 +321,9 @@ R_Prussak       23 GK    21     32  32   2   2   2   2   2 |  38  -1/ -1 ||  36 
 B_Sefton        25 GK    21     32  32   4   3   3   3   4 |  36  -1/ -1 ||  34 ||  32     32     32     32     32          
 P_Luque         16 DF 11/ 3/ 4  15   2  14   9   7   7   9 |  32 -19/-12 ||  32 ||  14     14     14     15     14      R r 
 Y_Berbis        16 MF  7/11/ 3  17   2  16  14  14  13  13 |  32 -15/ -6 ||  32 ||  16 DF  17     15 AM  14 DF  15      R r 
-G_Stoica        20 DF 16/ 3/ 9  23   2  21  13   9  10  15 |  32 -14/-12 ||  32 ||  21     21     20     23     21      R r 
 R_Fusco         17 GK    12     18  18   2   2   2   2   2 |  31 -15/ -9 ||  31 ||  18     18     18     18     18      R r 
 Y_Sergio        17 DF 12/ 5/ 5  18   2  17  12   9   9  12 |  31 -16/-10 ||  31 ||  17     16     16     18     16      R r 
+N_Teodorescu    19 DF 13/ 9/ 5  21   2  21  16  14  13  15 |  31 -12/ -9 ||  31 ||  21     19 DM  19     21     19      R r 
 
                                 GK    DF    DM    MF    AM    FW 
                        Count     7    15     5     9     7     8 
@@ -336,9 +336,9 @@ Y_Sergio        17 DF 12/ 5/ 5  18   2  17  12   9   9  12 |  31 -16/-10 ||  31 
                 Reserves (P)    23    22    22    18          22 
                          Min
                       NORMAL    18    14    25    15    20    20 
-                   DEFENSIVE    18    14          15    17    19 
+                   DEFENSIVE    18    14    25    15    17    19 
                    ATTACKING    18    14                19    20 
-              COUNTER_ATTACK    18    14    26          15    17 
+              COUNTER_ATTACK    18    14    26          15    21 
                    LONG_BALL    18    13          15          19 
                      PASSING    18    14                      18 
                     EUROPEAN    18    14    15    17    20    19 
@@ -410,27 +410,25 @@ FW M_Le_Tissier
 
 GK P_Eustice
 DF M_Petri
-FW C_Massanet
-FW P_Muresanu
+FW P_Rynne
 FW M_DeFree
+FW Hugo_Snatch
 
 SUB GK P_Eustice GK IF INJURED GK
 SUB DF M_Petri DF IF INJURED DF
-SUB DM C_Massanet DM IF INJURED DM
-SUB MF C_Massanet MF IF INJURED MF
-SUB AM C_Massanet AM IF INJURED AM
+SUB DM M_Petri DM IF INJURED DM
+SUB MF M_Petri MF IF INJURED MF
+SUB AM M_Petri AM IF INJURED AM
 SUB FW M_DeFree FW IF INJURED FW
 
-SUB L_Aldai M_Petri DF IF MIN = 45
-CHANGEPOS M_Le_Tissier DM IF MIN = 50
-CHANGEPOS M_Le_Tissier FW IF MIN = 55
-SUB N_Culling M_DeFree DF IF MIN = 60
-SUB M_Le_Tissier C_Massanet FW IF MIN = 81
-TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC A IF MIN >= 82 SCORE = -1
+SUB N_Culling M_Petri DF IF MIN = 50
+SUB L_Aldai Hugo_Snatch DF IF MIN = 65
+SUB M_Le_Tissier M_DeFree FW IF MIN = 78
+TACTIC A IF MIN >= 62 SCORE <= -2
+TACTIC A IF MIN >= 86 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 69 SCORE >= 2
+TACTIC L IF MIN >= 71 SCORE >= 2
 
 ** Reserves Selection **
 COUNTER_ATTACK                 OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      E      C      A      N    
@@ -453,7 +451,7 @@ N_Teodorescu    19 DF 13/ 9/ 5  21   2  19  19  17  18  16 |  31 -12/ -9 ||  31 
 G_Stoica        20 DF 15/ 3/ 9  23   2  19  16  13  17  18 |  31 -15/-13 ||  31 ||  20     20     19     23     20        r 
 R_Fusco         17 GK    12     18  18   2   2   2   2   2 |  31 -15/ -9 ||  31 ||  18     18     18     18     18        r 
 C_Vulcan        17 MF  4/13/ 7  20   2  12  16  17  18  16 |  33 -14/ -7 ||  33 ||  18 FW  20     18 AM  19 AM  18        r 
-I_Hagi          17 DF 12/ 5/ 8  20   2  17  15  13  16  17 |  35 -15/ -9 ||  35 ||  18     17     17 FW  20     18        r 
+I_Hagi          17 DF 12/ 5/ 8  20   2  17  15  13  16  17 |  35 -15/ -9 ||  35 ||  18     17     17     20     18        r 
 Y_Koch          17 DF 13/ 3/ 8  20   2  17  14  12  15  16 |  34 -16/-11 ||  34 ||  18     17     17     20     18        r 
 Y_Sergio        17 DF 12/ 5/ 5  18   2  16  15  12  14  14 |  31 -16/-10 ||  31 ||  17     16     16     18     16        r 
 S_Johnson       16 DF 12/ 6/ 2  17   2  16  15  13  14  11 |  33 -16/ -9 ||  33 ||  17     15 DM  16     16     15        r 
@@ -490,23 +488,23 @@ FW N_Bumbescu
 
 GK I_Galca
 DF G_Stoica
+AM C_Greco
 AM V_Baicu
 FW W_Rehak
-FW C_Minea
 
 SUB GK I_Galca GK IF INJURED GK
 SUB DF G_Stoica DF IF INJURED DF
-SUB DM V_Baicu DM IF INJURED DM
-SUB MF V_Baicu MF IF INJURED MF
-SUB AM V_Baicu AM IF INJURED AM
+SUB DM C_Greco DM IF INJURED DM
+SUB MF C_Greco MF IF INJURED MF
+SUB AM C_Greco AM IF INJURED AM
 SUB FW W_Rehak FW IF INJURED FW
 
-SUB F_Albu V_Baicu AM IF MIN = 45
-SUB T_Balescu C_Minea AM IF MIN = 55
-SUB N_Bumbescu W_Rehak FW IF MIN = 70
-TACTIC A IF MIN >= 66 SCORE <= -2
+SUB N_Bumbescu W_Rehak FW IF MIN = 60
+SUB T_Balescu V_Baicu AM IF MIN = 65
+SUB F_Albu C_Greco MF IF MIN = 75
+TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 71 SCORE >= 2
+TACTIC D IF MIN >= 55 SCORE >= 2
 
