@@ -1,32 +1,31 @@
 gly
-E
+P
 
 GK I_Galca
+DF E_Gheorghe
 DF C_Filipescu
-DF I_Ilie
+DF C_Ganea
 DF N_Teodorescu
-DM E_Gheorghe
-DM C_Ganea
-DM L_Voiculescu
-MF D_Vasiliu
+DF L_Voiculescu
+DM D_Vasiliu
 MF T_Balescu
-MF J_Caragiale
-FW N_Bumbescu
+FW V_Baicu
+FW J_Caragiale
+FW C_Minea
 
 GK D_Goldis
 DF G_Stoica
-DF Y_Koch
-MF F_Albu
+DF I_Ilie
+FW F_Albu
 FW W_Rehak
 
-PK: N_Bumbescu
+PK: J_Caragiale
 AGG 20
 
-SUB 11 16 FW IF MIN = 45
-SUB 9 15 MF IF MIN = 60
-SUB 4 14 DF IF MIN = 90
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 61 SCORE = 1
-TACTIC D IF MIN >= 33 SCORE >= 2
+SUB 8 15 DM IF MIN = 60
+SUB 11 16 FW IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 69 SCORE >= 2
