@@ -14,7 +14,7 @@ MF V_Nicu
 FW R_Giurgiu
 
 GK C_Poenaru
-DM N_Saul
+MF N_Saul
 DM F_Parasca
 MF P_Singh
 AM E_Davids
@@ -22,7 +22,7 @@ AM E_Davids
 PK: R_Giurgiu
 AGG 20
 
-SUB 9 14 MF IF MIN = 45
+SUB 9 13 MF IF MIN = 45
 SUB 10 13 DF IF MIN = 65
 SUB 4 15 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
