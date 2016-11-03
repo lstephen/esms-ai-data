@@ -9,24 +9,24 @@ DF M_Oezil
 DF F_Parasca
 DF J_Milburn
 DM J_Fox
-DM D_Hasdeu
+DM Juninho
 DM V_Nicu
 FW R_Giurgiu
 
 DF I_Harte
-DF Juninho
 FW Da_Erikson
 FW P_Singh
 FW D_Iacobescu
+FW D_Hasdeu
 
 PK: R_Giurgiu
 AGG 20
 
-SUB 9 16 FW IF MIN = 45
-SUB 11 14 DM IF MIN = 50
-SUB 7 12 DF IF MIN = 65
+SUB 11 13 FW IF MIN = 55
+SUB 7 15 DF IF MIN = 60
+SUB 10 16 DM IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+TACTIC D IF MIN >= 80 SCORE >= 2
