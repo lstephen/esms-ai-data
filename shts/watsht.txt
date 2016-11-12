@@ -1,32 +1,32 @@
 wat
-C
+A
 
 GK I_Akinfeev
 DF S_Bassong
 DF Doria
 DF K_T-Catherine
-DM G_Tamas
-DM H_Arter
-MF M_M_Daehli
-MF E_Konoplyanka
-MF S_Murray
-MF J_Colback
+DF D_Pudil
+DF G_Tamas
+DM S_Murray
+AM M_M_Daehli
+AM E_Konoplyanka
 FW A_Morata
+FW M_Vydra
 
 GK M_Sportiello
-DF D_Pudil
-AM I_Anya
-AM A_Abdi
-FW M_Vydra
+DM J_Colback
+FW I_Anya
+FW A_Abdi
+FW T_Deeney
 
 PK: A_Morata
 AGG 20
 
-SUB 10 15 MF IF MIN = 50
-SUB 6 16 FW IF MIN = 70
-SUB 11 14 MF IF MIN = 75
-TACTIC E IF MIN >= 10 SCORE <= -2
-TACTIC E IF MIN >= 73 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 43 SCORE = 1
-TACTIC D IF MIN >= 22 SCORE >= 2
+SUB 8 14 AM IF MIN = 60
+SUB 9 16 FW IF MIN = 65
+SUB 11 15 AM IF MIN = 70
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF MIN >= 7 SCORE = 1
+TACTIC D IF MIN >= 70 SCORE >= 2
