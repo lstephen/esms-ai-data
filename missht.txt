@@ -3,8 +3,8 @@ P
 
 GK AJ_Camodo
 DF R_Figueiredo
+DF K_Prescott
 DF M_Tensfeldt
-DF G_C_Moore
 DF D_Bledsoe
 DF C_de_Vil
 DM J_Latal
@@ -23,9 +23,9 @@ PK: Camelino
 AGG 20
 
 SUB 6 13 DF IF MIN = 60
-SUB 8 16 FW IF MIN = 70
-TACTIC A IF MIN >= 70 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB 8 16 FW IF MIN = 65
+TACTIC A IF MIN >= 65 SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 74 SCORE >= 2
+TACTIC L IF MIN >= 75 SCORE >= 2
