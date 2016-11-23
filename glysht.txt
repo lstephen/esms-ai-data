@@ -3,11 +3,11 @@ P
 
 GK I_Galca
 DF E_Gheorghe
-DF C_Filipescu
-DF C_Ganea
+DF I_Ilie
 DF N_Teodorescu
-DF L_Voiculescu
-DM D_Vasiliu
+DF D_Vasiliu
+DF C_Ganea
+DM F_Albu
 MF T_Balescu
 FW V_Baicu
 FW J_Caragiale
@@ -15,18 +15,18 @@ FW C_Minea
 
 GK D_Goldis
 DF G_Stoica
-DF I_Ilie
-FW F_Albu
+DF I_Hagi
+FW C_Vulcan
 FW N_Bumbescu
 
 PK: J_Caragiale
 AGG 20
 
-SUB 11 15 DM IF MIN = 50
-SUB 8 16 FW IF MIN = 65
-CHANGEPOS 15 MF IF MIN = 87
+SUB 11 15 MF IF MIN = 50
+SUB 7 16 FW IF MIN = 55
+SUB 3 14 DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 82 SCORE >= 2
+TACTIC D IF MIN >= 85 SCORE >= 2
