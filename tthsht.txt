@@ -11,22 +11,22 @@ DF Doriva
 DM J_Jurado
 DM M_Lopes
 MF L_Robert
-FW Hugo_Sanchez
+FW Diaviera
 
 GK J_Hunter
+DF S_Vagini
 DF S_R_Ramos
-FW A_Johnson
 FW Dillon
 FW M_James
 
-PK: Hugo_Sanchez
+PK: Diaviera
 AGG 20
 
-SUB 10 13 DM IF MIN = 50
-SUB 11 14 FW IF MIN = 60
-SUB 9 16 DM IF MIN = 70
+SUB 9 16 MF IF MIN = 45
+SUB 10 14 DM IF MIN = 55
+SUB 3 13 DF IF MIN = 81
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 69 SCORE >= 2
+TACTIC D IF MIN >= 59 SCORE >= 2
