@@ -2,14 +2,14 @@ tthr
 P
 
 GK C_Turner
+DF S_Vagini
 DF S_Irwin
 DF E_Banciu
 DF M_Oezil
 DF Ridoutkha
-DF N_Saul
 DF J_Milburn
 DM J_Fox
-DM F_Parasca
+DM N_Saul
 DM V_Nicu
 FW E_Davids
 
@@ -22,11 +22,11 @@ FW R_Giurgiu
 PK: E_Davids
 AGG 20
 
-SUB 3 15 DF IF MIN = 45
-SUB 10 14 DM IF MIN = 50
-SUB 11 16 FW IF MIN = 84
+SUB 4 14 DF IF MIN = 45
+SUB 11 15 FW IF MIN = 60
+SUB 10 16 FW IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 74 SCORE >= 2
+TACTIC D IF MIN >= 78 SCORE >= 2
