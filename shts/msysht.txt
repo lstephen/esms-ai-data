@@ -1,32 +1,32 @@
 msy
-N
+E
 
 GK A_Kapustov
 DF I_Yolkin
 DF M_Schultz
-DF C_Stirbei
-DF O_Bucsa
-MF C_Parry
-MF D_Wathen
-MF D_Tikhomirov
-MF Q_Bolbat
-MF I_Ungureanu
-FW J_Pichugin
-
 DF S_Dobre
-MF P_Prosser
+DF C_Stirbei
+DM D_Wathen
+MF C_Parry
+MF I_Ungureanu
 MF D_Fidatov
-MF V_Dobre
+MF J_Pichugin
 FW A_Belousov
+
+GK O_Devers
+DF O_Bucsa
+MF V_Dobre
+MF P_Deusner
+AM R_Silano
 
 PK: J_Pichugin
 AGG 20
 
-SUB 9 14 MF IF MIN = 55
-SUB 11 16 FW IF MIN = 60
-SUB 10 15 MF IF MIN = 81
-TACTIC E IF SCORE <= -2
+SUB 11 16 FW IF MIN = 55
+SUB 2 13 DF IF MIN = 60
+SUB 9 15 MF IF MIN = 75
+TACTIC A IF MIN >= 60 SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC N IF SCORE = 0
-TACTIC D IF MIN >= 68 SCORE = 1
-TACTIC D IF MIN >= 36 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 75 SCORE = 1
+TACTIC D IF MIN >= 38 SCORE >= 2
