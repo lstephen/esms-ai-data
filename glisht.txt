@@ -1,37 +1,35 @@
 gli
-C
+E
 
 GK G_Stopper
 DF L_Aldai
 DF K_Hartell
-DF L_Tenant
+DF M_Petri
+DM L_Tenant
 DM C_Begbie
 DM S_Gehring
-DM Campbundo
-AM Babybinho
-AM L_Suvillaga
-AM Kiko_Pogona
-FW M_DeFree
+MF Babybinho
+MF L_Suvillaga
+MF Campbundo
+FW Kiko_Pogona
 
 GK P_Eustice
-AM N_Culling
-AM K_Peacham
-FW M_Petri
-FW P_Rynne
+DF M_DeFree
+DF Hugo_Snatch
+DM N_Culling
+DM K_Peacham
 
-PK: M_DeFree
+PK: Babybinho
 AGG 20
 
-SUB 10 13 AM IF MIN = 45
-CHANGEPOS 7 MF IF MIN = 50
-CHANGEPOS 5 MF IF MIN = 55
-CHANGEPOS 13 DM IF MIN = 60
-SUB 8 16 FW IF MIN = 65
-CHANGEPOS 7 AM IF MIN = 70
-CHANGEPOS 11 AM IF MIN = 75
-SUB 11 15 AM IF MIN = 78
-TACTIC E IF MIN >= 10 SCORE <= -2
-TACTIC C IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
+SUB 5 15 DF IF MIN = 45
+CHANGEPOS 10 DM IF MIN = 50
+CHANGEPOS 10 MF IF MIN = 55
+SUB 11 13 FW IF MIN = 60
+CHANGEPOS 15 DM IF MIN = 65
+SUB 4 14 DF IF MIN = 81
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 56 SCORE = 1
 TACTIC D IF MIN >= 55 SCORE >= 2
