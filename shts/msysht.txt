@@ -6,27 +6,29 @@ DF I_Yolkin
 DF M_Schultz
 DF S_Dobre
 DF C_Stirbei
-DM D_Wathen
-MF C_Parry
+DM P_Deusner
+MF D_Wathen
 MF I_Ungureanu
 MF D_Fidatov
 MF J_Pichugin
-FW A_Belousov
+FW R_Silano
 
 GK O_Devers
 DF O_Bucsa
 MF V_Dobre
-MF P_Deusner
-AM R_Silano
+FW V_Eristov
+FW A_Belousov
 
 PK: J_Pichugin
 AGG 20
 
+CHANGEPOS 7 DM IF MIN = 45
+CHANGEPOS 6 MF IF MIN = 50
 SUB 11 16 FW IF MIN = 55
-SUB 2 13 DF IF MIN = 60
-SUB 9 15 MF IF MIN = 75
-TACTIC A IF MIN >= 60 SCORE <= -2
+SUB 6 14 MF IF MIN = 60
+SUB 2 13 DF IF MIN = 70
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 75 SCORE = 1
-TACTIC D IF MIN >= 38 SCORE >= 2
+TACTIC C IF MIN >= 50 SCORE = 1
+TACTIC D IF MIN >= 39 SCORE >= 2
