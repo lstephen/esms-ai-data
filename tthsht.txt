@@ -1,32 +1,32 @@
 tth
-P
+E
 
 GK R_Ceni
-DF A_Wisdom
+DF L_Nyatanga
+DF M_Richards
 DF S_Howey
-DF V_Jones
-DF M_Lopes
-DF D_McHale
-DF Doriva
-DM L_Robert
-DM C_McGregor
-DM S_R_Ramos
-FW Hugo_Sanchez
+DM A_Wisdom
+DM V_Jones
+DM Doriva
+MF R_Pires
+MF M_James
+MF C_McGregor
+FW Diaviera
 
 GK J_Hunter
-DF M_Twaddle
-FW A_Johnson
-FW R_Pires
-FW M_James
+DM M_Twaddle
+MF A_Johnson
+MF S_R_Ramos
+MF D_McHale
 
-PK: Hugo_Sanchez
+PK: Diaviera
 AGG 20
 
-SUB 10 16 DM IF MIN = 55
-SUB 11 15 FW IF MIN = 60
-SUB 9 14 FW IF MIN = 70
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+SUB 6 14 MF IF MIN = 55
+SUB 10 16 DM IF MIN = 60
+SUB 9 15 MF IF MIN = 75
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 33 SCORE = 1
+TACTIC D IF MIN >= 17 SCORE >= 2
