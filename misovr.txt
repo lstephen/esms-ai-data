@@ -28,7 +28,7 @@ I_Yolkin        20 DF 19/ 8/ 4  26   2  26  18  14  13  15 |  34  -4/ -3 ||  34 
 S_Dobre         20 DF 18/ 6/ 8  26   2  25  16  13  13  17 |  34  -4/ -3 ||  34 ||  25     26     23     23     24      R r 
 D_Dillinger     23 FW  5/13/19  37   2  20  18  19  22  30 |  36  -2/ -2 ||  34 ||  30     37     27 AM  28     27          
 Tarildo         28 DF 16/21/ 4  33   2  33  28  26  24  24 |  34   0/  0 ||  34 ||  33     29     33 DM  31 DM  30 DM       
-D_Fidatov       18 MF  8/16/ 6  24   2  22  20  20  19  20 |  33  -7/ -4 ||  33 ||  22 DF  21     24     22 AM  22    I R r 
+D_Fidatov       18 MF  8/16/ 6  24   2  22  20  20  19  20 |  33  -7/ -4 ||  33 ||  22 DF  21 AM  24     22 AM  22    I R r 
 A_Kapustov      21 GK    18     27  27   2   2   2   2   2 |  36  -3/ -1 ||  33 ||  27     27     27     27     27      R r 
 B_Schweig       27 DF 20/11/ 8  31   2  31  22  18  18  21 |  33   0/  0 ||  33 ||  31     31     27     28     28          
 Q_Detert        18 DF 15/ 6/ 5  21   2  21  14  11  11  13 |  32  -8/ -5 ||  32 ||  21     21     19     19     20      R r 
@@ -266,12 +266,12 @@ R_Silano        18 FW  6/13/16  32   2  21  18  19  21  27 |  39  -4/  0 ||  39 
 P_Deusner       17 MF 10/15/ 7  24   2  23  20  19  19  21 |  38  -7/  0 ||  38 ||  23 DF  22 DF  24     23 AM  22      R r 
 C_Stirbei       19 DF 17/ 9/11  29   2  27  19  16  17  22 |  38  -3/ -1 ||  38 ||  27     29     24     24 AM  26      R r 
 O_Bucsa         19 DF 17/ 9/ 8  27   2  26  18  15  16  19 |  36  -4/ -2 ||  36 ||  26     27     23     24     24      R r 
-D_Fidatov       18 MF  8/16/ 6  24   2  22  20  20  19  20 |  33  -7/ -4 ||  33 ||  22 DF  21 AM  24     22 AM  22    I R r 
+D_Fidatov       18 MF  8/16/ 6  24   2  22  20  20  19  20 |  33  -7/ -4 ||  33 ||  22 DF  21     24     22 AM  22    I R r 
 S_Dobre         20 DF 17/ 6/ 8  25   2  24  16  12  13  17 |  33  -5/ -4 ||  33 ||  24     25     22     22     23      R r 
 I_Ungureanu     19 MF  7/17/ 6  25   2  22  20  20  20  21 |  32  -7/ -5 ||  32 ||  22 DF  22     25     22 AM  23      R r 
 I_Yolkin        20 DF 17/ 8/ 4  24   2  24  17  13  13  14 |  32  -6/ -5 ||  32 ||  24     23     21     22     22      R r 
 A_Kapustov      21 GK    17     26  26   2   2   2   2   2 |  34  -4/ -3 ||  30 ||  26     26     26     26     26      R r 
-D_Wathen        21 MF  9/17/ 5  26   2  23  21  21  20  20 |  30  -7/ -7 ||  30 ||  23 DF  21 DF  26     23 AM  23      R r 
+D_Wathen        21 MF  9/17/ 5  26   2  23  21  21  20  20 |  30  -7/ -7 ||  30 ||  23 DF  21 DM  26     23 AM  23      R r 
 M_Schultz       21 DF 17/ 9/ 5  25   2  25  18  15  14  16 |  33  -5/ -4 ||  28 ||  25     24     22     23     23      R r 
 
 ** Reserves Squad (19) **
@@ -323,9 +323,9 @@ Q_Bolbat        22 MF  9/18/ 3  26   2  23  21  21  20  19 |  30  -6/ -6 ||  24 
                          Min
                       NORMAL    24    20    28    18    27    22 
                    DEFENSIVE    24    20          15    19    17 
-                   ATTACKING    24    21    20    17    21    26 
+                   ATTACKING    24    21    20    17          26 
               COUNTER_ATTACK    24    19    28    18    22    23 
-                   LONG_BALL    24    21          13    25    25 
+                   LONG_BALL    24    21          13    25    26 
                      PASSING    24    21          17          22 
                     EUROPEAN    24    19    29    21    25    21 
 
@@ -484,14 +484,13 @@ SUB MF C_de_Vil MF IF INJURED MF
 SUB AM C_de_Vil AM IF INJURED AM
 SUB FW A_Boerkel FW IF INJURED FW
 
-SUB Tarildo D_Tikhomirov AM IF MIN = 45
-SUB D_Tikhomirov A_Boerkel FW IF MIN = 78
-SUB J_Latal C_de_Vil DM IF MIN = 90
+SUB Tarildo D_Tikhomirov AM IF MIN = 50
+SUB J_Latal C_de_Vil DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 41 SCORE >= 2
 
 ** Reserves Selection **
 EUROPEAN                       OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      A      E      C      N    
@@ -545,7 +544,7 @@ FW R_Silano
 GK O_Devers
 DF S_Dobre
 MF C_Ribelin
-FW V_Eristov
+FW V_Zefirov
 FW A_Belousov
 
 SUB GK O_Devers GK IF INJURED GK
@@ -555,13 +554,12 @@ SUB MF C_Ribelin MF IF INJURED MF
 SUB AM C_Ribelin AM IF INJURED AM
 SUB FW A_Belousov FW IF INJURED FW
 
-SUB R_Silano A_Belousov FW IF MIN = 50
-CHANGEPOS M_Schultz DM IF MIN = 55
-SUB P_Deusner S_Dobre DF IF MIN = 60
-CHANGEPOS O_Bucsa DM IF MIN = 65
+SUB R_Silano A_Belousov FW IF MIN = 55
+SUB I_Yolkin S_Dobre DF IF MIN = 60
+CHANGEPOS M_Schultz DM IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 72 SCORE = 1
+TACTIC C IF MIN >= 48 SCORE = 1
 TACTIC D IF MIN >= 40 SCORE >= 2
 
