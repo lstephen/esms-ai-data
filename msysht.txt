@@ -1,32 +1,31 @@
 msy
-C
+E
 
 GK A_Kapustov
 DF I_Yolkin
 DF M_Schultz
 DF C_Stirbei
 DF O_Bucsa
+DM P_Deusner
 MF D_Wathen
 MF I_Ungureanu
 MF D_Fidatov
-MF P_Deusner
 MF V_Dobre
-FW A_Belousov
+FW R_Silano
 
 GK O_Devers
 DF S_Dobre
+MF C_Ribelin
 FW V_Eristov
-FW V_Zefirov
-FW R_Silano
+FW A_Belousov
 
-PK: A_Belousov
+PK: R_Silano
 AGG 20
 
-SUB 2 13 DF IF MIN = 60
-SUB 10 15 FW IF MIN = 65
-SUB 11 16 AM IF MIN = 70
-TACTIC A IF MIN >= 38 SCORE <= -2
+SUB 2 13 DF IF MIN = 50
+SUB 11 16 FW IF MIN = 55
+TACTIC A IF MIN >= 76 SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 40 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 37 SCORE = 1
+TACTIC D IF MIN >= 36 SCORE >= 2
