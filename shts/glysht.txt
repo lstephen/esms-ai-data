@@ -8,9 +8,9 @@ DF N_Bumbescu
 DM C_Ganea
 DM N_Teodorescu
 DM L_Voiculescu
+MF J_Caragiale
 MF T_Balescu
 MF V_Baicu
-MF J_Caragiale
 FW R_Francisco
 
 GK N_Doria
@@ -23,7 +23,7 @@ PK: N_Bumbescu
 AGG 20
 
 SUB 2 13 DF IF MIN = 65
-SUB 8 16 DF IF MIN = 70
+SUB 9 16 DF IF MIN = 70
 SUB 4 14 MF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
