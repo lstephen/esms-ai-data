@@ -4,13 +4,13 @@ P
 GK C_Turner
 DF S_Irwin
 DF J_Fox
+DF M_Oezil
 DF Ridoutkha
 DF J_Milburn
-DF N_Barbulescu
 DF F_Voiculescu
-DM Juninho
-DM D_Dobrescu
+DM N_Barbulescu
 DM V_Nicu
+MF D_Dobrescu
 FW D_Iacobescu
 
 GK C_Poenaru
@@ -22,8 +22,8 @@ FW R_Giurgiu
 PK: D_Iacobescu
 AGG 20
 
-SUB 10 15 DM IF MIN = 45
-SUB 9 16 FW IF MIN = 50
+SUB 9 15 DM IF MIN = 45
+SUB 10 16 FW IF MIN = 50
 SUB 7 14 DF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
