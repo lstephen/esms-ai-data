@@ -3,7 +3,7 @@ Name             Age Nat St Tk Ps Sh Ag  KAb  TAb  PAb  SAb  DP Inj Sus    Wage
 N_Doria           19 ita 15  1  1  1 59   85  300  300  300   0   0   0     450
 A_Pacini          20 ita 15  1  1  1 15  561  300  300  300   2   0   0     450
 I_Ilie            20 rou  1 16  8  5 18  516  998  373  986   0   0   0   1,324
-H_Hall            18 eng  1 15  8 13  5  300    2  711    3   0   0   0     521
+H_Hall            18 eng  1 15  8 13  5  300    2  711    3   0   0   0     772
 N_Teodorescu      20 rou  1 15 11  6 34  516  390  210  397   0   3   0     765
 S_Costantini      16 ita  1 13  6  4 14  300  100  896  922   0   0   0     283
 R_Renato          16 bra  1 13  3  5  3  300   88   91   64   0   0   0     250
@@ -19,8 +19,8 @@ C_Greco           18 ita  1  6 14  9 11  300  337  707  841   0   0   0     487
 F_Albu            18 rou  1  6 14  9 40  300  810  361  232   0   0   0     487
 Y_Berbis          17 aus  1  8 12  4  7  300  985  862  187   0   0   0     223
 A_Elton           17 bra  1  4 12 11 19  300  707  820  137   0   0   0     253
-J_Caragiale       19 rou  1  9 18 19 15  408    1  117   32   0   0   0   4,111
-N_Bumbescu        20 rou  1 12  5 17 38  516  465    8  350   0   0   0   1,971
+J_Caragiale       19 rou  1  9 18 19 15  408    1  117   32   0   0   0   6,171
+N_Bumbescu        20 rou  1 12  5 17 38  516  465    8  350   0   0   0   2,042
 R_Francisco       18 bra  1  9 11 15  6  300   55  407  439   0   0   0     801
 W_Rehak           19 cze  1 10  8 15 38  300  385  411  259  14   0   0     736
 F_Janssen         17 bel  1  5  5 13  9  300  719  283  355   0   0   0     276
