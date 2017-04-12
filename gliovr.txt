@@ -41,7 +41,7 @@ J_Byrn          22 MF 13/19/ 7  30   2  29  25  24  23  25 |  36  -2/ -2 ||  34 
 M_Le_Tissier    29 FW 12/20/14  34   2  31  27  27  27  32 |  34   0/  0 ||  34 ||  32     34 MF  34     33 AM  31 MF       
 F_Janssen       17 FW  5/ 5/13  23   2  13  10  10  12  18 |  33 -16/-10 ||  33 ||  18     16     23     18     17      R r 
 S_Johnson       17 DF 13/ 7/ 3  19   2  19  13  11  10  12 |  33 -14/ -9 ||  33 ||  19     17 DM  18     17     17      R r 
-C_Vulcan        18 MF  4/14/ 8  22   2  17  16  17  17  20 |  33  -9/ -5 ||  33 ||  20 FW  22     21 AM  19 AM  19      R r 
+C_Vulcan        18 MF  4/14/ 8  22   2  17  16  17  17  20 |  33  -9/ -5 ||  33 ||  20 FW  22     21 FW  19 AM  19      R r 
 T_Balescu       19 MF  5/16/ 8  24   2  19  19  19  19  21 |  33  -7/ -5 ||  33 ||  21 FW  24     23 AM  21 AM  22      R r 
 A_Pacini        20 GK    15     23  23   2   2   2   2   2 |  33 -10/ -7 ||  33 ||  23     23     23     23     23      R r 
 C_Minea         20 FW  7/12/13  27   2  20  17  17  19  24 |  33  -9/ -8 ||  33 ||  24     22 AM  27     23     21 AM   R r 
@@ -145,29 +145,29 @@ COUNTER_ATTACK
 GK G_Stopper
 DF L_Aldai
 DF K_Hartell
-DF N_Culling
-DM L_Tenant
+DF L_Tenant
 DM C_Begbie
+DM Campbundo
 DM S_Gehring
 AM Babybinho
-AM Campbundo
 AM L_Suvillaga
-FW Kiko_Pogona
+AM Kiko_Pogona
+FW M_DeFree
                  N       D       A       C       L       P       E 
   STOPPING      38      38      38      38      38      38      38 
-  TACKLING     123     163      80     139     144     108     118 
-   PASSING     143     103     151     144      69     165     156 
-  SHOOTING      88      47     150      73     142      69      84 
-   SH Mean      18      19      18      18      18      19      19 
- SH Median      20      20      20      20      20      20      20 
+  TACKLING     122     159      79     136     141     106     116 
+   PASSING     143     104     148     143      68     162     156 
+  SHOOTING      93      52     161      79     150      74      89 
+   SH Mean      20      21      19      20      19      20      20 
+ SH Median      21      22      21      21      21      21      21 
     SH Max      22      22      22      22      22      22      22 
-  SH Bonus      20      14      26      19      16      22      21 
+  SH Bonus      21      15      27      20      17      23      23 
    GK Qual      25      25      25      25      25      25      25 
-  GK Bonus      25      19      36      23      21      28      27 
-       Agg      22      22      22      22      22      22      22 
-   Scoring     125      84     151     121      93     133     132 
- Defending     123     163      80     139     144     108     118 
-   Overall     293     261     263     300     264     288     297 
+  GK Bonus      25      19      37      24      21      28      27 
+       Agg      25      25      25      25      25      25      25 
+   Scoring     126      86     152     122      96     132     134 
+ Defending     122     159      79     136     141     106     116 
+   Overall     295     263     263     300     267     287     298 
 
 ** 1st XI **
 NORMAL
@@ -294,7 +294,7 @@ F_Albu          18 MF  6/14/ 9  23   2  19  17  18  18  21 |  35  -9/ -5 ||  35 
 R_Renato        16 DF 13/ 3/ 5  18   2  17  10   8   8  11 |  34 -17/-11 ||  34 ||  17     16     18     16     16      R r 
 I_Hagi          18 DF 13/ 6/ 9  22   2  20  14  12  13  17 |  34 -14/-11 ||  34 ||  20     18     22     19 FW  19      R r 
 F_Janssen       17 FW  5/ 5/13  23   2  13  10  10  12  18 |  33 -16/-10 ||  33 ||  18     16     23     18     17      R r 
-C_Vulcan        18 MF  4/14/ 8  22   2  17  16  17  17  20 |  33  -9/ -5 ||  33 ||  20 FW  22     21 FW  19 AM  19      R r 
+C_Vulcan        18 MF  4/14/ 8  22   2  17  16  17  17  20 |  33  -9/ -5 ||  33 ||  20 FW  22     21 AM  19 AM  19      R r 
 
 ** Training Squad **
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      E      A      C      N    
@@ -334,7 +334,7 @@ Y_Berbis        17 MF  8/12/ 4  19   2  18  16  15  14  15 |  32 -11/ -5 ||  32 
 PASSING          33  36  27  27  28  35 
 EUROPEAN         33  31  32  34  33  29 
 ATTACKING        33  39  31  33  38  41 
-COUNTER_ATTACK   33  31  32  30  34  36 
+COUNTER_ATTACK   33  32  32  30  34  35 
 NORMAL           33  33  31  31  31  33 
 
                                 GK    DF    DM    MF    AM    FW 
@@ -347,7 +347,7 @@ NORMAL           33  33  31  31  31  33
                          Min
                       NORMAL    23    15    27    17    19    17 
                    DEFENSIVE    23    15    26    16    16    14 
-                   ATTACKING    23    17                21    21 
+                   ATTACKING    23    17                21    23 
               COUNTER_ATTACK    23    15    22          17    18 
                    LONG_BALL    23    15          16    21    18 
                      PASSING    23    16                      18 
@@ -436,14 +436,13 @@ SUB MF T_Kucek MF IF INJURED MF
 SUB AM T_Kucek AM IF INJURED AM
 SUB FW M_DeFree FW IF INJURED FW
 
-SUB Kiko_Pogona M_DeFree FW IF MIN = 55
-SUB N_Culling T_Kucek DF IF MIN = 65
-SUB L_Tenant M_Petri DF IF MIN = 70
-CHANGEPOS T_Kucek DM IF MIN = 75
+SUB L_Tenant T_Kucek DM IF MIN = 45
+SUB Kiko_Pogona M_DeFree FW IF MIN = 60
+SUB N_Culling M_Petri DF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 53 SCORE = 1
+TACTIC C IF MIN >= 49 SCORE = 1
 TACTIC D IF MIN >= 41 SCORE >= 2
 
 ** Reserves Selection **
@@ -465,7 +464,7 @@ C_Greco         18 MF  6/14/ 9  23   2  19  17  18  18  21 |  34  -9/ -5 ||  34 
 F_Albu          18 MF  6/14/ 9  23   2  19  17  18  18  21 |  35  -9/ -5 ||  35 ||  21 FW  23     23 FW  21 AM  20        r 
 T_Balescu       19 MF  5/15/ 8  23   2  19  18  18  19  21 |  32  -8/ -6 ||  32 ||  21 FW  23     22 AM  21 AM  21        r 
 I_Hagi          18 DF 13/ 6/ 9  22   2  20  14  12  13  17 |  34 -14/-11 ||  34 ||  20     18     22     19 FW  19        r 
-C_Vulcan        18 MF  4/14/ 8  22   2  17  16  17  17  20 |  33  -9/ -5 ||  33 ||  20 FW  22     21 FW  19 AM  19        r 
+C_Vulcan        18 MF  4/14/ 8  22   2  17  16  17  17  20 |  33  -9/ -5 ||  33 ||  20 FW  22     21 AM  19 AM  19        r 
 S_Johnson       17 DF 13/ 7/ 3  19   2  19  13  11  10  12 |  33 -14/ -9 ||  33 ||  19     17 DM  18     17     17        r 
 S_Costantini    16 DF 13/ 6/ 4  19   2  19  13  10  10  12 |  36 -15/ -7 ||  36 ||  19     16     18     17     17        r 
 Y_Berbis        17 MF  8/12/ 4  19   2  18  16  15  14  15 |  32 -11/ -5 ||  32 ||  18 DF  19     17 DF  17 AM  17        r 
@@ -514,13 +513,13 @@ SUB MF F_Albu MF IF INJURED MF
 SUB AM F_Albu AM IF INJURED AM
 SUB FW N_Bumbescu FW IF INJURED FW
 
-SUB I_Hagi N_Bumbescu DF IF MIN = 45
-CHANGEPOS C_Greco MF IF MIN = 50
-SUB C_Greco F_Albu DM IF MIN = 60
-SUB R_Francisco W_Rehak FW IF MIN = 78
-TACTIC A IF MIN >= 45 SCORE <= -2
-TACTIC A IF MIN >= 78 SCORE = -1
+CHANGEPOS C_Greco MF IF MIN = 45
+SUB I_Hagi N_Bumbescu DF IF MIN = 50
+SUB C_Greco F_Albu DM IF MIN = 55
+SUB R_Francisco W_Rehak FW IF MIN = 81
+TACTIC A IF MIN >= 50 SCORE <= -2
+TACTIC A IF MIN >= 76 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 78 SCORE >= 2
+TACTIC C IF MIN >= 79 SCORE >= 2
 
