@@ -1,33 +1,32 @@
 gly
-P
+E
 
 GK N_Doria
 DF I_Ilie
 DF H_Hall
 DF I_Hagi
-DF C_Ganea
-DF L_Voiculescu
-DM C_Greco
+DF N_Bumbescu
+DM C_Ganea
 MF T_Balescu
-FW V_Baicu
-FW J_Caragiale
+MF C_Vulcan
+MF V_Baicu
+MF J_Caragiale
 FW R_Francisco
 
 GK A_Pacini
-FW F_Albu
-FW N_Bumbescu
+MF C_Greco
+MF F_Albu
+AM C_Minea
 FW W_Rehak
-FW C_Minea
 
-PK: J_Caragiale
+PK: N_Bumbescu
 AGG 20
 
-CHANGEPOS 7 MF IF MIN = 45
-SUB 4 14 DF IF MIN = 50
-SUB 7 13 DM IF MIN = 55
-SUB 11 15 FW IF MIN = 81
-TACTIC A IF MIN >= 50 SCORE <= -2
-TACTIC A IF MIN >= 76 SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 79 SCORE >= 2
+SUB 8 14 MF IF MIN = 55
+SUB 5 16 DF IF MIN = 60
+SUB 7 13 MF IF MIN = 75
+TACTIC A IF MIN >= 88 SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC L IF MIN >= 63 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
