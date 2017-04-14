@@ -1,32 +1,32 @@
 tthr
-C
+E
 
 GK C_Turner
 DF S_Irwin
 DF I_Harte
 DF F_Voiculescu
+DM J_Fox
 DM M_Oezil
 DM Ridoutkha
-DM N_Barbulescu
-MF J_Fox
-MF D_Dobrescu
-MF V_Nicu
-FW D_Iacobescu
+MF Juninho
+MF D_Iacobescu
+MF N_Barbulescu
+FW D_Dobrescu
 
 GK C_Poenaru
-DF I_Muresanu
+DM I_Muresanu
 DM J_Milburn
 MF Da_Erikson
-AM E_Davids
+AM R_Giurgiu
 
 PK: D_Iacobescu
 AGG 20
 
-SUB 10 15 MF IF MIN = 45
+SUB 11 16 FW IF MIN = 45
 SUB 4 13 DF IF MIN = 50
-SUB 9 14 MF IF MIN = 55
-TACTIC E IF MIN >= 12 SCORE <= -2
-TACTIC E IF MIN >= 23 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 36 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
+SUB 10 15 MF IF MIN = 55
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 25 SCORE = 1
+TACTIC D IF MIN >= 13 SCORE >= 2
