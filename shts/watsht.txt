@@ -1,32 +1,32 @@
 wat
-P
+E
 
 GK I_Akinfeev
-DF S_Bassong
+DF D_Carrico
 DF Doria
-DF J_Willems
 DF H_Forster
-DF G_Tamas
-DM S_Murray
+DM J_Willems
+DM G_Tamas
+DM A_Kuhl
 MF M_M_Daehli
 MF E_Konoplyanka
-MF A_Abdi
+MF S_Murray
 FW A_Morata
 
 GK M_Sportiello
-DF D_Carrico
-DF H_Arter
-DF J_Colback
-FW M_Vydra
+DM J_Paredes
+DM H_Arter
+AM A_Abdi
+AM M_Vydra
 
 PK: A_Morata
 AGG 20
 
-SUB 6 13 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 60
-SUB 10 14 DM IF MIN = 78
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 79 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+SUB 10 15 MF IF MIN = 55
+SUB 7 14 DM IF MIN = 60
+SUB 6 16 MF IF MIN = 84
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 37 SCORE = 1
+TACTIC D IF MIN >= 19 SCORE >= 2
