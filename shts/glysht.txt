@@ -6,7 +6,7 @@ DF I_Ilie
 DF H_Hall
 DF N_Teodorescu
 DF I_Hagi
-DF C_Ganea
+DF S_Costantini
 MF T_Balescu
 MF C_Vulcan
 FW V_Baicu
@@ -14,19 +14,19 @@ FW J_Caragiale
 FW R_Francisco
 
 GK A_Pacini
-DF S_Costantini
+FW C_Greco
 FW F_Albu
+FW N_Bumbescu
 FW W_Rehak
-FW C_Minea
 
 PK: J_Caragiale
 AGG 20
 
-SUB 5 13 DF IF MIN = 45
-SUB 11 15 FW IF MIN = 55
-SUB 8 14 MF IF MIN = 78
-TACTIC A IF MIN >= 61 SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB 6 15 DF IF MIN = 55
+SUB 8 14 MF IF MIN = 60
+SUB 5 16 DF IF MIN = 78
+TACTIC A IF MIN >= 34 SCORE <= -2
+TACTIC A IF MIN >= 55 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 78 SCORE >= 2
+TACTIC L IF MIN >= 60 SCORE >= 2

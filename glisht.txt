@@ -1,37 +1,32 @@
 gli
-C
+A
 
 GK G_Stopper
 DF L_Aldai
+DF K_Hartell
+DF M_Petri
 DF N_Culling
-DF L_Tenant
+DF S_Gehring
 DM C_Begbie
 DM Campbundo
-DM S_Gehring
 AM Babybinho
-AM L_Suvillaga
 AM Kiko_Pogona
-FW K_Hartell
+FW L_Suvillaga
 
 GK P_Eustice
-AM T_Kucek
-FW M_Petri
-FW M_DeFree
-FW Hugo_Snatch
+DF T_Kucek
+DF M_DeFree
+DF Hugo_Snatch
+FW C_Massanet
 
 PK: L_Suvillaga
 AGG 20
 
-SUB 10 13 MF IF MIN = 65
-CHANGEPOS 6 AM IF MIN = 70
-CHANGEPOS 13 DM IF MIN = 75
-CHANGEPOS 5 MF IF MIN = 78
-SUB 8 14 FW IF MIN = 81
-CHANGEPOS 11 AM IF MIN = 84
-SUB 11 15 FW IF MIN = 87
-CHANGEPOS 14 AM IF MIN = 90
-TACTIC E IF MIN >= 90 SCORE <= -2
-TACTIC C IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+SUB 4 14 DF IF MIN = 60
+SUB 5 13 DF IF MIN = 65
+SUB 6 15 DF IF MIN = 84
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC L IF MIN >= 53 SCORE = 1
+TACTIC L IF MIN >= 27 SCORE >= 2
