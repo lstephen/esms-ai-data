@@ -1,5 +1,5 @@
 msy
-A
+P
 
 GK O_Devers
 DF C_Stirbei
@@ -9,26 +9,25 @@ DF Q_Detert
 DF P_Deusner
 DM D_Wathen
 DM D_Fidatov
-MF V_Dobre
+MF I_Ungureanu
 FW J_Pichugin
 FW R_Silano
 
 GK A_Kapustov
-MF I_Ungureanu
-FW V_Eristov
+MF C_Ribelin
+FW V_Dobre
 FW V_Zefirov
 FW A_Belousov
 
 PK: J_Pichugin
 AGG 20
 
-CHANGEPOS 9 DM IF MIN = 45
-SUB 7 16 FW IF MIN = 55
-SUB 8 13 DM IF MIN = 60
-CHANGEPOS 10 AM IF MIN = 65
-SUB 6 15 DF IF MIN = 87
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
+SUB 9 14 FW IF MIN = 60
+SUB 11 16 FW IF MIN = 70
+SUB 5 13 DM IF MIN = 87
+CHANGEPOS 8 DF IF MIN = 90
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 38 SCORE >= 2
+TACTIC C IF MIN >= 73 SCORE >= 2
