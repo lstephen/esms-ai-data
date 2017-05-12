@@ -1,16 +1,16 @@
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      A      E      C    
 I_Akinfeev      30 GK    30     45  45   2   2   2   2   2 |  44  12/ 12 ||  56 ||  45     45     45     45          
 M_M_Daehli      21 AM  7/20/13  33   2  26  24  25  27  30 |  32   6/  6 ||  38 ||  30 FW  33     32 MF  29          
+A_Morata        24 FW  5/10/21  38   2  19  16  17  23  30 |  31   4/  4 ||  35 ||  30     38     27 AM  29          
 H_Forster       16 DF 17/ 9/ 6  26   2  26  20  15  16  17 |  29   1/  5 ||  34 ||  26     25     23 DM  23          
-E_Konoplyanka   26 AM  5/19/11  30   2  23  22  23  25  27 |  29   4/  4 ||  34 ||  27 FW  30     29 MF  26          
-A_Morata        24 FW  5/10/20  37   2  19  16  16  23  29 |  30   3/  3 ||  33 ||  29     37     26 AM  28          
+E_Konoplyanka   26 AM  5/19/11  30   2  23  22  23  25  27 |  29   4/  4 ||  34 ||  27 FW  30     29 MF  26     S    
 M_Sportiello    24 GK    22     33  33   2   2   2   2   2 |  33   0/  0 ||  33 ||  33     33     33     33          
 S_Bassong       30 DF 17/13/ 3  28   2  28  23  18  17  17 |  27   4/  4 ||  31 ||  28     25     26 DM  25 DM       
-S_Murray        23 MF 10/16/10  27   2  25  22  21  23  25 |  27   3/  3 ||  30 ||  25 DF  26 AM  27     24 AM       
-Doria           22 DF 17/10/ 5  26   2  26  21  16  16  17 |  26   2/  2 ||  28 ||  26     25     24 DM  23          
+S_Murray        23 MF 10/16/10  27   2  25  22  21  23  25 |  27   3/  3 ||  30 ||  25 DF  26 AM  27     24 DM       
+Doria           22 DF 17/11/ 5  27   2  27  21  17  17  18 |  27   3/  3 ||  29 ||  27     25     25 DM  24          
 J_Willems       21 DF 17/10/ 3  25   2  25  20  15  15  15 |  25   2/  2 ||  27 ||  25     24     23 DM  23          
-M_Vydra         24 FW  6/11/16  31   2  19  16  17  21  26 |  26   0/  0 ||  26 ||  26     31     24 AM  25     S    
-A_Kuhl          20 MF 10/15/ 5  23   2  23  20  19  19  19 |  23   2/  2 ||  25 ||  23 DF  21 DM  23 DM  22 DM       
+M_Vydra         24 FW  6/11/16  31   2  19  16  17  21  26 |  26   0/  0 ||  26 ||  26     31     24 AM  25          
+A_Kuhl          20 MF 10/15/ 5  23   2  23  20  19  19  19 |  23   2/  2 ||  25 ||  23 DF  21 DM  23     22 DM       
 J_Bond          23 GK    19     29  29   2   2   2   2   2 |  29  -4/ -4 ||  24 ||  29     29     29     29          
 D_Carrico       28 DF 17/ 8/ 4  24   2  24  19  13  14  14 |  24   0/  0 ||  24 ||  24     23     21 DM  22          
 A_Abdi          30 FW  3/15/12  28   2  18  17  19  21  24 |  24   0/  0 ||  24 ||  24     28     24 AM  23 AM       
@@ -42,18 +42,18 @@ FW A_Morata
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
   TACKLING     100     138      91     105     123      98      92 
-   PASSING      96      65     100      97      48     113     100 
-  SHOOTING      38      22      67      35      57      36      39 
-   SH Mean      14      17      14      15      14      15      14 
- SH Median      20      20      13      20      13      20      13 
-    SH Max      20      20      20      20      20      20      20 
-  SH Bonus      16      10      15      16       9      17      14 
+   PASSING      96      66     101      98      48     114     100 
+  SHOOTING      39      23      68      36      58      37      40 
+   SH Mean      15      18      15      16      15      16      14 
+ SH Median      21      21      13      21      13      21      13 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      17      11      16      16      10      18      15 
    GK Qual      30      30      30      30      30      30      30 
   GK Bonus      27      21      30      26      21      28      28 
        Agg      20      20      20      20      20      20      20 
-   Scoring      77      51      89      77      51      87      80 
+   Scoring      77      51      90      77      51      88      80 
  Defending     100     138      91     105     123      98      92 
-   Overall     216     192     225     219     183     231     213 
+   Overall     218     193     227     221     185     233     214 
 
 ** 1st XI **
 ATTACKING
@@ -71,47 +71,47 @@ FW M_Vydra
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
   TACKLING      99     131      90     101     107      97      88 
-   PASSING      79      54      88      82      40     100      78 
-  SHOOTING      61      40      97      62      81      60      60 
-   SH Mean      15      16      15      15      15      15      14 
+   PASSING      80      54      89      83      40     101      79 
+  SHOOTING      62      40      99      63      82      61      61 
+   SH Mean      15      17      15      15      15      15      15 
  SH Median      16      16      16      16      16      16      16 
-    SH Max      20      20      20      20      20      20      20 
-  SH Bonus      14       9      17      15      11      16      15 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      15      10      17      15      12      17      16 
    GK Qual      30      30      30      30      30      30      30 
-  GK Bonus      26      21      30      26      22      28      27 
+  GK Bonus      26      21      30      26      23      28      27 
        Agg      22      22      22      22      22      22      22 
-   Scoring      73      49      91      75      53      87      72 
+   Scoring      74      49      92      76      54      87      73 
  Defending      99     131      90     101     107      97      88 
-   Overall     209     184     228     214     181     228     201 
+   Overall     210     185     230     215     182     229     202 
 
 ** 1st XI **
 EUROPEAN
 GK I_Akinfeev
 DF D_Carrico
-DF Doria
+DF J_Willems
 DF H_Forster
+DM Doria
 DM S_Bassong
-DM J_Willems
-DM A_Kuhl
+DM G_Tamas
 MF M_M_Daehli
 MF E_Konoplyanka
-MF S_Murray
+MF A_Kuhl
 FW A_Morata
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
-  TACKLING      89     137      73      98     123      86      85 
-   PASSING     105      75     109     106      52     115     119 
-  SHOOTING      38      24      69      35      59      35      39 
-   SH Mean      15      17      14      15      14      15      14 
- SH Median      20      20      13      20      13      20      13 
-    SH Max      20      20      20      20      20      20      20 
-  SH Bonus      18      11      18      17      10      19      16 
+  TACKLING      91     140      75     100     126      88      88 
+   PASSING     102      73     106     103      51     112     116 
+  SHOOTING      38      24      66      35      57      35      38 
+   SH Mean      15      17      14      16      14      16      15 
+ SH Median      21      21      13      21      13      21      21 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      18      11      18      17      10      19      19 
    GK Qual      30      30      30      30      30      30      30 
-  GK Bonus      29      21      35      28      22      30      31 
-       Agg      21      21      21      21      21      21      21 
-   Scoring      82      58      96      82      54      88      92 
- Defending      89     137      73      98     123      86      85 
-   Overall     217     205     218     223     189     224     225 
+  GK Bonus      28      21      34      27      21      30      30 
+       Agg      20      20      20      20      20      20      20 
+   Scoring      80      57      93      80      53      86      90 
+ Defending      91     140      75     100     126      88      88 
+   Overall     217     204     217     222     188     224     227 
 
 ** 1st XI **
 COUNTER_ATTACK
@@ -129,18 +129,18 @@ FW A_Morata
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
   TACKLING      82     131      66      92     128      80      77 
-   PASSING     109      79     114     111      55     121     125 
-  SHOOTING      38      25      70      35      60      36      40 
-   SH Mean      14      16      14      15      14      15      14 
- SH Median      20      20      13      20      13      20      13 
-    SH Max      20      20      20      20      20      20      20 
-  SH Bonus      19      12      19      18      10      20      17 
+   PASSING     110      79     114     111      55     121     126 
+  SHOOTING      39      26      72      36      62      37      41 
+   SH Mean      15      17      14      16      14      16      14 
+ SH Median      21      21      13      21      13      21      13 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      20      12      19      19      10      21      18 
    GK Qual      30      30      30      30      30      30      30 
   GK Bonus      31      22      38      29      22      32      34 
        Agg      20      20      20      20      20      20      20 
-   Scoring      86      61      99      86      57      92      97 
+   Scoring      86      61     100      86      57      93      97 
  Defending      82     131      66      92     128      80      77 
-   Overall     217     207     214     224     196     223     223 
+   Overall     219     208     215     226     197     225     224 
 
 ** At Potential XI **
 PASSING
@@ -160,15 +160,15 @@ FW V_Moses
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      A      E      C    
 I_Akinfeev      30 GK    30     45  45   2   2   2   2   2 |  44  12/ 12 ||  56 ||  45     45     45     45          
 M_M_Daehli      21 AM  7/20/13  33   2  26  24  25  27  30 |  32   6/  6 ||  38 ||  30 FW  33     32 MF  29          
+A_Morata        24 FW  5/10/21  38   2  19  16  17  23  30 |  31   4/  4 ||  35 ||  30     38     27 AM  29          
 H_Forster       16 DF 17/ 9/ 6  26   2  26  20  15  16  17 |  29   1/  5 ||  34 ||  26     25     23 DM  23          
-E_Konoplyanka   26 AM  5/19/11  30   2  23  22  23  25  27 |  29   4/  4 ||  34 ||  27 FW  30     29 MF  26          
-A_Morata        24 FW  5/10/20  37   2  19  16  16  23  29 |  30   3/  3 ||  33 ||  29     37     26 AM  28          
+E_Konoplyanka   26 AM  5/19/11  30   2  23  22  23  25  27 |  29   4/  4 ||  34 ||  27 FW  30     29 MF  26     S    
 S_Bassong       30 DF 17/13/ 3  28   2  28  23  18  17  17 |  27   4/  4 ||  31 ||  28     25     26 DM  25 DM       
-S_Murray        23 MF 10/16/10  27   2  25  22  21  23  25 |  27   3/  3 ||  30 ||  25 DF  26 AM  27     24 AM       
-Doria           22 DF 17/10/ 5  26   2  26  21  16  16  17 |  26   2/  2 ||  28 ||  26     25     24 DM  23          
+S_Murray        23 MF 10/16/10  27   2  25  22  21  23  25 |  27   3/  3 ||  30 ||  25 DF  26 AM  27     24 DM       
+Doria           22 DF 17/11/ 5  27   2  27  21  17  17  18 |  27   3/  3 ||  29 ||  27     25     25 DM  24          
 J_Willems       21 DF 17/10/ 3  25   2  25  20  15  15  15 |  25   2/  2 ||  27 ||  25     24     23 DM  23          
-M_Vydra         24 FW  6/11/16  31   2  19  16  17  21  26 |  26   0/  0 ||  26 ||  26     31     24 AM  25     S    
-A_Kuhl          20 DM 10/15/ 5  23   2  23  20  19  19  19 |  23   2/  2 ||  25 ||  23 DF  21     23     22          
+M_Vydra         24 FW  6/11/16  31   2  19  16  17  21  26 |  26   0/  0 ||  26 ||  26     31     24 AM  25          
+A_Kuhl          20 DM 10/15/ 5  23   2  23  20  19  19  19 |  23   2/  2 ||  25 ||  23 DF  21     23 MF  22          
 D_Carrico       28 DF 17/ 8/ 4  24   2  24  19  13  14  14 |  24   0/  0 ||  24 ||  24     23     21 DM  22          
 G_Tamas         33 DF 13/12/ 5  24   2  24  20  17  17  17 |  16   1/  1 ||  17 ||  24     22     23 DM  21 DM       
 
@@ -211,17 +211,17 @@ D_Dervite       28 DF 11/ 7/ 5  18   2  18  14  11  12  13 |  18  -5/ -5 ||  13 
 ** Replacement Level **
 PASSING          33  24  19  19  21  26 
 ATTACKING        33  22  21  24  27  28 
-EUROPEAN         33  18  23  24  24  20 
+EUROPEAN         33  18  25  27  25  20 
 COUNTER_ATTACK   33  22  21  20  23  25 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     3     8     9     0     6     1 
-                         Max    45    24    26    26    28    25 
-                  1st XI (N)    45    21    21    24          25 
-                  1st XI (P)    45    24    20    23          29 
+                       Count     3     8     8     0     5     1 
+                         Max    45    24    26    26    28    26 
+                  1st XI (N)    45    21    21    24          26 
+                  1st XI (P)    45    24    20    23          30 
                          Min
-                      NORMAL    29    16    16          19    25 
-                   DEFENSIVE    29          24    17    15    20 
+                      NORMAL    29    16    16          19    26 
+                   DEFENSIVE    29          24    17    15    21 
                    ATTACKING    29    17    15          20    23 
               COUNTER_ATTACK    29    16    16          19    25 
                    LONG_BALL    29                19          17 
@@ -232,7 +232,7 @@ COUNTER_ATTACK   33  22  21  20  23  25
 PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      A      E      C    
 E_Huws          22 DF  9/12/ 5  20   2  20  17  16  16  16 |  20  -2/ -2 ||  18 ||  20     18 DM  20 DM  18 DM       
 P_Cech          33 GK    20     30  30   2   2   2   2   2 |  20  -3/ -3 ||  17 ||  30     30     30     30          
-J_Hogg          26 DM  8/12/ 4  19   2  18  16  15  15  15 |  19  -2/ -2 ||  16 ||  18 DF  17     19 MF  17          
+J_Hogg          26 MF  8/12/ 4  19   2  18  16  15  15  15 |  19  -2/ -2 ||  16 ||  18 DF  17 DM  19 DM  17 DM       
 G_Mercado       28 DF 15/ 5/ 3  20   2  20  15  10  10  11 |  20  -4/ -4 ||  16 ||  20     19     17 DM  18          
 G_Boyd          30 MF  2/14/ 6  20   2  14  14  16  16  17 |  19  -3/ -3 ||  16 ||  17 FW  20 AM  20     17 AM       
 F_Gardos        27 DF 13/ 5/ 5  18   2  18  14  10  11  12 |  18  -5/ -5 ||  13 ||  18     18     16 DM  17          
@@ -250,23 +250,22 @@ J_Bennett       24 DF 10/ 8/ 6  18   2  18  15  12  13  15 |  18  -4/ -4 ||  14 
 J_Chares        18 MF  5/ 8/ 4  13   2  12  11  10  11  11 |  13  -8/ -8 ||  13 ||  12 DF  12 AM  13     12 DM       
 A_Gafaiti       20 DF  8/ 4/ 3  12   2  12   9   7   7   8 |  13  -9/ -9 ||  13 ||  12     12     10 DM  11          
 J_Clarke-H'is   20 FW  2/ 5/ 9  17   2   8   7   8  11  13 |  13 -11/-11 ||  13 ||  13     17     12 AM  13          
-J_Sinnott       20 MF  5/ 8/ 4  13   2  12  11  10  11  11 |  13  -8/ -8 ||  13 ||  12 DF  12 AM  13     12 DM       
-O_Mascarell     21 DF  8/10/ 4  17   2  17  15  13  13  14 |  17  -4/ -4 ||  13 ||  17     15 DM  17 DM  16 DM       
-J_Mellis        23 DF  8/10/ 4  17   2  17  15  13  13  14 |  17  -4/ -4 ||  13 ||  17     15     17 DM  16 DM       
+O_Mascarell     21 DF  8/10/ 4  17   2  17  15  13  13  14 |  17  -4/ -4 ||  13 ||  17     15     17 DM  16 DM       
+J_Mellis        23 DF  8/10/ 4  17   2  17  15  13  13  14 |  17  -4/ -4 ||  13 ||  17     15 DM  17 DM  16 DM       
 L_Williamson    32 MF  8/11/ 7  19   2  18  16  15  16  17 |  15  -3/ -3 ||  13 ||  18 DF  18 AM  19     17 DM       
 T_Eisfeld       21 FW  5/10/ 8  19   2  15  13  13  15  17 |  18  -5/ -5 ||  12 ||  17     19     17 MF  16 AM       
-O_Norwood       23 DM  8/10/ 3  16   2  16  14  13  12  13 |  16  -4/ -4 ||  12 ||  16 DF  15     16     15          
-P_Coutts        26 DM  8/10/ 2  16   2  16  14  13  12  12 |  16  -5/ -5 ||  12 ||  16 DF  14 DF  16     15          
+O_Norwood       23 DM  8/10/ 3  16   2  16  14  13  12  13 |  16  -4/ -4 ||  12 ||  16 DF  15 DF  16     15          
+P_Coutts        26 DM  8/10/ 2  16   2  16  14  13  12  12 |  16  -5/ -5 ||  12 ||  16 DF  14     16     15          
 C_Taylor        27 MF  6/11/ 3  16   2  15  14  13  13  13 |  16  -5/ -5 ||  12 ||  15 DF  14 DM  16     15          
 T_Diagouraga    27 AM  5/10/ 7  17   2  15  13  13  14  16 |  17  -6/ -6 ||  12 ||  16 FW  17     17 MF  15          
 L_Barnett       28 DF 11/ 7/ 2  17   2  17  14  10  10  10 |  17  -5/ -5 ||  12 ||  17     16     16 DM  15          
 A_Bunjaku       20 AM  2/ 7/ 4  11   2   8   8   9   9  10 |  11 -10/-10 ||  11 ||  10 FW  11     11 MF   9          
 L_Hutton        20 AM  3/ 6/ 4  10   2   9   8   8   8   9 |  11 -11/-10 ||  11 ||   9 FW  10     10 MF   9          
-G_Bigirimana    21 DM  7/10/ 4  16   2  16  14  13  13  13 |  16  -5/ -5 ||  11 ||  16 DF  15     16     15          
-A_Dawson        22 MF  7/10/ 4  16   2  16  14  13  13  13 |  16  -5/ -5 ||  11 ||  16 DF  15 DM  16     15 DM       
+G_Bigirimana    21 MF  7/10/ 4  16   2  16  14  13  13  13 |  16  -5/ -5 ||  11 ||  16 DF  15 DM  16 DM  15 DM       
+A_Dawson        22 MF  7/10/ 4  16   2  16  14  13  13  13 |  16  -5/ -5 ||  11 ||  16 DF  15 DM  16 DM  15 DM       
 S_Dallas        23 FW  4/10/ 8  19   2  14  13  13  15  17 |  17  -6/ -6 ||  11 ||  17     19     17 MF  16 AM       
 M_Smith         25 FW  5/ 8/10  20   2  14  12  12  15  17 |  18  -7/ -7 ||  11 ||  17     20     16 AM  17          
-J_Jackson       32 FW  4/11/ 9  21   2  15  14  14  16  18 |  15  -4/ -4 ||  11 ||  18     21     18 MF  17 AM       
+J_Jackson       32 FW  4/11/ 9  21   2  15  14  14  16  18 |  15  -4/ -4 ||  11 ||  18     21     18 AM  17 AM       
 H_Vuckic        22 AM  4/10/ 7  17   2  14  13  13  14  16 |  16  -6/ -6 ||  10 ||  16 FW  17     16 MF  15          
 J_Taylor        22 MF  5/10/ 5  16   2  14  13  13  13  14 |  16  -6/ -6 ||  10 ||  14 DF  15 AM  16     14          
 S_Ameobi        22 FW  2/10/ 8  19   2  12  11  13  14  16 |  16  -6/ -6 ||  10 ||  16     19     16 AM  15 AM       
@@ -278,7 +277,7 @@ M_Foth'ngham    31 FW  5/ 9/ 8  18   2  14  13  12  14  16 |  16  -6/ -6 ||  10 
 S_Warnock       32 DF 11/ 7/ 4  17   2  17  14  11  11  12 |  14  -5/ -5 ||  10 ||  17     17     16 DM  16          
 D_Holmes        20 MF  5/ 9/ 5  15   2  13  12  12  12  13 |  16  -7/ -6 ||   9 ||  13 DF  14 AM  15     13          
 M_Fox           21 DF  9/ 7/ 3  15   2  15  12  10  10  11 |  15  -6/ -6 ||   9 ||  15     14     14 DM  13 DM       
-S_O'Keefe       23 DM  6/10/ 2  15   2  14  13  12  11  11 |  15  -6/ -6 ||   9 ||  14 DF  13     15     14 MF       
+S_O'Keefe       23 DM  6/10/ 2  15   2  14  13  12  11  11 |  15  -6/ -6 ||   9 ||  14 DF  13     15 MF  14 MF       
 S_Dawkins       26 AM  2/10/ 7  17   2  12  11  12  14  15 |  16  -6/ -6 ||   9 ||  15 FW  17     16 MF  14          
 T_Cywka         26 FW  3/ 9/ 8  18   2  12  11  12  14  16 |  16  -7/ -7 ||   9 ||  16     18     15 AM  14 AM       
 N_Proschwitz    27 FW  2/ 8/10  20   2  11  10  11  14  17 |  17  -7/ -7 ||   9 ||  17     20     16 AM  15          
@@ -297,7 +296,7 @@ F_Mendy         25 AM  4/ 9/ 6  15   2  13  11  12  13  14 |  15  -7/ -7 ||   7 
 R_Boukari       27 MF  3/10/ 4  15   2  12  11  12  12  12 |  14  -7/ -7 ||   7 ||  12 FW  14 AM  15     13          
 Z_Bakayogo      28 DF 10/ 5/ 2  14   2  14  11   8   8   8 |  14  -8/ -8 ||   7 ||  14     14     13 DM  13          
 M_A_Fortune     33 AM  4/11/ 7  18   2  14  13  14  15  16 |  12  -5/ -5 ||   7 ||  16 FW  18     18 MF  16          
-J_Toral         19 MF  5/ 8/ 5  13   2  13  11  11  11  12 |  13  -8/ -8 ||   6 ||  13 DF  13 AM  13     12 AM       
+J_Toral         19 MF  5/ 8/ 5  13   2  13  11  11  11  12 |  13  -8/ -8 ||   6 ||  13 DF  13 AM  13     12 DM       
 R_Brobbel       21 DM  6/ 8/ 3  13   2  13  11  10  10  11 |  13  -7/ -7 ||   6 ||  13 DF  12     13     12          
 J_Lolley        22 FW  3/ 7/ 9  18   2  11  10  10  13  15 |  15  -9/ -9 ||   6 ||  15     18     14 AM  14          
 A_Gray          23 FW  4/ 6/ 9  17   2  11  10   9  12  15 |  15  -9/ -9 ||   6 ||  15     17     13 AM  14          
@@ -306,13 +305,14 @@ A_Ferdinand     29 DF 11/ 3/ 2  14   2  14  10   6   7   7 |  15  -9/ -9 ||   6 
 F_Zoko          31 FW  2/ 8/ 9  19   2  11  10  11  13  16 |  14  -8/ -8 ||   6 ||  16     19     15 AM  14 AM       
 S_W_Phillips    33 FW  4/10/ 8  19   2  14  13  13  15  17 |  11  -6/ -6 ||   6 ||  17     19     17 MF  16 AM       
 S_Tronstad      19 MF  5/ 8/ 4  13   2  12  11  10  11  11 |  13  -8/ -8 ||   5 ||  12 DF  12 AM  13     12 DM       
+J_Sinnott       20 MF  5/ 8/ 4  13   2  12  11  10  11  11 |  13  -8/ -8 ||   5 ||  12 DF  12 AM  13     12 DM       
 K_Daniel        20 DF  8/ 5/ 4  13   2  13  10   8   9  10 |  13  -8/ -8 ||   5 ||  13     13     12 DM  12          
 J_Price         21 MF  4/ 9/ 4  14   2  12  11  11  11  12 |  13  -8/ -8 ||   5 ||  12 DF  13 AM  14     12          
 A_Pearce        26 DF 11/ 2/ 3  14   2  13   9   6   6   7 |  14  -9/ -9 ||   5 ||  13     14     12     13          
 R_Wallace       29 MF  3/10/ 3  14   2  11  11  12  11  11 |  12  -7/ -7 ||   5 ||  12     12 AM  14     12          
 S_Saunders      31 AM  2/ 9/ 5  14   2  10  10  11  11  12 |  13  -8/ -8 ||   5 ||  12 FW  14     14 MF  12          
 G_T_Fletcher    33 MF  5/11/ 3  16   2  14  13  13  13  13 |  10  -5/ -5 ||   5 ||  14 DF  14 DM  16     14          
-D_Dunn          34 FW  4/11/ 9  21   2  15  14  14  16  18 |   9  -4/ -4 ||   5 ||  18     21     18 MF  17 AM       
+D_Dunn          34 FW  4/11/ 9  21   2  15  14  14  16  18 |   9  -4/ -4 ||   5 ||  18     21     18 AM  17 AM       
 M_Moore         18 MF  4/ 7/ 4  11   2  10   9   9  10  10 |  13  -9/ -8 ||   4 ||  10 DF  11 AM  11     10          
 T_Smith         22 DF 10/ 3/ 2  13   2  13   9   6   6   7 |  13  -9/ -9 ||   4 ||  13     13     11 DM  12          
 A_T_Sinclair    23 DF 10/ 3/ 3  13   2  13  10   6   7   8 |  13  -9/ -9 ||   4 ||  13     13     11     12          
@@ -321,7 +321,7 @@ D_Delaney       33 DF 10/ 6/ 4  16   2  16  12  10  10  11 |  11  -6/ -6 ||   4 
 D_Norris        33 DM  7/ 9/ 2  15   2  14  13  11  11  11 |  10  -6/ -6 ||   4 ||  14 DF  13     15     13          
 C_Smith         21 MF  4/ 8/ 3  12   2  11  10  10  10  10 |  12  -9/ -9 ||   3 ||  11 DF  11 DM  12     11          
 S_Wootton       23 DF 10/ 2/ 2  12   2  12   9   5   6   6 |  13 -10/-10 ||   3 ||  12     12     10     12          
-K_O'Connor      32 DF  9/ 4/ 6  14   2  14  10   8  10  11 |  11  -8/ -8 ||   3 ||  14     14     12     13          
+K_O'Connor      32 DF  9/ 4/ 6  14   2  14  10   8  10  11 |  11  -8/ -8 ||   3 ||  14     14     12     13 FW       
 Z_Thompson      21 MF  4/ 7/ 4  11   2  10   9   9  10  10 |  11  -9/ -9 ||   2 ||  10 DF  11 AM  11     10          
 J_Dielna        23 DF  8/ 4/ 2  12   2  12   9   7   7   7 |  12 -10/-10 ||   2 ||  12     11     10 DM  11          
 A_Revell        31 FW  2/ 5/ 9  17   2   8   7   8  11  13 |  12 -11/-11 ||   2 ||  13     17     12 AM  13          
@@ -330,7 +330,7 @@ H_Osburne       20 DF  7/ 4/ 3  11   2  11   9   7   7   8 |  11 -10/-10 ||   1 
 J_Munns         20 MF  4/ 7/ 3  11   2  10   9   9   9   9 |  11 -10/-10 ||   1 ||  10 DF  10 DM  11     10          
 M_Bradley       26 DF  9/ 2/ 3  12   2  11   8   5   6   7 |  12 -11/-11 ||   1 ||  11     12     10     11          
 M_Duff          35 DF 11/ 8/ 4  18   2  18  15  12  12  13 |   5  -4/ -4 ||   1 ||  18     17     17 DM  16 DM       
-O_Sowunmi       19 DF  6/ 4/ 4  10   2  10   8   7   8   9 |  10 -11/-11 ||   0 ||  10     10      9 DM   9 FW       
+O_Sowunmi       19 DF  6/ 4/ 4  10   2  10   8   7   8   9 |  10 -11/-11 ||   0 ||  10     10      9 DM   9          
 M_Rose          20 MF  3/ 7/ 3  11   2   9   9   9   9   9 |  11 -10/ -9 ||   0 ||   9 DF  10 AM  11      9          
 C_Dunne         21 DF  8/ 3/ 2  11   2  11   8   6   6   6 |  11 -11/-11 ||   0 ||  11     11      9 DM  10          
 R_Gilmartin     27 GK    11     17  17   2   2   2   2   2 |  17 -16/-16 ||   0 ||  17     17     17     17          
@@ -338,7 +338,7 @@ E_Bancessi      19 MF  3/ 7/ 2  10   2   9   8   8   8   8 |   9 -10/-10 ||  -1 
 D_Shittu        34 DF  9/ 5/ 2  13   2  13  11   8   8   8 |   7  -8/ -8 ||  -1 ||  13     13     12 DM  12          
 A_Blackman      24 DF  7/ 2/ 2   9   2   9   7   4   5   5 |   9 -12/-12 ||  -3 ||   9      9      8      9          
 D_Gabbidon      35 DF 11/ 3/ 4  15   2  14  11   7   8   9 |   4  -8/ -8 ||  -4 ||  14     15     12     14          
-A_Hughes        36 MF  5/ 8/ 2  12   2  12  10  10   9   9 |   0  -8/ -8 ||  -8 ||  12 DF  11 DM  12     11 DM       
+A_Hughes        36 DM  5/ 8/ 2  12   2  12  10  10   9   9 |   0  -8/ -8 ||  -8 ||  12 DF  11     12 MF  11          
 P_Robinson      35 GK    12     18  18   2   2   2   2   2 |   5 -15/-15 || -10 ||  18     18     18     18          
 
 ** /for_auction.txt **
@@ -366,79 +366,80 @@ M_V_D_Hoorn     24 DF 16/ 7/ 4  22   2  22  17  12  13  13 |  22  -1/ -1 ||  21 
 R_Sobhi         19 MF  8/15/ 2  22   2  20  18  18  16  15 |  21   0/  0 ||  20 ||  20 DF  19 DM  22     20          
 
 ** Selection **
-ATTACKING                      OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      A      E      C    
+PASSING                        OVR  GK  DF  DM  MF  AM  FW | VAL   vsRpl ||     ||   P      A      E      C    
 I_Akinfeev      30 GK    30     45  45   2   2   2   2   2 |  44  12/ 12 ||  56 ||  45     45     45     45          
-A_Morata        24 FW  5/10/20  37   2  20  22  25  32  37 |  30   3/  3 ||  33 ||  29     37     26 AM  28          
 M_Sportiello    24 GK    22     33  33   2   2   2   2   2 |  33   0/  0 ||  33 ||  33     33     33     33          
-M_M_Daehli      21 AM  7/20/13  33   2  24  28  30  33  33 |  32   6/  6 ||  38 ||  30 FW  33     32 MF  29          
-E_Konoplyanka   26 AM  5/19/11  30   2  20  25  27  30  29 |  29   4/  4 ||  34 ||  27 FW  30     29 MF  26          
+M_M_Daehli      21 AM  7/19/13  32   1  25  23  24  26  29 |  31   6/  6 ||  36 ||  29 FW  32     31 MF  28          
+A_Morata        24 FW  5/10/20  37   1  18  15  16  23  29 |  30   3/  3 ||  33 ||  29     37     26 AM  28          
 J_Bond          23 GK    19     29  29   2   2   2   2   2 |  29  -4/ -4 ||  24 ||  29     29     29     29          
-A_Abdi          30 FW  3/15/12  28   2  17  21  24  27  28 |  24   0/  0 ||  24 ||  24     28     24 AM  23 AM       
-S_Murray        23 MF 10/16/10  27   2  23  24  24  26  25 |  27   3/  3 ||  30 ||  25 DF  26 AM  27     24 AM       
-S_Bassong       30 DF 17/13/ 3  28   2  25  22  15  15  13 |  27   4/  4 ||  31 ||  28     25     26 DM  25 DM       
-H_Forster       16 DF 17/ 9/ 6  26   2  25  20  14  15  15 |  29   1/  5 ||  34 ||  26     25     23 DM  23          
-Doria           22 DF 17/10/ 5  26   2  25  20  14  15  14 |  26   2/  2 ||  28 ||  26     25     24 DM  23          
-J_Willems       21 DF 17/10/ 3  25   2  24  19  12  12  11 |  25   2/  2 ||  27 ||  25     24     23 DM  23          
-V_Moses         25 FW  2/13/10  23   2  14  18  21  23  23 |  21  -3/ -3 ||  18 ||  20     23     21 AM  19 AM       
-D_Carrico       28 DF 17/ 8/ 4  24   2  23  18  11  12  11 |  24   0/  0 ||  24 ||  24     23     21 DM  22          
-J_Paredes       29 DF 15/ 8/ 5  23   2  22  17  12  13  13 |  23  -1/ -1 ||  21 ||  23     22     20 DM  20          
-G_Tamas         33 DF 13/12/ 5  24   2  22  20  16  17  15 |  16   1/  1 ||  17 ||  24     22     23 DM  21 DM       
-A_Kuhl          20 DM 10/15/ 5  23   2  20  21  19  19  17 |  23   2/  2 ||  25 ||  23 DF  21     23 MF  22          
-G_Byers         20 MF  8/13/ 7  21   2  18  19  18  20  19 |  21  -1/ -1 ||  21 ||  20 DF  20 AM  21     19 DM       
-C_Mavrias       22 MF  9/13/ 6  21   2  19  19  18  19  17 |  21  -1/ -1 ||  20 ||  21 DF  19 DM  21     19 DM       
-J_Colback       27 DF 10/13/ 5  21   2  19  19  17  17  16 |  21   0/  0 ||  21 ||  21     19 DM  21 DM  20 DM       
-H_Arter         26 DM 11/13/ 2  22   2  19  18  15  14  11 |  22   0/  0 ||  22 ||  21 DF  19 DF  22     20          
-C_Cathcart      28 DF 12/ 6/ 5  18   2  18  14  10  11  11 |  18  -5/ -5 ||  13 ||  18     18     16 DM  16          
-D_Dervite       28 DF 11/ 7/ 5  18   2  17  14  11  12  12 |  18  -5/ -5 ||  13 ||  18     17     16 DM  16          
-D_Jones         32 DF  8/11/ 5  18   2  16  16  15  16  15 |  15  -3/ -3 ||  11 ||  18     16 DM  18 DM  17 DM       
-G_Munari        33 DM  8/11/ 3  17   2  15  15  13  13  12 |  12  -4/ -4 ||   8 ||  17 DF  15     17     16          
+S_Bassong       30 DF 16/13/ 3  27   1  27  22  17  17  16 |  26   3/  3 ||  30 ||  27     24     25 DM  24 DM       
+Doria           22 DF 16/11/ 5  26   1  26  21  16  16  17 |  26   2/  2 ||  28 ||  26     24     24 DM  23          
+M_Vydra         24 FW  6/11/16  31   2  19  16  17  21  26 |  26   0/  0 ||  26 ||  26     31     24 AM  25          
+H_Forster       16 DF 16/ 9/ 6  25   1  25  19  14  15  16 |  28   1/  4 ||  32 ||  25     24     22 DM  22          
+J_Willems       21 DF 16/10/ 3  25   1  25  20  15  14  14 |  25   1/  1 ||  26 ||  25     23     23 DM  22          
+S_Murray        23 MF 10/16/10  26   1  24  21  20  22  24 |  26   3/  3 ||  28 ||  24 DF  25 AM  26     23 AM       
+D_Carrico       28 DF 17/ 8/ 4  24   2  24  19  13  14  14 |  24   0/  0 ||  24 ||  24     23     21 DM  22          
+A_Abdi          30 FW  3/15/12  28   2  18  17  19  21  24 |  24   0/  0 ||  24 ||  24     28     24 AM  23 AM       
+G_Tamas         33 DF 13/12/ 5  24   2  24  20  17  17  17 |  16   1/  1 ||  17 ||  24     22     23 DM  21 DM       
+A_Kuhl          20 MF 10/15/ 5  23   2  23  20  19  19  19 |  23   2/  2 ||  25 ||  23 DF  21 DM  23 DM  22 DM       
+J_Paredes       29 DF 15/ 8/ 5  23   2  23  18  13  14  15 |  23  -1/ -1 ||  21 ||  23     22     20 DM  20          
+H_Arter         26 DM 11/13/ 2  22   2  21  19  16  15  15 |  22   0/  0 ||  22 ||  21 DF  19 DF  22     20          
+J_Colback       27 DF 10/13/ 5  21   2  21  19  17  17  17 |  21   0/  0 ||  21 ||  21     19 DM  21 DM  20 DM       
+C_Mavrias       22 MF  9/13/ 6  21   2  21  18  17  17  18 |  21  -1/ -1 ||  20 ||  21 DF  19 DM  21     19 DM       
+V_Moses         25 FW  2/13/10  23   2  15  14  16  18  20 |  21  -3/ -3 ||  18 ||  20     23     21 AM  19 AM       
+G_Byers         20 MF  8/13/ 7  21   2  20  18  17  18  19 |  21  -1/ -1 ||  21 ||  20 DF  20 AM  21     19 DM       
+C_Cathcart      28 DF 12/ 6/ 5  18   2  18  14  10  11  13 |  18  -5/ -5 ||  13 ||  18     18     16 DM  16          
+D_Dervite       28 DF 11/ 7/ 5  18   2  18  14  11  12  13 |  18  -5/ -5 ||  13 ||  18     17     16 DM  16          
+D_Jones         32 DF  8/11/ 5  18   2  18  16  14  15  15 |  15  -3/ -3 ||  11 ||  18     16 DM  18 MF  17 DM       
+G_Munari        33 DM  8/11/ 3  17   2  17  15  14  13  13 |  12  -4/ -4 ||   8 ||  17 DF  15     17     16          
 
-ATTACKING
+PASSING
 GK I_Akinfeev
-DF D_Carrico
 DF Doria
 DF S_Bassong
 DF J_Willems
 DF H_Forster
+DF G_Tamas
 DM S_Murray
-AM M_M_Daehli
-AM E_Konoplyanka
-AM A_Abdi
+DM A_Kuhl
+MF M_M_Daehli
+MF A_Abdi
 FW A_Morata
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
-  TACKLING      98     130      90      99     107      97      87 
-   PASSING      89      61      95      90      43     105      89 
-  SHOOTING      53      34      87      55      71      52      55 
-   SH Mean      14      16      14      14      14      14      13 
- SH Median      13      13      13      13      13      13      13 
+  TACKLING      97     133      89     101     118      95      89 
+   PASSING      91      61      95      92      45     108      94 
+  SHOOTING      39      22      67      36      57      36      39 
+   SH Mean      15      18      14      15      14      15      14 
+ SH Median      20      20      13      20      13      20      13 
     SH Max      20      20      20      20      20      20      20 
-  SH Bonus      14       9      16      14      10      15      15 
+  SH Bonus      16      10      15      16       9      17      14 
    GK Qual      30      30      30      30      30      30      30 
-  GK Bonus      27      21      30      27      22      29      28 
-       Agg      21      21      21      21      21      21      21 
-   Scoring      77      52      92      78      52      87      78 
- Defending      98     130      90      99     107      97      87 
-   Overall     213     188     228     215     178     226     207 
+  GK Bonus      26      20      29      26      21      28      28 
+       Agg      19      19      19      19      19      19      19 
+   Scoring      73      48      86      73      49      84      75 
+ Defending      97     133      89     101     118      95      89 
+   Overall     209     185     219     212     177     224     205 
 
 GK M_Sportiello
-GK J_Bond
-DF J_Paredes
-DM A_Kuhl
-FW V_Moses
+DF D_Carrico
+DF H_Arter
+DF J_Colback
+FW M_Vydra
 
 SUB GK M_Sportiello GK IF INJURED GK
-SUB DF J_Paredes DF IF INJURED DF
-SUB DM A_Kuhl DM IF INJURED DM
-SUB MF A_Kuhl MF IF INJURED MF
-SUB AM A_Kuhl AM IF INJURED AM
-SUB FW V_Moses FW IF INJURED FW
+SUB DF D_Carrico DF IF INJURED DF
+SUB DM J_Colback DM IF INJURED DM
+SUB MF J_Colback MF IF INJURED MF
+SUB AM J_Colback AM IF INJURED AM
+SUB FW M_Vydra FW IF INJURED FW
 
-SUB A_Abdi A_Kuhl DM IF MIN = 50
-SUB D_Carrico J_Paredes DF IF MIN = 65
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 26 SCORE = 1
-TACTIC D IF MIN >= 47 SCORE >= 2
+SUB A_Abdi M_Vydra FW IF MIN = 50
+SUB G_Tamas D_Carrico DF IF MIN = 55
+SUB H_Forster H_Arter DF IF MIN = 78
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 55 SCORE >= 2
 
