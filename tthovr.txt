@@ -301,8 +301,8 @@ S_Irwin         29 22/13/ 8 | DM L :  26   1 :  27 |                      |   4 
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
 S_Berghuis      21  4/23/16 | MF A :  35  -2 :  33 | MF A :  37   0 :  37 |   8 ||  44 || MF -2 AM -3 AM -2 MF -2 MF -2 AM -5 AM -5       
 J_Hunter        31    27    | GK N :  41   0 :  41 |                      |   4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-Hugo_Sanchez    31  9/15/23 | FW N :  30   0 :  30 |                      |   3 ||  33 || FW -1 FW  0 FW  0 FW  0 FW  0 AM  0 FW -1       
-A_Johnson       32  6/24/17 | MF N :  31   0 :  31 |                      |   2 ||  33 || MF  0 AM -1 MF  0 MF  0 MF  0 DM -2 AM -2       
+G_Bradford      25  7/23/17 | MF N :  30  -1 :  30 |                      |   6 ||  35 || AM -1 AM -1 AM -1 DM -1 MF -1 DM -2 AM -2       
+S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -3 DM -3 MF -2 DM -2 MF -2       
 
 ** Reserves XI **
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
@@ -341,16 +341,16 @@ R_Giurgiu       18  7/ 9/17 | DM L :  17  -7 :  10 | FW L :  36   0 :  35 |   9 
 S_Berghuis      21  4/23/16 | MF A :  35  -2 :  33 | MF A :  37   0 :  37 |   8 ||  44 || MF -2 AM -3 AM -2 MF -2 MF -2 AM -5 AM -5       
 J_Hunter        31    27    | GK N :  41   0 :  41 |                      |   4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 E_Banciu        17 15/ 8/ 4 | DM L :  16  -8 :   8 | DM L :  26   1 :  26 |  10 ||  36 || DM-13 DF-11 DF-12 DF-11 DF-12 DM -8 DF-11   R r 
-Hugo_Sanchez    31  9/15/23 | FW N :  30   0 :  30 |                      |   3 ||  33 || FW -1 FW  0 FW  0 FW  0 FW  0 AM  0 FW -1       
-A_Johnson       32  6/24/17 | MF N :  31   0 :  31 |                      |   2 ||  33 || MF  0 AM -1 MF  0 MF  0 MF  0 DM -2 AM -2       
+G_Bradford      25  7/23/17 | MF N :  30  -1 :  30 |                      |   6 ||  35 || AM -1 AM -1 AM -1 DM -1 MF -1 DM -2 AM -2       
+S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -3 DM -3 MF -2 DM -2 MF -2       
 V_Nicu          17  9/14/ 7 | DM L :  16  -9 :   7 | DM L :  24  -1 :  23 |  10 ||  32 || DM-11 DM-12 DF-15 DF-13 MF-12 DM -9 AM-12   R r 
 D_Hasdeu        17  7/14/10 | DM L :  16  -9 :   7 | DM L :  23  -1 :  22 |  10 ||  31 || MF-12 DM-13 FW-12 DM-12 MF-12 DM -9 AM-12   R r 
 C_Poenaru       25    20    | GK N :  30 -10 :  20 |                      |   7 ||  26 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10   R r 
 
 ** Remaining **
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
-G_Bradford      25  7/23/17 | MF N :  30  -1 :  30 |                      |   6 ||  35 || AM -1 AM -1 AM -1 DM -1 MF -1 DM -2 AM -2       
-S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -3 DM -3 MF -2 DM -2 MF -2       
+Hugo_Sanchez    31  9/15/23 | FW N :  30   0 :  30 |                      |   3 ||  33 || FW -1 FW  0 FW  0 FW  0 FW  0 AM  0 FW -1       
+A_Johnson       32  6/24/17 | MF N :  31   0 :  31 |                      |   2 ||  33 || MF  0 AM -1 MF  0 MF  0 MF  0 DM -2 AM -2       
 
 ** Replacement Level **
 PASSING          41  35  30  30  33  37 
@@ -362,7 +362,7 @@ LONG_BALL        41  30  25  44  29  36
 DEFENSIVE        41  32  33  35  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     8    17     0    11     3 
+                       Count     4     8    16     0    11     3 
                          Max    47    38    37    32    35    34 
                   1st XI (N)    47    30    32    32          34 
                   1st XI (P)    47    36    30    31          38 
@@ -370,7 +370,7 @@ DEFENSIVE        41  32  33  35  30  27
                 Reserves (P)    33    29    26                30 
                          Min
                       NORMAL    30    20    20          21    21 
-                   DEFENSIVE    30                20    19    18 
+                   DEFENSIVE    30          33    20    19    18 
                    ATTACKING    30    21    23          21    24 
               COUNTER_ATTACK    30    20    20    28    21    24 
                    LONG_BALL    30                24          26 
