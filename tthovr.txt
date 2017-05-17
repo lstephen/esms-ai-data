@@ -379,7 +379,7 @@ LONG_BALL        41  30  25  44  29  36
 DEFENSIVE        41  32  33  35  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     8    17     0    12     3 
+                       Count     4     8    16     0    12     3 
                          Max    47    38    37    32    35    34 
                   1st XI (N)    47    30    32    32          34 
                   1st XI (P)    47    36    30    31          38 
@@ -387,8 +387,8 @@ DEFENSIVE        41  32  33  35  30  27
                 Reserves (P)    33    29    26                30 
                          Min
                       NORMAL    30    20    20          21    21 
-                   DEFENSIVE    30                20    19    18 
-                   ATTACKING    30    21    23          21    31 
+                   DEFENSIVE    30          33    20    19    18 
+                   ATTACKING    30    21    23          21    24 
               COUNTER_ATTACK    30    20    20    28    21    24 
                    LONG_BALL    30                24          26 
                      PASSING    30    22                      22 
@@ -621,21 +621,21 @@ FW Diaviera
    Overall     286     277     277     300     263     296     293 
 
 GK J_Hunter
-DM D_McHale
-MF S_R_Ramos
+DF S_Vagini
+AM T_Hurlock
 AM G_Bradford
 FW Hugo_Sanchez
 
 SUB GK J_Hunter GK IF INJURED GK
-SUB DF D_McHale DF IF INJURED DF
-SUB DM S_R_Ramos DM IF INJURED DM
-SUB MF S_R_Ramos MF IF INJURED MF
-SUB AM S_R_Ramos AM IF INJURED AM
+SUB DF S_Vagini DF IF INJURED DF
+SUB DM T_Hurlock DM IF INJURED DM
+SUB MF T_Hurlock MF IF INJURED MF
+SUB AM T_Hurlock AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB Doriva D_McHale DM IF MIN = 55
-SUB M_James S_R_Ramos MF IF MIN = 60
-SUB R_Pires G_Bradford MF IF MIN = 75
+SUB M_Twaddle S_Vagini DF IF MIN = 60
+SUB R_Pires G_Bradford MF IF MIN = 65
+SUB M_James T_Hurlock MF IF MIN = 75
 TACTIC E IF MIN >= 19 SCORE <= -2
 TACTIC E IF MIN >= 37 SCORE = -1
 TACTIC C IF SCORE = 0

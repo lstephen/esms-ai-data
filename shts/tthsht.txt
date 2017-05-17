@@ -14,17 +14,17 @@ MF L_Robert
 FW Diaviera
 
 GK J_Hunter
-DM D_McHale
-MF S_R_Ramos
+DF S_Vagini
+AM T_Hurlock
 AM G_Bradford
 FW Hugo_Sanchez
 
 PK: Diaviera
 AGG 20
 
-SUB 6 13 DM IF MIN = 55
-SUB 8 14 MF IF MIN = 60
-SUB 7 15 MF IF MIN = 75
+SUB 4 13 DF IF MIN = 60
+SUB 7 15 MF IF MIN = 65
+SUB 8 14 MF IF MIN = 75
 TACTIC E IF MIN >= 19 SCORE <= -2
 TACTIC E IF MIN >= 37 SCORE = -1
 TACTIC C IF SCORE = 0
