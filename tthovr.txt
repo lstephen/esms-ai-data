@@ -276,20 +276,6 @@ FW E_Davids
  Defending     119     156     111     124     130     118     109 
    Overall     223     188     244     230     188     257     205 
 
-** At Potential XI **
-PASSING
-GK J_Hunter
-DF I_Muresanu
-DF E_Banciu
-DF M_Oezil
-DF J_Milburn
-DF N_Barbulescu
-DF F_Voiculescu
-DM S_R_Ramos
-DM Ridoutkha
-MF A_Johnson
-FW Hugo_Sanchez
-
 ** First XI **
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
 A_Wisdom        31 25/21/ 8 | MF L :  53   9 :  63 |                      |   3 ||  66 || DF  8 DM  6 DM  4 DF  7 DF  6 MF  9 DM  9       
@@ -313,8 +299,8 @@ S_Irwin         29 22/13/ 8 | DM L :  26   1 :  27 |                      |   4 
 
 ** First Squad (21) **
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
+S_Berghuis      21  4/23/16 | MF A :  35  -2 :  33 | MF A :  37   0 :  37 |   8 ||  44 || MF -2 AM -3 AM -2 MF -2 MF -2 AM -5 AM -5       
 J_Hunter        31    27    | GK N :  41   0 :  41 |                      |   4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -3 DM -3 MF -2 DM -2 MF -2       
 Hugo_Sanchez    31  9/15/23 | FW N :  30   0 :  30 |                      |   3 ||  33 || FW -1 FW  0 FW  0 FW  0 FW  0 AM  0 FW -1       
 A_Johnson       32  6/24/17 | MF N :  31   0 :  31 |                      |   2 ||  33 || MF  0 AM -1 MF  0 MF  0 MF  0 DM -2 AM -2       
 
@@ -348,26 +334,23 @@ C_Poenaru       25    20    | GK N :  30 -10 :  20 |                      |   7 
 ** Training Squad **
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
 C_Sandulescu    17  6/ 8/17 | DM L :  16  -9 :   8 | FW L :  37   1 :  38 |  10 ||  47 || FW-13 FW-11 FW -9 FW-14 FW -9 DM -9 FW -9   R r 
+F_Voiculescu    15 11/13/ 6 | DM L :  16  -8 :   8 | DM C :  34   1 :  35 |  11 ||  46 || DM-11 DM-11 DF-13 DF-12 MF-13 DM -8 AM-12   R r 
+N_Barbulescu    17 11/16/ 6 | DM L :  18  -7 :  10 | DM C :  34   2 :  35 |  10 ||  45 || DM -8 DM -9 DM-11 DF-10 MF-10 DM -7 AM-10   R r 
 D_Dobrescu      16  7/15/10 | DM L :  16  -9 :   8 | DM A :  34   0 :  34 |  10 ||  44 || MF-11 MF-12 FW-12 DM-12 MF-11 DM -9 AM-11   R r 
 R_Giurgiu       18  7/ 9/17 | DM L :  17  -7 :  10 | FW L :  36   0 :  35 |   9 ||  44 || FW-12 FW-10 FW -8 DF-12 FW -8 DM -7 FW -8   R r 
+S_Berghuis      21  4/23/16 | MF A :  35  -2 :  33 | MF A :  37   0 :  37 |   8 ||  44 || MF -2 AM -3 AM -2 MF -2 MF -2 AM -5 AM -5       
+J_Hunter        31    27    | GK N :  41   0 :  41 |                      |   4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+E_Banciu        17 15/ 8/ 4 | DM L :  16  -8 :   8 | DM L :  26   1 :  26 |  10 ||  36 || DM-13 DF-11 DF-12 DF-11 DF-12 DM -8 DF-11   R r 
+Hugo_Sanchez    31  9/15/23 | FW N :  30   0 :  30 |                      |   3 ||  33 || FW -1 FW  0 FW  0 FW  0 FW  0 AM  0 FW -1       
+A_Johnson       32  6/24/17 | MF N :  31   0 :  31 |                      |   2 ||  33 || MF  0 AM -1 MF  0 MF  0 MF  0 DM -2 AM -2       
 V_Nicu          17  9/14/ 7 | DM L :  16  -9 :   7 | DM L :  24  -1 :  23 |  10 ||  32 || DM-11 DM-12 DF-15 DF-13 MF-12 DM -9 AM-12   R r 
 D_Hasdeu        17  7/14/10 | DM L :  16  -9 :   7 | DM L :  23  -1 :  22 |  10 ||  31 || MF-12 DM-13 FW-12 DM-12 MF-12 DM -9 AM-12   R r 
 C_Poenaru       25    20    | GK N :  30 -10 :  20 |                      |   7 ||  26 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10   R r 
 
-** Potentials **
-                            |                      |                      |     ||     ||  P     C     E     A     N     L     D   
-F_Voiculescu    15 11/13/ 6 | DM L :  16  -8 :   8 | DM C :  34   1 :  35 |  11 ||  46 || DM-11 DM-11 DF-13 DF-12 MF-13 DM -8 AM-12   R r 
-N_Barbulescu    17 11/16/ 6 | DM L :  18  -7 :  10 | DM C :  34   2 :  35 |  10 ||  45 || DM -8 DM -9 DM-11 DF-10 MF-10 DM -7 AM-10   R r 
-J_Hunter        31    27    | GK N :  41   0 :  41 |                      |   4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-E_Banciu        17 15/ 8/ 4 | DM L :  16  -8 :   8 | DM L :  26   1 :  26 |  10 ||  36 || DM-13 DF-11 DF-12 DF-11 DF-12 DM -8 DF-11   R r 
-S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -3 DM -3 MF -2 DM -2 MF -2       
-Hugo_Sanchez    31  9/15/23 | FW N :  30   0 :  30 |                      |   3 ||  33 || FW -1 FW  0 FW  0 FW  0 FW  0 AM  0 FW -1       
-A_Johnson       32  6/24/17 | MF N :  31   0 :  31 |                      |   2 ||  33 || MF  0 AM -1 MF  0 MF  0 MF  0 DM -2 AM -2       
-
 ** Remaining **
                             |                      |                      |     ||     ||  P     C     E     A     N     L     D   
-S_Berghuis      21  4/23/16 | MF A :  35  -2 :  33 | MF A :  37   0 :  37 |   8 ||  44 || MF -2 AM -3 AM -2 MF -2 MF -2 AM -5 AM -5       
 G_Bradford      25  7/23/17 | MF N :  30  -1 :  30 |                      |   6 ||  35 || AM -1 AM -1 AM -1 DM -1 MF -1 DM -2 AM -2       
+S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -3 DM -3 MF -2 DM -2 MF -2       
 
 ** Replacement Level **
 PASSING          41  35  30  30  33  37 
@@ -379,7 +362,7 @@ LONG_BALL        41  30  25  44  29  36
 DEFENSIVE        41  32  33  35  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     8    16     0    12     3 
+                       Count     4     8    17     0    11     3 
                          Max    47    38    37    32    35    34 
                   1st XI (N)    47    30    32    32          34 
                   1st XI (P)    47    36    30    31          38 
@@ -387,7 +370,7 @@ DEFENSIVE        41  32  33  35  30  27
                 Reserves (P)    33    29    26                30 
                          Min
                       NORMAL    30    20    20          21    21 
-                   DEFENSIVE    30          33    20    19    18 
+                   DEFENSIVE    30                20    19    18 
                    ATTACKING    30    21    23          21    24 
               COUNTER_ATTACK    30    20    20    28    21    24 
                    LONG_BALL    30                24          26 
@@ -668,49 +651,49 @@ EUROPEAN
 GK C_Turner
 DF S_Irwin
 DF I_Muresanu
-DF F_Voiculescu
-DM M_Oezil
+DF E_Banciu
 DM Ridoutkha
 DM J_Milburn
+DM F_Voiculescu
 MF Juninho
 MF D_Iacobescu
 MF N_Barbulescu
-FW E_Davids
+FW C_Sandulescu
                  N       D       A       C       L       P       E 
   STOPPING      33      33      33      33      33      33      33 
-  TACKLING      88     141      70      99     133      85      84 
-   PASSING     123      89     131     125      61     137     139 
-  SHOOTING      38      21      68      34      59      34      38 
-   SH Mean      12      14      12      12      12      12      12 
- SH Median      16      16      16      16      16      16      16 
-    SH Max      16      16      16      16      16      16      16 
+  TACKLING      90     142      72     100     134      87      85 
+   PASSING     114      82     118     115      56     123     130 
+  SHOOTING      38      22      68      34      59      34      38 
+   SH Mean      13      15      12      13      12      13      13 
+ SH Median      16      17      16      16      16      16      16 
+    SH Max      17      17      17      17      17      17      17 
   SH Bonus      15      10      18      14       9      16      16 
    GK Qual      22      22      22      22      22      22      22 
-  GK Bonus      23      16      28      22      16      24      25 
-       Agg      27      27      27      27      27      27      27 
-   Scoring      95      66     110      95      60     103     106 
- Defending      88     141      70      99     133      85      84 
-   Overall     220     213     215     229     198     227     228 
+  GK Bonus      22      16      27      21      16      23      24 
+       Agg      26      26      26      26      26      26      26 
+   Scoring      89      62     101      88      57      94      99 
+ Defending      90     142      72     100     134      87      85 
+   Overall     215     207     212     222     193     219     223 
 
 GK C_Poenaru
-DM E_Banciu
-DM F_Parasca
+DM M_Oezil
 MF D_Dobrescu
+MF V_Nicu
 AM R_Giurgiu
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF E_Banciu DF IF INJURED DF
-SUB DM F_Parasca DM IF INJURED DM
-SUB MF F_Parasca MF IF INJURED MF
-SUB AM F_Parasca AM IF INJURED AM
+SUB DF M_Oezil DF IF INJURED DF
+SUB DM M_Oezil DM IF INJURED DM
+SUB MF M_Oezil MF IF INJURED MF
+SUB AM M_Oezil AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB F_Voiculescu E_Banciu DF IF MIN = 45
-SUB N_Barbulescu D_Dobrescu MF IF MIN = 60
-SUB E_Davids R_Giurgiu FW IF MIN = 70
+SUB C_Sandulescu R_Giurgiu FW IF MIN = 55
+SUB F_Voiculescu V_Nicu DM IF MIN = 60
+SUB N_Barbulescu D_Dobrescu MF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 25 SCORE = 1
+TACTIC D IF MIN >= 26 SCORE = 1
 TACTIC D IF MIN >= 13 SCORE >= 2
 
