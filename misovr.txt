@@ -366,24 +366,29 @@ DEFENSIVE        30  27  29  30  27  24
                    DEFENSIVE    26    21          17    20    18 
                    ATTACKING    26    22          18          28 
               COUNTER_ATTACK    26    20    28    19    23    24 
-                   LONG_BALL    26    22          14    25    27 
+                   LONG_BALL    26    22          14    32    25 
                      PASSING    26    22          18          24 
                     EUROPEAN    26    20    29    22    26    22 
 
 ** /free_agents.txt **
                             |                      |                      |     ||     ||  P     A     E     C     N     L     D   
-G_Sturzl        22  4/19/15 | AM N :  28   0 :  28 |                      |   7 ||  35 || AM  0 DM  0 AM  0 AM -3 AM  0 AM -5 AM -4       
-A_Linde         23    19    | GK N :  29  -1 :  27 |                      |   6 ||  33 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
+J_Boca          22    19    | GK N :  29  -1 :  27 |                      |   7 ||  34 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
+N_Kabrud        23    19    | GK N :  29  -1 :  27 |                      |   6 ||  33 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 C_Guilbeau      27 10/12/19 | FW P :  31   0 :  31 |                      |   2 ||  33 || FW  0 FW -1 FW -1 FW -1 FW -1 MF -1 FW -1       
 M_Cornog        22    18    | GK N :  27  -3 :  24 |                      |   7 ||  31 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3       
+M_Maddix        22 20/ 5/ 6 | DF D :  25  -2 :  24 |                      |   7 ||  31 || DF -8 DF -6 DF -3 DF -4 DF -3 DM -4 DF -2       
 L_Ferrol        26    19    | GK N :  29  -1 :  27 |                      |   3 ||  30 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 F_Puder         22  5/19/11 | AM P :  24  -2 :  22 |                      |   7 ||  29 || AM -2 DM -2 MF -2 AM -4 AM -2 MF -7 AM -5       
 H_Dindane       22 19/ 7/ 3 | DF D :  25  -2 :  22 |                      |   7 ||  29 || DF -8 DF -8 DF -4 DF -5 DF -5 DM -5 DF -2       
+P_Palkovic      22 19/ 7/ 3 | DF D :  25  -2 :  22 |                      |   7 ||  29 || DF -8 DF -8 DF -4 DF -5 DF -5 DM -5 DF -2       
+A_Pilbean       23 19/ 8/ 4 | DF D :  25  -2 :  23 |                      |   6 ||  29 || DF -7 DF -6 DF -3 DF -4 DF -4 DM -4 DF -2       
 D_Nevis         24    18    | GK N :  27  -3 :  24 |                      |   5 ||  29 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3       
 G_McPhie        24    18    | GK N :  27  -3 :  24 |                      |   5 ||  29 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3       
+J_Galford       22 19/ 4/ 5 | DF D :  24  -3 :  21 |                      |   7 ||  28 || DF-10 DF -8 DF -4 DF -6 DF -5 DM -5 DF -3       
 L_Ditmeyer      22 19/ 4/ 6 | DF D :  24  -3 :  21 |                      |   7 ||  28 || DF-10 DF -7 DF -4 DF -6 DF -5 DM -5 DF -3       
 P_Silverholt    22 19/ 4/ 3 | DF D :  24  -3 :  21 |                      |   7 ||  28 || DF-11 DF -9 DF -5 DF -6 DF -6 DM -6 DF -3       
 H_Dinesen       23 19/ 4/10 | DF E :  24  -2 :  22 |                      |   6 ||  28 || DF -8 DF -4 DF -2 DF -5 DF -3 DF -3 DF -3       
+Q_Baccaro       23 19/ 7/ 4 | DF D :  25  -2 :  22 |                      |   6 ||  28 || DF -8 DF -7 DF -4 DF -5 DF -4 DM -5 DF -2       
 R_Milosevic     23  4/19/11 | AM P :  23  -2 :  22 |                      |   6 ||  28 || AM -2 DM -2 AM -3 AM -5 AM -2 MF -8 AM -6       
 C_Philippou     25    18    | GK N :  27  -3 :  24 |                      |   4 ||  28 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3       
 D_Eelektross    25    18    | GK N :  27  -3 :  24 |                      |   4 ||  28 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3       
@@ -394,44 +399,36 @@ I_Kloepfel      23 19/ 4/ 6 | DF D :  24  -3 :  21 |                      |   6 
 T_Carbonara     23 19/ 5/ 4 | DF D :  24  -3 :  21 |                      |   6 ||  27 || DF-10 DF -8 DF -4 DF -6 DF -5 DM -6 DF -3       
 Stephane_Mbia   23  4/19/ 9 | AM P :  22  -3 :  20 |                      |   6 ||  26 || AM -3 DM -4 MF -3 AM -6 AM -4 MF-10 AM -7       
 K_Gargus        16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
-L_Blakeney      16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
 R_Bosher        16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
-S_Gundlach      16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
 U_Sahli         16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
 X_Flaherty      16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
 Y_Amision       16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
-Y_Holley        16    12    | GK N :  18 -12 :   6 | GK N :  24  -6 :  18 |   7 ||  25 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
 G_Rivera        22  7/19/ 5 | MF P :  22  -4 :  18 |                      |   7 ||  25 || MF -4 DM -5 MF -4 MF -6 MF -5 DM-10 AM -7       
 I_Bobadilla     22  8/19/ 3 | MF P :  22  -4 :  18 |                      |   7 ||  25 || MF -4 DM -7 MF -5 MF -6 MF -6 DM-10 AM -7       
 K_Zonnevylle    22  8/19/ 3 | MF P :  22  -4 :  18 |                      |   7 ||  25 || MF -4 DM -7 MF -5 MF -6 MF -6 DM-10 AM -7       
+P_Prosser       22  7/19/ 5 | MF P :  22  -4 :  18 |                      |   7 ||  25 || MF -4 DM -5 MF -4 MF -6 MF -5 DM-10 AM -7       
 D_Deschamps     23  8/19/ 5 | MF P :  22  -4 :  19 |                      |   6 ||  25 || MF -4 DM -5 MF -4 MF -6 MF -5 DM -9 AM -6       
 P_Nicolls       23  4/19/ 8 | AM P :  22  -3 :  19 |                      |   6 ||  25 || AM -3 DM -4 MF -4 AM -7 AM -4 MF-10 AM -8       
-N_Hashberger    27 20/ 3/ 4 | DF D :  25  -2 :  23 |                      |   2 ||  25 || DF-10 DF -8 DF -4 DF -6 DF -5 DM -6 DF -2       
 B_Lewandowski   22  5/19/ 3 | MF P :  21  -5 :  16 |                      |   7 ||  23 || MF -5 DM -7 MF -6 MF -8 MF -7 DM-13 AM -9       
 E_Custard       29 20/ 3/ 2 | DF D :  25  -2 :  23 |                      |   0 ||  23 || DF-11 DF-10 DF -5 DF -6 DF -6 DM -7 DF -2       
+M_Antoniou      22  3/19/ 3 | MF P :  21  -5 :  15 |                      |   7 ||  22 || MF -5 DM -8 MF -6 MF -9 MF -8 DM-15 AM-11       
 K_MacDonald     23 10/ 3/19 | FW D :  20  -4 :  16 |                      |   6 ||  22 || FW -7 DF -6 FW -4 FW -5 FW -5 FW -4 FW -4       
 A_Hunt          24  7/ 4/19 | FW E :  22  -5 :  17 |                      |   5 ||  22 || FW -7 FW -6 FW -5 FW -6 FW -6 FW -5 FW -5       
 K_Fogerty       24  5/ 5/19 | FW E :  22  -5 :  17 |                      |   5 ||  22 || FW -6 FW -6 FW -5 FW -7 FW -6 FW -5 FW -6       
 R_Curtis        25  5/ 5/19 | FW E :  22  -5 :  17 |                      |   4 ||  21 || FW -6 FW -6 FW -5 FW -7 FW -6 FW -5 FW -6       
 D_Houck         16 12/ 1/ 4 | DF D :  15 -12 :   3 | DF D :  20  -7 :  13 |   7 ||  20 || DF-20 DF-17 DF-13 DF-15 DF-14 DM-14 DF-12     r 
-H_Connaghan     16 12/ 1/ 5 | DF D :  15 -12 :   3 | DF E :  20  -7 :  13 |   7 ||  20 || DF-19 DF-16 DF-12 DF-14 DF-14 DM-13 DF-12     r 
 I_Baldauff      16 12/ 1/ 4 | DF D :  15 -12 :   3 | DF D :  20  -7 :  13 |   7 ||  20 || DF-20 DF-17 DF-13 DF-15 DF-14 DM-14 DF-12     r 
 I_Rauch         16 12/ 1/ 3 | DF D :  15 -12 :   3 | DF D :  20  -7 :  13 |   7 ||  20 || DF-20 DF-17 DF-13 DF-15 DF-14 DM-14 DF-12     r 
 S_Seppala       16 12/ 1/ 3 | DF D :  15 -12 :   3 | DF D :  20  -7 :  13 |   7 ||  20 || DF-20 DF-17 DF-13 DF-15 DF-14 DM-14 DF-12     r 
 V_Maez          16 12/ 1/ 4 | DF D :  15 -12 :   3 | DF D :  20  -7 :  13 |   7 ||  20 || DF-20 DF-17 DF-13 DF-15 DF-14 DM-14 DF-12     r 
 H_Larsson       25  6/ 3/19 | FW E :  21  -5 :  16 |                      |   4 ||  20 || FW -8 FW -7 FW -5 FW -7 FW -7 FW -5 FW -6       
-H_Cerwin        27  6/ 5/19 | FW E :  22  -4 :  18 |                      |   2 ||  20 || FW -6 FW -6 FW -4 FW -6 FW -6 FW -5 FW -5       
 R_Snivy         25  3/ 3/19 | FW E :  21  -6 :  15 |                      |   4 ||  19 || FW -8 FW -7 FW -6 FW -9 FW -8 FW -6 FW -7       
-N_Hay           16  4/12/ 1 | MF P :  13 -13 :   1 | MF P :  18  -8 :  11 |   7 ||  18 || MF-13 DM-15 MF-15 MF-16 AM-15 DM-18 AM-16     r 
 M_McIntosh      16  2/12/ 1 | MF P :  13 -13 :   0 | MF P :  18  -8 :  10 |   7 ||  17 || MF-13 DM-16 MF-16 MF-17 AM-16 DM-20 AM-17     r 
 U_Ozanich       16  2/12/ 1 | MF P :  13 -13 :   0 | MF P :  18  -8 :  10 |   7 ||  17 || MF-13 DM-16 MF-16 MF-17 AM-16 DM-20 AM-17     r 
 W_Marini        16  2/12/ 1 | MF P :  13 -13 :   0 | MF P :  18  -8 :  10 |   7 ||  17 || MF-13 DM-16 MF-16 MF-17 AM-16 DM-20 AM-17     r 
 W_Pruitt        16  3/12/ 1 | MF P :  13 -13 :   0 | MF P :  18  -8 :  10 |   7 ||  17 || MF-13 DM-15 MF-16 MF-16 AM-15 DM-19 AM-16     r 
-H_Brod          16  5/ 1/12 | FW D :  12 -12 :   0 | FW D :  16  -7 :   9 |   7 ||  16 || FW-16 DF-17 FW-13 FW-16 FW-15 AM-15 FW-12     r 
 J_Mcmillan      16  1/12/ 1 | MF P :  13 -13 :  -1 | MF P :  18  -8 :   9 |   7 ||  16 || MF-13 DM-16 MF-16 MF-17 AM-16 DM-21 AM-18     r 
-K_Zamora        16  1/ 1/12 | FW D :  10 -14 :  -4 | FW E :  18  -9 :   9 |   7 ||  16 || FW-17 DM-19 FW-14 FW-18 FW-17 AM-16 FW-14     r 
 Q_Bess          16  1/12/ 1 | MF P :  13 -13 :  -1 | MF P :  18  -8 :   9 |   7 ||  16 || MF-13 DM-16 MF-16 MF-17 AM-16 DM-21 AM-18     r 
-R_Udall         16  2/ 1/12 | FW D :  10 -13 :  -3 | FW E :  18  -9 :   9 |   7 ||  16 || FW-17 DM-18 FW-14 FW-17 FW-16 AM-16 FW-13     r 
 T_Shipley       16  2/ 1/12 | FW D :  10 -13 :  -3 | FW E :  18  -9 :   9 |   7 ||  16 || FW-17 DM-18 FW-14 FW-17 FW-16 AM-16 FW-13     r 
 M_Fefee         27  2/ 2/19 | FW E :  20  -6 :  14 |                      |   2 ||  16 || FW -9 FW -8 FW -6 FW-10 FW -9 FW -7 FW -8       
 T_Faester       29  2/20/ 2 | MF P :  21  -5 :  16 |                      |   0 ||  16 || MF -5 DM -8 MF -6 MF -8 MF -8 DM-16 AM-11       
