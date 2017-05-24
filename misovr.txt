@@ -366,7 +366,7 @@ DEFENSIVE        30  27  29  30  27  24
                    DEFENSIVE    26    21          17    20    18 
                    ATTACKING    26    22          18          28 
               COUNTER_ATTACK    26    20    28    19    23    24 
-                   LONG_BALL    26    22          14    32    25 
+                   LONG_BALL    26    22          14    25    25 
                      PASSING    26    22          18          24 
                     EUROPEAN    26    20    29    22    26    22 
 
@@ -586,7 +586,7 @@ FW R_Silano
 GK O_Devers
 DF Q_Detert
 FW V_Dobre
-FW V_Eristov
+FW V_Zefirov
 FW A_Belousov
 
 SUB GK O_Devers GK IF INJURED GK
