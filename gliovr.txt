@@ -486,3 +486,82 @@ TACTIC L IF MIN >= 65 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 
+** Reserves Selection **
+                            |                      |                      |     ||     ||  P     E     A     C     N     L     D   
+J_Caragiale     19  9/15/15 | AM P :  23  -5 :  18 | AM P :  25  -3 :  23 |   7 ||  30 || AM -5 AM -6 DM -5 MF -6 AM -5 MF -8 AM -8     r 
+R_Francisco     18  9/11/15 | FW E :  21  -8 :  13 | FW E :  25  -4 :  21 |   7 ||  28 || AM -8 FW -8 DM -9 MF-10 AM -9 AM -9 FW-10     r 
+V_Baicu         19  5/15/13 | AM P :  21  -7 :  14 | AM P :  24  -4 :  19 |   7 ||  26 || AM -7 AM -8 DM -8 MF -9 AM -8 AM-11 AM-12     r 
+C_Minea         20  7/12/14 | AM P :  19  -8 :  11 | AM P :  20  -8 :  12 |   7 ||  19 || AM -8 FW -9 DM -9 MF-10 AM -9 AM-11 FW-11     r 
+H_Hall          18 15/ 9/13 | DM L :  24  -8 :  16 | DM L :  28  -4 :  24 |   7 ||  31 || DM -9 DF -8 DM-11 DF -9 DF -9 DM -8 DF -8     r 
+C_Ganea         20 15/15/ 8 | DM P :  23  -4 :  18 | DM P :  24  -3 :  20 |   7 ||  27 || DM -4 DM -6 DM -8 MF -5 MF -6 DM -8 DM -6     r 
+W_Rehak         19 10/ 8/15 | FW E :  20  -9 :  11 | FW E :  23  -7 :  16 |   7 ||  23 || AM-11 FW -9 DM-11 FW-12 FW-10 AM-10 FW-10     r 
+L_Voiculescu    20 15/15/ 7 | DM P :  22  -4 :  18 | DM P :  23  -3 :  20 |   7 ||  27 || DM -4 DM -7 DM -9 MF -5 DM -7 DM -8 DM -6     r 
+A_Elton         17  4/13/11 | AM P :  18 -10 :   8 | AM P :  24  -4 :  19 |   7 ||  26 || AM-10 AM-12 DM-11 MF-12 AM-11 AM-14 AM-15     r 
+C_Greco         18  6/15/10 | MF P :  19  -7 :  12 | MF P :  23  -4 :  19 |   7 ||  26 || MF -7 MF -9 DM -9 MF -9 MF -9 MF-14 AM-12     r 
+N_Teodorescu    20 15/11/ 6 | DF D :  21  -8 :  13 | DF D :  23  -5 :  18 |   7 ||  25 || DM -8 DF-10 DM-13 MF -9 DM-11 DM-10 DF -8     r 
+I_Hagi          18 14/ 6/ 9 | DF D :  18 -10 :   8 | DF D :  22  -6 :  16 |   7 ||  23 || DM-13 DF-11 DF-16 DF-13 DF-13 DM-12 DF-10     r 
+F_Janssen       17  6/ 5/13 | FW E :  16 -13 :   3 | FW E :  22  -7 :  15 |   7 ||  22 || AM-16 FW-13 DM-16 FW-17 FW-15 AM-15 FW-14     r 
+I_Ilie          20 15/ 8/ 6 | DF D :  20  -8 :  12 | DF D :  21  -7 :  14 |   7 ||  21 || DM-11 DF-11 DM-16 DF-11 DF-12 DM-12 DF -8     r 
+F_Albu          18  6/14/ 9 | MF P :  18  -9 :   9 | MF P :  22  -5 :  17 |   7 ||  24 || MF -9 MF-11 DM-11 MF-10 MF-11 MF-15 AM-14     r 
+N_Doria         19    15    | GK N :  23 -12 :  11 | GK N :  24 -10 :  14 |   7 ||  21 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
+A_Pacini        20    15    | GK N :  23 -12 :  11 | GK N :  26  -9 :  17 |   7 ||  24 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
+C_Vulcan        18  5/15/ 8 | MF P :  18  -8 :  10 | MF P :  22  -4 :  18 |   7 ||  25 || MF -8 MF-10 DM-11 MF-10 MF-11 MF-16 AM-14     r 
+T_Balescu       19  5/15/ 8 | MF P :  18  -8 :  10 | MF P :  20  -7 :  13 |   7 ||  20 || MF -8 MF-10 DM-11 MF-10 MF-11 MF-16 AM-14     r 
+S_Costantini    16 13/ 7/ 5 | DF D :  17 -11 :   6 | DF D :  25  -3 :  22 |   7 ||  29 || DM-13 DF-14 DM-18 DF-14 DF-15 DM-14 DF-11     r 
+S_Johnson       17 13/ 7/ 3 | DF D :  17 -11 :   6 | DF D :  24  -4 :  20 |   7 ||  27 || DM-13 DF-14 DM-19 DF-15 DF-16 DM-15 DF-11     r 
+Y_Berbis        17  9/13/ 4 | DM P :  17 -10 :   7 | DM P :  22  -5 :  17 |   7 ||  24 || DM-10 DM-13 DM-14 MF-11 MF-13 DM-16 DM-13     r 
+R_Renato        16 13/ 3/ 5 | DF D :  16 -12 :   4 | DF D :  24  -4 :  20 |   7 ||  27 || DM-17 DF-15 DF-21 DF-16 DF-17 DM-16 DF-12     r 
+P_Luque         17 13/ 3/ 5 | DF D :  16 -12 :   4 | DF D :  22  -7 :  15 |   7 ||  22 || DM-17 DF-15 DF-21 DF-16 DF-17 DM-16 DF-12     r 
+
+ATTACKING
+GK N_Doria
+DF I_Ilie
+DF H_Hall
+DF N_Teodorescu
+DF L_Voiculescu
+DF C_Ganea
+DM C_Greco
+DM J_Caragiale
+AM V_Baicu
+FW R_Francisco
+FW C_Minea
+                 N       D       A       C       L       P       E 
+  STOPPING      23      23      23      23      23      23      23 
+  TACKLING      93     115      75      97     104      88      89 
+   PASSING      74      50      84      79      38     101      72 
+  SHOOTING      62      32     105      53      97      53      58 
+   SH Mean      13      14      12      13      12      13      13 
+ SH Median      14      14      14      14      13      14      14 
+    SH Max      15      15      15      15      15      15      15 
+  SH Bonus      12       8      15      12      10      14      12 
+   GK Qual      15      15      15      15      15      15      15 
+  GK Bonus      13      10      17      13      12      15      13 
+       Agg      25      25      25      25      25      25      25 
+   Scoring      70      44      91      70      58      85      67 
+ Defending      93     115      75      97     104      88      89 
+   Overall     185     154     196     188     172     201     178 
+
+GK A_Pacini
+DF I_Hagi
+DF S_Costantini
+AM C_Vulcan
+FW A_Elton
+
+SUB GK A_Pacini GK IF INJURED GK
+SUB DF I_Hagi DF IF INJURED DF
+SUB DM C_Vulcan DM IF INJURED DM
+SUB MF C_Vulcan MF IF INJURED MF
+SUB AM C_Vulcan AM IF INJURED AM
+SUB FW A_Elton FW IF INJURED FW
+
+CHANGEPOS V_Baicu MF IF MIN = 55
+SUB C_Minea C_Vulcan DM IF MIN = 60
+SUB C_Greco A_Elton AM IF MIN = 65
+SUB I_Ilie S_Costantini DF IF MIN = 84
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 48 SCORE >= 2
+
+
