@@ -367,7 +367,7 @@ DEFENSIVE        35  27  28  28  27  24
                    DEFENSIVE    26    21          17    20    18 
                    ATTACKING    26    22          18    29    28 
               COUNTER_ATTACK    26    20    28    19    23    24 
-                   LONG_BALL    26    22          14    25    27 
+                   LONG_BALL    26    22          14    31    25 
                      PASSING    26    22          18          24 
                     EUROPEAN    26    20    29    22    26    22 
 
@@ -467,7 +467,6 @@ F_Fou           29  2/21/ 5 | MF P :  23  -3 :  20 |                      |   0 
 
 ** /for_sale.txt **
                             |                      |                      |     ||     ||  P     A     E     C     N     L     D   
-V_Barbieri      21 20/17/17 | DF A :  40   9 :  49 |                      |   7 ||  56 || DF  4 DF  9 DF  5 AM  5 DF  6 DF  7 AM  5     r  4m
 I_Brent         21 14/18/ 4 | MF D :  26  -3 :  23 | MF D :  26  -2 :  24 |   7 ||  31 || DM -3 DM -5 DM -4 MF -4 DM -4 DM -5 MF -3     r  500k
 
 ** Selection **
@@ -573,47 +572,48 @@ DEFENSIVE
 GK O_Devers
 DF I_Yolkin
 DF C_Stirbei
-DF S_Dobre
-MF O_Bucsa
+DF O_Bucsa
 MF I_Ungureanu
 MF D_Fidatov
 MF P_Deusner
 MF V_Dobre
 AM J_Pichugin
-FW R_Silano
+AM R_Silano
+FW A_Belousov
                  N       D       A       C       L       P       E 
   STOPPING      26      26      26      26      26      26      26 
-  TACKLING      79     111      51      85      99      69      68 
-   PASSING     107      77     111     109      54     119     125 
-  SHOOTING      56      32      94      43      93      43      55 
-   SH Mean      13      14      13      14      13      14      13 
- SH Median      17      17      12      17      12      17      17 
-    SH Max      17      17      17      17      17      17      17 
-  SH Bonus      17      12      19      16      11      18      19 
+  TACKLING      74     101      51      81      88      66      65 
+   PASSING     109      79     112     111      55     121     125 
+  SHOOTING      65      39     109      53     106      51      65 
+   SH Mean      14      16      14      15      14      15      14 
+ SH Median      17      17      17      17      17      17      17 
+    SH Max      18      18      18      18      18      18      18 
+  SH Bonus      18      13      22      18      15      20      20 
    GK Qual      17      17      17      17      17      17      17 
-  GK Bonus      18      13      26      17      14      20      21 
-       Agg      19      19      19      19      19      19      19 
-   Scoring      90      62     105      87      67      94     101 
- Defending      79     111      51      85      99      69      68 
-   Overall     204     187     175     206     186     197     202 
+  GK Bonus      19      14      27      18      15      21      22 
+       Agg      17      17      17      17      17      17      17 
+   Scoring      94      65     111      91      72      98     105 
+ Defending      74     101      51      81      88      66      65 
+   Overall     204     187     179     207     188     198     202 
 
+DF S_Dobre
 DF Q_Detert
 MF C_Ribelin
-AM A_Belousov
 FW V_Eristov
 FW V_Zefirov
 
 SUB GK C_Ribelin GK IF INJURED GK
-SUB DF Q_Detert DF IF INJURED DF
+SUB DF S_Dobre DF IF INJURED DF
 SUB DM C_Ribelin DM IF INJURED DM
 SUB MF C_Ribelin MF IF INJURED MF
 SUB AM C_Ribelin AM IF INJURED AM
-SUB FW A_Belousov FW IF INJURED FW
+SUB FW V_Zefirov FW IF INJURED FW
 
-CHANGEPOS J_Pichugin MF IF MIN = 45
-SUB R_Silano A_Belousov FW IF MIN = 50
-SUB O_Bucsa C_Ribelin MF IF MIN = 65
-SUB S_Dobre Q_Detert DF IF MIN = 87
+CHANGEPOS R_Silano MF IF MIN = 45
+SUB I_Yolkin S_Dobre DF IF MIN = 50
+CHANGEPOS J_Pichugin MF IF MIN = 55
+SUB A_Belousov V_Zefirov FW IF MIN = 60
+SUB R_Silano C_Ribelin MF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
