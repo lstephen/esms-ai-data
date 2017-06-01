@@ -7,27 +7,26 @@ DF H_Hall
 DF N_Teodorescu
 DF L_Voiculescu
 DF C_Ganea
-DM Y_Berbis
+DM F_Albu
 MF C_Greco
 FW V_Baicu
 FW J_Caragiale
-FW C_Minea
+FW R_Francisco
 
 GK A_Pacini
 DF S_Costantini
-FW C_Vulcan
+DF Y_Berbis
 FW A_Elton
-FW W_Rehak
+FW C_Minea
 
 PK: J_Caragiale
 AGG 20
 
-CHANGEPOS 8 DM IF MIN = 60
-SUB 11 14 DM IF MIN = 65
-SUB 7 15 FW IF MIN = 70
-SUB 2 13 DF IF MIN = 84
+SUB 7 14 DM IF MIN = 50
+SUB 2 13 DF IF MIN = 55
+SUB 11 15 FW IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+TACTIC C IF MIN >= 86 SCORE >= 2
