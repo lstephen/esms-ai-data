@@ -9,24 +9,23 @@ MF I_Ungureanu
 MF D_Fidatov
 MF P_Deusner
 MF V_Dobre
+MF X_Heslin
 AM J_Pichugin
-AM R_Silano
-FW A_Belousov
+FW R_Silano
 
+GK K_Tock
 DF S_Dobre
-DF Q_Detert
-MF C_Ribelin
-FW V_Eristov
+AM A_Belousov
+AM B_Vianueva
 FW V_Zefirov
 
-PK: A_Belousov
+PK: J_Pichugin
 AGG 20
 
-CHANGEPOS 10 MF IF MIN = 45
-SUB 2 12 DF IF MIN = 50
-CHANGEPOS 9 MF IF MIN = 55
+SUB 9 14 AM IF MIN = 55
 SUB 11 16 FW IF MIN = 60
-SUB 10 14 MF IF MIN = 75
+CHANGEPOS 10 MF IF MIN = 65
+SUB 8 15 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
