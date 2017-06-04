@@ -351,7 +351,7 @@ LONG_BALL        41  30  25  44  28  31
 DEFENSIVE        41  31  33  35  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     8    16     0    10     3 
+                       Count     4     8    15     0    11     3 
                          Max    47    39    38    32    35    35 
                   1st XI (N)    47    30    32    32          35 
                   1st XI (P)    47    36    30    31          39 
@@ -360,7 +360,7 @@ DEFENSIVE        41  31  33  35  30  27
                          Min
                       NORMAL    30    20    20          21    21 
                    DEFENSIVE    30                20    19    18 
-                   ATTACKING    30    21    23          21    31 
+                   ATTACKING    30    21    23          21    24 
               COUNTER_ATTACK    30    20    20    28    21    24 
                    LONG_BALL    30                24          26 
                      PASSING    30    22                      22 
@@ -376,16 +376,16 @@ Defender19      30 25/ 8/ 9 | MF L :  47   3 :  50 |                      |   4 
 Defender05      28 25/ 6/ 9 | MF L :  46   2 :  48 |                      |   5 ||  53 || DF -3 DF -1 DF -2 DF  0 DF -2 MF  2 DF  2       
 Defender24      29 24/ 8/10 | MF L :  47   2 :  49 |                      |   4 ||  53 || DF -2 DF -1 DF -2 DF  1 DF -1 MF  2 DF  1       
 Defender28      31 25/ 9/ 8 | MF L :  47   3 :  50 |                      |   3 ||  53 || DF -1 DF  0 DF -1 DF  1 DF  0 MF  3 DF  3       
+M_Valbuena      35 12/29/10 | MF E :  43   5 :  48 |                      |   1 ||  49 || MF  5 MF  5 MF  5 DM  4 MF  5 DM  1 MF  2       
 Defender01      30 23/ 8/ 9 | MF L :  44   0 :  44 |                      |   4 ||  48 || DF -4 DF -2 DF -3 DF -1 DF -3 MF  0 DF  0       
 L_McQueen       22  8/10/24 | FW L :  36   5 :  40 |                      |   7 ||  47 || FW -4 FW -1 FW  0 FW  2 FW  2 FW  5 FW -2       
 M_Rudan         36 23/10/ 9 | MF L :  45   1 :  46 |                      |   1 ||  47 || DF -2 DF -1 DF -2 DF  0 DF -2 MF  1 DF  1       
+D_Lehman        22  9/ 7/24 | FW L :  35   4 :  39 |                      |   7 ||  46 || FW -6 FW -2 FW -1 FW  0 FW  1 FW  4 FW -3       
 Forward09       28  7/ 5/26 | FW L :  37   6 :  42 |                      |   4 ||  46 || FW -6 FW -2 FW  0 FW  2 FW  2 FW  6 FW -3       
-H_Kane          23  8/ 9/23 | FW L :  34   3 :  37 |                      |   7 ||  44 || FW -5 FW -3 FW -1 FW  0 FW  0 FW  3 FW -3       
 Forward13       27  5/ 7/25 | FW L :  36   4 :  40 |                      |   5 ||  44 || FW -6 FW -3 FW -1 FW  2 FW  1 FW  4 FW -4       
 Forward06       29  7/11/24 | FW L :  36   5 :  40 |                      |   4 ||  44 || FW -3 FW -1 FW  0 FW  3 FW  2 FW  5 FW -3       
 Forward11       29  9/ 8/24 | FW L :  35   4 :  40 |                      |   4 ||  43 || FW -5 FW -2 FW  0 FW  1 FW  1 FW  4 FW -2       
 Forward08       30  6/11/24 | FW L :  35   4 :  40 |                      |   3 ||  43 || FW -3 FW -2 FW  0 FW  3 FW  1 FW  4 FW -3       
-Hugo_Sanchez    31  9/15/23 | FW L :  36   5 :  41 |                      |   3 ||  43 || FW -1 FW  1 FW  2 FW  4 FW  2 FW  5 FW -1       
 Forward10       26  6/10/23 | FW L :  34   3 :  37 |                      |   5 ||  42 || FW -5 FW -3 FW -1 FW  1 FW  0 FW  3 FW -4       
 G_Batistua      24  6/ 7/23 | FW L :  33   2 :  35 |                      |   6 ||  41 || FW -7 FW -5 FW -2 FW -1 FW -1 FW  2 FW -5       
 J_Piere         25  6/ 7/23 | FW L :  33   2 :  35 |                      |   6 ||  41 || FW -7 FW -5 FW -2 FW -1 FW -1 FW  2 FW -5       
@@ -399,13 +399,13 @@ Forward05       28  7/ 8/23 | FW L :  34   3 :  36 |                      |   4 
 Defender26      30 25/10/ 6 | DF D :  34   3 :  37 |                      |   4 ||  40 || DF -1 DF  0 DF -2 DF  1 DF -1 MF  2 DF  3       
 Forward07       23  8/ 5/22 | FW L :  32   1 :  33 |                      |   7 ||  39 || FW -9 FW -6 FW -4 FW -4 FW -2 FW  1 FW -5     r 
 Forward02       24  6/ 7/22 | FW L :  32   1 :  33 |                      |   6 ||  39 || FW -8 FW -6 FW -3 FW -3 FW -2 FW  1 FW -6     r 
-S_Vagini        24 23/11/ 6 | DF D :  32   1 :  32 |                      |   7 ||  39 || DF -2 DF -1 DF -3 DF -1 DF -2 DF  0 DF  1       
+F_Wood          35 12/28/ 7 | MF C :  36   3 :  39 |                      |   1 ||  39 || MF  3 MF  3 MF  3 DM  1 MF  3 DM -1 MF  0       
 J_Wallis        24 23/ 9/ 4 | DF D :  31   0 :  31 |                      |   7 ||  38 || DF -4 DF -3 DF -5 DF -3 DF -4 DF -1 DF  0       
 Defender20      26 23/11/ 7 | DF D :  32   1 :  32 |                      |   6 ||  38 || DF -2 DF -1 DF -3 DF  0 DF -2 DM  0 DF  1       
 Mariano         23 23/ 7/ 6 | DF D :  31   0 :  30 |                      |   7 ||  37 || DF -5 DF -3 DF -4 DF -3 DF -4 DF -1 DF  0       
 M_Sarr          24 23/ 5/11 | DF L :  30   0 :  30 |                      |   7 ||  37 || DF -5 DF -3 DF -3 DF -1 DF -4 DF  0 DF -1       
+J_Vertonghen    26 23/10/ 7 | DF D :  31   1 :  32 |                      |   6 ||  37 || DF -3 DF -2 DF -3 DF -1 DF -2 DF  0 DF  1       
 Keeper06        24    23    | GK N :  35  -6 :  29 |                      |   7 ||  36 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
-T_Hoban         25 23/ 6/ 8 | DF D :  30   0 :  30 |                      |   6 ||  36 || DF -5 DF -3 DF -4 DF -2 DF -4 DF -1 DF  0       
 G_Johnson       26 23/ 8/ 7 | DF D :  31   0 :  31 |                      |   6 ||  36 || DF -4 DF -3 DF -4 DF -2 DF -3 DF -1 DF  0       
 Defender16      28 24/ 5/ 5 | DF D :  31   1 :  32 |                      |   5 ||  36 || DF -6 DF -4 DF -5 DF -3 DF -4 DF -1 DF  1       
 Midfielder12    28  9/26/ 9 | MF N :  31   1 :  32 |                      |   4 ||  36 || MF  1 MF  0 MF  0 DM -1 MF  1 DM -3 AM -3       
@@ -415,13 +415,10 @@ Midfielder20    27  9/25/ 9 | MF N :  30   0 :  30 |                      |   5 
 Defender18      28 23/ 8/ 7 | DF D :  31   0 :  31 |                      |   5 ||  35 || DF -4 DF -3 DF -4 DF -2 DF -3 DF -1 DF  0       
 E_Silva         28 23/ 7/ 7 | DF D :  31   0 :  30 |                      |   5 ||  35 || DF -5 DF -3 DF -4 DF -2 DF -4 DF -1 DF  0       
 Defender25      30 23/ 9/ 7 | DF D :  31   0 :  31 |                      |   4 ||  35 || DF -4 DF -2 DF -3 DF -1 DF -3 DF  0 DF  0       
-S_R_Ramos       24 13/23/ 7 | DM P :  29  -1 :  28 |                      |   6 ||  34 || DM -1 DM -1 DM -2 DM -3 MF -2 DM -2 MF -2       
 Midfielder15    26 11/25/ 5 | MF N :  30  -1 :  29 |                      |   5 ||  34 || MF -1 MF -1 DM -2 DM -3 MF -1 DM -4 MF -3       
 Defender15      27 23/ 5/ 8 | DF D :  30  -1 :  29 |                      |   5 ||  34 || DF -6 DF -4 DF -4 DF -3 DF -4 DF -1 DF -1       
 Defender11      30 23/ 8/ 8 | DF D :  31   0 :  31 |                      |   4 ||  34 || DF -4 DF -2 DF -3 DF -1 DF -3 DF  0 DF  0       
 K_Agouda        31 23/ 8/ 6 | DF D :  31   0 :  31 |                      |   3 ||  34 || DF -5 DF -3 DF -4 DF -2 DF -4 DF -1 DF  0       
-C_Battocchio    22  9/23/ 9 | MF N :  28  -2 :  26 |                      |   7 ||  33 || MF -2 MF -3 MF -3 DM -4 MF -2 DM -4 AM -5       
-H_Munculus      23  6/23/13 | MF N :  29  -2 :  27 |                      |   7 ||  33 || MF -2 MF -3 MF -3 MF -3 MF -2 DM -5 AM -5       
 A_Prilo         25  7/23/14 | MF N :  29  -1 :  28 |                      |   6 ||  33 || MF -2 MF -3 MF -2 MF -2 MF -1 DM -3 AM -4       
 S_Lambese       27 23/ 3/ 2 | DF D :  30  -1 :  28 |                      |   5 ||  33 || DF-10 DF -6 DF -7 DF -7 DF -7 DF -4 DF -1       
 M_Lopes         28 13/23/ 9 | DM P :  30  -1 :  29 |                      |   4 ||  33 || DM -1 DM -1 DM -2 DM -2 MF -1 DM -1 MF -2       
@@ -430,17 +427,18 @@ Midfielder23    29  9/25/ 8 | MF N :  30  -1 :  29 |                      |   4 
 D_Dougray       24  8/23/10 | MF N :  28  -2 :  26 |                      |   6 ||  32 || MF -2 MF -3 MF -3 DM -4 MF -2 DM -5 AM -5       
 Midfielder14    26  9/24/ 7 | MF N :  29  -2 :  27 |                      |   5 ||  32 || MF -2 MF -2 MF -3 DM -4 MF -2 DM -5 AM -5       
 Midfielder17    29 10/24/ 8 | MF N :  29  -1 :  28 |                      |   4 ||  32 || MF -1 MF -2 MF -2 DM -3 MF -1 DM -4 AM -4       
+R_Savage        30  7/26/ 6 | MF P :  29  -1 :  29 |                      |   3 ||  32 || MF -1 MF -2 MF -1 DM -4 MF -1 DM -6 AM -6       
 C_Dempsey       25  8/23/ 9 | MF N :  28  -3 :  25 |                      |   6 ||  31 || MF -3 MF -3 MF -4 DM -4 MF -3 DM -5 AM -6       
 Midfielder11    26  7/24/ 8 | MF P :  28  -2 :  26 |                      |   5 ||  31 || MF -2 MF -3 MF -3 DM -4 MF -2 DM -6 AM -6       
 Midfielder09    27  9/24/ 7 | MF N :  29  -2 :  27 |                      |   5 ||  31 || MF -2 MF -2 MF -3 DM -4 MF -2 DM -5 AM -5       
 Midfielder05    28  7/24/ 9 | MF N :  29  -2 :  27 |                      |   4 ||  31 || MF -2 MF -3 MF -3 DM -4 MF -2 DM -6 AM -6       
 Cantera         33 12/24/ 8 | DM P :  30  -1 :  29 |                      |   2 ||  31 || DM -1 MF -1 DM -2 DM -2 MF -1 DM -2 MF -2       
-E_Petit         22  7/23/ 6 | MF P :  26  -4 :  23 |                      |   7 ||  30 || MF -4 MF -5 MF -5 DM -6 MF -4 DM -7 AM -8       
 R_Radke         23  6/23/ 8 | MF P :  27  -3 :  23 |                      |   7 ||  30 || MF -3 MF -5 MF -5 DM -6 MF -4 DM -7 AM -8       
 I_McNamara      24  9/23/ 6 | MF P :  27  -3 :  24 |                      |   6 ||  30 || MF -3 MF -4 MF -5 DM -5 MF -3 DM -6 AM -7       
 J_Mata          26 10/23/ 7 | MF N :  28  -3 :  25 |                      |   5 ||  30 || MF -3 MF -3 MF -4 DM -4 MF -3 DM -5 MF -5       
 Midfielder01    29  7/25/ 6 | MF P :  28  -2 :  27 |                      |   4 ||  30 || MF -2 MF -3 MF -3 DM -5 MF -2 DM -7 AM -7       
 Rooney          34 14/23/ 6 | DM P :  30  -1 :  29 |                      |   1 ||  30 || DM -1 DM -1 DM -1 DM -3 MF -2 DM -2 MF -2       
+I_Osbourne      35  8/25/ 9 | MF N :  30  -1 :  29 |                      |   1 ||  30 || MF -1 MF -1 MF -1 DM -3 MF -1 DM -4 AM -4       
 N_Law           25  6/23/ 8 | MF P :  27  -3 :  23 |                      |   6 ||  29 || MF -3 MF -5 MF -5 DM -6 MF -4 DM -7 AM -8       
 G_Machado       27  8/23/ 8 | MF N :  28  -3 :  25 |                      |   5 ||  29 || MF -3 MF -4 MF -4 DM -5 MF -3 DM -6 AM -6       
 Midfielder07    28 10/24/ 4 | MF P :  28  -2 :  25 |                      |   4 ||  29 || MF -2 MF -3 DM -4 DM -5 MF -3 DM -6 MF -5       
