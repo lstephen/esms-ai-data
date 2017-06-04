@@ -34,7 +34,6 @@ Cantera       33 spa  2 12 24  8 32 400 425 655 178
 Rooney        34 eng  2 14 23  6 34 300 693 333  53
 Keeper08     32  chi 26 4  2  3  21 300 300 300 300
 J_Mata        26 spa  1 10 23  7 20 700 335 121 594
-T_Hoban       25 ire  2 23  6  8 23 300 709 964 275
 I_McNamara    24 eng  3  9 23  6 20 700 776 162 740
 Defender01   30  nig 3  23 8  9  20 500 500 500 500
 Midfielder11 26  por 3  7  24 8  22 500 500 500 500
@@ -60,7 +59,6 @@ Forward07    23  swe 2  8  5  22 20 400 400 400 400
 Forward02    32  ger 1  11 8  26 32 300 300 300 300
 Forward06    27  eng 1  9  7  25 22 400 400 400 400
 Midfielder05 28  swe 2  7  24 9  32 500 500 500 500
-Forward10    20  bos 1  7  7  19 10 500 500 500 500
 Midfielder12 28  jpn 3  9  26 9  43 400 400 400 400
 D_Dougray     24 fra  1  8 23 10 19 300 363  49 833
 Midfielder15 26  pol 1  11 25 5  33 600 600 600 600
@@ -72,7 +70,6 @@ Defender05   27  civ 3  25 8  9  22 300 300 300 300
 Defender03   27  tur 2  25 8  9  11 400 400 400 400
 Defender28   31  per 2  25 9  8  40 600 600 600 600
 Defender27   26  aut 3  24 8  10 22 300 300 300 300
-H_Munculus    23 gre  2  6 23 13 31 400 868 692 978
 S_Lambese     27 fra  2 23  3  2 22 600 545 767 625
 M_Lopes       28 spa  1 13 23  9 25 800 105 481 961
 M_Rudan       36 aus  2 23 10  9 21 300  20  63 154
@@ -83,12 +80,12 @@ A_Prilo       25 ita  1  7 23 14 22 600 818 167 789
 E_Silva       28 bra  2 23  7  7 29 800 500 938 757
 Mariano       23 chi  2 23  7  6 11 300 408 710 602
 L_McQueen     22 sco  1  8 10 24 10 800  33 506 706
-H_Kane        23 eng  3  8  9 23 32 700 904 162 284
-Hugo_Sanchez  31 mex  2  9 15 23 27 300 608 934 433
-S_R_Ramos     24 spa  1 13 23  7 30 400 451 654 470
 G_Machado     27 mex  1  8 23  8 11 800 161  23 192
-C_Battocchio  22 arg  1  9 23  9 23 500 266  86 222
-E_Petit       22 fra  1  7 23  6 21 600 808 593 913
 N_Law         25 eng  1  6 23  8 11 500 708 833 454
-S_Vagini      24 bra  1 23 11  6 42 300 166 107 658
 J_Piere       25 fra  1  6  7 23 22 600 771 930 271
+J_Vertonghen  26 bel  2 23 10  7 23 600 129 540 293
+I_Osbourne    35 ger  1  8 25  9 37 300 704 245 824
+M_Valbuena    35 fra  2 12 29 10 45 500 379 425 966
+F_Wood        35 aus  1 12 28  7 41 400 670 226 456
+R_Savage      30 wal  2  7 26  6 15 400 948 853 314
+D_Lehman      22 ger  3  9  7 24 33 700  93 237 791
