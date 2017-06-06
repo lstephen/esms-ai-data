@@ -1,32 +1,33 @@
 gly
-P
+C
 
 GK N_Doria
 DF I_Ilie
-DF H_Hall
 DF N_Teodorescu
-DF L_Voiculescu
-DF C_Ganea
-DM F_Albu
+DF H_Hall
+DM L_Voiculescu
 MF C_Greco
-FW V_Baicu
-FW J_Caragiale
+MF F_Albu
+AM V_Baicu
+AM J_Caragiale
+AM C_Minea
 FW R_Francisco
 
 GK A_Pacini
 DF S_Costantini
-DF Y_Berbis
-FW A_Elton
-FW C_Minea
+AM Y_Berbis
+AM A_Elton
+FW W_Rehak
 
 PK: J_Caragiale
 AGG 20
 
-SUB 7 14 DM IF MIN = 50
-SUB 2 13 DF IF MIN = 55
-SUB 11 15 FW IF MIN = 84
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 86 SCORE >= 2
+SUB 10 14 MF IF MIN = 60
+SUB 7 13 DF IF MIN = 65
+CHANGEPOS 3 DM IF MIN = 70
+SUB 6 15 AM IF MIN = 81
+TACTIC E IF MIN >= 35 SCORE <= -2
+TACTIC E IF MIN >= 60 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC C IF SCORE = 1
+TACTIC D IF MIN >= 60 SCORE >= 2
