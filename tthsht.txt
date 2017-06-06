@@ -4,11 +4,11 @@ P
 GK R_Ceni
 DF A_Wisdom
 DF L_Nyatanga
+DF S_Howey
 DF E_Gabor
-DF T_Manniman
 DF D_McHale
 DF Doriva
-DM C_McGregor
+DM J_Fox
 MF R_Pires
 MF M_James
 FW Diaviera
@@ -22,13 +22,13 @@ FW G_Bradford
 PK: Diaviera
 AGG 20
 
-SUB 6 13 DF IF MIN = 60
-SUB 10 16 MF IF MIN = 65
-SUB 9 15 FW IF MIN = 78
+SUB 7 13 DF IF MIN = 50
+SUB 11 15 FW IF MIN = 65
+SUB 10 16 FW IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 81 SCORE >= 2
 SUB 7 13 DF IF SCORE <= -3
 SUB 7 13 DF IF SCORE >= 3
