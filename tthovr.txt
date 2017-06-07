@@ -588,3 +588,77 @@ TACTIC D IF MIN >= 18 SCORE >= 2
 SUB A_Wisdom M_Twaddle DF IF SCORE <= -3
 SUB A_Wisdom M_Twaddle DF IF SCORE >= 3
 
+** Reserves Selection **
+                            |                      |                      |     ||     ||  P     C     A     E     N     L     D   
+C_Turner        28    22    | GK N :  33  -7 :  26 |                      |   5 ||  31 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7     r 
+C_Poenaru       25    20    | GK N :  30 -10 :  20 |                      |   7 ||  26 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
+D_Iacobescu     22 10/17/15 | DM L :  22  -3 :  18 |                      |   7 ||  25 || AM -6 FW -6 DM -6 FW -6 DM -6 DM -3 AM -6     r 
+Ridoutkha       22 14/19/ 6 | DM L :  21  -4 :  17 |                      |   7 ||  24 || DM -4 DM -4 DF -6 DM -5 DM -4 DM -4 MF -5     r 
+J_Milburn       19 14/18/ 7 | DM L :  21  -4 :  17 | DM L :  25   0 :  25 |   9 ||  33 || DM -5 DM -5 DF -6 DM -5 DM -5 DM -4 MF -5     r 
+M_Oezil         32 14/18/ 8 | DM L :  22  -3 :  18 |                      |   2 ||  20 || DM -5 DM -5 DF -6 DM -6 DM -5 DM -3 MF -5     r 
+E_Davids        31  6/16/16 | DM L :  19  -6 :  13 |                      |   3 ||  15 || FW -8 FW -8 AM -7 FW -6 FW -8 DM -6 FW -8     r 
+I_Harte         22 21/ 8/ 7 | DM L :  22  -3 :  19 |                      |   8 ||  27 || DF -7 DF -5 DF -5 DF -6 DF -6 DM -3 DF -3     r 
+Da_Erikson      20 10/19/10 | DM L :  19  -5 :  14 | DM L :  22  -3 :  18 |   8 ||  26 || DM -6 MF -7 DM -7 DM -7 MF -6 DM -5 AM -7     r 
+Juninho         26  9/19/ 9 | DM L :  19  -6 :  13 |                      |   5 ||  18 || MF -6 MF -7 DM -7 DM -8 MF -6 DM -6 AM -8     r 
+R_Giurgiu       18  7/ 9/17 | DM L :  17  -8 :  10 | FW N :  28  -2 :  26 |   9 ||  35 || FW-12 FW-10 DF-12 FW -8 FW -8 DM -8 FW -8     r 
+C_Sandulescu    17  6/ 8/17 | DM L :  16  -9 :   7 | FW L :  35   0 :  35 |  10 ||  44 || FW-13 FW-11 AM-13 FW -9 FW -9 DM -9 FW -9     r 
+N_Barbulescu    17 11/16/ 6 | DM L :  17  -8 :  10 | DM C :  32   0 :  33 |  10 ||  42 || DM -9 DM -9 DF-11 DM-10 DM -9 DM -8 AM-10     r 
+D_Dobrescu      16  7/15/10 | DM L :  16  -9 :   8 | DM A :  34   0 :  34 |  10 ||  44 || MF-11 MF-12 DM-12 FW-12 MF-11 DM -9 AM-11     r 
+D_Hasdeu        17  7/14/10 | DM L :  16  -9 :   7 | DM L :  23  -2 :  22 |  10 ||  31 || MF-12 DM-13 DM-12 FW-12 MF-12 DM -9 AM-12     r 
+F_Voiculescu    15 11/13/ 6 | DM L :  16  -8 :   8 | DM C :  34   1 :  35 |  11 ||  46 || DM-11 DM-11 DF-12 DM-13 DM-12 DM -8 AM-12     r 
+V_Nicu          17  9/14/ 7 | DM L :  16  -9 :   7 | DM L :  24  -1 :  23 |  10 ||  32 || DM-11 DM-12 DM-13 DM-13 DM-12 DM -9 AM-12     r 
+E_Banciu        17 15/ 8/ 4 | DM L :  16  -8 :   8 | DM L :  25   0 :  25 |  10 ||  35 || DM-13 DF-11 DF-11 DF-12 DF-12 DM -8 DF-10     r 
+
+COUNTER_ATTACK
+GK C_Turner
+DF I_Harte
+DF E_Banciu
+DF F_Voiculescu
+DM Ridoutkha
+DM M_Oezil
+DM J_Milburn
+MF Juninho
+MF Da_Erikson
+MF D_Iacobescu
+FW E_Davids
+                 N       D       A       C       L       P       E 
+  STOPPING      33      33      33      33      33      33      33 
+  TACKLING      85     135      67      95     126      82      81 
+   PASSING     122      88     129     124      61     135     139 
+  SHOOTING      38      22      68      34      59      34      38 
+   SH Mean      12      14      12      12      12      12      12 
+ SH Median      15      16      15      15      15      15      15 
+    SH Max      16      16      16      16      16      16      16 
+  SH Bonus      15      10      18      14       9      16      16 
+   GK Qual      22      22      22      22      22      22      22 
+  GK Bonus      23      16      29      22      16      25      25 
+       Agg      28      28      28      28      28      28      28 
+   Scoring      94      66     109      94      60     101     105 
+ Defending      85     135      67      95     126      82      81 
+   Overall     217     210     211     225     195     222     225 
+
+GK C_Poenaru
+DM N_Barbulescu
+AM D_Dobrescu
+FW R_Giurgiu
+FW C_Sandulescu
+
+SUB GK C_Poenaru GK IF INJURED GK
+SUB DF N_Barbulescu DF IF INJURED DF
+SUB DM N_Barbulescu DM IF INJURED DM
+SUB MF N_Barbulescu MF IF INJURED MF
+SUB AM N_Barbulescu AM IF INJURED AM
+SUB FW C_Sandulescu FW IF INJURED FW
+
+SUB E_Davids R_Giurgiu FW IF MIN = 45
+SUB F_Voiculescu N_Barbulescu DF IF MIN = 50
+SUB R_Giurgiu C_Sandulescu FW IF MIN = 84
+TACTIC E IF MIN >= 2 SCORE <= -2
+TACTIC E IF MIN >= 4 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 36 SCORE = 1
+TACTIC D IF MIN >= 18 SCORE >= 2
+
+SUB M_Oezil N_Barbulescu DM IF SCORE <= -3
+SUB M_Oezil N_Barbulescu DM IF SCORE >= 3
+

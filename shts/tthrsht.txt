@@ -1,5 +1,5 @@
 tthr
-E
+C
 
 GK C_Turner
 DF I_Harte
@@ -11,23 +11,24 @@ DM J_Milburn
 MF Juninho
 MF Da_Erikson
 MF D_Iacobescu
-FW C_Sandulescu
+FW E_Davids
 
 GK C_Poenaru
 DM N_Barbulescu
-MF D_Dobrescu
-AM E_Davids
-AM R_Giurgiu
+AM D_Dobrescu
+FW R_Giurgiu
+FW C_Sandulescu
 
-PK: C_Sandulescu
+PK: E_Davids
 AGG 20
 
-SUB 4 13 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 55
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 26 SCORE = 1
-TACTIC D IF MIN >= 13 SCORE >= 2
-SUB 6 15 DM IF SCORE <= -3
-SUB 6 15 DM IF SCORE >= 3
+SUB 11 15 FW IF MIN = 45
+SUB 4 13 DF IF MIN = 50
+SUB 15 16 FW IF MIN = 84
+TACTIC E IF MIN >= 2 SCORE <= -2
+TACTIC E IF MIN >= 4 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 36 SCORE = 1
+TACTIC D IF MIN >= 18 SCORE >= 2
+SUB 6 13 DM IF SCORE <= -3
+SUB 6 13 DM IF SCORE >= 3
