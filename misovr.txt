@@ -452,35 +452,36 @@ M_Fefee         28  2/ 2/19 | FW E :  20  -8 :  13 |                      |   1 
 
 ** /for_auction.txt **
                             |                      |                      |     ||     ||  P     A     E     C     N     L     D   
-F_Cahill        24 22/16/15 | DF A :  40   9 :  49 |                      |   5 ||  54 || DF  1 DF  9 DF  6 DF  6 DF  7 DM  7 DF  2       
-JoJo_Camez      24  7/16/23 | AM A :  40   6 :  46 |                      |   5 ||  51 || FW  2 AM  6 FW  3 FW  3 FW  3 AM  3 FW -2       
-J_Backus        29 22/17/16 | DF A :  41  10 :  51 |                      |   0 ||  51 || DF  2 DF 10 DF  6 DF  6 DF  8 DM  8 DF  2       
-Massimo_Rescu   29  3/16/23 | AM A :  40   6 :  46 |                      |   0 ||  46 || FW  1 AM  6 FW  2 FW  1 FW  1 AM  2 FW -4       
-J_Borlini       27 24/18/ 8 | DF N :  35   7 :  42 |                      |   2 ||  44 || DF  2 DF  6 DF  6 DF  7 DF  7 DM  6 DF  5       
-S_Anselme       23 21/ 3/13 | DF L :  35   0 :  35 |                      |   6 ||  41 || DF-11 DF  0 DF  0 DF -2 DF  0 DF  0 DF -2       
-F_Rightenour    24  9/21/13 | MF E :  34   0 :  34 |                      |   5 ||  39 || MF  0 DM  0 MF  0 MF -1 MF  0 MF -2 AM -7       
-P_Noller        30 11/22/16 | MF E :  37   3 :  40 |                      |  -1 ||  39 || MF  3 DM  3 MF  3 AM  2 MF  3 MF  2 AM -3       
-Avinho          28 21/19/ 6 | DF C :  32   4 :  36 |                      |   1 ||  37 || DM  0 DF  2 DF  2 DF  4 DF  4 DM  3 DF  2       
-C_Findler       26  5/21/15 | MF A :  32   1 :  33 |                      |   3 ||  36 || MF  0 MF  1 AM  0 MF -3 AM  0 MF -3 FW -8       
-C_Jargo         28  3/ 9/21 | FW A :  37  -2 :  35 |                      |   1 ||  36 || FW -6 FW -2 FW -3 FW -5 FW -4 FW -3 FW -7       
-Half_Sack       24 22/11/ 6 | DF N :  29   1 :  30 |                      |   5 ||  35 || DF -6 DF -1 DF  1 DF  1 DF  1 DM  1 DF  1       
-I_Scirocco      27 23/13/ 5 | DF D :  31   3 :  33 |                      |   2 ||  35 || DF -4 DF  1 DF  2 DF  3 DF  3 DM  2 DF  3       
-W_Tamindzic     30 22/16/ 4 | DF C :  31   3 :  34 |                      |  -1 ||  33 || DM -2 DF  0 DF  1 DF  3 DF  2 DM  2 DF  2       
-F_Baggins       23 21/ 8/ 4 | DF D :  27  -1 :  26 |                      |   6 ||  32 || DF-10 DF -5 DF -2 DF -2 DF -2 DM -3 DF -1       
-D_Galofre       23  8/10/21 | FW E :  27  -1 :  25 |                      |   6 ||  31 || FW -4 FW -1 FW -1 FW -2 FW -1 AM -1 FW -5       
-S_Snay          24  9/22/ 8 | MF P :  26   0 :  26 |                      |   5 ||  31 || MF  0 DM -3 MF  0 MF -1 MF -1 MF -5 MF -7       
-P_Deegan        27 12/ 8/21 | MF L :  29   0 :  29 |                      |   2 ||  31 || FW -5 DF  0 FW -1 FW -1 FW -1 MF  0 FW -3       
-L_Bundren       24 11/21/ 5 | MF P :  25  -1 :  24 |                      |   5 ||  29 || MF -1 DM -5 MF -2 MF -2 MF -2 DM -6 DM -7       
-O_Adefemi       29 22/ 6/ 9 | DF E :  27   0 :  28 |                      |   0 ||  28 || DF -9 DF -1 DF  0 DF -1 DF  0 DM  0 DF  0       
-Q_Dahner        29 21/11/ 4 | DF D :  28   0 :  28 |                      |   0 ||  28 || DF -7 DF -3 DF -1 DF -1 DF -1 DM -1 DF  0       
-V_Boehling      24 10/21/ 3 | MF P :  24  -2 :  22 |                      |   5 ||  27 || MF -2 DM -7 MF -3 MF -3 MF -4 DM -8 DM -8       
-G_Petokey       26 21/ 4/ 6 | DF D :  26  -2 :  24 |                      |   3 ||  27 || DF-12 DF -5 DF -2 DF -4 DF -3 DM -3 DF -2       
-B_Heiderich     27  5/21/ 4 | MF P :  23  -3 :  20 |                      |   2 ||  22 || MF -3 MF -7 MF -4 MF -5 MF -5 DM-12 MF-12       
-F_Fou           29  2/21/ 5 | MF P :  23  -3 :  19 |                      |   0 ||  19 || MF -3 MF -6 MF -4 MF -7 MF -6 MF-13 MF-14       
+W_Beechum       25 24/15/13 | DF A :  40   8 :  49 |                      |   4 ||  53 || DF  1 DF  8 DF  7 DF  7 DF  8 DM  7 DF  4       
+I_Loewe         16 15/13/12 | DF A :  30  -2 :  28 | DF A :  38   7 :  45 |   7 ||  52 || MF -6 DF -2 DF -3 DF -4 DF -2 DM -2 DF -7     r 
+J_Naoki         27 11/25/16 | MF E :  40   7 :  48 |                      |   2 ||  50 || MF  6 MF  6 MF  7 MF  5 MF  6 MF  4 AM -1       
+K_Jerve         26 25/12/12 | DF A :  39   7 :  46 |                      |   3 ||  49 || DF  0 DF  7 DF  6 DF  6 DF  7 DM  7 DF  5       
+B_Greenwood     17  4/11/17 | AM A :  29  -5 :  24 | AM A :  36   2 :  38 |   7 ||  45 || FW -8 AM -5 FW -6 FW -7 FW -7 AM -7 FW -9     r 
+G_Meeks         24 13/14/23 | MF L :  35   5 :  40 |                      |   5 ||  45 || FW  2 DF  5 FW  3 FW  5 FW  4 MF  5 FW  0       
+S_Cvitanovic    23    24    | GK N :  36   2 :  38 |                      |   6 ||  44 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
+L_McDowell      21  3/22/11 | MF E :  33  -1 :  32 | MF E :  34   1 :  35 |   7 ||  42 || MF -1 MF -1 MF -1 MF -4 MF -2 MF -7 AM-11     r 
+T_Mackey        22  7/23/ 9 | MF E :  34   1 :  35 |                      |   7 ||  42 || MF  1 MF -1 MF  1 MF -1 MF  0 MF -6 MF -8       
+A_Gardley       19  3/ 7/20 | FW E :  23  -4 :  19 | FW A :  37  -3 :  34 |   7 ||  41 || FW -9 FW -5 FW -4 FW -7 FW -6 FW -5 FW -9     r 
+D_Hite          18  7/18/10 | MF P :  22  -4 :  18 | MF E :  33   0 :  33 |   7 ||  40 || MF -4 DM -6 MF -5 MF -6 MF -5 MF -7 AM-11     r 
+P_Cutt          20 21/12/ 4 | DF D :  28   0 :  28 | DF D :  29   1 :  31 |   7 ||  38 || DM -7 DF -3 DF -1 DF  0 DF  0 DM -1 DF  0     r 
+S_Hutterman     16    15    | GK N :  23 -12 :  11 | GK N :  32  -3 :  29 |   7 ||  36 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
+I_Dobson        17  5/17/ 8 | MF P :  20  -6 :  14 | MF P :  26  -1 :  25 |   7 ||  32 || MF -6 MF -8 MF -8 MF -8 MF -8 MF-11 AM-14     r 
+P_Holder        18 17/ 9/ 2 | DF D :  23  -6 :  17 | DF D :  27  -1 :  25 |   7 ||  32 || DM-12 DF -9 DF -7 DF -6 DF -6 DM -7 DF -6     r 
 
 ** /for_sale.txt **
                             |                      |                      |     ||     ||  P     A     E     C     N     L     D   
+R_Gelman        27 12/20/23 | AM A :  43   9 :  53 |                      |   2 ||  55 || FW  6 AM  9 AM  6 FW  7 FW  7 MF  8 FW  1        14m
+E_McDuffie      27  6/17/24 | AM A :  42   8 :  50 |                      |   2 ||  52 || FW  4 AM  8 FW  4 FW  4 FW  4 AM  4 FW -2        12.5m
+C_Fee           28 12/24/19 | AM A :  42   8 :  50 |                      |   1 ||  51 || AM  6 AM  8 MF  7 AM  6 AM  7 MF  6 AM  0        12m
+A_Kallstrom     26 16/24/16 | DF A :  39   8 :  47 |                      |   3 ||  50 || MF  6 DF  8 MF  7 AM  6 MF  7 MF  7 MF  2        23m
+N_Sirkus        28 19/25/ 8 | DM E :  40   7 :  46 |                      |   1 ||  47 || MF  6 DF  5 DM  7 DM  7 DM  7 DM  4 DM  3       14.25m
+Marc_de_Man     29 27/18/ 7 | DF N :  38  10 :  47 |                      |   0 ||  47 || DF  5 DF  8 DF  8 DF 10 DF 10 DM  8 DF  9        16m
+H_East          26 14/24/11 | MF E :  38   5 :  43 |                      |   3 ||  46 || MF  4 DM  2 MF  5 MF  4 MF  4 MF  1 MF -1        18.75m
+J_Stam          22 19/ 8/11 | DM L :  26  -1 :  25 |                      |   7 ||  32 || DF-10 DF -1 DF -1 DF -2 DF -1 DM -1 DF -3        250k
+B_Meinert       18    16    | GK N :  24 -10 :  14 | GK N :  29  -6 :  23 |   7 ||  30 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r  4m
 I_Brent         21 14/18/ 4 | MF P :  23  -4 :  19 | MF P :  24  -3 :  21 |   7 ||  28 || MF -4 DF -6 DM -4 MF -4 DM -4 DM -5 DM -6     r  500k
+R_Alvarez       18 16/ 3/ 3 | DF D :  20  -8 :  12 | DF D :  24  -4 :  20 |   7 ||  27 || DM-17 DF-13 DF -9 DF-10 DF-10 DM-10 DF -8     r 4m
+F_Tomori        21 17/ 8/ 5 | DF N :  23  -6 :  17 | DF N :  24  -5 :  19 |   7 ||  26 || DM-12 DF -8 DF -6 DF -6 DF -6 DM -6 DF -6     r 500k
 
 ** Selection **
                             |                      |                      |     ||     ||  P     A     E     C     N     L     D   
