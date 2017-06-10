@@ -1,33 +1,34 @@
 msy
-P
+A
 
 GK O_Devers
 DF I_Yolkin
 DF C_Stirbei
 DF S_Dobre
 DF O_Bucsa
-DF X_Heslin
-DM P_Deusner
-MF I_Ungureanu
-FW J_Pichugin
-FW R_Silano
-FW B_Vianueva
-
-GK K_Tock
-DF Q_Detert
-DF D_Fidatov
-FW V_Dobre
+DF N_Morariu
+DM I_Ungureanu
+AM D_Lungu
+AM J_Pichugin
 FW A_Belousov
+FW R_Silano
 
-PK: J_Pichugin
+GK S_Manescu
+DF P_Deusner
+FW V_Dobre
+FW V_Eristov
+FW V_Zefirov
+
+PK: A_Belousov
 AGG 20
 
-SUB 11 14 DM IF MIN = 60
-SUB 6 16 FW IF MIN = 65
-CHANGEPOS 14 DF IF MIN = 70
-SUB 10 15 FW IF MIN = 75
-TACTIC A IF MIN >= 22 SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 84 SCORE >= 2
+SUB 7 14 DM IF MIN = 55
+SUB 10 15 FW IF MIN = 60
+CHANGEPOS 11 AM IF MIN = 65
+CHANGEPOS 14 MF IF MIN = 70
+SUB 8 13 DM IF MIN = 75
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC C IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 54 SCORE >= 2
