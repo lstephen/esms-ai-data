@@ -4,27 +4,27 @@ E
 GK C_Turner
 DF I_Harte
 DF I_Muresanu
-DF J_Milburn
+DF R_Giurgiu
 DM Ridoutkha
 DM M_Oezil
 DM J_Cadette
-MF Juninho
 MF M_Antonio
 MF D_Iacobescu
-FW R_Giurgiu
+MF J_Milburn
+FW C_Sandulescu
 
 GK C_Poenaru
 DM E_Banciu
-MF N_Barbulescu
-AM E_Davids
-AM C_Sandulescu
+DM N_Barbulescu
+MF Juninho
+MF D_Dobrescu
 
 PK: R_Giurgiu
 AGG 20
 
-SUB 4 13 DF IF MIN = 50
-SUB 11 16 FW IF MIN = 70
-SUB 10 14 MF IF MIN = 75
+SUB 4 13 DF IF MIN = 45
+SUB 10 16 MF IF MIN = 75
+SUB 6 15 DM IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
