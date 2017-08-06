@@ -8,27 +8,27 @@ DF S_Bassong
 DF G_Tamas
 DF S_Murray
 DM C_Stewart
-DM V_Anita
+DM A_Kuhl
 MF M_M_Daehli
 MF E_Konoplyanka
 FW A_Morata
 
 GK M_Sportiello
-GK J_Bond
 DF J_Lukaku
-DF A_Kuhl
+DF V_Anita
+DF G_Byers
 FW M_Vydra
 
 PK: A_Morata
 AGG 20
 
-SUB 8 15 DM IF MIN = 60
-SUB 5 14 DF IF MIN = 65
-SUB 10 16 FW IF MIN = 75
+SUB 5 13 DF IF MIN = 55
+SUB 7 16 FW IF MIN = 70
+SUB 11 15 DM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 52 SCORE >= 2
-SUB 9 15 MF IF SCORE <= -3
-SUB 9 15 MF IF SCORE >= 3
+TACTIC D IF MIN >= 50 SCORE >= 2
+SUB 11 16 FW IF SCORE <= -3
+SUB 11 16 FW IF SCORE >= 3
