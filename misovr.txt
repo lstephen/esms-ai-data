@@ -466,74 +466,77 @@ Q_Zuniga        28  5/23/ 6 | MF P :  26  -3 :  23 | -19    1 ||   5 || MF -3 DM
 ** Selection **
                             |                      | vAg      || OVR ||  P     A     E     C     N     L     D   
 Camelino        30  9/22/26 | FW A :  53  11 :  65 |  18   -1 ||  82 || FW  5 FW 11 AM  4 FW  5 FW  5 AM 10 FW  1       
-R_Gelman        27 12/20/23 | AM L :  37   6 :  43 |   3    2 ||  49 || FW  1 FW  6 FW  1 FW  3 FW  2 AM  6 FW  0       
 R_Figueiredo    29 26/17/15 | DM L :  38   9 :  47 |   1    0 ||  48 || DF  5 DF  4 DF  5 DF  6 DF  5 DM  9 DF  7       
 P_Litto         30 25/17/15 | DM L :  37   9 :  45 |  -1   -1 ||  43 || DF  4 DF  3 DF  4 DF  5 DF  4 DM  9 DF  6       
 G_C_Moore       26 23/18/16 | DM L :  36   8 :  44 |   7    3 ||  54 || DF  3 DF  3 DM  3 DF  3 DF  3 DM  8 DF  4       
-O_Aguilar       31  5/23/18 | FW A :  42   0 :  42 |  -4   -1 ||  36 || MF  0 FW  0 MF  0 MF -1 MF  0 AM  0 AM -5       
-M_Tensfeldt     28 23/16/15 | DM L :  35   6 :  41 |  -1    1 ||  41 || DF  2 DF  1 DF  2 DF  2 DF  2 DM  6 DF  3       
+R_Gelman        27 12/20/23 | AM L :  37   6 :  43 |   3    2 ||  49 || FW  1 FW  6 FW  1 FW  3 FW  2 AM  6 FW  0       
 AJ_Camodo       30    27    | GK N :  41  11 :  51 |   5   -1 ||  55 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
-V_Barbieri      22 20/17/17 | DM L :  33   5 :  38 |  11    7 ||  57 || DF  0 DF  0 DM  0 AM  0 DF  0 DM  5 MF  0       
+M_Tensfeldt     28 23/16/15 | DM L :  35   6 :  41 |  -1    1 ||  41 || DF  2 DF  1 DF  2 DF  2 DF  2 DM  6 DF  3       
 K_Prescott      32 22/18/13 | DM L :  34   5 :  39 |   0   -1 ||  38 || DF  2 DF -1 DM  2 DF  2 DM  1 DM  5 DF  3       
+V_Barbieri      22 20/17/17 | DM L :  33   5 :  38 |  11    7 ||  57 || DF  0 DF  0 DM  0 AM  0 DF  0 DM  5 MF  0       
 D_Bledsoe       30 17/21/15 | DM L :  31   3 :  34 | -12   -1 ||  21 || DM  2 DM -1 DM  2 MF  2 MF  2 DM  3 MF  0       
-P_Deegan        27 12/ 8/21 | FW L :  32   0 :  32 |  -8    2 ||  27 || FW-10 FW -5 FW -6 FW -5 FW -5 FW  0 FW -4       
-C_Parry         22  9/20/15 | MF N :  30  -3 :  28 |   1    7 ||  35 || MF -3 DM -4 MF -4 MF -3 MF -3 AM -3 AM -6       
+O_Aguilar       31  5/23/18 | FW A :  42   0 :  42 |  -4   -1 ||  36 || MF  0 FW  0 MF  0 MF -1 MF  0 AM  0 AM -5       
 J_Latal         33 14/23/13 | MF C :  33   2 :  35 |   0   -1 ||  34 || DM  2 DM -1 DM  1 MF  2 MF  2 MF  0 MF -1       
-W_Obershaw      22  6/ 8/19 | FW L :  28  -4 :  24 |  -3    7 ||  28 || AM-13 FW -8 FW -9 FW-10 FW-10 FW -4 FW -9       
-S_Anselme       23 21/ 3/15 | DF L :  36   0 :  36 |   6    6 ||  48 || DF-10 DF -8 DF -4 DF -6 DF -6 DF  0 DF -2       
-T_Helms         25    20    | GK N :  30   0 :  30 |  -5    4 ||  29 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 C_de_Vil        25 17/20/ 5 | DM E :  33  -1 :  32 |  -3    4 ||  32 || DM -1 DM -8 DM -1 MF -1 DM -3 DM -2 DM -2       
 Tarildo         29 16/21/ 4 | DM E :  33  -1 :  32 | -14    0 ||  18 || DM -1 DM -8 DM -1 MF -1 DM -3 DM -3 DM -3       
+C_Parry         22  9/20/15 | MF N :  30  -3 :  28 |   1    7 ||  35 || MF -3 DM -4 MF -4 MF -3 MF -3 AM -3 AM -6       
+T_Helms         25    20    | GK N :  30   0 :  30 |  -5    4 ||  29 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+P_Deegan        27 12/ 8/21 | FW L :  32   0 :  32 |  -8    2 ||  27 || FW-10 FW -5 FW -6 FW -5 FW -5 FW  0 FW -4       
 A_Kapustov      22    19    | GK N :  29  -1 :  27 |   0    7 ||  34 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
+S_Anselme       23 21/ 3/15 | DF L :  36   0 :  36 |   6    6 ||  48 || DF-10 DF -8 DF -4 DF -6 DF -6 DF  0 DF -2       
+W_Obershaw      22  6/ 8/19 | FW L :  28  -4 :  24 |  -3    7 ||  28 || AM-13 FW -8 FW -9 FW-10 FW-10 FW -4 FW -9       
 
-ATTACKING
+PASSING
 GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
-DF M_Tensfeldt
 DF G_C_Moore
-DF K_Prescott
+DF S_Anselme
+DF V_Barbieri
 DM J_Latal
 DM D_Bledsoe
-AM O_Aguilar
+FW C_Parry
 FW Camelino
 FW R_Gelman
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     150     184     121     156     169     141     146 
-   PASSING     113      76     129     121      59     156     110 
-  SHOOTING     101      49     168      85     157      86      95 
-   SH Mean      20      23      19      21      19      21      20 
- SH Median      18      23      18      23      18      23      23 
+  TACKLING     149     181     117     153     165     138     143 
+   PASSING      96      62     116     104      51     140      90 
+  SHOOTING     106      52     173      91     160      93      99 
+   SH Mean      20      22      19      20      19      20      20 
+ SH Median      17      23      16      23      16      23      17 
     SH Max      26      26      26      26      26      26      26 
-  SH Bonus      18      13      23      19      15      23      19 
+  SH Bonus      17      12      22      18      14      22      17 
    GK Qual      27      27      27      27      27      27      27 
-  GK Bonus      23      18      29      23      21      26      23 
+  GK Bonus      23      18      29      22      21      26      22 
        Agg      25      25      25      25      25      25      25 
-   Scoring     109      67     142     109      91     133     105 
- Defending     150     184     121     156     169     141     146 
-   Overall     295     245     314     300     278     322     287 
+   Scoring      99      59     135     100      87     124      93 
+ Defending     149     181     117     153     165     138     143 
+   Overall     279     228     302     284     269     309     266 
 
 GK T_Helms
-DF V_Barbieri
-FW C_Parry
-FW P_Deegan
-FW W_Obershaw
+DF M_Tensfeldt
+DF K_Prescott
+DF C_de_Vil
+FW O_Aguilar
 
 SUB GK T_Helms GK IF INJURED GK
-SUB DF V_Barbieri DF IF INJURED DF
-SUB DM C_Parry DM IF INJURED DM
-SUB MF C_Parry MF IF INJURED MF
-SUB AM C_Parry AM IF INJURED AM
-SUB FW P_Deegan FW IF INJURED FW
+SUB DF M_Tensfeldt DF IF INJURED DF
+SUB DM O_Aguilar DM IF INJURED DM
+SUB MF O_Aguilar MF IF INJURED MF
+SUB AM O_Aguilar AM IF INJURED AM
+SUB FW O_Aguilar FW IF INJURED FW
 
-SUB K_Prescott V_Barbieri DF IF MIN = 60
-SUB O_Aguilar C_Parry DM IF MIN = 70
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
+SUB S_Anselme C_de_Vil DF IF MIN = 45
+SUB V_Barbieri K_Prescott DF IF MIN = 50
+CHANGEPOS C_de_Vil DM IF MIN = 55
+CHANGEPOS D_Bledsoe DF IF MIN = 60
+SUB D_Bledsoe M_Tensfeldt DF IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 34 SCORE >= 2
+TACTIC L IF MIN >= 76 SCORE >= 2
 
 
 ** Reserves Selection **
