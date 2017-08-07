@@ -16,7 +16,7 @@ C_McGregor      23 14/24/ 8 | DM P :  31   1 :  32 |   1    7 ||  39 || DM  1 DM
 S_Howey         31 21/19/ 4 | DM D :  36   3 :  38 |  -3    3 ||  39 || DF  1 DM  1 DF  0 DF -1 DM  0 DM  0 DM  3     r 
 L_Nyatanga      36 24/14/ 8 | DM D :  36   3 :  39 |   0    1 ||  39 || DF  2 DF  2 DF  3 DF  2 DF  1 MF  2 DM  3       
 Ridoutkha       22 16/21/ 7 | DM C :  32  -1 :  31 |  -1    7 ||  37 || DM -1 DM -1 DF -2 DM -2 DM -1 DM -2 MF -1   R r 
-S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0     r 
+S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0   R r 
 M_Twaddle       33 21/12/18 | DM L :  30   4 :  33 |   1    2 ||  36 || DF  0 FW  0 DF  4 DF  3 DF  0 DM  4 MF  0     r 
 E_Gabor         30 17/24/ 5 | DM C :  34   2 :  37 |  -5    3 ||  34 || DM  2 DM  2 DM -1 DM  1 DM  2 DM -1 MF  2       
 L_Robert        34 12/24/10 | DM N :  32   0 :  32 |  -1    1 ||  32 || DM  0 MF  0 DM -1 MF -1 DM  0 DM -2 MF -2 I     
@@ -195,8 +195,8 @@ FW L_Suarez
 LONG_BALL
 GK R_Ceni
 DF L_Nyatanga
-DF S_Irwin
 DF S_Howey
+DF S_Irwin
 MF A_Wisdom
 MF M_Twaddle
 MF E_Gabor
@@ -208,7 +208,7 @@ FW Hugo_Sanchez
   STOPPING      48      48      48      48      48      48      48 
   TACKLING     105     205      67     130     251      99      91 
    PASSING     152     108     157     155      77     170     175 
-  SHOOTING      46      32      88      43      75      43      52 
+  SHOOTING      46      32      88      43      75      44      52 
    SH Mean      17      18      16      17      16      17      16 
  SH Median      18      23      18      23      18      23      18 
     SH Max      23      23      23      23      23      23      23 
@@ -252,31 +252,31 @@ FW Hugo_Sanchez
 ** Reserves XI **
 PASSING
 GK C_Turner
+DF S_Irwin
 DF I_Harte
 DF Ridoutkha
-DF M_Antonio
 DF M_Oezil
 DF J_Cadette
 DF J_Milburn
+DM M_Antonio
 DM Juninho
-DM N_Barbulescu
 FW D_Iacobescu
 FW E_Davids
                  N       D       A       C       L       P       E 
   STOPPING      35      35      35      35      35      35      35 
-  TACKLING     114     150     106     119     124     113     104 
-   PASSING      97      60     110     103      51     139      83 
-  SHOOTING      49      25      77      47      64      48      48 
+  TACKLING     124     163     116     129     136     123     114 
+   PASSING      97      61     111     103      51     137      86 
+  SHOOTING      50      25      78      47      65      48      49 
    SH Mean      13      16      13      13      13      13      13 
  SH Median      16      16      16      16      16      16      16 
     SH Max      16      16      16      16      16      16      16 
-  SH Bonus      12       8      14      13       9      15      12 
+  SH Bonus      12       7      14      12       9      14      12 
    GK Qual      23      23      23      23      23      23      23 
-  GK Bonus      20      15      22      20      17      23      19 
-       Agg      24      24      24      24      24      24      24 
-   Scoring      81      48      99      84      55     108      72 
- Defending     114     150     106     119     124     113     104 
-   Overall     222     186     241     230     186     258     202 
+  GK Bonus      19      15      21      19      16      22      19 
+       Agg      25      25      25      25      25      25      25 
+   Scoring      81      49     100      84      55     107      74 
+ Defending     124     163     116     129     136     123     114 
+   Overall     229     194     249     237     192     265     211 
 
 ** First XI **
                             |                      | vAg      || OVR ||  P     C     A     E     N     L     D   
@@ -292,7 +292,7 @@ J_Fox           22 14/23/ 9 | DM C :  32   0 :  32 |   0    7 ||  39 || DM  0 DM
 C_McGregor      23 14/24/ 8 | DM P :  31   1 :  32 |   1    7 ||  39 || DM  1 DM  1 DM -1 DM -1 DM  1 DM -2 MF  0       
 S_Howey         31 21/19/ 4 | DM D :  36   3 :  38 |  -3    3 ||  39 || DF  1 DM  1 DF  0 DF -1 DM  0 DM  0 DM  3     r 
 L_Nyatanga      36 24/14/ 8 | DM D :  36   3 :  39 |   0    1 ||  39 || DF  2 DF  2 DF  3 DF  2 DF  1 MF  2 DM  3       
-S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0     r 
+S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0   R r 
 M_Twaddle       33 21/12/18 | DM L :  30   4 :  33 |   1    2 ||  36 || DF  0 FW  0 DF  4 DF  3 DF  0 DM  4 MF  0     r 
 E_Gabor         30 17/24/ 5 | DM C :  34   2 :  37 |  -5    3 ||  34 || DM  2 DM  2 DM -1 DM  1 DM  2 DM -1 MF  2       
 L_Robert        34 12/24/10 | DM N :  32   0 :  32 |  -1    1 ||  32 || DM  0 MF  0 DM -1 MF -1 DM  0 DM -2 MF -2 I     
@@ -304,28 +304,30 @@ S_Pearce        27 24/ 7/10 | DF E :  28   1 :  29 |  -4    5 ||  30 || DF -3 DF
 W_Morgan        19 23/11/ 6 | DF D :  32   0 :  31 |  11    9 ||  51 || DF -2 DF -1 DF -1 DF  0 DF -2 DM -1 DF  0       
 M_James         22 10/24/14 | MF E :  38   0 :  38 |   6    7 ||  51 || MF  0 MF  0 AM  0 MF  0 MF  0 DM -2 AM -1       
 J_Hunter        31    27    | GK N :  41   0 :  41 |   0    4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+D_Lehman        22  9/ 7/24 | AM L :  27  -1 :  26 |  -6    7 ||  27 || FW -6 FW -2 FW -1 FW -1 FW -1 AM -1 FW -3       
 
 ** Reserves XI **
                             |                      | vAg      || OVR ||  P     C     A     E     N     L     D   
 D_Iacobescu     22 10/19/16 | AM A :  36  -2 :  33 |   1    7 ||  41 || AM -4 FW -4 AM -2 FW -3 DM -4 DM -3 AM -4   R r 
 Ridoutkha       22 16/21/ 7 | DM C :  32  -1 :  31 |  -1    7 ||  37 || DM -1 DM -1 DF -2 DM -2 DM -1 DM -2 MF -1   R r 
+S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0   R r 
 J_Cadette       25 15/20/ 6 | DM P :  28  -2 :  25 |   0    6 ||  30 || DM -2 DM -3 DF -4 DM -4 DM -3 DM -4 MF -3   R r 
 I_Muresanu      17 18/ 7/ 6 | DF E :  21  -6 :  15 |   5   10 ||  29 || DF-10 DF -8 DF -8 DF -6 DF -9 DM -6 DF -7   R r 
 C_Turner        28    23    | GK N :  35  -6 :  29 |  -5    5 ||  28 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6   R r 
 M_Antonio       22 13/21/ 6 | DM P :  28  -3 :  25 |  -8    7 ||  24 || DM -3 DM -3 DM -5 DM -5 DM -3 DM -5 MF -4   R r 
 M_Oezil         32 16/20/ 9 | DM C :  31  -1 :  30 | -10    2 ||  22 || DM -1 DM -1 DF -2 DF -3 DM -1 DM -1 MF -1   R r 
 J_Milburn       19 14/18/ 7 | DM L :  21  -5 :  17 |  -4    9 ||  21 || DM -5 DM -5 DF -6 DF -6 DM -5 DM -5 MF -5   R r 
-E_Banciu        17 16/ 8/ 4 | DF E :  18  -8 :  10 |   0   10 ||  20 || DF-12 DF-10 DF-10 DF -8 DF-11 DM -9 DF-10   R r 
 Juninho         26 10/21/10 | MF P :  26  -4 :  22 |  -7    5 ||  20 || MF -4 MF -4 DM -5 MF -5 DM -4 DM -5 AM -5   R r 
-N_Barbulescu    17 11/16/ 6 | DM L :  18  -8 :   9 |   0   10 ||  19 || DM -8 DM -9 DF-10 DF-10 DM -9 DM -8 AM-10   R r 
 I_Harte         22 21/ 8/ 7 | DF E :  24  -3 :  21 | -11    8 ||  18 || DF -6 DF -5 DF -4 DF -3 DF -5 DM -3 DF -3   R r 
 E_Davids        31  6/16/16 | AM A :  33  -5 :  28 | -13    3 ||  17 || FW -8 FW -7 AM -5 FW -5 FW -8 AM -5 FW -8   R r 
 
-** Reserves Squad (20) **
+** Reserves Squad (21) **
                             |                      | vAg      || OVR ||  P     C     A     E     N     L     D   
 C_Sandulescu    17  6/ 8/17 | FW E :  20  -7 :  12 |   3   10 ||  25 || FW-13 FW-10 FW-11 FW -7 FW -9 AM -8 FW -9   R r 
 R_Giurgiu       18  7/ 9/17 | FW E :  20  -7 :  14 |   0    9 ||  23 || FW-12 FW -9 FW-10 FW -7 FW -8 AM -7 FW -8   R r 
+E_Banciu        17 16/ 8/ 4 | DF E :  18  -8 :  10 |   0   10 ||  20 || DF-12 DF-10 DF-10 DF -8 DF-11 DM -9 DF-10   R r 
 C_Poenaru       25    20    | GK N :  30 -10 :  20 |  -6    7 ||  20 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10   R r 
+N_Barbulescu    17 11/16/ 6 | DM L :  18  -8 :   9 |   0   10 ||  19 || DM -8 DM -9 DF-10 DF-10 DM -9 DM -8 AM-10   R r 
 F_Voiculescu    15 11/13/ 6 | DM L :  16  -9 :   7 |   0   11 ||  18 || DM-11 DM-11 DF-12 DF-11 DM-12 DM -9 AM-12   R r 
 D_Dobrescu      16  7/15/10 | DM L :  16 -10 :   7 |  -2   10 ||  14 || MF-11 MF-12 DM-12 FW-11 MF-11 DM-10 AM-11   R r 
 D_Hasdeu        17  7/14/10 | DM L :  16 -10 :   6 |  -4   10 ||  11 || MF-12 DM-13 DM-12 FW-11 MF-12 DM-10 AM-12   R r 
@@ -336,9 +338,12 @@ V_Nicu          17  9/14/ 7 | DM L :  16 -10 :   6 |  -4   10 ||  11 || DM-11 DM
 W_Morgan        19 23/11/ 6 | DF D :  32   0 :  31 |  11    9 ||  51 || DF -2 DF -1 DF -1 DF  0 DF -2 DM -1 DF  0       
 M_James         22 10/24/14 | MF E :  38   0 :  38 |   6    7 ||  51 || MF  0 MF  0 AM  0 MF  0 MF  0 DM -2 AM -1       
 J_Hunter        31    27    | GK N :  41   0 :  41 |   0    4 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+D_Lehman        22  9/ 7/24 | AM L :  27  -1 :  26 |  -6    7 ||  27 || FW -6 FW -2 FW -1 FW -1 FW -1 AM -1 FW -3       
 C_Sandulescu    17  6/ 8/17 | FW E :  20  -7 :  12 |   3   10 ||  25 || FW-13 FW-10 FW-11 FW -7 FW -9 AM -8 FW -9   R r 
 R_Giurgiu       18  7/ 9/17 | FW E :  20  -7 :  14 |   0    9 ||  23 || FW-12 FW -9 FW-10 FW -7 FW -8 AM -7 FW -8   R r 
+E_Banciu        17 16/ 8/ 4 | DF E :  18  -8 :  10 |   0   10 ||  20 || DF-12 DF-10 DF-10 DF -8 DF-11 DM -9 DF-10   R r 
 C_Poenaru       25    20    | GK N :  30 -10 :  20 |  -6    7 ||  20 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10   R r 
+N_Barbulescu    17 11/16/ 6 | DM L :  18  -8 :   9 |   0   10 ||  19 || DM -8 DM -9 DF-10 DF-10 DM -9 DM -8 AM-10   R r 
 F_Voiculescu    15 11/13/ 6 | DM L :  16  -9 :   7 |   0   11 ||  18 || DM-11 DM-11 DF-12 DF-11 DM-12 DM -9 AM-12   R r 
 D_Dobrescu      16  7/15/10 | DM L :  16 -10 :   7 |  -2   10 ||  14 || MF-11 MF-12 DM-12 FW-11 MF-11 DM-10 AM-11   R r 
 D_Hasdeu        17  7/14/10 | DM L :  16 -10 :   6 |  -4   10 ||  11 || MF-12 DM-13 DM-12 FW-11 MF-12 DM-10 AM-12   R r 
@@ -346,7 +351,6 @@ V_Nicu          17  9/14/ 7 | DM L :  16 -10 :   6 |  -4   10 ||  11 || DM-11 DM
 
 ** Remaining **
                             |                      | vAg      || OVR ||  P     C     A     E     N     L     D   
-D_Lehman        22  9/ 7/24 | AM L :  27  -1 :  26 |  -6    7 ||  27 || FW -6 FW -2 FW -1 FW -1 FW -1 AM -1 FW -3       
 
 ** Replacement Level **
 PASSING          41  35  30  30  33  37 
@@ -358,15 +362,15 @@ LONG_BALL        41  32  26  46  28  37
 DEFENSIVE        41  32  33  35  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     9    17     0     9     4 
+                       Count     4     9    16     0     8     4 
                          Max    48    39    38    32    35    30 
                   1st XI (N)    48    30    33    32          30 
                   1st XI (P)    48    36    31    31          37 
-                Reserves (N)    35    25    23                23 
-                Reserves (P)    35    29    22                30 
+                Reserves (N)    35    25    28                23 
+                Reserves (P)    35    29    26                30 
                          Min
                       NORMAL    30    21    20          21    21 
-                   DEFENSIVE    30    32          20    19    18 
+                   DEFENSIVE    30    32    23    20    19    18 
                    ATTACKING    30    21    23          21    31 
               COUNTER_ATTACK    30    21    20    29    21    24 
                    LONG_BALL    30                24          26 
@@ -547,7 +551,6 @@ M_Twaddle       33 21/12/18 | DM L :  30   4 :  33 |   1    2 ||  36 || DF  0 FW
 Doriva          21 18/19/ 9 | MF D :  35   0 :  35 |   3    8 ||  45 || DF  0 DM  0 DF  0 DF -1 DM -1 DM  0 MF  0     r 
 T_Manniman      32 17/23/ 5 | DM C :  33   1 :  33 |  -7    2 ||  28 || DM  1 DM  1 DF -2 DM -1 DM  0 DM -2 MF  0       
 M_James         22 10/24/14 | MF E :  38   0 :  38 |   6    7 ||  51 || MF  0 MF  0 AM  0 MF  0 MF  0 DM -2 AM -1       
-S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0     r 
 J_Fox           22 14/23/ 9 | DM C :  32   0 :  32 |   0    7 ||  39 || DM  0 DM  0 DM -1 DM -2 DM  0 DM -2 MF -1       
 W_Morgan        19 23/11/ 6 | DF D :  32   0 :  31 |  11    9 ||  51 || DF -2 DF -1 DF -1 DF  0 DF -2 DM -1 DF  0       
 C_McGregor      23 13/23/ 8 | DM P :  30  -1 :  29 |  -2    7 ||  33 || DM -1 DM -1 DM -3 DM -3 DM -1 DM -3 MF -2       
@@ -584,33 +587,34 @@ FW Hugo_Sanchez
    Overall     281     242     294     285     231     312     264 
 
 GK J_Hunter
-DF S_Irwin
 DF M_Twaddle
+DF C_McGregor
 FW M_James
 FW T_Hurlock
 
 SUB GK J_Hunter GK IF INJURED GK
-SUB DF S_Irwin DF IF INJURED DF
+SUB DF M_Twaddle DF IF INJURED DF
 SUB DM M_James DM IF INJURED DM
 SUB MF M_James MF IF INJURED MF
 SUB AM M_James AM IF INJURED AM
 SUB FW T_Hurlock FW IF INJURED FW
 
-SUB Doriva M_James MF IF MIN = 55
-SUB R_Pires S_Irwin DF IF MIN = 60
-SUB Hugo_Sanchez T_Hurlock FW IF MIN = 70
+SUB Doriva M_James MF IF MIN = 50
+SUB R_Pires M_Twaddle DF IF MIN = 60
+SUB Hugo_Sanchez T_Hurlock FW IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 55 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
 
-SUB A_Wisdom S_Irwin DF IF SCORE <= -3
-SUB A_Wisdom S_Irwin DF IF SCORE >= 3
+SUB A_Wisdom M_Twaddle DF IF SCORE <= -3
+SUB A_Wisdom M_Twaddle DF IF SCORE >= 3
 
 ** Reserves Selection **
                             |                      | vAg      || OVR ||  P     C     A     E     N     L     D   
 C_Turner        28    23    | GK N :  35  -6 :  29 |  -5    5 ||  28 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
+S_Irwin         29 22/13/ 8 | DM D :  33   0 :  33 |   0    4 ||  37 || DF -1 DF -1 DF  0 DF  0 DF -1 DM  0 DM  0     r 
 M_Oezil         32 16/20/ 9 | DM C :  31  -2 :  29 | -12    2 ||  19 || DM -2 DM -2 DF -3 DF -3 DM -2 DM -2 MF -2     r 
 D_Iacobescu     22 10/18/15 | DM L :  22  -4 :  18 | -14    7 ||  11 || AM -6 FW -6 AM -4 FW -4 DM -5 DM -4 AM -5     r 
 Ridoutkha       22 14/19/ 6 | DM P :  26  -4 :  22 | -10    7 ||  19 || DM -4 DM -4 DF -6 DF -6 DM -4 DM -5 MF -5     r 
@@ -633,53 +637,53 @@ V_Nicu          17  9/14/ 7 | DM L :  16 -10 :   6 |  -4   10 ||  11 || DM-11 DM
 
 PASSING
 GK C_Turner
+DF S_Irwin
 DF I_Harte
 DF Ridoutkha
-DF M_Antonio
 DF M_Oezil
 DF J_Cadette
 DF J_Milburn
-DM Juninho
-DM D_Iacobescu
-FW E_Davids
+DM M_Antonio
+MF Juninho
+FW D_Iacobescu
 FW C_Sandulescu
                  N       D       A       C       L       P       E 
   STOPPING      35      35      35      35      35      35      35 
-  TACKLING     104     137      97     108     114     103      96 
-   PASSING      91      56     101      95      47     126      78 
-  SHOOTING      52      26      82      49      69      50      49 
-   SH Mean      14      16      14      14      14      14      13 
- SH Median      16      16      16      16      16      16      16 
+  TACKLING     114     153     104     120     135     112     103 
+   PASSING      92      58     102      97      48     127      83 
+  SHOOTING      49      27      79      46      66      48      50 
+   SH Mean      13      15      13      13      13      13      12 
+ SH Median      15      15      15      15      15      15      15 
     SH Max      17      17      17      17      17      17      17 
-  SH Bonus      13       8      15      13      10      15      13 
+  SH Bonus      12       8      14      12       9      14      12 
    GK Qual      23      23      23      23      23      23      23 
-  GK Bonus      20      15      23      20      17      23      20 
-       Agg      25      25      25      25      25      25      25 
-   Scoring      78      46      94      80      54     101      69 
- Defending     104     137      97     108     114     103      96 
-   Overall     212     177     229     217     179     242     193 
+  GK Bonus      19      15      22      19      16      22      20 
+       Agg      24      24      24      24      24      24      24 
+   Scoring      78      47      94      80      54     101      72 
+ Defending     114     153     104     120     135     112     103 
+   Overall     217     187     234     224     189     248     202 
 
 GK C_Poenaru
 DF E_Banciu
 DF N_Barbulescu
-FW D_Dobrescu
+FW E_Davids
 FW R_Giurgiu
 
 SUB GK C_Poenaru GK IF INJURED GK
 SUB DF E_Banciu DF IF INJURED DF
-SUB DM N_Barbulescu DM IF INJURED DM
-SUB MF N_Barbulescu MF IF INJURED MF
-SUB AM N_Barbulescu AM IF INJURED AM
+SUB DM E_Davids DM IF INJURED DM
+SUB MF E_Davids MF IF INJURED MF
+SUB AM E_Davids AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB C_Sandulescu R_Giurgiu FW IF MIN = 45
-SUB E_Davids N_Barbulescu DM IF MIN = 55
-SUB I_Harte E_Banciu DF IF MIN = 75
+SUB C_Sandulescu N_Barbulescu DM IF MIN = 45
+SUB D_Iacobescu R_Giurgiu FW IF MIN = 65
+SUB I_Harte E_Banciu DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 71 SCORE >= 2
+TACTIC D IF MIN >= 56 SCORE >= 2
 
 SUB Ridoutkha E_Banciu DF IF SCORE <= -3
 SUB Ridoutkha E_Banciu DF IF SCORE >= 3
