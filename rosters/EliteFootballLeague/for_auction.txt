@@ -26,8 +26,6 @@ Forward08    30  slo 1  6  11 24 42 500 500 500 500
 Forward11    29  bos 2  9  8  24 32 400 400 400 400
 Forward13    27  can 1  5  7  25 21 300 300 300 300
 Defender19   30  ukr 2  25 8  9  21 400 400 400 400
-K_Agouda      31 isr  1 23  8  6 31 300   5 510 965
-Rooney        34 eng  2 14 23  6 34 300 693 333  53
 Keeper08     32  chi 26 4  2  3  21 300 300 300 300
 Defender01   30  nig 3  23 8  9  20 500 500 500 500
 Midfielder11 26  por 3  7  24 8  22 500 500 500 500
@@ -70,7 +68,6 @@ G_Machado     27 mex  1  8 23  8 11 800 161  23 192
 J_Vertonghen  26 bel  2 23 10  7 23 600 129 540 293
 Midfielder01 23  kor 1  7  22 7  31 300 300 300 300
 K_Aitken      33 sco  1  4  8 23 22 300 388  98 157
-Dave_Smith    25 sco  2 23  8  4 30 700 136  50 810
 A_Zico        35 bra  2  2 23  8 30 300 685 344 449
 J_Bates       29 eng  2 23  8  4 21 300 555 102 543
 L_Powell      35 eng  1  4 23  7 25 300 717  11 999
@@ -92,7 +89,6 @@ M_Marshall    37 eng 27  1  2  3 32  28 700 700 700
 N_Piere       21 fra  1  6 23  7 30 500 772 887  43
 K_De_Bruyne   31 bel  1 14 23 15 29 300 902  46 293
 P_Albert      33 fra  2 23 15  7 35 300 467 173   8
-B_Celina      22 nor  2  6 23 16 28 600 723 131 817
 J_Gregory     33 eng  2 23 12 11 32 300   4 988 959
 D_Ulululululu 36 nig  3 25  9  8 41 300 918 423 248
 Dillon        35 sco  1  7 23 18 27 300 359 736 462
@@ -109,8 +105,14 @@ L_Piszczek    32 pol  2 23 10  7 18 300  38 876 583
 P_Hunter      36 eng  1 27 12  9 32 300 680 115 163
 M_Materazzi   28 ita  1 23  8  4 23 300  62 442 841
 G_Zola        35 ita  1 15 23  8 31 300 578  39 507
-A_R_Essien    31 sco  1 23 20  1 23 300   2 132 536
 K_Oliver      31 eng  2  8 10 23 27 400 526 260  29
-S_Bender      29 ger  1  2 23  2 32 800 810 591 732
-V_Fuentes     22 usa  1  8 21  4 21 400 792 821 903
+P_Jones       30 eng  2 25 12  6 28 300  70  56 823
+M_Schneiderli 25 fra  1  6 14  5 40 300 686 312 831
+C_Berra       36 sco  2 32  6  6 32 300 440 869 916
 G_Loovens     29 hol  3 21  9  6 30 300  41 877  67
+Mariano       23 chi  2 23  7  6 11 300 408 680 567
+S_McEveley    36 eng  2 24 12  9 24 480 888 245 545
+S_Warwick     30 sco  2  8  8 25 24 300 950 874 143
+K_Huntelaar   35 hol  2 10  8 32 37 300 682 878 575
+D_Lehman      22 ger  3  9  7 24 33 700  91 235 813
+Gil           19 bra  3  6  8 23 12 500 852 964 292
