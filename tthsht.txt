@@ -1,34 +1,34 @@
 tth
-A
+P
 
 GK R_Ceni
 DF A_Wisdom
-DF L_Nyatanga
 DF W_Morgan
-DF S_Howey
-DF M_Twaddle
-DM M_James
-AM R_Pires
-AM T_Hurlock
-AM B_Celina
-FW Hugo_Sanchez
-
-GK J_Hunter
+DF E_Gabor
+DF T_Manniman
+DF D_McHale
 DF Doriva
-DM E_Gabor
-DM D_McHale
+DM C_McGregor
+MF M_James
+MF B_Celina
 FW L_Suarez
 
-PK: Hugo_Sanchez
+GK J_Hunter
+DF L_Nyatanga
+DF J_Fox
+FW R_Pires
+FW Hugo_Sanchez
+
+PK: L_Suarez
 AGG 20
 
-SUB 10 13 DF IF MIN = 50
-SUB 7 15 DM IF MIN = 55
-SUB 4 14 DM IF MIN = 65
-TACTIC P IF MIN >= 50 SCORE <= -2
-TACTIC P IF MIN >= 50 SCORE = -1
-TACTIC A IF SCORE = 0
+SUB 10 16 FW IF MIN = 45
+SUB 11 14 DM IF MIN = 50
+SUB 9 15 MF IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 51 SCORE >= 2
+TACTIC D IF MIN >= 63 SCORE >= 2
 SUB 2 13 DF IF SCORE <= -3
 SUB 2 13 DF IF SCORE >= 3
