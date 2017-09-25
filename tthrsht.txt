@@ -1,5 +1,5 @@
 tthr
-C
+E
 
 GK C_Turner
 DF I_Harte
@@ -14,19 +14,18 @@ MF D_Iacobescu
 FW C_Sandulescu
 
 GK C_Poenaru
-DF E_Banciu
-DM N_Barbulescu
-AM D_Dobrescu
-FW R_Giurgiu
+DM E_Banciu
+MF N_Barbulescu
+AM E_Davids
+AM R_Giurgiu
 
 PK: C_Sandulescu
 AGG 20
 
-SUB 3 13 DF IF MIN = 50
 SUB 11 16 FW IF MIN = 55
-SUB 10 14 MF IF MIN = 90
+SUB 4 14 DF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 31 SCORE = 1
-TACTIC D IF MIN >= 16 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 25 SCORE = 1
+TACTIC D IF MIN >= 13 SCORE >= 2
