@@ -1,32 +1,32 @@
 tth
-A
+E
 
 GK R_Ceni
-DF A_Wisdom
 DF S_Pearce
 DF W_Morgan
 DF M_Twaddle
-DF Doriva
+DM A_Wisdom
 DM E_Gabor
-DM D_McHale
-AM R_Pires
-AM T_Hurlock
+DM Doriva
+MF R_Pires
+MF M_James
+MF D_McHale
 FW Hugo_Sanchez
 
 GK J_Hunter
-DF S_Irwin
-DM C_McGregor
-AM B_Celina
+DM X_Alonso
+MF C_McGregor
+MF T_Hurlock
 FW L_Suarez
 
 PK: Hugo_Sanchez
 AGG 20
 
-SUB 10 15 AM IF MIN = 55
-SUB 7 14 DM IF MIN = 60
-SUB 11 16 FW IF MIN = 78
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 75 SCORE = 1
-TACTIC D IF MIN >= 37 SCORE >= 2
+SUB 9 15 MF IF MIN = 55
+SUB 3 13 DF IF MIN = 60
+SUB 11 16 FW IF MIN = 70
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 32 SCORE = 1
+TACTIC D IF MIN >= 16 SCORE >= 2
