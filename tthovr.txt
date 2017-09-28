@@ -181,7 +181,7 @@ FW Hugo_Sanchez
   STOPPING      48      48      48      48      48      48      48 
   TACKLING     107     212      67     134     262     100      93 
    PASSING     143     103     149     147      73     160     167 
-  SHOOTING      49      34      95      45      81      46      56 
+  SHOOTING      49      34      95      45      80      46      56 
    SH Mean      17      18      16      17      16      17      16 
  SH Median      18      23      18      23      18      18      13 
     SH Max      23      23      23      23      23      23      23 
@@ -369,7 +369,7 @@ NORMAL           41  33  32  31  34  31
 DEFENSIVE        41  32  33  36  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    10    16     0     9     4 
+                       Count     5    10    16     0    10     4 
                          Max    48    39    39    32    35    31 
                   1st XI (N)    48    30    33    32          31 
                   1st XI (P)    48    36    31    31          37 
@@ -378,7 +378,7 @@ DEFENSIVE        41  32  33  36  31  28
                          Min
                       NORMAL    27    21    20          21    21 
                    DEFENSIVE    27          33    20    19    18 
-                   ATTACKING    27    21    23          21    31 
+                   ATTACKING    27    21    23          21    24 
               COUNTER_ATTACK    27    21    20    29    21    24 
                    LONG_BALL    27                24          26 
                      PASSING    27    22                      22 
@@ -393,17 +393,18 @@ Defender09      27 24/10/ 9 | MF L :  47   3 :  50 |  18    5 ||  72 || DF -2 DF
 Defender13      30 25/ 8/ 8 | MF L :  47   3 :  50 |  18    4 ||  71 || DF -3 DF -1 DF  1 DF  1 MF  3 DF -2 DF  2       
 Defender08      28 25/ 7/ 8 | MF L :  46   2 :  49 |  14    5 ||  67 || DF -4 DF -2 DF  0 DF  1 MF  2 DF -2 DF  1       
 Defender03      27 24/ 7/ 8 | MF L :  45   1 :  46 |  13    5 ||  64 || DF -5 DF -3 DF -1 DF  0 MF  1 DF -3 DF  0       
-R_Sharp         26  6/10/24 | FW A :  43   0 :  43 |  16    5 ||  63 || FW -4 FW -3 FW  0 FW  0 AM  0 FW -2 FW -4       
 Forward07       27  8/10/25 | FW A :  44   2 :  46 |  13    5 ||  63 || FW -3 FW -1 FW  2 FW  1 AM  1 FW  0 FW -2       
+Forward08       27  5/10/25 | FW A :  44   2 :  46 |  13    5 ||  63 || FW -3 FW -2 FW  2 FW  1 AM  0 FW -1 FW -4       
 Keeper04        26    27    | GK N :  41   0 :  41 |  14    6 ||  60 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 Coloccini       33 23/11/11 | MF L :  47   3 :  50 |   8    2 ||  60 || DF -2 DF -1 DF  2 DF  2 MF  3 DF -2 DM  0       
 Defender05      29 24/10/ 6 | MF L :  45   1 :  46 |   7    4 ||  57 || DF -3 DF -2 DF  0 DF  0 MF  1 DF -3 DF  1       
 Defender25      29 23/ 8/10 | MF L :  45   1 :  46 |   7    4 ||  57 || DF -4 DF -3 DF  0 DF  0 MF  1 DF -3 DF -1       
 T_Grant         29 24/ 9/ 7 | MF L :  45   1 :  46 |   7    4 ||  57 || DF -4 DF -2 DF  0 DF  0 MF  1 DF -3 DF  1       
 Forward06       28  6/ 8/25 | FW A :  43   0 :  43 |   8    4 ||  55 || FW -5 FW -3 FW  0 FW  0 AM  0 FW -1 FW -4       
-N_Burdisso      35 27/ 8/ 7 | MF L :  49   5 :  54 |  -4    1 ||  52 || DF -1 DF  0 DF  2 DF  3 MF  5 DF  0 DF  4       
+Defender19      33 25/ 7/ 7 | MF L :  46   2 :  47 |   5    2 ||  54 || DF -4 DF -2 DF  0 DF  1 MF  2 DF -3 DF  1       
 Forward04       26  8/ 6/25 | FW L :  36   0 :  36 |   9    5 ||  49 || FW -6 FW -3 FW -1 FW  0 FW  0 FW -1 FW -3       
 P_Coutinho      26  7/24/15 | MF A :  35   0 :  36 |   9    5 ||  49 || MF  0 MF -1 MF  0 MF  0 DM -2 MF -1 AM -3       
+Moreto          21 17/22/ 8 | DM C :  33   1 :  35 |   3    8 ||  45 || DM  1 DM  1 DF  0 DM -1 DM  1 DM  1 DM  0     r 
 A_Johnson       33  6/24/17 | AM A :  41   2 :  43 |   1    2 ||  45 || MF  0 AM  0 AM  2 MF  0 AM -1 MF  0 AM -3       
 D_Prentice      35 23/14/ 9 | MF L :  47   3 :  51 |  -7    1 ||  45 || DF  0 DF  0 DF  2 DF  2 MF  3 DF -1 DM  2       
 L_Dixon         20 23/ 7/ 9 | DF L :  30   0 :  30 |   5    9 ||  44 || DF -5 DF -4 DF -1 DF  0 DF  0 DF -4 DF -1       
@@ -418,8 +419,10 @@ Mo_Diame        26 13/24/ 7 | DM P :  30   0 :  30 |   3    5 ||  38 || DM  0 MF
 Defender20      30 25/ 5/ 6 | DF D :  33   1 :  33 |   2    4 ||  38 || DF -6 DF -3 DF -2 DF  0 DF  1 DF -4 DF  1       
 J_Jurado        34 15/26/ 7 | DM C :  35   3 :  38 |  -1    1 ||  38 || DM  3 DM  3 DM  1 DM  2 DM  0 DM  3 MF  1       
 J_P_Veron       28  9/23/15 | MF A :  34  -1 :  34 |  -1    4 ||  37 || MF -1 MF -1 MF -1 MF -1 DM -1 MF -1 AM -3       
+Daley_Blind     24 23/ 9/ 7 | DF L :  30   0 :  30 |  -1    7 ||  36 || DF -5 DF -3 DF -1 DF -1 DF  0 DF -4 DF -1       
 Keeper02        26    23    | GK N :  35  -6 :  29 |   2    6 ||  36 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
 Midfielder10    29 17/23/ 7 | DM C :  34   2 :  36 |  -3    4 ||  36 || DM  2 DM  2 DF  0 DM  0 DM  1 DM  1 DM  1       
+Chidozie        20 22/ 7/ 6 | DF L :  28  -2 :  26 |   1    9 ||  35 || DF -7 DF -5 DF -4 DF -3 DF -2 DF -6 DF -2     r 
 Midfielder18    26  6/25/11 | MF P :  29  -1 :  29 |   2    5 ||  35 || MF -1 MF -2 MF -2 MF -1 DM -5 MF -1 AM -5       
 R_Lewandowski   35  9/ 8/26 | FW A :  44   2 :  46 | -12    1 ||  35 || FW -3 FW  0 FW  2 FW  1 FW  2 FW  1 FW -1       
 Sansao          35  8/ 8/26 | FW A :  44   2 :  46 | -12    1 ||  35 || FW -3 FW -1 FW  2 FW  1 FW  1 FW  0 FW -2       
@@ -427,6 +430,8 @@ P_Bourdin       24 23/ 7/ 2 | DF D :  31  -1 :  29 |  -1    7 ||  34 || DF -8 DF
 Midfielder08    33  7/25/15 | MF A :  36   1 :  38 |  -5    2 ||  34 || MF  1 MF  0 MF  1 MF  1 DM -2 MF  0 AM -3       
 Forward05       26  8/12/23 | FW E :  27   0 :  27 |   0    5 ||  33 || FW -3 FW -2 FW  0 FW  0 AM  0 FW -1 FW -3       
 S_R_Ramos       25 13/23/ 7 | DM P :  29  -1 :  28 |  -1    6 ||  32 || DM -1 DM -1 DM -3 DM -3 DM -2 DM -1 DM -3       
+A_Anyukov       32  9/ 4/25 | FW L :  36  -1 :  35 |  -5    2 ||  32 || FW -7 FW -3 FW -2 FW -1 FW -1 FW -2 FW -3       
+S_Garcia        28 23/ 8/ 4 | DF D :  31  -1 :  30 |  -5    5 ||  30 || DF -6 DF -4 DF -3 DF -2 DF -1 DF -5 DF -1       
 E_Lamela        23  8/24/ 9 | MF P :  28  -2 :  27 |  -4    7 ||  29 || MF -2 MF -2 DM -3 MF -2 DM -5 MF -2 AM -6       
 S_Cazorla       20  8/23/ 5 | MF P :  26  -4 :  23 |  -3    8 ||  28 || MF -4 MF -4 DM -6 MF -5 DM -7 MF -4 AM -8       
 R_Voller        26  6/23/12 | MF P :  28  -2 :  25 |  -2    5 ||  28 || MF -2 MF -3 MF -3 MF -3 DM -5 MF -3 AM -6       
@@ -435,6 +440,7 @@ Paul_van_Dyk    30 23/ 7/ 6 | DF L :  29  -1 :  28 |  -3    4 ||  28 || DF -6 DF
 D_Solga         24  9/23/10 | MF P :  28  -2 :  26 |  -5    6 ||  26 || MF -2 MF -2 DM -3 MF -3 DM -4 MF -2 AM -5       
 S_Radacanu      20  5/ 5/23 | FW E :  24  -3 :  20 |  -5    8 ||  24 || FW -9 FW -7 FW -5 FW -3 AM -4 FW -4 FW -6       
 R_Keen          23  5/23/11 | MF P :  27  -3 :  24 |  -7    7 ||  24 || MF -3 MF -4 MF -4 MF -4 DM -6 MF -3 AM -7       
+J_Redknapp      25  7/23/ 9 | MF P :  27  -3 :  24 |  -6    6 ||  24 || MF -3 MF -4 DM -5 MF -4 DM -6 MF -3 AM -7       
 M_Fernandes     25  6/ 9/23 | FW E :  26  -1 :  24 |  -6    6 ||  24 || FW -6 FW -4 FW -2 FW -1 AM -2 FW -3 FW -5       
 Defender18      29 23/ 8/ 5 | DF D :  31  -1 :  30 | -10    4 ||  24 || DF -6 DF -4 DF -3 DF -2 DF -1 DF -5 DF -1       
 Ademilson       31  9/ 2/24 | FW L :  34  -3 :  31 | -10    3 ||  24 || FW -9 FW -5 FW -5 FW -3 FW -3 FW -3 FW -4       
@@ -442,12 +448,15 @@ J_Lewis         23  7/23/ 8 | MF P :  27  -3 :  24 |  -7    7 ||  23 || MF -3 MF
 Defender10      25 21/11/ 8 | DM L :  24  -1 :  23 |  -6    6 ||  23 || DF -5 DF -4 DF -2 DF -1 DM -1 DF -4 DM -2     r 
 DJ_Hart         26  6/ 7/23 | FW E :  25  -2 :  22 |  -4    5 ||  23 || FW -7 FW -5 FW -3 FW -2 AM -3 FW -4 FW -5       
 Brandon_Statz   37    27    | GK N :  41   0 :  41 | -18    1 ||  23 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+Pato            22  7/ 7/23 | FW E :  25  -2 :  23 |  -8    7 ||  22 || FW -7 FW -5 FW -3 FW -2 AM -2 FW -3 FW -5       
 Robertinho      25  5/24/ 5 | MF P :  27  -3 :  23 |  -7    6 ||  22 || MF -3 MF -5 DM -7 MF -5 DM -9 MF -4 AM-10       
+J_Wurtz         30  9/ 8/23 | AM L :  27  -1 :  25 |  -6    3 ||  22 || FW -6 FW -3 FW -3 FW -1 AM -1 FW -2 FW -4       
 Midfielder11    30  8/24/ 7 | MF P :  28  -2 :  26 |  -6    3 ||  22 || MF -2 MF -3 DM -4 MF -3 DM -6 MF -3 AM -7       
 Sandro          30  9/23/ 9 | MF P :  28  -2 :  25 |  -7    3 ||  21 || MF -2 MF -3 DM -4 MF -3 DM -4 MF -3 AM -6       
 Forward02       29 10/ 8/24 | AM L :  28   0 :  28 | -12    4 ||  20 || FW -5 FW -2 FW -1 FW  0 AM  0 FW -1 FW -2       
 D_Holland       34  5/22/13 | MF A :  32  -3 :  29 | -10    1 ||  19 || MF -3 MF -5 MF -3 MF -4 DM -6 MF -4 AM -7     r 
 Midfielder16    29  7/24/11 | MF P :  29  -1 :  27 | -12    4 ||  18 || MF -1 MF -2 MF -3 MF -2 DM -4 MF -2 AM -5       
+Cabaye          29  8/23/11 | MF P :  28  -2 :  26 | -14    4 ||  15 || MF -2 MF -3 DM -3 MF -3 DM -4 MF -2 AM -5       
 Midfielder14    29  7/24/ 7 | MF P :  28  -2 :  25 | -14    4 ||  14 || MF -2 MF -3 DM -5 MF -4 DM -6 MF -3 AM -7       
 D_Hasdeu        18  7/14/10 | DM L :  16  -9 :   7 |  -3    9 ||  13 || MF-12 MF-12 DM-12 FW-11 DM -9 MF-12 AM-12     r 
 Jimmy_Gee       21 19/ 8/ 8 | DM L :  21  -3 :  18 | -13    8 ||  13 || DF -9 DF -7 DF -5 DF -4 DM -3 DF -8 DF -6     r 
@@ -576,14 +585,14 @@ SUB MF M_James MF IF INJURED MF
 SUB AM M_James AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB S_Pearce M_James MF IF MIN = 45
+SUB S_Pearce M_James DF IF MIN = 45
 SUB R_Sharp Hugo_Sanchez FW IF MIN = 50
-SUB W_Morgan X_Alonso DF IF MIN = 55
+SUB M_Twaddle X_Alonso DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 85 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 60 SCORE >= 2
 
 
 Forced:I_Muresanu/C_Sandulescu/
@@ -653,8 +662,8 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB C_Sandulescu R_Giurgiu FW IF MIN = 55
-SUB I_Muresanu D_Alecsandri DF IF MIN = 65
+SUB C_Sandulescu R_Giurgiu FW IF MIN = 45
+SUB I_Muresanu D_Alecsandri DF IF MIN = 60
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
