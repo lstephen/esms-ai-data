@@ -32,7 +32,6 @@ Defender13   30  sco 2  25 8  8  31 500 500 500 500
 Defender14   27  per 1  25 12 7  32 300 300 300 300
 Keeper02     26  isr 23 3  3  1  22 300 300 300 300
 Keeper03     30  lat 25 2  3  3  23 700 700 700 700
-Keeper03     20  srb 20 3  1  3  12 400 400 400 400
 P_Bourdin     24 fra  1 23  7  2 12 600  77 436 876
 J_P_Veron     28 arg  1  9 23 15 11 800  82 951  29
 Midfielder04 30  mex 2  7  25 10 31 700 700 700 700
@@ -78,11 +77,12 @@ E_Knave       20 ger  3  7 23 10 21 700 926 381 207
 Forward08    25  uga 2  9  10 19 23 400 400 400 400
 Imbula        22 fra  1  9 24 16 20 400 730 340  92
 S_Radacanu    20 rom  3  5  5 23 22 600 926 118 335
-Colocini      24 arg  3 22 10  6 21 400 889 553 994
-R_Castias     35 por  2  9 27  9 29 300 217 787 817
 E_Lamela      23 arg  1  8 24  9 32 700 337  73 944
 C_Bellamy     23 wal  2  6  8 25 33 400 748 542 394
 Sansao        35 ger  1  8  8 26 23 300 465 841 655
-F_Voiculescu  16 rom  1 11 13  6 41 300 398 398 385
-E_Plummer     23 eng  1 23 11 11 22 800 117 389 102
 Daniel_Agger  24 den  2 23  7  6 31 300 600 133 838
+F_Voiculescu  16 rom  1 11 13  6 41 300 398 398 385
+Colocini      24 arg  3 22 10  6 21 400 889 553 994
+Keeper03     20  srb 20 3  1  3  12 400 400 400 400
+K_Coulibaly   28 mal  1  4 23 15 12 500 780  38 566
+J_Hart        35 eng 28  2  2  7 14 730 600 600 600
