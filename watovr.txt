@@ -7,13 +7,13 @@ D_Carrico       28 18/ 8/ 4 | MF L :  34   8 :  41 |  15  0.9   1 ||  58 || DF  
 E_Konoplyanka   26  5/19/11 | MF E :  29   6 :  36 |   8  1.5   3 ||  48 || MF  5 DM  3 MF  6 MF  5 MF  5 DM -1 AM  1       
 J_Lukaku        22 16/ 8/ 4 | MF L :  31   5 :  35 |   2  1.7   7 ||  46 || DF  0 DF  2 DF  1 DF  0 DF  0 MF  5 DM  0       
 M_Vydra         24  6/12/17 | FW A :  33   0 :  33 |   4  0.3   5 ||  42 || FW  0 FW  0 AM  0 FW  0 AM  0 FW  0 AM  0       
-G_Tamas         33 13/12/ 5 | MF L :  29   3 :  31 |  10  1.0  -1 ||  42 || DF  0 DF  1 DF  0 DM  0 DM  0 MF  3 MF  0       
+G_Tamas         33 13/12/ 5 | MF L :  29   3 :  31 |  10  0.9  -1 ||  42 || DF  0 DF  1 DF  0 DM  0 DM  0 MF  3 MF  0       
 C_Stewart       20 10/18/ 2 | MF C :  24   4 :  27 |   5  0.6   7 ||  40 || MF  3 DM  0 DM  3 MF  4 MF  3 DF  0 MF  1       
 S_Bassong       30 18/13/ 3 | MF L :  35   9 :  45 |  -5  0.8  -1 ||  40 || DF  5 DF  6 DF  4 DF  4 DF  4 MF  9 DM  5       
 M_Sportiello    24    19    | GK N :  29   0 :  29 |  -1  1.3   5 ||  34 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 S_Murray        23 10/17/10 | MF C :  25   5 :  29 |  -4  0.7   6 ||  32 || MF  4 DM  3 MF  4 MF  5 MF  4 MF  4 AM  2  S    
 A_Kuhl          20 10/15/ 5 | MF C :  21   2 :  23 |   0  1.5   7 ||  31 || MF  0 DF  0 DM  0 MF  2 DM  1 DF  0 MF -1       
-J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.0   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
+J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.1   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 G_Byers         20  8/13/ 7 | MF C :  19  -1 :  18 |  -5  0.9   7 ||  21 || MF -2 DF -2 MF -2 MF -1 MF -1 DF -2 AM -3       
 V_Anita         27 10/15/ 4 | MF C :  21   1 :  22 |  -7  1.0   2 ||  18 || DM  0 DF -1 DM  0 MF  1 DM  0 DF  0 MF -1       
 H_Arter         26 11/13/ 2 | DF L :  16   0 :  16 | -12  0.7   3 ||   8 || DM -1 DF -2 DM -2 MF -1 DM -1 DF  0 MF -2       
@@ -238,7 +238,7 @@ I_Akinfeev      30    28    | GK N :  42  14 :  56 |   5  0.9  -1 ||  61 || GK 1
 D_Carrico       28 18/ 8/ 4 | MF L :  34   8 :  41 |  15  0.9   1 ||  58 || DF  2 DF  4 DF  3 DF  2 DF  2 MF  8 DF  3       
 E_Konoplyanka   26  5/19/11 | MF E :  29   6 :  36 |   8  1.5   3 ||  48 || MF  5 DM  3 MF  6 MF  5 MF  5 DM -1 AM  1       
 J_Lukaku        22 16/ 8/ 4 | MF L :  31   5 :  35 |   2  1.7   7 ||  46 || DF  0 DF  2 DF  1 DF  0 DF  0 MF  5 DM  0       
-G_Tamas         33 13/12/ 5 | MF L :  29   3 :  31 |  10  1.0  -1 ||  42 || DF  0 DF  1 DF  0 DM  0 DM  0 MF  3 MF  0       
+G_Tamas         33 13/12/ 5 | MF L :  29   3 :  31 |  10  0.9  -1 ||  42 || DF  0 DF  1 DF  0 DM  0 DM  0 MF  3 MF  0       
 C_Stewart       20 10/18/ 2 | MF C :  24   4 :  27 |   5  0.6   7 ||  40 || MF  3 DM  0 DM  3 MF  4 MF  3 DF  0 MF  1       
 S_Bassong       30 18/13/ 3 | MF L :  35   9 :  45 |  -5  0.8  -1 ||  40 || DF  5 DF  6 DF  4 DF  4 DF  4 MF  9 DM  5       
 S_Murray        23 10/17/10 | MF C :  25   5 :  29 |  -4  0.7   6 ||  32 || MF  4 DM  3 MF  4 MF  5 MF  4 MF  4 AM  2  S    
@@ -249,7 +249,7 @@ V_Anita         27 10/15/ 4 | MF C :  21   1 :  22 |  -7  1.0   2 ||  18 || DM  
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 M_Vydra         24  6/12/17 | FW A :  33   0 :  33 |   4  0.3   5 ||  42 || FW  0 FW  0 AM  0 FW  0 AM  0 FW  0 AM  0       
 M_Sportiello    24    19    | GK N :  29   0 :  29 |  -1  1.3   5 ||  34 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.0   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
+J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.1   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 G_Byers         20  8/13/ 7 | MF C :  19  -1 :  18 |  -5  0.9   7 ||  21 || MF -2 DF -2 MF -2 MF -1 MF -1 DF -2 AM -3       
 H_Arter         26 11/13/ 2 | DF L :  16   0 :  16 | -12  0.7   3 ||   8 || DM -1 DF -2 DM -2 MF -1 DM -1 DF  0 MF -2       
 D_Dervite       28 11/ 7/ 5 | DF L :  16  -1 :  15 | -11  1.3   1 ||   6 || DF -5 DF -3 DF -3 DF -5 DF -5 DF -1 MF -6       
@@ -260,7 +260,7 @@ D_Jones         32  8/11/ 5 | DF L :  13  -3 :  10 |  -7  0.4  -1 ||   2 || MF -
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 M_Vydra         24  6/12/17 | FW A :  33   0 :  33 |   4  0.3   5 ||  42 || FW  0 FW  0 AM  0 FW  0 AM  0 FW  0 AM  0       
 M_Sportiello    24    19    | GK N :  29   0 :  29 |  -1  1.3   5 ||  34 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.0   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
+J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.1   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 G_Byers         20  8/13/ 7 | MF C :  19  -1 :  18 |  -5  0.9   7 ||  21 || MF -2 DF -2 MF -2 MF -1 MF -1 DF -2 AM -3       
 H_Arter         26 11/13/ 2 | DF L :  16   0 :  16 | -12  0.7   3 ||   8 || DM -1 DF -2 DM -2 MF -1 DM -1 DF  0 MF -2       
 D_Dervite       28 11/ 7/ 5 | DF L :  16  -1 :  15 | -11  1.3   1 ||   6 || DF -5 DF -3 DF -3 DF -5 DF -5 DF -1 MF -6       
@@ -281,7 +281,7 @@ LONG_BALL        29  17  18  26  22  27
 DEFENSIVE        29  22  23  23  20  19 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     3     5     9     0     4     1 
+                       Count     3     5     8     0     5     1 
                          Max    42    26    27    27    30    27 
                   1st XI (N)    42    21    21    24          27 
                   1st XI (P)    42    24    20    23          32 
@@ -292,7 +292,7 @@ DEFENSIVE        29  22  23  23  20  19
               COUNTER_ATTACK    27    16    15    24    19    26 
                    LONG_BALL    27                18          17 
                      PASSING    27    16                      20 
-                    EUROPEAN    27          16    17    21       
+                    EUROPEAN    27          16    18    21       
 
 ** /for_sale.txt **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
@@ -425,81 +425,78 @@ R_Jimenez       26  7/ 9/18 | FW L :  27   1 :  28 |   1  0.5   3 ||  33 || FW -
 V_Aboubakar     25  5/ 9/18 | FW L :  27   0 :  27 |  -5  0.5   4 ||  27 || FW -1 FW  0 FW -1 FW -1 FW  0 FW  0 FW  0       
 J_Castro        23 17/ 6/ 3 | DF L :  21   5 :  26 |  -7  0.5   6 ||  25 || DF -1 DF  1 DF  1 DF  0 DF  0 DF  5 DF  1       
 
-Forced:A_Morata/M_Vydra/G_Tamas/
+Forced:Fabio/A_Morata/M_M_Daehli/D_Carrico/E_Konoplyanka/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 I_Akinfeev      30    28    | GK N :  42  14 :  56 |   5  0.9  -1 ||  61 || GK 14 GK 14 GK 14 GK 14 GK 14 GK 14 GK 14       
-A_Morata        24  5/11/22 | FW A :  40   7 :  47 |  17  0.5   5 ||  70 || FW  4 FW  7 FW  4 FW  4 FW  4 FW  6 FW  3       
+Fabio           26 18/13/ 6 | MF L :  37  11 :  49 |  21  1.8   3 ||  75 || DF  6 DF  7 DF  5 DF  5 DF  5 MF 11 MF  6       
 S_Bassong       30 18/13/ 3 | MF L :  35   9 :  45 |  -5  0.8  -1 ||  40 || DF  5 DF  6 DF  4 DF  4 DF  4 MF  9 DM  5       
+D_Carrico       28 18/ 8/ 4 | MF L :  34   8 :  41 |  15  0.9   1 ||  58 || DF  2 DF  4 DF  3 DF  2 DF  2 MF  8 DF  3       
+A_Morata        24  5/11/22 | FW A :  40   7 :  47 |  17  0.5   5 ||  70 || FW  4 FW  7 FW  4 FW  4 FW  4 FW  6 FW  3       
+J_Lukaku        22 16/ 8/ 4 | MF L :  31   5 :  35 |   2  1.7   7 ||  46 || DF  0 DF  2 DF  1 DF  0 DF  0 MF  5 DM  0       
+M_M_Daehli      21  7/21/14 | MF E :  34  10 :  44 |  15  0.7   7 ||  66 || MF  8 DM  7 MF 10 MF  8 MF  8 MF  4 AM  5       
+G_Tamas         33 13/12/ 5 | MF L :  29   3 :  31 |  10  0.9  -1 ||  42 || DF  0 DF  1 DF  0 DM  0 DM  0 MF  3 MF  0       
 M_Sportiello    24    19    | GK N :  29   0 :  29 |  -1  1.3   5 ||  34 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.1   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 M_Vydra         24  6/12/17 | FW A :  33   0 :  33 |   4  0.3   5 ||  42 || FW  0 FW  0 AM  0 FW  0 AM  0 FW  0 AM  0       
-J_Bond          23    18    | GK N :  27  -1 :  26 |  -8  0.0   6 ||  24 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
-Fabio           26 16/11/ 5 | MF L :  33   6 :  39 |  12  1.8   3 ||  56 || DF  3 DF  3 DF  2 DF  2 DF  2 MF  6 MF  2       
-E_Konoplyanka   26  5/18/11 | MF E :  29   5 :  34 |   6  1.5   3 ||  45 || MF  4 DM  2 MF  5 MF  4 MF  4 DM -1 AM  0       
-M_M_Daehli      21  5/16/11 | MF E :  26   3 :  29 |   0  0.7   7 ||  37 || MF  2 DM  1 MF  3 MF  2 MF  2 DM -2 AM -1       
-G_Tamas         33 13/12/ 5 | MF L :  29   3 :  31 |  10  1.0  -1 ||  42 || DF  0 DF  1 DF  0 DM  0 DM  0 MF  3 MF  0       
-D_Carrico       28 17/ 7/ 4 | MF L :  31   5 :  36 |  10  0.9   1 ||  47 || DF  0 DF  2 DF  1 DF  0 DF  0 MF  5 DF  1       
 A_Kuhl          20 10/15/ 5 | MF C :  21   2 :  23 |   0  1.5   7 ||  31 || MF  0 DF  0 DM  0 MF  2 DM  1 DF  0 MF -1       
-C_Stewart       20  9/17/ 2 | MF C :  22   2 :  24 |   2  0.6   7 ||  34 || MF  1 DM -1 DM  1 MF  2 MF  1 DF -1 MF -1       
-J_Lukaku        22 16/ 8/ 4 | DF L :  20   4 :  24 |  -9  1.1   7 ||  23 || DF -1 DF  1 DF  1 DF -1 DF -1 DF  4 DF -1       
-V_Anita         27 10/15/ 4 | MF C :  20   1 :  21 |  -9  1.0   2 ||  15 || MF -1 DF -2 DM -1 MF  1 MF  0 DF -1 MF -2       
+C_Stewart       20 10/18/ 2 | MF C :  24   4 :  27 |   5  0.6   7 ||  40 || MF  3 DM  0 DM  3 MF  4 MF  3 DF  0 MF  1       
+V_Anita         27 10/15/ 4 | MF C :  21   1 :  22 |  -7  1.0   2 ||  18 || DM  0 DF -1 DM  0 MF  1 DM  0 DF  0 MF -1       
 H_Arter         26 11/13/ 2 | DF L :  16   0 :  16 | -12  0.7   3 ||   8 || DM -1 DF -2 DM -2 MF -1 DM -1 DF  0 MF -2       
-V_Moses         25  2/13/10 | MF N :  17  -2 :  14 | -18  1.1   4 ||   2 || MF -2 MF -4 MF -3 MF -3 MF -2 DM -6 AM -5       
-G_Byers         20  8/13/ 7 | MF C :  19  -1 :  18 |  -5  0.9   7 ||  21 || MF -2 DF -2 MF -2 MF -1 MF -1 DF -2 AM -3       
+E_Konoplyanka   26  5/19/11 | MF E :  29   6 :  36 |   8  1.5   3 ||  48 || MF  5 DM  3 MF  6 MF  5 MF  5 DM -1 AM  1       
 D_Dervite       28 11/ 7/ 5 | DF L :  16  -1 :  15 | -11  1.3   1 ||   6 || DF -5 DF -3 DF -3 DF -5 DF -5 DF -1 MF -6       
+G_Byers         20  8/13/ 7 | MF C :  19  -1 :  18 |  -5  0.9   7 ||  21 || MF -2 DF -2 MF -2 MF -1 MF -1 DF -2 AM -3       
 D_Jones         32  8/11/ 5 | DF L :  13  -3 :  10 |  -7  0.4  -1 ||   2 || MF -4 DF -4 DF -5 MF -3 MF -4 DF -3 AM -5       
 G_Munari        33  7/11/ 3 | MF C :  15  -4 :  11 | -10  0.8  -1 ||   0 || MF -5 DF -6 DM -6 MF -4 MF -5 DF -5 AM -7       
+V_Moses         25  2/13/10 | MF N :  17  -2 :  14 | -18  1.1   4 ||   2 || MF -2 MF -4 MF -3 MF -3 MF -2 DM -6 AM -5       
 
-PASSING
+LONG_BALL
 GK I_Akinfeev
-DF Fabio
 DF D_Carrico
-DF S_Bassong
+DF J_Lukaku
 DF G_Tamas
-DF A_Kuhl
-DM C_Stewart
+MF Fabio
+MF S_Bassong
 MF M_M_Daehli
 MF E_Konoplyanka
+MF C_Stewart
+MF M_Vydra
 FW A_Morata
-FW M_Vydra
                  N       D       A       C       L       P       E 
   STOPPING      42      42      42      42      42      42      42 
-  TACKLING      86     118      78      91     106      85      78 
-   PASSING      86      58      94      90      45     110      87 
-  SHOOTING      53      35      87      50      73      51      53 
+  TACKLING      68     125      47      82     149      64      59 
+   PASSING     113      82     117     116      58     125     133 
+  SHOOTING      42      30      79      39      68      39      46 
    SH Mean      17      18      16      17      16      17      16 
- SH Median      17      17      17      17      17      17      17 
+ SH Median      22      22      17      22      17      22      17 
     SH Max      22      22      22      22      22      22      22 
-  SH Bonus      17      11      20      17      12      19      18 
+  SH Bonus      23      14      25      21      11      24      23 
    GK Qual      28      28      28      28      28      28      28 
-  GK Bonus      26      20      30      26      21      29      28 
-       Agg      20      20      20      20      20      20      20 
-   Scoring      75      50      92      77      54      91      76 
- Defending      86     118      78      91     106      85      78 
-   Overall     203     179     219     209     181     223     199 
+  GK Bonus      33      21      45      29      20      35      39 
+       Agg      21      21      21      21      21      21      21 
+   Scoring      89      64     105      90      61      97     104 
+ Defending      68     125      47      82     149      64      59 
+   Overall     210     210     189     222     214     213     209 
 
 GK M_Sportiello
-DF J_Lukaku
-DF V_Anita
-DF G_Byers
+GK J_Bond
+MF A_Kuhl
+MF V_Anita
 FW V_Moses
 
 SUB GK M_Sportiello GK IF INJURED GK
-SUB DF J_Lukaku DF IF INJURED DF
-SUB DM V_Anita DM IF INJURED DM
-SUB MF V_Anita MF IF INJURED MF
-SUB AM V_Anita AM IF INJURED AM
+SUB DF A_Kuhl DF IF INJURED DF
+SUB DM A_Kuhl DM IF INJURED DM
+SUB MF A_Kuhl MF IF INJURED MF
+SUB AM A_Kuhl AM IF INJURED AM
 SUB FW V_Moses FW IF INJURED FW
 
-SUB D_Carrico J_Lukaku DF IF MIN = 50
-SUB M_Vydra G_Byers DM IF MIN = 65
-SUB A_Kuhl V_Anita DF IF MIN = 75
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
+SUB E_Konoplyanka A_Kuhl MF IF MIN = 50
+SUB M_Vydra V_Anita MF IF MIN = 55
+TACTIC E IF MIN >= 6 SCORE <= -2
+TACTIC E IF MIN >= 11 SCORE = -1
+TACTIC L IF SCORE = 0
+TACTIC L IF SCORE = 1
+TACTIC L IF SCORE >= 2
 
-SUB M_M_Daehli V_Anita MF IF SCORE <= -3
-SUB M_M_Daehli V_Anita MF IF SCORE >= 3
 
