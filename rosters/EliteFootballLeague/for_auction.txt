@@ -1,5 +1,5 @@
+Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
 Keeper03     26  nor 24 3  3  1  30 400 400 400 400
-Defender10   25  ukr 2  21 11 8  32 400 400 400 400
 Defender11   30  tur 3  26 9  9  40 300 300 300 300
 Midfielder05 30  slo 1  7  24 15 22 400 400 400 400
 Sandro        30 fra  2  9 23  9 47 300 504  32 139
@@ -19,7 +19,6 @@ Midfielder18 26  ita 3  6  25 11 11 800 800 800 800
 R_Keen        23 eng  2  5 23 11 31 300 566   6 455
 Midfielder12 29  pol 1  4  24 7  43 700 700 700 700
 D_Prentice    35 den  1 23 14  9 23 300   7 643 270
-D_Holland     34 fra  1  5 22 13 20 300 200 986 653
 Defender25   29  fin 2  23 8  10 42 400 400 400 400
 Forward02    29  hol 3  10 8  24 40 400 400 400 400
 S_Aguero      35 arg  2  9  8 25 20 300 632 642 619
@@ -79,17 +78,23 @@ P_Bonner      34 ire 27  1  3  3 21 149 400 400 400
 Imbula        22 fra  1  9 24 16 20 400 730 340  92
 K_Coulibaly   28 mal  1  4 23 15 12 500 780  38 566
 S_Aguero      35 arg  2  9  8 25 20 300 632 652 646
-D_Weir        27 sco  3 22  5  5 12 400 901 790 565
 H_Schumacher  36 ger 32  4  7  7 11 500 500 500 500
 Midfielder04 23  col 1  10 22 7  42 300 300 300 300
 S_Walsh       22 eng  2 23  8  5 32 300 247 615 452
 Ewandro       35 bra  2 10  5 24 14 700 385 999 775
 J_Cruyff      20 hol  2  9 23 16 21 600 946 288 627
-Defender07   28  den 3  26 8  9  22 500 500 500 500
 Keeper04     35  srb 34 2  7  3  10 300 300 300 300
 A_Smorin      19 rus  1  7  7 19 32 300 300 300 300
 A_Johnson     33 eng  2  6 24 17 27 300 175 629 776
 E_Knave       20 ger  3  7 23 10 21 700 926 381 207
 J_Denayer     25 bel  3 23  8  9 40 400  13 281 814
-S_Berghuis    22 hol  2  4 23 16 20 600 703 138 423
 G_Chiellini   23 ita  2  9 23  7 41 700 338 113 896
+K_Aitken      34 sco  1  4  8 23 22 300 388  98 157
+Kike          26 spa  2  7 10 23 31 600  49 402  52
+J_Mata        27 spa  1 10 23  7 20 700 391 282 583
+J_Lewis       23 eng  3  7 23  8 20 300 710   3 151
+P_Di_Canio    31 ita  1  9  5 24 32 300   3 786 626
+T_Purcell     24 ire  3 12 23  6 22 300 253   1 867
+A_Costacurta  23 ita  2 23  7  9 41 300  38 965 157
+D_Holland     34 fra  1  5 22 13 20 300 200 986 653
+Pato          22 swi  2  7  7 23 11 500 574 865 164
