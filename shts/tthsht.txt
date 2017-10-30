@@ -1,34 +1,34 @@
 tth
-D
+A
 
 GK R_Ceni
 DF A_Wisdom
+DF X_Alonso
+DF W_Morgan
 DF E_Plummer
-DF S_Howey
-MF R_Pires
-MF E_Gabor
-MF M_James
-MF D_McHale
-MF B_Celina
-MF Hugo_Sanchez
+DF M_Twaddle
+DM T_Manniman
+AM T_Hurlock
+AM B_Celina
 FW R_Sharp
+FW Hugo_Sanchez
 
 GK C_Poenaru
-MF M_Twaddle
-MF C_McGregor
-MF T_Hurlock
+DM C_McGregor
+DM D_McHale
+AM R_Pires
 FW L_Suarez
 
 PK: R_Sharp
 AGG 20
 
-SUB 10 13 MF IF MIN = 45
-SUB 11 16 FW IF MIN = 55
-SUB 9 15 MF IF MIN = 60
-TACTIC E IF MIN >= 3 SCORE <= -2
-TACTIC C IF SCORE = -1
-TACTIC D IF SCORE = 0
-TACTIC L IF SCORE = 1
-TACTIC L IF SCORE >= 2
-SUB 6 14 MF IF SCORE <= -3
-SUB 6 14 MF IF SCORE >= 3
+SUB 10 15 AM IF MIN = 45
+SUB 7 14 DM IF MIN = 60
+SUB 9 13 DM IF MIN = 65
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
+SUB 2 14 DF IF SCORE <= -3
+SUB 2 14 DF IF SCORE >= 3
