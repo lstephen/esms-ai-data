@@ -13,8 +13,8 @@ MF M_Oezil
 MF J_Cadette
 FW D_Iacobescu
 
-MF E_Banciu
 MF D_Alecsandri
+MF E_Banciu
 MF J_Milburn
 MF N_Barbulescu
 AM R_Giurgiu
@@ -22,9 +22,9 @@ AM R_Giurgiu
 PK: D_Iacobescu
 AGG 20
 
+SUB 11 16 FW IF MIN = 55
 SUB 9 14 MF IF MIN = 60
-SUB 11 16 FW IF MIN = 65
-SUB 4 12 DF IF MIN = 90
+SUB 4 13 DF IF MIN = 90
 TACTIC E IF MIN >= 11 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC D IF SCORE = 0
