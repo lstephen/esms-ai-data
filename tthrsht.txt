@@ -4,7 +4,7 @@ E
 GK D_Gogean
 DF S_Irwin
 DF I_Harte
-DF Doriva
+DF I_Muresanu
 DM Ridoutkha
 DM M_Oezil
 DM J_Cadette
@@ -13,9 +13,9 @@ MF M_Antonio
 MF D_Iacobescu
 FW C_Sandulescu
 
-DM I_Muresanu
+DM D_Alecsandri
 DM J_Milburn
-DM N_Barbulescu
+MF N_Barbulescu
 AM E_Davids
 AM R_Giurgiu
 
@@ -24,10 +24,11 @@ AGG 20
 
 SUB 11 16 FW IF MIN = 55
 SUB 7 13 DM IF MIN = 60
+SUB 4 12 DF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 24 SCORE = 1
-TACTIC D IF MIN >= 12 SCORE >= 2
-SUB 4 12 DF IF SCORE <= -3
-SUB 4 12 DF IF SCORE >= 3
+TACTIC D IF MIN >= 25 SCORE = 1
+TACTIC D IF MIN >= 13 SCORE >= 2
+SUB 5 13 DM IF SCORE <= -3
+SUB 5 13 DM IF SCORE >= 3
