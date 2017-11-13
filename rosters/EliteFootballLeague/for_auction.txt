@@ -7,7 +7,6 @@ Defender18   29  per 2  23 8  5  32 400 400 400 400
 Midfielder10 29  rsa 2  17 23 7  21 400 400 400 400
 Defender09   27  rus 2  24 10 9  21 400 400 400 400
 Midfielder14 29  rsa 2  7  24 7  20 800 800 800 800
-S_R_Ramos     25 spa  1 13 23  7 30 400 429 757 450
 Forward05    26  pol 3  8  12 23 30 700 700 700 700
 Midfielder16 29  ukr 2  7  24 11 11 700 700 700 700
 Defender17   26  ger 1  24 8  10 22 600 600 600 600
@@ -69,14 +68,12 @@ R_Wolford     35 ger  1  1  2 25  8 300 887 879 669
 Forward08    25  uga 2  9  10 19 23 400 400 400 400
 E_Lamela      23 arg  1  8 24  9 32 700 337  73 944
 P_Bonner      34 ire 27  1  3  3 21 149 400 400 400
-Imbula        22 fra  1  9 24 16 20 400 730 340  92
 K_Coulibaly   28 mal  1  4 23 15 12 500 780  38 566
 S_Aguero      35 arg  2  9  8 25 20 300 632 652 646
 Midfielder04 23  col 1  10 22 7  42 300 300 300 300
 S_Walsh       22 eng  2 23  8  5 32 300 247 615 452
 Ewandro       35 bra  2 10  5 24 14 700 385 999 775
 J_Cruyff      20 hol  2  9 23 16 21 600 946 288 627
-Keeper04     35  srb 34 2  7  3  10 300 300 300 300
 A_Smorin      19 rus  1  7  7 19 32 300 300 300 300
 E_Knave       20 ger  3  7 23 10 21 700 926 381 207
 J_Denayer     25 bel  3 23  8  9 40 400  13 281 814
@@ -86,7 +83,6 @@ Kike          26 spa  2  7 10 23 31 600  49 402  52
 J_Mata        27 spa  1 10 23  7 20 700 391 282 583
 J_Lewis       23 eng  3  7 23  8 20 300 710   3 151
 P_Di_Canio    31 ita  1  9  5 24 32 300   3 786 626
-T_Purcell     24 ire  3 12 23  6 22 300 253   1 867
 A_Costacurta  23 ita  2 23  7  9 41 300  38 965 157
 Pato          22 swi  2  7  7 23 11 500 574 865 164
 Defender06   28  sen 1  24 7  9  31 600 600 600 600
@@ -95,7 +91,6 @@ N_Sanudo      32 spa  1  6 23 16 45 300 954 724 537
 C_Clark       35 sco 27  4  2  3 38 153 300 300 300
 C_Bentornato  23 arg  2  8 23 12 32 500 768   6 454
 Wellington    30 bra  1 12 23  7 29 800 409 560  37
-Del_Vecchio   19 bra  3  5  7 22 20 400 657 745 918
 I_Hack        28 spa  2 23  8 10 20 600  22 333 208
 Batistuta     26 arg  2  6  7 23 41 500 767 809 150
 R_Smith       22 eng  3  7  7 23 21 700  65 557   2
@@ -103,7 +98,12 @@ M_Guzzi       32 ita  1 23  6  5 43 300 254 861 483
 Defender02   29  slo 2  24 11 5  30 400 400 400 400
 A_Douglas     27 nzl  2  4  5 24 11 400 457 937 634
 Josh_Millwate 23 eng  1  8 24  9 23 600  67 481 562
-B_A_Hangeland 29 eng  2 24 11  5 40 300 322 496 761
-M_Babbel      29 eng  1 24  9  7 33 500 545 509 110
-G_Banks       25 eng 28  3  1  3 12 826 400 400 408
+M_Guzzi       32 ita  1 23  6  5 43 300 254 861 483
+R_Smith       22 eng  3  7  7 23 21 700  65 557   2
+M_Nastasic    26 srb  2 23  7 10 22 800 106 813 605
+Michel_Scott  32 eng  3  6 23 14 44 308 965 265 800
 D_Marino      24 spa 27  3  2  2 23  58 300 300 300
+G_Ramirez     27 par  2  8 23 10 12 800 277  68 126
+S_Cazorla     20 spa  2  8 23  5 20 700 980 326  25
+Defender01    16 egy  3 14  7  6 42 600 620 600 600
+Midfielder04  16 ken  1  5 14 10 23 300 340 380 308
