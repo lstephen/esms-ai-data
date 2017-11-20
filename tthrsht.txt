@@ -1,34 +1,33 @@
 tthr
-A
+P
 
 GK D_Gogean
-DF M_Twaddle
 DF S_Irwin
-DF I_Harte
-DF I_Muresanu
+DF Moreto
+DF Ridoutkha
 DF M_Oezil
-DM Moreto
+DF J_Cadette
+DF J_Milburn
 DM Juninho
-DM Ridoutkha
-AM D_Iacobescu
+DM M_Antonio
+FW D_Iacobescu
 FW C_Sandulescu
 
-DF D_Alecsandri
-DM J_Milburn
-AM D_Dobrescu
+DF I_Harte
+DF I_Muresanu
+DF N_Barbulescu
 FW E_Davids
 FW R_Giurgiu
 
 PK: C_Sandulescu
 AGG 20
 
-SUB 11 16 FW IF MIN = 55
-SUB 8 13 DM IF MIN = 60
-SUB 5 12 DF IF MIN = 70
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 59 SCORE = 1
-TACTIC D IF MIN >= 30 SCORE >= 2
-SUB 9 13 DM IF SCORE <= -3
-SUB 9 13 DM IF SCORE >= 3
+SUB 11 16 FW IF MIN = 50
+SUB 7 12 DF IF MIN = 60
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 73 SCORE >= 2
+SUB 4 12 DF IF SCORE <= -3
+SUB 4 12 DF IF SCORE >= 3
