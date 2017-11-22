@@ -1,5 +1,5 @@
 mis
-P
+A
 
 GK AJ_Camodo
 DF R_Figueiredo
@@ -15,18 +15,17 @@ FW L_Selders
 
 GK A_Kapustov
 DF K_Prescott
-DF Tarildo
-DF C_de_Vil
+DF S_Anselme
 FW O_Aguilar
+FW C_Parry
 
 PK: Camelino
 AGG 20
 
-SUB 7 16 MF IF MIN = 55
-SUB 11 13 DM IF MIN = 60
-CHANGEPOS 16 FW IF MIN = 65
-TACTIC A IF MIN >= 33 SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
+SUB 6 13 DF IF MIN = 55
+SUB 7 15 AM IF MIN = 60
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 60 SCORE >= 2
+TACTIC L IF MIN >= 32 SCORE >= 2
