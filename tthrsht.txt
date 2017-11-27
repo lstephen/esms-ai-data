@@ -11,7 +11,7 @@ DF J_Milburn
 DM Juninho
 DM M_Antonio
 FW D_Iacobescu
-FW C_Sandulescu
+FW E_Davids
 
 DF I_Harte
 DF I_Muresanu
@@ -19,15 +19,15 @@ DF D_Alecsandri
 DF N_Barbulescu
 FW R_Giurgiu
 
-PK: C_Sandulescu
+PK: E_Davids
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 7 12 DF IF MIN = 60
+SUB 11 16 FW IF MIN = 60
+SUB 7 13 DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 73 SCORE >= 2
+TACTIC D IF MIN >= 78 SCORE >= 2
 SUB 4 12 DF IF SCORE <= -3
 SUB 4 12 DF IF SCORE >= 3
