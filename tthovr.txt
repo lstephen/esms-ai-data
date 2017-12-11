@@ -370,35 +370,34 @@ DEFENSIVE        30  32  33  36  31  28
                 Reserves (P)    27    32    26    27          33 
                          Min
                       NORMAL    27    21    23          22    21 
-                   DEFENSIVE    27                21    19    18 
+                   DEFENSIVE    27          33    21    19    18 
                    ATTACKING    27    22    23          25    31 
               COUNTER_ATTACK    27    21    23    30    22    24 
                    LONG_BALL    27                25          26 
                      PASSING    27    23                      23 
-                    EUROPEAN    27          21    25    22       
+                    EUROPEAN    27          21    25    22    27 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     L     N     D   
+Preety          35 10/40/ 6 | MF E :  55  17 :  72 |  15  1.1   1 ||  88 || MF 14 DM 10 MF 14 MF 17 DM  1 MF 13 MF  6       
 Keeper04        26    27    | GK N :  41  11 :  51 |  21  0.6   6 ||  79 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
 Defender14      27 25/12/ 7 | MF L :  48   3 :  51 |  19  0.8   5 ||  76 || DF  0 DF  1 DF  0 DF  2 MF  3 DF  0 DF  3       
 Defender17      26 24/ 8/10 | MF L :  47   2 :  48 |  18  1.6   6 ||  74 || DF -3 DF -1 DF -2 DF  1 MF  2 DF -2 DF  1       
 Defender11      30 26/ 9/ 9 | MF L :  49   5 :  54 |  14  0.8   4 ||  72 || DF -1 DF  1 DF  0 DF  3 MF  5 DF  0 DF  3       
 Defender09      27 24/10/ 9 | MF L :  47   2 :  49 |  16  1.1   5 ||  71 || DF -2 DF  0 DF -1 DF  1 MF  2 DF -2 DF  1       
-Leo             29    27    | GK N :  41  11 :  51 |  10  1.3   5 ||  67 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
-P_Bonner        34    27    | GK N :  41  11 :  51 |  12  0.2   2 ||  65 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
 Forward07       27  8/10/25 | FW A :  44   2 :  46 |  13  1.5   5 ||  64 || FW -3 FW  2 FW -1 FW  1 AM  1 FW  0 FW -2       
 Forward08       27  5/10/25 | FW A :  44   2 :  46 |  13  0.9   5 ||  64 || FW -3 FW  2 FW -2 FW  0 AM  0 FW -1 FW -4       
 Keeper03        26    24    | GK N :  36   6 :  42 |  12  0.6   6 ||  61 || GK  6 GK  6 GK  6 GK  6 GK  6 GK  6 GK  6     r 
+F_Eggington     31    27    | GK N :  41  11 :  51 |   6  0.2   4 ||  61 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
 Coloccini       33 23/11/11 | MF L :  47   2 :  50 |   6  0.7   2 ||  59 || DF -2 DF  0 DF -1 DF  2 MF  2 DF -2 DF  0       
-J_Cruyff        20  9/23/16 | MF E :  37  -1 :  37 |  13  0.8   8 ||  58 || MF -1 DM -1 AM -1 MF -1 AM -2 MF -1 AM -2       
 Forward06       28  6/ 8/25 | FW A :  43   0 :  43 |  10  1.1   4 ||  58 || FW -5 FW  0 FW -3 FW  0 FW  0 FW -1 FW -4       
 Keeper02        26    23    | GK N :  35   5 :  39 |   9  0.5   6 ||  54 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5     r 
 Defender02      27 26/11/ 6 | DF D :  35   4 :  39 |   6  0.6   5 ||  51 || DF  0 DF  1 DF  1 DF  2 MF  4 DF  0 DF  4       
 Forward04       26  8/ 6/25 | FW L :  36   0 :  36 |   5  1.1   5 ||  47 || FW -6 FW -1 FW -3 FW -1 FW  0 FW -1 FW -3       
 C_Clark         35    27    | GK N :  41  11 :  51 |  -6  0.2   2 ||  47 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
-A_Karnak        23  4/24/14 | MF E :  37  -2 :  35 |   2  1.6   7 ||  45 || MF -2 MF -2 AM -3 MF -2 AM -5 MF -2 AM -6       
-G_Weah          28  9/ 7/25 | FW L :  37   0 :  37 |   4  0.9   4 ||  45 || FW -5 FW  0 FW -2 FW  0 FW  0 FW -1 FW -2       
+I_Muniain       31 10/28/ 8 | MF E :  41   2 :  43 |  -1  0.6   3 ||  45 || MF  2 DM  0 MF  2 MF  2 DM -3 MF  2 AM -2       
 S_Warwick       31  8/ 8/25 | FW A :  43   0 :  43 |  -2  0.8   3 ||  45 || FW -4 FW  0 FW -2 FW  0 AM  0 FW -1 FW -3       
+A_Marcos        35  7/29/16 | MF E :  44   6 :  51 |  -6  0.4   1 ||  45 || MF  5 MF  4 MF  4 MF  6 AM  0 MF  4 AM  0       
 D_Prentice      35 23/14/ 9 | MF L :  47   3 :  50 |  -7  0.5   1 ||  45 || DF  0 DF  1 DF  0 DF  2 MF  3 DF -1 DM  2       
 L_Hedstrom      37    27    | GK N :  41  11 :  51 |  -6  0.0   1 ||  45 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11       
 Osvaldo         32  3/ 8/24 | FW A :  41  -1 :  40 |  -1  1.4   2 ||  42 || FW -6 FW -1 FW -5 FW -2 AM -2 FW -3 FW -6       
@@ -411,29 +410,26 @@ Defender03      27 24/ 7/ 8 | DF L :  31   1 :  32 |  -1  0.5   5 ||  36 || DF -
 S_Walsh         22 23/ 8/ 5 | DF D :  31  -1 :  30 |  -3  0.5   8 ||  35 || DF -6 DF -4 DF -4 DF -2 DF -1 DF -5 DF -1       
 K_Coulibaly     28  4/23/15 | MF A :  34  -2 :  32 |  -1  0.5   4 ||  35 || MF -2 MF -2 AM -3 MF -3 AM -4 MF -3 AM -6       
 A_Costacurta    23 23/ 7/ 9 | DF L :  30   0 :  30 |  -3  0.3   7 ||  34 || DF -5 DF -3 DF -4 DF  0 DF  0 DF -4 DF -1       
-Daley_Blind     24 23/ 9/ 7 | DF L :  30   0 :  30 |  -2  0.2   7 ||  34 || DF -5 DF -3 DF -3 DF -1 DF  0 DF -4 DF  0       
 Daniel_Agger    24 23/ 7/ 6 | DF D :  31  -1 :  30 |  -2  0.9   7 ||  34 || DF -6 DF -4 DF -4 DF -2 DF -1 DF -5 DF -1       
-P_Bourdin       24 23/ 7/ 2 | DF D :  31  -1 :  30 |  -2  0.2   7 ||  34 || DF -8 DF -6 DF -5 DF -3 DF -2 DF -6 DF -1       
 I_Hack          28 23/ 8/10 | DF L :  31   1 :  31 |  -2  0.2   5 ||  34 || DF -4 DF -2 DF -3 DF  0 DF  1 DF -3 DF -1       
 E_Knave         20  7/23/10 | MF P :  27  -3 :  24 |   0  0.7   8 ||  33 || MF -3 DM -5 MF -4 MF -4 DM -6 MF -3 AM -7       
 Midfielder18    26  6/25/11 | MF P :  29  -1 :  28 |  -2  1.2   5 ||  33 || MF -1 DM -3 MF -2 MF -1 DM -6 MF -1 AM -5       
 Midfielder10    29 17/23/ 7 | DM D :  34   1 :  35 |  -6  0.7   4 ||  33 || DM  1 DM -1 DM  1 DM  0 DM  0 DM  1 DM  1       
 Defender13      30 25/ 8/ 8 | DF L :  32   2 :  34 |  -6  0.9   4 ||  33 || DF -3 DF -1 DF -1 DF  1 DF  2 DF -2 DF  2       
-S_Garcia        28 23/ 8/ 4 | DF D :  31  -1 :  30 |  -3  0.2   5 ||  32 || DF -6 DF -5 DF -4 DF -2 DF -2 DF -5 DF -1       
+Defender01      19 20/ 9/ 5 | DF E :  23  -4 :  19 |   3  1.0   9 ||  32 || DF -8 DF -7 DF -7 DF -4 DF -4 DF -7 DF -4     r 
 A_Anyukov       32  9/ 4/25 | FW L :  36  -1 :  35 |  -6  1.2   2 ||  32 || FW -7 FW -2 FW -3 FW -1 FW -1 FW -2 FW -3       
 N_Sanudo        32  6/23/16 | MF E :  37  -2 :  35 |  -6  1.4   2 ||  32 || MF -2 MF -2 AM -2 MF -2 AM -3 MF -2 AM -4       
 Defender05      29 24/10/ 6 | DF D :  33   1 :  34 |  -8  0.8   4 ||  31 || DF -3 DF -2 DF -2 DF  0 DF  1 DF -3 DF  1       
 Defender20      30 25/ 5/ 6 | DF D :  33   1 :  34 |  -7  1.2   4 ||  31 || DF -6 DF -3 DF -3 DF  0 DF  1 DF -4 DF  1       
+L_Coca          25 10/23/14 | MF P :  29  -1 :  28 |  -4  0.8   6 ||  30 || MF -1 DM -1 MF -1 MF -1 DM -2 MF -1 AM -3       
 Forward05       26  8/12/23 | FW E :  27   0 :  27 |  -3  1.1   5 ||  30 || FW -3 FW  0 FW -2 FW  0 AM  0 FW -1 FW -3       
+G_Pique         30 24/ 9/ 6 | DF D :  32   1 :  33 |  -7  0.7   4 ||  30 || DF -4 DF -2 DF -2 DF  0 DF  1 DF -3 DF  1       
 Defender19      33 25/ 7/ 7 | DF D :  33   2 :  35 |  -9  0.8   2 ||  29 || DF -4 DF -2 DF -2 DF  1 DF  1 DF -3 DF  2       
 A_Prilo         26  7/23/14 | MF P :  28  -2 :  26 |  -4  0.7   5 ||  28 || MF -2 DM -3 MF -3 MF -2 AM -4 MF -2 AM -5       
-Ricardo         26  7/ 9/24 | FW E :  27   0 :  26 |  -4  1.1   5 ||  28 || FW -5 FW -1 FW -3 FW  0 AM -1 FW -2 FW -4       
 J_P_Veron       28  9/23/15 | MF P :  29  -1 :  28 |  -5  1.0   4 ||  28 || MF -1 DM -1 MF -2 MF -1 DM -2 MF -1 AM -3       
 D_Stankovic     29 10/23/15 | DM A :  33  -1 :  32 |  -9  1.1   4 ||  28 || MF -1 DM -1 MF -1 MF -1 DM -1 MF -1 AM -2       
-T_Grant         29 24/ 9/ 7 | DF L :  31   1 :  32 |  -9  0.1   4 ||  27 || DF -4 DF -2 DF -2 DF  0 DF  1 DF -3 DF  1       
 Josh_Millwate   23  8/24/ 9 | MF P :  28  -2 :  26 |  -7  0.6   7 ||  26 || MF -2 DM -4 MF -3 MF -3 DM -6 MF -2 AM -6       
 Defender25      29 23/ 8/10 | DF L :  31   1 :  31 | -10  0.7   4 ||  26 || DF -4 DF -2 DF -3 DF  0 DF  1 DF -3 DF -1       
-A_Smorin        19  7/ 7/19 | FW E :  21  -6 :  16 |   0  0.5   9 ||  25 || FW-11 FW -9 FW -9 FW -6 AM -6 FW -7 FW -8     r 
 C_Bentornato    23  8/23/12 | MF P :  28  -2 :  26 |  -8  0.3   7 ||  25 || MF -2 DM -3 MF -3 MF -3 DM -4 MF -2 AM -5       
 Kike            26  7/10/23 | FW E :  26  -1 :  25 |  -5  0.2   5 ||  25 || FW -5 FW -1 FW -3 FW -1 AM -1 FW -2 FW -4       
 R_Voller        26  6/23/12 | MF P :  28  -3 :  25 |  -5  0.3   5 ||  25 || MF -3 DM -4 MF -4 MF -3 DM -6 MF -3 AM -6       
@@ -474,6 +470,7 @@ J_Pastorius     31  8/23/ 9 | MF P :  27  -3 :  24 | -20  0.1   3 ||   7 || MF -
 K_Aitken        34  4/ 8/23 | FW E :  25  -2 :  22 | -17  0.3   1 ||   7 || FW -7 FW -3 FW -6 FW -2 AM -3 FW -4 FW -6       
 R_Wolford       35  1/ 2/25 | FW L :  33  -3 :  30 | -27  1.3   1 ||   5 || FW-10 FW -4 FW -8 FW -4 FW -3 FW -5 FW -8       
 S_Aguero        35  9/ 8/25 | AM L :  28   0 :  29 | -28  1.0   1 ||   2 || FW -4 FW  0 FW -1 FW  0 AM  0 FW  0 FW -2       
+O_Donati        35 13/23/ 6 | DM P :  29  -2 :  27 | -30  0.8   1 ||  -1 || DM -2 DM -4 MF -2 DM -3 DM -4 DM -2 DM -3       
 Ewandro         35 10/ 5/24 | AM L :  27  -1 :  25 | -32  1.2   1 ||  -5 || FW -7 FW -3 FW -3 FW -1 AM -1 FW -2 FW -3       
 
 ** /for_transfer.txt **
@@ -656,12 +653,12 @@ FW C_Sandulescu
    Overall     216     228     184     232     243     218     217 
 
 MF D_Alecsandri
-MF E_Banciu
 MF M_Antonio
 MF N_Barbulescu
+MF E_Davids
 FW R_Giurgiu
 
-SUB GK D_Alecsandri GK IF INJURED GK
+SUB GK E_Davids GK IF INJURED GK
 SUB DF D_Alecsandri DF IF INJURED DF
 SUB DM M_Antonio DM IF INJURED DM
 SUB MF M_Antonio MF IF INJURED MF
