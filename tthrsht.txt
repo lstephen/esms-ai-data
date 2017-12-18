@@ -1,34 +1,33 @@
 tthr
-L
+E
 
 GK D_Gogean
+DF M_Twaddle
+DF S_Irwin
 DF I_Harte
-DF I_Muresanu
-DF J_Milburn
-MF M_Twaddle
-MF S_Irwin
-MF Moreto
-MF Ridoutkha
-MF M_Oezil
+DM Moreto
+DM M_Oezil
+DM J_Cadette
+MF Juninho
+MF M_Antonio
 MF D_Iacobescu
 FW C_Sandulescu
 
-MF D_Alecsandri
-MF E_Banciu
-MF M_Antonio
-MF N_Barbulescu
-FW R_Giurgiu
+DM I_Muresanu
+DM Ridoutkha
+DM J_Milburn
+AM E_Davids
+AM R_Giurgiu
 
 PK: M_Twaddle
 AGG 20
 
 SUB 11 16 FW IF MIN = 55
-SUB 10 14 MF IF MIN = 60
-SUB 3 12 DF IF MIN = 87
-TACTIC E IF MIN >= 25 SCORE <= -2
-TACTIC C IF MIN >= 32 SCORE = -1
-TACTIC L IF SCORE = 0
-TACTIC L IF SCORE = 1
-TACTIC L IF SCORE >= 2
-SUB 8 14 MF IF SCORE <= -3
-SUB 8 14 MF IF SCORE >= 3
+SUB 4 12 DF IF MIN = 75
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 27 SCORE = 1
+TACTIC D IF MIN >= 14 SCORE >= 2
+SUB 5 13 DM IF SCORE <= -3
+SUB 5 13 DM IF SCORE >= 3
