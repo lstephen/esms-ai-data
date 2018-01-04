@@ -379,8 +379,8 @@ DEFENSIVE        29  28  30  31  30  26
                       NORMAL    24    17    21    20    25    23 
                    DEFENSIVE    24    18          19    20    18 
                    ATTACKING    24    18          24    23    29 
-              COUNTER_ATTACK    24    18    22          21    24 
-                   LONG_BALL    24    16          20    25    23 
+              COUNTER_ATTACK    24    18    20          21    24 
+                   LONG_BALL    24    16          20          23 
                      PASSING    24    19                      24 
                     EUROPEAN    24    17    19    22    29    22 
 
