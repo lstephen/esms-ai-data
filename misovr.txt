@@ -3,16 +3,16 @@ Camelino        31  8/21/26 | FW A :  53  16 :  69 |  17  1.3  -1 ||  86 || FW 1
 R_Gelman        28 13/20/24 | FW A :  49  12 :  61 |  11  0.6   1 ||  74 || FW 10 FW 12 FW  9 AM  4 FW  8 FW 10 FW  4       
 L_Selders       30  7/20/23 | FW A :  48  11 :  58 |   8  1.8  -1 ||  67 || FW  8 FW 11 FW  7 FW  0 AM  5 FW  7 FW  0       
 R_Figueiredo    30 27/17/15 | DF L :  47  11 :  58 |   7  1.3  -1 ||  66 || DF  9 DF  9 DF  9 DF  9 DF  9 DF 11 DF 10       
-AJ_Camodo       31    29    | GK N :  44  15 :  59 |   7  0.8  -1 ||  65 || GK 15 GK 15 GK 15 GK 15 GK 15 GK 15 GK 15       
+AJ_Camodo       31    29    | GK N :  44  15 :  59 |   7  0.9  -1 ||  66 || GK 15 GK 15 GK 15 GK 15 GK 15 GK 15 GK 15       
 V_Barbieri      23 20/17/17 | MF L :  36   6 :  42 |  12  1.7   6 ||  62 || DF  3 DF  3 DF  3 DF  3 DF  3 MF  6 AM  2       
 R_Silano        20  7/15/18 | FW A :  37   0 :  37 |  13  1.4   7 ||  59 || FW -1 FW  0 FW  0 MF -7 FW -3 AM -1 FW -5   R r 
 C_Stirbei       21 19/ 9/15 | DF L :  36   0 :  36 |  11  1.5   7 ||  55 || DF -5 DF -3 DF -1 DF -3 DF -2 DF  0 DF -1   R r 
-P_Litto         31 25/16/15 | DF L :  44   9 :  53 |   2  1.1  -1 ||  54 || DF  6 DF  6 DF  7 DF  7 DF  7 DF  9 DF  7       
-X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.3   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
+P_Litto         31 25/16/15 | DF L :  44   9 :  53 |   2  1.2  -1 ||  54 || DF  6 DF  6 DF  7 DF  7 DF  7 DF  9 DF  7       
+X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.2   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
 C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   4  1.3   6 ||  45 || FW  0 AM  0 MF  0 MF -1 AM  0 AM -1 AM -4       
 G_C_Moore       27 23/18/16 | MF L :  38   8 :  46 |  -8  1.2   2 ||  42 || DF  6 DF  6 DF  6 DF  6 DF  6 MF  8 DF  6       
 H_Roller        22  9/11/19 | FW L :  30   0 :  30 |   2  1.4   7 ||  41 || FW -3 FW -1 FW  0 FW -7 FW -2 FW  0 FW -4       
-M_Tensfeldt     29 23/17/15 | MF L :  37   7 :  43 |  -7  1.4   0 ||  38 || DF  5 DF  5 DF  5 DF  5 DF  5 MF  7 DF  5       
+M_Tensfeldt     29 23/17/15 | MF L :  37   7 :  43 |  -7  1.5   0 ||  38 || DF  5 DF  5 DF  5 DF  5 DF  5 MF  7 DF  5       
 C_Yastrzemski   31  7/25/15 | MF E :  39   6 :  45 |  -6  0.6  -1 ||  38 || MF  5 MF  5 MF  6 MF  3 AM  4 AM  0 AM -2       
 V_Zefirov       21 10/ 5/19 | FW L :  28  -1 :  27 |   3  0.4   7 ||  37 || FW -7 FW -5 FW -2 FW-10 FW -5 FW -1 FW -5   R r 
 D_Tikhomirov    24  3/19/15 | AM A :  33  -1 :  33 |  -1  0.7   5 ||  37 || AM -2 AM -1 AM -2 MF -5 AM -3 AM -4 FW -8       
@@ -284,18 +284,18 @@ Camelino        31  8/21/26 | FW A :  53  16 :  69 |  17  1.3  -1 ||  86 || FW 1
 R_Gelman        28 13/20/24 | FW A :  49  12 :  61 |  11  0.6   1 ||  74 || FW 10 FW 12 FW  9 AM  4 FW  8 FW 10 FW  4       
 L_Selders       30  7/20/23 | FW A :  48  11 :  58 |   8  1.8  -1 ||  67 || FW  8 FW 11 FW  7 FW  0 AM  5 FW  7 FW  0       
 R_Figueiredo    30 27/17/15 | DF L :  47  11 :  58 |   7  1.3  -1 ||  66 || DF  9 DF  9 DF  9 DF  9 DF  9 DF 11 DF 10       
-AJ_Camodo       31    29    | GK N :  44  15 :  59 |   7  0.8  -1 ||  65 || GK 15 GK 15 GK 15 GK 15 GK 15 GK 15 GK 15       
+AJ_Camodo       31    29    | GK N :  44  15 :  59 |   7  0.9  -1 ||  66 || GK 15 GK 15 GK 15 GK 15 GK 15 GK 15 GK 15       
 V_Barbieri      23 20/17/17 | MF L :  36   6 :  42 |  12  1.7   6 ||  62 || DF  3 DF  3 DF  3 DF  3 DF  3 MF  6 AM  2       
-P_Litto         31 25/16/15 | DF L :  44   9 :  53 |   2  1.1  -1 ||  54 || DF  6 DF  6 DF  7 DF  7 DF  7 DF  9 DF  7       
+P_Litto         31 25/16/15 | DF L :  44   9 :  53 |   2  1.2  -1 ||  54 || DF  6 DF  6 DF  7 DF  7 DF  7 DF  9 DF  7       
 G_C_Moore       27 23/18/16 | MF L :  38   8 :  46 |  -8  1.2   2 ||  42 || DF  6 DF  6 DF  6 DF  6 DF  6 MF  8 DF  6       
-M_Tensfeldt     29 23/17/15 | MF L :  37   7 :  43 |  -7  1.4   0 ||  38 || DF  5 DF  5 DF  5 DF  5 DF  5 MF  7 DF  5       
+M_Tensfeldt     29 23/17/15 | MF L :  37   7 :  43 |  -7  1.5   0 ||  38 || DF  5 DF  5 DF  5 DF  5 DF  5 MF  7 DF  5       
 C_Yastrzemski   31  7/25/15 | MF E :  39   6 :  45 |  -6  0.6  -1 ||  38 || MF  5 MF  5 MF  6 MF  3 AM  4 AM  0 AM -2       
 D_Bledsoe       31 17/21/15 | MF L :  34   5 :  39 | -12  1.1  -1 ||  27 || MF  3 DM  3 MF  3 MF  4 MF  4 MF  5 MF  2       
 Tarildo         30 16/21/ 4 | MF C :  30   0 :  30 | -20  0.5  -1 ||  10 || DM  0 DM -4 DM  0 MF  0 DM -1 DM -3 DM -1       
 
 ** First Squad (21) **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
-X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.3   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
+X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.2   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
 C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   4  1.3   6 ||  45 || FW  0 AM  0 MF  0 MF -1 AM  0 AM -1 AM -4       
 H_Roller        22  9/11/19 | FW L :  30   0 :  30 |   2  1.4   7 ||  41 || FW -3 FW -1 FW  0 FW -7 FW -2 FW  0 FW -4       
 D_Tikhomirov    24  3/19/15 | AM A :  33  -1 :  33 |  -1  0.7   5 ||  37 || AM -2 AM -1 AM -2 MF -5 AM -3 AM -4 FW -8       
@@ -334,7 +334,7 @@ S_Stancu        17 15/ 5/ 6 | DF D :  19  -7 :  12 |  -2  0.3   7 ||  17 || DM-1
 
 ** Training Squad **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
-X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.3   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
+X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.2   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
 C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   4  1.3   6 ||  45 || FW  0 AM  0 MF  0 MF -1 AM  0 AM -1 AM -4       
 H_Roller        22  9/11/19 | FW L :  30   0 :  30 |   2  1.4   7 ||  41 || FW -3 FW -1 FW  0 FW -7 FW -2 FW  0 FW -4       
 D_Tikhomirov    24  3/19/15 | AM A :  33  -1 :  33 |  -1  0.7   5 ||  37 || AM -2 AM -1 AM -2 MF -5 AM -3 AM -4 FW -8       
@@ -392,7 +392,6 @@ Baz_Trident     22 19/ 6/ 8 | DF D :  24  -2 :  22 |  -5  0.7   7 ||  25 || DF -
 D_Ginola        22  9/19/12 | MF P :  24  -2 :  23 |  -5  0.5   7 ||  25 || MF -2 DM -3 MF -2 MF -3 AM -3 MF -4 AM -6       
 O_Costanzo      22 19/ 7/ 4 | DF D :  25  -2 :  23 |  -5  0.7   7 ||  25 || DF-10 DF-12 DF -6 DF -7 DF -8 DM -6 DF -2       
 L_Aurada        23 19/11/ 3 | DF D :  26  -1 :  25 |  -6  0.3   6 ||  25 || DF -7 DF-11 DF -6 DF -5 DF -7 DM -5 DF -1       
-B_Viars         16    14    | GK N :  21  -7 :  14 |   3  0.2   7 ||  24 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7     r 
 Q_Horley        22 11/19/ 8 | MF P :  24  -2 :  22 |  -6  0.9   7 ||  24 || MF -2 DM -5 MF -4 MF -3 MF -4 MF -6 MF -6       
 H_Gushlaw       22 19/ 5/10 | DF D :  24  -2 :  22 |  -6  0.6   7 ||  23 || DF -9 DF -9 DF -5 DF -6 DF -6 DM -4 DF -2       
 M_Delac         22  8/19/11 | MF P :  24  -2 :  22 |  -6  0.6   7 ||  23 || MF -2 DM -4 MF -3 MF -4 AM -4 MF -6 AM -7       
@@ -400,13 +399,11 @@ M_Oxley         23 19/ 9/ 7 | DF D :  25  -1 :  24 |  -7  0.7   6 ||  23 || DF -
 J_Mormont       22  6/19/12 | MF P :  24  -2 :  21 |  -6  0.2   7 ||  22 || MF -2 MF -3 MF -3 MF -5 AM -4 AM -6 AM -8       
 R_Kuyt          24  7/ 3/19 | FW L :  27  -2 :  25 |  -9  1.0   5 ||  22 || FW -9 FW -6 FW -4 FW-12 FW -7 FW -2 FW -7       
 R_Radic         23 11/19/ 9 | MF P :  24  -2 :  22 |  -8  0.6   6 ||  20 || MF -2 DM -4 MF -3 MF -3 MF -4 MF -5 MF -6       
-M_Maddix        24 20/ 5/ 6 | DF D :  25  -1 :  24 | -10  0.3   5 ||  20 || DF-10 DF-11 DF -5 DF -6 DF -7 DM -5 DF -1       
 F_Overly        22  6/19/ 8 | MF P :  23  -3 :  19 |  -8  0.8   7 ||  19 || MF -3 DM -6 MF -5 MF -6 MF -6 MF-10 MF-10       
 X_Babic         23 19/ 4/ 8 | DF D :  24  -3 :  21 |  -9  0.8   6 ||  19 || DF-11 DF-11 DF -6 DF -7 DF -8 DM -5 DF -3       
 J_Stojic        22  5/19/ 9 | MF P :  23  -3 :  19 |  -8  0.3   7 ||  18 || MF -3 MF -5 MF -5 MF -6 MF -6 MF-10 AM-10       
 M_Mourbey       23  7/19/10 | MF P :  23  -3 :  21 | -10  0.5   6 ||  17 || MF -3 DM -5 MF -4 MF -5 MF -5 MF -7 AM -8       
 Marc_Degryse    23  8/19/ 9 | MF P :  23  -3 :  21 | -10  0.8   6 ||  17 || MF -3 DM -5 MF -4 MF -4 MF -5 MF -7 MF -8       
-R_Bosher        17    13    | GK N :  20  -9 :  11 |  -3  0.5   7 ||  15 || GK -9 GK -9 GK -9 GK -9 GK -9 GK -9 GK -9     r 
 F_Utechtt       26    19    | GK N :  29   0 :  29 | -18  0.4   3 ||  14 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 E_Letteney      16    12    | GK N :  18 -10 :   8 |  -3  0.5   7 ||  12 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
 G_Gutierrez     16    12    | GK N :  18 -10 :   8 |  -3  0.5   7 ||  12 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
@@ -481,29 +478,29 @@ S_Verma         29  4/20/ 9 | MF P :  23  -3 :  21 | -30  1.1   0 ||  -8 || MF -
 Forced:Camelino/R_Gelman/L_Selders/R_Figueiredo/V_Barbieri/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
+R_Figueiredo    30 27/17/15 | DF L :  47  11 :  58 |   7  1.3  -1 ||  66 || DF  9 DF  9 DF  9 DF  9 DF  9 DF 11 DF 10       
 Camelino        31  8/21/26 | FW A :  53  16 :  69 |  17  1.3  -1 ||  86 || FW 12 FW 16 FW 11 FW  4 FW  8 FW 11 FW  3       
 R_Gelman        28 13/20/24 | FW A :  49  12 :  61 |  11  0.6   1 ||  74 || FW 10 FW 12 FW  9 AM  4 FW  8 FW 10 FW  4       
-L_Selders       30  7/20/23 | FW A :  48  11 :  58 |   8  1.8  -1 ||  67 || FW  8 FW 11 FW  7 FW  0 AM  5 FW  7 FW  0       
-R_Figueiredo    30 27/17/15 | DF L :  47  11 :  58 |   7  1.3  -1 ||  66 || DF  9 DF  9 DF  9 DF  9 DF  9 DF 11 DF 10       
-P_Litto         31 25/16/15 | DF L :  44   9 :  53 |   2  1.1  -1 ||  54 || DF  6 DF  6 DF  7 DF  7 DF  7 DF  9 DF  7       
+P_Litto         31 25/16/15 | DF L :  44   9 :  53 |   2  1.2  -1 ||  54 || DF  6 DF  6 DF  7 DF  7 DF  7 DF  9 DF  7       
 G_C_Moore       27 23/18/16 | MF L :  38   8 :  46 |  -8  1.2   2 ||  42 || DF  6 DF  6 DF  6 DF  6 DF  6 MF  8 DF  6       
-M_Tensfeldt     29 23/17/15 | MF L :  37   7 :  43 |  -7  1.4   0 ||  38 || DF  5 DF  5 DF  5 DF  5 DF  5 MF  7 DF  5       
-AJ_Camodo       31    27    | GK N :  41  12 :  53 |   1  0.8  -1 ||  53 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12       
+AJ_Camodo       31    27    | GK N :  41  12 :  53 |   1  0.9  -1 ||  54 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12       
+M_Tensfeldt     29 23/17/15 | MF L :  37   7 :  43 |  -7  1.5   0 ||  38 || DF  5 DF  5 DF  5 DF  5 DF  5 MF  7 DF  5       
+L_Selders       30  7/20/23 | FW A :  48  11 :  58 |   8  1.8  -1 ||  67 || FW  8 FW 11 FW  7 FW  0 AM  5 FW  7 FW  0       
 V_Barbieri      23 20/17/17 | MF L :  36   6 :  42 |  12  1.7   6 ||  62 || DF  3 DF  3 DF  3 DF  3 DF  3 MF  6 AM  2       
-C_Yastrzemski   31  7/25/15 | MF E :  39   6 :  45 |  -6  0.6  -1 ||  38 || MF  5 MF  5 MF  6 MF  3 AM  4 AM  0 AM -2       
 D_Bledsoe       31 17/21/15 | MF L :  34   5 :  39 | -12  1.1  -1 ||  27 || MF  3 DM  3 MF  3 MF  4 MF  4 MF  5 MF  2       
-X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.3   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
-H_Roller        22  9/11/19 | FW L :  30   0 :  30 |   2  1.4   7 ||  41 || FW -3 FW -1 FW  0 FW -7 FW -2 FW  0 FW -4       
-C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   4  1.3   6 ||  45 || FW  0 AM  0 MF  0 MF -1 AM  0 AM -1 AM -4       
-D_Tikhomirov    24  3/19/15 | AM A :  33  -1 :  33 |  -1  0.7   5 ||  37 || AM -2 AM -1 AM -2 MF -5 AM -3 AM -4 FW -8       
-W_Obershaw      23  6/ 8/19 | FW L :  28  -1 :  27 |  -4  1.0   6 ||  30 || FW -6 FW -3 FW -2 FW-10 FW -5 FW -1 FW -6       
+C_Yastrzemski   31  7/25/15 | MF E :  39   6 :  45 |  -6  0.6  -1 ||  38 || MF  5 MF  5 MF  6 MF  3 AM  4 AM  0 AM -2       
+X_Cullie        24 18/17/15 | MF L :  33   3 :  36 |   3  1.2   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 MF  3 MF  0       
 K_Prescott      33 19/15/10 | DF D :  27   0 :  27 |   0  0.7  -1 ||  26 || DF -2 DF -4 DF -2 DF -1 DF -2 DM  0 DF  0       
 Tarildo         30 16/21/ 4 | MF C :  30   0 :  30 | -20  0.5  -1 ||  10 || DM  0 DM -4 DM  0 MF  0 DM -1 DM -3 DM -1       
+C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   4  1.3   6 ||  45 || FW  0 AM  0 MF  0 MF -1 AM  0 AM -1 AM -4       
+D_Tikhomirov    24  3/19/15 | AM A :  33  -1 :  33 |  -1  0.7   5 ||  37 || AM -2 AM -1 AM -2 MF -5 AM -3 AM -4 FW -8       
+H_Roller        22  9/11/19 | FW L :  30   0 :  30 |   2  1.4   7 ||  41 || FW -3 FW -1 FW  0 FW -7 FW -2 FW  0 FW -4       
 A_Kapustov      23    19    | GK N :  29   0 :  29 |  -2  0.1   6 ||  33 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-S_Dobre         22 18/ 6/ 8 | DF D :  23  -3 :  20 |  -8  1.0   7 ||  20 || DF-10 DF-11 DF -6 DF -7 DF -8 DM -6 DF -3       
 I_Yolkin        22 19/ 9/ 4 | DF D :  25  -1 :  24 |  -4  1.0   7 ||  28 || DF -8 DF-11 DF -6 DF -6 DF -7 DM -5 DF -1       
+W_Obershaw      23  6/ 8/19 | FW L :  28  -1 :  27 |  -4  1.0   6 ||  30 || FW -6 FW -3 FW -2 FW-10 FW -5 FW -1 FW -6       
+S_Dobre         22 18/ 6/ 8 | DF D :  23  -3 :  20 |  -8  1.0   7 ||  20 || DF-10 DF-11 DF -6 DF -7 DF -8 DM -6 DF -3       
 
-ATTACKING
+PASSING
 GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
@@ -532,25 +529,25 @@ FW L_Selders
    Overall     294     240     316     298     284     323     283 
 
 GK A_Kapustov
+DF S_Dobre
 DF X_Cullie
+DF Tarildo
 FW C_Parry
-FW D_Tikhomirov
-FW H_Roller
 
 SUB GK A_Kapustov GK IF INJURED GK
 SUB DF X_Cullie DF IF INJURED DF
-SUB DM C_Parry DM IF INJURED DM
-SUB MF C_Parry MF IF INJURED MF
-SUB AM C_Parry AM IF INJURED AM
-SUB FW H_Roller FW IF INJURED FW
+SUB DM Tarildo DM IF INJURED DM
+SUB MF Tarildo MF IF INJURED MF
+SUB AM Tarildo AM IF INJURED AM
+SUB FW X_Cullie FW IF INJURED FW
 
-SUB V_Barbieri X_Cullie DF IF MIN = 65
-SUB C_Yastrzemski C_Parry DM IF MIN = 70
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
+SUB V_Barbieri X_Cullie DF IF MIN = 60
+SUB L_Selders C_Parry MF IF MIN = 65
+TACTIC A IF MIN >= 29 SCORE <= -2
+TACTIC A IF MIN >= 79 SCORE = -1
+TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 33 SCORE >= 2
+TACTIC L IF MIN >= 65 SCORE >= 2
 
 
 Forced:R_Silano/C_Stirbei/N_Morariu/
@@ -609,7 +606,7 @@ FW R_Silano
 GK S_Manescu
 DF Q_Detert
 DF E_Petrescu
-AM D_Lungu
+FW D_Lungu
 FW V_Zefirov
 
 SUB GK S_Manescu GK IF INJURED GK
