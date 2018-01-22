@@ -3,32 +3,31 @@ E
 
 GK D_Gogean
 DF M_Twaddle
+DF S_Irwin
 DF I_Harte
-DF I_Muresanu
 DM Moreto
 DM Ridoutkha
-DM M_Oezil
+DM J_Cadette
 MF Juninho
 MF M_Antonio
-MF D_Iacobescu
+MF D_Mario
 FW C_Sandulescu
 
-DM S_Irwin
-DM J_Cadette
+DM M_Oezil
 DM J_Milburn
-AM D_Mario
+MF D_Iacobescu
+AM E_Davids
 AM R_Giurgiu
 
-PK: C_Sandulescu
+PK: D_Mario
 AGG 20
 
-SUB 10 15 MF IF MIN = 50
-SUB 5 13 DM IF MIN = 60
-SUB 11 16 FW IF MIN = 65
+SUB 11 16 FW IF MIN = 55
+SUB 7 13 DM IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 27 SCORE = 1
-TACTIC D IF MIN >= 14 SCORE >= 2
-SUB 5 13 DM IF SCORE <= -3
-SUB 5 13 DM IF SCORE >= 3
+TACTIC D IF MIN >= 31 SCORE = 1
+TACTIC D IF MIN >= 16 SCORE >= 2
+SUB 2 12 DF IF SCORE <= -3
+SUB 2 12 DF IF SCORE >= 3
