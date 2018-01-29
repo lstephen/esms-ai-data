@@ -88,8 +88,6 @@ G_Pique       30 spa  2 24  9  6 22 300 473 625 851
 Defender01   19  pol 2  20 9  5  22 600 600 600 600
 O_Donati      35 ita  1 13 23  6 23 300 910  14 837
 E_Knave       20 ger  3  7 23 10 21 700 926 381 207
-T_Motta       35 ita  1  9 26  4 32 500 249 366 622
-M_Elliott     24 eng  1 23  7  5 21 300 997 819 691
 L_Hedstrom    37 hol 27  4  5  4 10  12 300 300 300
 S_Ferguson    31 eng  2 23  9  7 15 400 566  27 262
 D_Holland     34 fra  1  5 23 13 20 300 180   7 655
@@ -105,6 +103,6 @@ D_Marquinhos  23 fra  3 23  8  7 41 500 251 186 177
 R_Edgehill    35 eng 27  2  5  2 12  73 300 300 300
 Midfielder01 20  ita 2  7  21 8  31 600 600 600 600
 Midfielder09 30  ire 3  8  26 10 41 500 500 500 500
-Y_Abdessadki  35 ger  2  8 28  8 29 300 941 984 903
+A_Johnson     33 eng  2  6 24 17 27 300 173 732 823
+Y_Abdessadki  35 ger  2  8 28  8 29 300 941 994 903
 Yeboah        35 nig  1  7  7 28 31 300 249 257 144
-J_Jurado      34 spa  1 15 26  7 28 300 722  99 475
