@@ -1,35 +1,33 @@
 msy
-E
+P
 
 GK O_Devers
 DF C_Stirbei
 DF O_Bucsa
-DF Q_Detert
-DM N_Morariu
-DM A_Briden
+DF E_Petrescu
+DF N_Morariu
+DF A_Briden
+DM D_Fidatov
 DM P_Deusner
-MF I_Ungureanu
-MF D_Fidatov
-MF V_Dobre
+FW V_Dobre
+FW D_Lungu
 FW R_Silano
 
 GK S_Manescu
-DM E_Petrescu
-DM N_Parasca
-AM D_Lungu
+DF Q_Detert
+DF L_Gabor
+DF N_Parasca
 FW V_Zefirov
 
 PK: R_Silano
 AGG 20
 
-SUB 5 13 DM IF MIN = 45
-SUB 11 16 FW IF MIN = 60
-CHANGEPOS 7 MF IF MIN = 65
-CHANGEPOS 9 DM IF MIN = 70
-SUB 9 15 MF IF MIN = 75
-CHANGEPOS 7 DM IF MIN = 78
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 38 SCORE = 1
-TACTIC D IF MIN >= 40 SCORE >= 2
+SUB 4 13 DF IF MIN = 60
+SUB 5 14 DF IF MIN = 65
+SUB 10 16 FW IF MIN = 84
+CHANGEPOS 7 MF IF MIN = 87
+TACTIC A IF MIN >= 60 SCORE <= -2
+TACTIC A IF MIN >= 84 SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 81 SCORE >= 2
