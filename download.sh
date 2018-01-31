@@ -10,9 +10,9 @@ curl -L http://www.ssl2001.ukhome.net/free_agents.txt -o rosters/Ssl/free_agents
 
 echo "MIS Done."
 
-echo "Downloading WAT roster..."
+echo "Downloading CSK roster..."
 
-curl -L http://www.eslmanager.com/England/Premiership/Rosters/wat.txt -o rosters/Esl/wat.txt
+curl -L http://www.ffomanager.com/europe/ROE2/roster/csk.txt -o rosters/Ffo/csk.txt
 
-echo "WAT Done."
+echo "CSK Done."
 
