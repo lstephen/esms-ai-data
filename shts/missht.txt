@@ -1,34 +1,31 @@
 mis
-E
+P
 
 GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
 DF M_Tensfeldt
-DM G_C_Moore
-DM V_Barbieri
+DF G_C_Moore
+DF V_Barbieri
+DM Tarildo
 DM D_Bledsoe
 MF C_Yastrzemski
-MF Tarildo
-MF R_Gelman
 FW Camelino
+FW R_Gelman
 
 GK A_Kapustov
-DM X_Cullie
-MF C_Parry
-MF D_Tikhomirov
-AM H_Roller
+DF K_Prescott
+DF S_Dobre
+DF X_Cullie
+FW C_Parry
 
 PK: Camelino
 AGG 20
 
-SUB 7 13 DM IF MIN = 65
-SUB 6 14 MF IF MIN = 75
-CHANGEPOS 9 DM IF MIN = 78
-SUB 9 15 MF IF MIN = 87
-CHANGEPOS 10 DM IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 24 SCORE = 1
-TACTIC D IF MIN >= 39 SCORE >= 2
+SUB 6 15 DF IF MIN = 60
+SUB 7 16 MF IF MIN = 65
+TACTIC A IF MIN >= 56 SCORE <= -2
+TACTIC A IF MIN >= 75 SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 63 SCORE >= 2
