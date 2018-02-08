@@ -3,10 +3,10 @@ T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.5  -1 ||  69 || FW  
 E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  12  0.9  -1 ||  61 || AM  7 FW  6 AM  6 AM  5 AM  5 AM  4 AM  2       
 G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  0.9   7 ||  54 || AM  5 FW  4 AM  4 AM  3 AM  2 AM  2 AM  0    F  
 A_Innocenti     23 10/23/14 | DM E :  33   5 :  37 |   6  0.7   6 ||  50 || MF  1 DM  4 DM  5 DM  4 DM  4 DM  3 MF  4       
-Taison          27 10/22/14 | DM E :  32   4 :  35 |   8  0.4   2 ||  46 || AM  0 DM  3 DM  4 DM  3 DM  3 DM  3 MF  4       
+Taison          27 10/22/14 | DM E :  32   4 :  35 |   8  0.4   2 ||  46 || AM  0 DM  3 DM  4 DM  3 DM  3 DM  3 MF  4 I     
 F_Forster       27    23    | GK N :  35   0 :  35 |   8  1.0   2 ||  45 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   7  1.1   3 ||  43 || AM -2 AM  0 MF  0 AM  0 AM  0 MF  0 MF  0       
-G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   4  0.8   0 ||  43 || DF  5 DF  5 DF  4 DF  4 DF  4 DM  4 DM  8       
+G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   4  0.9   0 ||  43 || DF  5 DF  5 DF  4 DF  4 DF  4 DM  4 DM  8       
 S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.7  -1 ||  43 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
 F_Marchetti     34    25    | GK N :  38   3 :  41 |   1  1.4   0 ||  43 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 M_Yoshida       29 21/13/ 8 | DM D :  29   8 :  37 |   3  1.2   0 ||  41 || DF  4 DF  4 DF  3 DF  3 DF  3 DF  3 DM  8       
@@ -235,8 +235,8 @@ T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.5  -1 ||  69 || FW  
 E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  12  0.9  -1 ||  61 || AM  7 FW  6 AM  6 AM  5 AM  5 AM  4 AM  2       
 G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  0.9   7 ||  54 || AM  5 FW  4 AM  4 AM  3 AM  2 AM  2 AM  0    F  
 A_Innocenti     23 10/23/14 | DM E :  33   5 :  37 |   6  0.7   6 ||  50 || MF  1 DM  4 DM  5 DM  4 DM  4 DM  3 MF  4       
-Taison          27 10/22/14 | DM E :  32   4 :  35 |   8  0.4   2 ||  46 || AM  0 DM  3 DM  4 DM  3 DM  3 DM  3 MF  4       
-G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   4  0.8   0 ||  43 || DF  5 DF  5 DF  4 DF  4 DF  4 DM  4 DM  8       
+Taison          27 10/22/14 | DM E :  32   4 :  35 |   8  0.4   2 ||  46 || AM  0 DM  3 DM  4 DM  3 DM  3 DM  3 MF  4 I     
+G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   4  0.9   0 ||  43 || DF  5 DF  5 DF  4 DF  4 DF  4 DM  4 DM  8       
 F_Marchetti     34    25    | GK N :  38   3 :  41 |   1  1.4   0 ||  43 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 M_Yoshida       29 21/13/ 8 | DM D :  29   8 :  37 |   3  1.2   0 ||  41 || DF  4 DF  4 DF  3 DF  3 DF  3 DF  3 DM  8       
 P_Mertesacker   35 23/11/ 8 | DF D :  29   9 :  38 |   0  0.6   1 ||  40 || DF  5 DF  4 DF  5 DF  4 DF  4 DF  4 DF  9       
@@ -300,82 +300,81 @@ DEFENSIVE        35  21  22  26  25  20
 C_Eastmond      29 18/19/ 8 | DM D :  30   9 :  39 |   5  0.7   0 ||  44 || DF  4 DF  5 DM  6 DM  5 DM  4 DM  4 DM  9       
 A_Iwobi         21  2/20/16 | AM E :  32   1 :  33 |  -3  0.6   7 ||  38 || AM  0 AM  0 AM  1 AM  0 AM  0 MF -2 AM -2       
 L_Freeman       25  7/19/11 | MF P :  24  -2 :  22 |  -1  1.0   4 ||  25 || MF -5 MF -2 DM -2 MF -2 MF -2 DM -3 MF -2       
+M_Vrancic       27  3/19/12 | MF P :  23  -3 :  20 |  -7  1.2   2 ||  16 || MF -4 MF -3 AM -3 AM -4 MF -3 MF -4 AM -5       
 T_Tamuz         29  6/10/19 | FW N :  24  -2 :  22 | -13  1.0   0 ||  10 || FW -5 FW -4 FW -3 FW -2 FW -2 AM -3 FW -4       
 
-Forced:T_Walcott/E_Elia/G_Jesus/A_Innocenti/Taison/
+Forced:T_Walcott/E_Elia/G_Jesus/A_Innocenti/C_Hourihane/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  A     P     E     C     N     L     D   
-T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.5  -1 ||  69 || FW  6 FW  5 FW  4 FW  5 FW  4 FW  5 AM  0       
 E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  12  0.9  -1 ||  61 || AM  7 FW  6 AM  6 AM  5 AM  5 AM  4 AM  2       
-G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  0.9   7 ||  54 || AM  5 FW  4 AM  4 AM  3 AM  2 AM  2 AM  0    F  
-S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.7  -1 ||  43 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
-J_Rhodes        27  4/13/20 | FW E :  25  -1 :  24 |  -3  1.0   2 ||  24 || AM -1 FW -1 FW -1 FW -1 FW -1 AM -1 FW -3       
 F_Marchetti     34    25    | GK N :  38   3 :  41 |   1  1.4   0 ||  43 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 A_Innocenti     23 10/23/14 | DM E :  33   5 :  37 |   6  0.7   6 ||  50 || MF  1 DM  4 DM  5 DM  4 DM  4 DM  3 MF  4       
-Taison          27 10/22/14 | DM E :  32   4 :  35 |   8  0.4   2 ||  46 || AM  0 DM  3 DM  4 DM  3 DM  3 DM  3 MF  4       
-K_McLaggon      28  6/10/19 | FW N :  24  -2 :  22 |  -9  0.8   1 ||  15 || FW -5 FW -4 FW -3 FW -2 FW -2 AM -3 FW -4       
+G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  0.9   7 ||  54 || AM  5 FW  4 AM  4 AM  3 AM  2 AM  2 AM  0    F  
+T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.5  -1 ||  69 || FW  6 FW  5 FW  4 FW  5 FW  4 FW  5 AM  0       
 F_Forster       27    23    | GK N :  35   0 :  35 |   8  1.0   2 ||  45 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   7  1.1   3 ||  43 || AM -2 AM  0 MF  0 AM  0 AM  0 MF  0 MF  0       
-G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   4  0.8   0 ||  43 || DF  5 DF  5 DF  4 DF  4 DF  4 DM  4 DM  8       
-P_Mertesacker   35 23/11/ 8 | DF D :  29   9 :  38 |   0  0.6   1 ||  40 || DF  5 DF  4 DF  5 DF  4 DF  4 DF  4 DF  9       
-M_Yoshida       29 21/13/ 8 | DM D :  29   8 :  37 |   3  1.2   0 ||  41 || DF  4 DF  4 DF  3 DF  3 DF  3 DF  3 DM  8       
-J_King          25  2/ 9/17 | FW N :  20  -6 :  15 |  -8  0.2   4 ||  10 || AM -8 FW -7 FW -6 FW -7 FW -6 AM -7 FW -7       
 C_Sanchez       31 14/22/ 8 | DM D :  28   6 :  35 |  -3  0.4  -1 ||  31 || DF  1 DM  4 DM  6 DM  5 DM  4 DM  3 DM  6       
+C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   7  1.1   3 ||  43 || AM -2 AM  0 MF  0 AM  0 AM  0 MF  0 MF  0       
+G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   4  0.9   0 ||  43 || DF  5 DF  5 DF  4 DF  4 DF  4 DM  4 DM  8       
 A_Lynch         22    20    | GK N :  30  -4 :  26 |  -6  0.1   7 ||  27 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
+M_Yoshida       29 21/13/ 8 | DM D :  29   8 :  37 |   3  1.2   0 ||  41 || DF  4 DF  4 DF  3 DF  3 DF  3 DF  3 DM  8       
+P_Mertesacker   35 23/11/ 8 | DF D :  29   9 :  38 |   0  0.6   1 ||  40 || DF  5 DF  4 DF  5 DF  4 DF  4 DF  4 DF  9       
+S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.7  -1 ||  43 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
+J_Rhodes        27  4/13/20 | FW E :  25  -1 :  24 |  -3  1.0   2 ||  24 || AM -1 FW -1 FW -1 FW -1 FW -1 AM -1 FW -3       
 M_Reynolds      31 20/11/ 7 | DM D :  27   5 :  32 |  -5  0.5  -1 ||  27 || DF  1 DF  1 DF  1 DF  1 DF  1 DF  0 DM  5       
-C_Martinez      32 20/11/ 4 | DM D :  27   5 :  32 |  -5  1.2  -1 ||  27 || DF  0 DF  0 DF  0 DF  0 DF  0 DF  0 DM  5       
-R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -7  0.8   2 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
-F_Lopes         30 16/ 9/ 7 | DM D :  22   0 :  22 | -14  1.0  -1 ||   8 || DF -4 DF -5 DF -3 DF -4 DF -4 DM -4 DM  0       
 L_Hyam          26 10/18/ 5 | DM D :  22   0 :  22 |  -4  0.4   3 ||  20 || DF -6 DM -2 DM -2 DM -2 DM -3 DM -4 DM  0       
+R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -7  0.8   2 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
+C_Martinez      32 20/11/ 4 | DM D :  27   5 :  32 |  -5  1.2  -1 ||  27 || DF  0 DF  0 DF  0 DF  0 DF  0 DF  0 DM  5       
+K_McLaggon      28  6/10/19 | FW N :  24  -2 :  22 |  -9  0.8   1 ||  15 || FW -5 FW -4 FW -3 FW -2 FW -2 AM -3 FW -4       
+J_King          25  2/ 9/17 | FW N :  20  -6 :  15 |  -8  0.2   4 ||  10 || AM -8 FW -7 FW -6 FW -7 FW -6 AM -7 FW -7       
+F_Lopes         30 16/ 9/ 7 | DM D :  22   0 :  22 | -14  1.0  -1 ||   8 || DF -4 DF -5 DF -3 DF -4 DF -4 DM -4 DM  0       
 
-ATTACKING
+EUROPEAN
 GK F_Marchetti
 DF P_Mertesacker
 DF G_Bianco
 DF M_Yoshida
-DF C_Martinez
 DF M_Reynolds
-DM A_Innocenti
-DM Taison
-AM E_Elia
-AM G_Jesus
-FW T_Walcott
+DM C_Sanchez
+MF A_Innocenti
+MF E_Elia
+MF C_Hourihane
+MF G_Jesus
+AM T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      38      38      38      38      38      38      38 
-  TACKLING     121     145     115     124     133     121     122 
-   PASSING     110      76     119     112      89     131     111 
-  SHOOTING      70      36     115      70      89      67      72 
-   SH Mean      19      22      19      19      20      19      18 
+  TACKLING     103     138      92     109     117     101     102 
+   PASSING     143     101     144     142     110     154     159 
+  SHOOTING      49      26      99      45      76      44      60 
+   SH Mean      17      21      17      18      19      17      17 
  SH Median      20      20      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      19      13      21      19      17      20      19 
+  SH Bonus      21      15      24      21      19      22      23 
    GK Qual      25      25      25      25      25      25      25 
-  GK Bonus      22      18      25      22      21      24      23 
-       Agg      26      26      26      26      26      26      26 
-   Scoring      97      62     117      98      89     110      98 
- Defending     121     145     115     124     133     121     122 
-   Overall     257     214     279     260     252     273     259 
+  GK Bonus      26      19      30      25      23      27      28 
+       Agg      25      25      25      25      25      25      25 
+   Scoring     111      76     129     110      99     117     126 
+ Defending     103     138      92     109     117     101     102 
+   Overall     261     234     268     264     256     266     276 
 
 GK F_Forster
-DM C_Sanchez
-AM C_Hourihane
-FW S_Doumbia
-FW J_Rhodes
+GK A_Lynch
+DM C_Martinez
+MF L_Hyam
+AM S_Doumbia
 
 SUB GK F_Forster GK IF INJURED GK
-SUB DF C_Sanchez DF IF INJURED DF
-SUB DM C_Sanchez DM IF INJURED DM
-SUB MF C_Sanchez MF IF INJURED MF
-SUB AM C_Sanchez AM IF INJURED AM
+SUB DF C_Martinez DF IF INJURED DF
+SUB DM L_Hyam DM IF INJURED DM
+SUB MF L_Hyam MF IF INJURED MF
+SUB AM L_Hyam AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
-SUB A_Innocenti C_Sanchez DM IF MIN = 60
-SUB T_Walcott S_Doumbia FW IF MIN = 65
-SUB Taison C_Hourihane DM IF MIN = 78
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 60 SCORE = 1
-TACTIC L IF MIN >= 62 SCORE >= 2
+SUB C_Hourihane S_Doumbia AM IF MIN = 60
+SUB T_Walcott C_Martinez DM IF MIN = 65
+TACTIC A IF MIN >= 70 SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC E IF SCORE = 1
+TACTIC D IF MIN >= 61 SCORE >= 2
 
 
