@@ -8,13 +8,13 @@ DF C_Martinez
 DF M_Reynolds
 DF C_Sanchez
 DM A_Innocenti
-DM C_Hourihane
+DM Taison
 AM E_Elia
 AM G_Jesus
 FW T_Walcott
 
 GK F_Forster
-DF F_Lopes
+AM C_Hourihane
 FW S_Doumbia
 FW J_Rhodes
 FW K_McLaggon
@@ -22,10 +22,10 @@ FW K_McLaggon
 PK: T_Walcott
 AGG 20
 
-SUB 11 14 FW IF MIN = 55
-SUB 8 15 FW IF MIN = 60
+SUB 8 13 DM IF MIN = 60
+SUB 11 14 FW IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 48 SCORE = 1
-TACTIC P IF MIN >= 24 SCORE >= 2
+TACTIC P IF MIN >= 44 SCORE = 1
+TACTIC L IF MIN >= 62 SCORE >= 2
