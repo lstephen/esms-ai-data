@@ -3,32 +3,32 @@ P
 
 GK R_Ceni
 DF A_Wisdom
-DF E_Plummer
-DF I_Hack
-DF T_Manniman
-DF D_McHale
+DF W_Morgan
+DF X_Alonso
+DF S_Howey
+DF E_Gabor
 DF Doriva
-DM E_Gabor
-DM C_McGregor
+MF R_Pires
+MF M_James
 FW R_Sharp
 FW Hugo_Sanchez
 
 GK C_Poenaru
-DF X_Alonso
-DF S_Howey
-FW R_Pires
+DF D_McHale
+FW A_Johnson
 FW T_Hurlock
+FW B_Celina
 
 PK: R_Sharp
 AGG 20
 
-SUB 10 16 FW IF MIN = 45
-SUB 4 13 DF IF MIN = 50
-SUB 11 15 FW IF MIN = 65
+SUB 10 14 FW IF MIN = 45
+SUB 11 15 FW IF MIN = 50
+SUB 9 16 MF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 82 SCORE >= 2
+TACTIC D IF MIN >= 72 SCORE >= 2
 SUB 2 13 DF IF SCORE <= -3
 SUB 2 13 DF IF SCORE >= 3
