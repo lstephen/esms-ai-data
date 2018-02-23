@@ -14,7 +14,7 @@ FW R_Gelman
 FW L_Selders
 
 DF K_Prescott
-DF S_Dobre
+DF I_Yolkin
 DF X_Cullie
 DF Tarildo
 FW C_Parry
@@ -22,8 +22,9 @@ FW C_Parry
 PK: Camelino
 AGG 20
 
-SUB 6 14 DF IF MIN = 65
-SUB 8 16 MF IF MIN = 75
+SUB 6 14 DF IF MIN = 60
+SUB 8 16 DM IF MIN = 75
+CHANGEPOS 16 MF IF MIN = 78
 TACTIC A IF MIN >= 31 SCORE <= -2
 TACTIC A IF MIN >= 70 SCORE = -1
 TACTIC P IF SCORE = 0
