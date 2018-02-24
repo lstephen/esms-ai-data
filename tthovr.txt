@@ -370,7 +370,7 @@ DEFENSIVE        30  32  33  36  32  28
               COUNTER_ATTACK    27    21    23    30    22    25 
                    LONG_BALL    27                25          26 
                      PASSING    27    23                      23 
-                    EUROPEAN    27    27    21    25    22       
+                    EUROPEAN    27    27    21    25    22    27 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     L     N     D   
@@ -577,7 +577,7 @@ GK C_Poenaru
 DM E_Plummer
 MF A_Johnson
 MF D_McHale
-AM G_Weah
+FW G_Weah
 
 SUB GK C_Poenaru GK IF INJURED GK
 SUB DF E_Plummer DF IF INJURED DF
@@ -586,10 +586,10 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
-SUB T_Hurlock A_Johnson MF IF MIN = 55
-SUB I_Hack E_Plummer DF IF MIN = 60
-SUB Hugo_Sanchez G_Weah FW IF MIN = 75
-TACTIC A IF MIN >= 82 SCORE <= -2
+SUB I_Hack E_Plummer DF IF MIN = 55
+SUB T_Hurlock A_Johnson MF IF MIN = 60
+SUB Hugo_Sanchez G_Weah FW IF MIN = 70
+TACTIC A IF MIN >= 88 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 37 SCORE = 1
@@ -649,7 +649,7 @@ FW C_Sandulescu
 
 DM E_Banciu
 DM J_Milburn
-MF N_Barbulescu
+DM N_Barbulescu
 AM E_Davids
 AM R_Giurgiu
 
@@ -660,8 +660,8 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB Ridoutkha J_Milburn DM IF MIN = 55
-SUB C_Sandulescu R_Giurgiu FW IF MIN = 60
+SUB Ridoutkha J_Milburn DM IF MIN = 50
+SUB C_Sandulescu R_Giurgiu FW IF MIN = 55
 SUB I_Muresanu E_Banciu DF IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
