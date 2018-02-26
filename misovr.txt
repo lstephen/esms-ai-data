@@ -374,7 +374,7 @@ DEFENSIVE        29  27  29  31  30  26
                    DEFENSIVE    24    18          20    21    19 
                    ATTACKING    24    18          24          31 
               COUNTER_ATTACK    24    18    23          21    25 
-                   LONG_BALL    24    19          20          25 
+                   LONG_BALL    24    19          20    25    25 
                      PASSING    24    19                      24 
                     EUROPEAN    24    17    19    28    26    22 
 
@@ -517,10 +517,10 @@ FW L_Selders
    Overall     289     236     311     293     280     318     279 
 
 DF K_Prescott
+DF S_Dobre
 DF X_Cullie
 DF Tarildo
 FW C_Parry
-FW D_Tikhomirov
 
 SUB GK K_Prescott GK IF INJURED GK
 SUB DF K_Prescott DF IF INJURED DF
@@ -601,9 +601,9 @@ SUB MF N_Parasca MF IF INJURED MF
 SUB AM N_Parasca AM IF INJURED AM
 SUB FW V_Zefirov FW IF INJURED FW
 
-SUB E_Petrescu E_Silivasi DF IF MIN = 60
-SUB Q_Detert N_Parasca DF IF MIN = 65
-SUB D_Lungu V_Zefirov FW IF MIN = 78
+SUB E_Petrescu E_Silivasi DF IF MIN = 55
+SUB D_Lungu V_Zefirov FW IF MIN = 60
+SUB Q_Detert N_Parasca DF IF MIN = 81
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
