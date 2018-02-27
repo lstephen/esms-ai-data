@@ -1,11 +1,11 @@
 mis
 P
 
-GK A_Kapustov
+GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
-DF M_Tensfeldt
 DF G_C_Moore
+DF M_Tensfeldt
 DF V_Barbieri
 DM D_Bledsoe
 MF C_Yastrzemski
@@ -13,7 +13,7 @@ FW Camelino
 FW R_Gelman
 FW L_Selders
 
-DF K_Prescott
+GK A_Kapustov
 DF S_Dobre
 DF X_Cullie
 DF Tarildo
@@ -24,8 +24,8 @@ AGG 20
 
 SUB 6 14 DF IF MIN = 50
 SUB 8 16 MF IF MIN = 70
-TACTIC A IF MIN >= 31 SCORE <= -2
-TACTIC A IF MIN >= 70 SCORE = -1
+TACTIC A IF MIN >= 27 SCORE <= -2
+TACTIC A IF MIN >= 61 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 68 SCORE >= 2
+TACTIC L IF MIN >= 70 SCORE >= 2
