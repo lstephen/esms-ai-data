@@ -1,29 +1,29 @@
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
-T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  14  0.7  -1 ||  67 || FW  4 FW  6 FW  5 FW  5 FW  4 FW  5 AM  0       
-E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  10  1.0  -1 ||  60 || AM  6 AM  7 FW  6 AM  5 AM  5 AM  4 AM  2       
-G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  1.1   7 ||  54 || AM  4 AM  5 FW  4 AM  3 AM  2 AM  2 AM  0    F  
-G_Bianco        29 21/14/10 | MF D :  34   9 :  43 |   7  1.1   0 ||  51 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 MF  9  S    
-A_Innocenti     23 10/23/15 | MF D :  30   6 :  36 |   5  0.6   6 ||  48 || MF  5 DM  4 DF  5 DM  4 DM  4 DM  4 MF  6       
-F_Forster       27    23    | GK N :  35   0 :  35 |   8  1.0   2 ||  46 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-Taison          27 10/22/14 | MF D :  29   5 :  34 |   8  0.4   2 ||  44 || DM  4 DF  3 DF  4 DM  3 DM  3 DM  3 MF  5  S    
-F_Marchetti     34    26    | GK N :  39   5 :  44 |   1  0.1   0 ||  44 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
-P_Mertesacker   35 23/11/ 8 | DF L :  33   9 :  42 |   0  1.1   1 ||  44 || DF  8 DF  8 DF  6 DF  8 DF  8 DF  9 DF  9       
-S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   0  1.8  -1 ||  41 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
-C_Sanchez       31 14/22/ 8 | MF D :  32   8 :  40 |   0  0.6  -1 ||  40 || DM  6 DF  4 DF  6 DF  5 DF  5 DF  6 MF  8       
-C_Hourihane     26  8/20/14 | MF D :  26   1 :  27 |   2  1.1   3 ||  33 || MF  0 MF  0 AM  0 AM  0 AM  0 MF  0 MF  1       
-M_Reynolds      31 20/11/ 7 | DF L :  29   6 :  35 |  -4  0.8  -1 ||  30 || DF  5 DF  4 DF  3 DF  5 DF  5 DF  6 DM  5       
-C_Martinez      32 20/11/ 4 | DF L :  29   5 :  34 |  -5  1.4  -1 ||  29 || DF  3 DF  3 DF  2 DF  4 DF  4 DF  5 DM  5       
-A_Lynch         22    20    | GK N :  30  -4 :  26 |  -5  0.1   7 ||  27 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
-L_Hyam          26 10/18/ 5 | MF D :  25   0 :  25 |  -1  0.5   3 ||  27 || DM -2 DF -3 DF -2 DF -2 DF -2 DF -1 MF  0       
-J_Rhodes        27  4/13/20 | FW E :  25  -1 :  24 |  -2  1.1   2 ||  25 || FW -1 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
-R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -7  0.8   2 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
-K_McLaggon      28  6/10/19 | FW N :  24  -2 :  22 |  -8  0.8   1 ||  15 || FW -3 DF -4 FW -4 FW -2 FW -2 AM -3 FW -4       
-J_King          25  2/ 9/17 | FW N :  20  -6 :  15 |  -8  0.2   4 ||  11 || FW -6 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
-F_Lopes         30 16/ 9/ 7 | DF L :  24   0 :  24 | -15  1.2  -1 ||   9 || DF  0 DF -1 DF -2 DF  0 DF  0 DF  0 DM  0       
+T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.7  -1 ||  70 || AM  0 FW  6 FW  5 FW  5 FW  4 FW  5 AM  0       
+E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  12  1.1  -1 ||  61 || MF  4 AM  7 FW  6 AM  5 AM  5 AM  4 AM  2  S    
+A_Innocenti     23 10/23/15 | MF E :  37   5 :  42 |   8  0.9   6 ||  56 || MF  5 AM  2 DM  4 DM  4 DM  4 DM  4 MF  4       
+G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  1.1   7 ||  54 || MF  1 AM  5 FW  4 AM  3 AM  2 AM  2 AM  0    F  
+G_Junior        24 19/15/ 3 | DM D :  29   7 :  36 |   5  0.7   5 ||  46 || DF  3 DF  0 DF  2 DM  1 DF  1 DF  1 DM  7       
+F_Marchetti     34    26    | GK N :  39   5 :  44 |   3  0.1   0 ||  46 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
+Taison          27 10/22/14 | DM E :  32   4 :  35 |   6  0.4   2 ||  44 || DM  4 AM  0 DM  3 DM  3 DM  3 DM  3 MF  4  S    
+C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   6  1.2   3 ||  43 || MF  0 AM -2 AM  0 AM  0 AM  0 MF  0 MF  0       
+F_Forster       27    23    | GK N :  35   0 :  35 |   6  1.0   2 ||  43 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.8  -1 ||  43 || FW -4 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
+G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   1  1.0   0 ||  40 || DF  8 DF  5 DF  5 DF  4 DF  4 DM  4 DM  8  S    
+P_Mertesacker   35 23/11/ 8 | DF D :  29   9 :  38 |   0  0.8   1 ||  40 || DF  8 DF  5 DF  4 DF  4 DF  4 DF  4 DF  9       
+J_Rhodes        27  4/13/20 | FW P :  31  -1 :  30 |   1  1.4   2 ||  34 || FW -5 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
+C_Sanchez       31 14/22/ 8 | DM D :  28   6 :  35 |  -3  0.6  -1 ||  31 || DM  6 DF  1 DM  4 DM  5 DM  4 DM  3 DM  6       
+M_Reynolds      31 20/11/ 7 | DM D :  27   5 :  32 |  -5  0.7  -1 ||  27 || DF  5 DF  1 DF  1 DF  1 DF  1 DF  0 DM  5       
+C_Martinez      32 20/11/ 4 | DM D :  27   5 :  32 |  -5  1.4  -1 ||  27 || DF  3 DF  0 DF  0 DF  0 DF  0 DF  0 DM  5       
+A_Lynch         22    20    | GK N :  30  -4 :  26 |  -8  0.1   7 ||  24 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
+L_Hyam          26 10/18/ 5 | DM D :  22   0 :  22 |  -5  0.4   3 ||  20 || DM -2 DF -6 DM -2 DM -2 DM -3 DM -4 DM  0       
+R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -9  0.8   2 ||  13 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
+F_Lopes         30 16/ 9/ 7 | DM D :  22   0 :  22 | -14  1.1  -1 ||   8 || DF  0 DF -4 DF -5 DF -4 DF -4 DM -4 DM  0       
+J_King          25  2/ 9/17 | FW N :  20  -6 :  15 | -12  0.2   4 ||   7 || FW-10 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
 
  20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
- 46    26 36    15 26 28 22 43 38 37 41    44 42
-    36 31 31 25 22 25 26 29 35 39 39 40 42 43   
+ 46    26 42 36 15 27 30    38 37 34 41    44 38
+    36 34 34 31 26 27 29 31 38 36 38 38 41 41   
 
 ** 1st XI **
 EUROPEAN
@@ -32,27 +32,27 @@ DF P_Mertesacker
 DF G_Bianco
 DF C_Martinez
 DF M_Reynolds
+DM G_Junior
 DM C_Sanchez
 MF A_Innocenti
 MF Taison
 MF E_Elia
 MF G_Jesus
-AM T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     102     139      91     109     117     101     102 
-   PASSING     144     102     145     143     110     155     161 
-  SHOOTING      48      26      98      45      76      43      58 
-   SH Mean      18      21      18      18      19      18      17 
- SH Median      20      20      20      20      20      20      20 
-    SH Max      24      24      24      24      24      24      24 
-  SH Bonus      21      15      24      21      19      22      23 
+  TACKLING     114     156     101     122     130     112     115 
+   PASSING     143     101     144     142     111     154     160 
+  SHOOTING      33      14      72      27      53      28      41 
+   SH Mean      14      18      15      14      16      14      14 
+ SH Median      15      20      15      15      15      14      15 
+    SH Max      20      20      20      20      20      20      20 
+  SH Bonus      16      12      18      15      14      16      17 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      27      20      31      26      24      28      29 
+  GK Bonus      25      19      28      24      22      26      27 
        Agg      26      26      26      26      26      26      26 
-   Scoring     112      76     129     110      99     117     127 
- Defending     102     139      91     109     117     101     102 
-   Overall     262     236     268     266     257     267     277 
+   Scoring     106      72     120     104      92     112     120 
+ Defending     114     156     101     122     130     112     115 
+   Overall     260     236     265     263     253     266     279 
 
 ** 1st XI **
 ATTACKING
@@ -61,35 +61,35 @@ DF P_Mertesacker
 DF G_Bianco
 DF C_Martinez
 DF M_Reynolds
-DF C_Sanchez
+DF G_Junior
 DM A_Innocenti
-DM Taison
+DM C_Sanchez
 AM E_Elia
 AM G_Jesus
 FW T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     114     137     108     117     125     114     115 
-   PASSING     115      78     123     116      94     138     114 
-  SHOOTING      71      36     115      71      89      67      72 
-   SH Mean      19      22      19      19      20      19      18 
+  TACKLING     122     147     115     125     134     121     123 
+   PASSING     111      76     120     113      90     132     112 
+  SHOOTING      67      36     110      68      86      64      69 
+   SH Mean      19      22      19      19      20      19      19 
  SH Median      20      20      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      20      14      22      20      18      21      19 
+  SH Bonus      19      13      21      19      17      20      18 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      24      19      28      24      23      26      24 
-       Agg      26      26      26      26      26      26      26 
-   Scoring     100      64     120     101      93     114     100 
- Defending     114     137     108     117     125     114     115 
-   Overall     258     214     277     260     254     275     257 
+  GK Bonus      23      19      26      23      22      25      23 
+       Agg      25      25      25      25      25      25      25 
+   Scoring      97      63     116      98      89     110      98 
+ Defending     122     147     115     125     134     121     123 
+   Overall     258     217     278     261     253     275     260 
 
 ** 1st XI **
 PASSING
 GK F_Marchetti
 DF P_Mertesacker
 DF G_Bianco
-DF C_Martinez
 DF M_Reynolds
+DF G_Junior
 DF C_Sanchez
 DM A_Innocenti
 DM Taison
@@ -98,27 +98,27 @@ FW G_Jesus
 FW T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     114     135     108     118     124     114     115 
-   PASSING      91      61     113     102      86     134      89 
-  SHOOTING      84      42     129      81     101      81      80 
+  TACKLING     113     134     107     117     123     113     114 
+   PASSING      93      62     115     104      88     137      90 
+  SHOOTING      84      42     129      80     101      81      80 
    SH Mean      19      21      19      19      20      19      19 
  SH Median      20      20      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      18      13      22      19      18      21      18 
+  SH Bonus      19      13      22      19      18      22      18 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      23      18      27      23      23      26      23 
-       Agg      26      26      26      26      26      26      26 
-   Scoring      89      55     118      95      91     116      86 
- Defending     114     135     108     118     124     114     115 
-   Overall     241     196     275     252     251     277     238 
+  GK Bonus      23      18      27      24      23      27      23 
+       Agg      25      25      25      25      25      25      25 
+   Scoring      90      55     119      96      93     118      87 
+ Defending     113     134     107     117     123     113     114 
+   Overall     243     197     275     254     253     278     238 
 
 ** 1st XI **
 COUNTER_ATTACK
 GK F_Marchetti
 DF P_Mertesacker
 DF G_Bianco
-DF C_Martinez
 DF M_Reynolds
+DF G_Junior
 DM C_Sanchez
 MF A_Innocenti
 MF Taison
@@ -127,27 +127,27 @@ AM G_Jesus
 AM T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     102     136      91     107     116     101     101 
-   PASSING     138      97     141     137     102     148     150 
-  SHOOTING      63      38     114      65      90      59      72 
+  TACKLING     101     135      90     106     115     100     100 
+   PASSING     140      98     143     139     104     151     152 
+  SHOOTING      62      38     113      64      90      59      72 
    SH Mean      18      20      18      19      19      18      18 
  SH Median      20      20      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      22      16      24      21      19      22      23 
+  SH Bonus      22      16      25      22      19      23      23 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      27      20      32      27      24      28      29 
-       Agg      26      26      26      26      26      26      26 
-   Scoring     113      78     132     113      98     119     124 
- Defending     102     136      91     107     116     101     101 
-   Overall     264     237     270     268     255     269     275 
+  GK Bonus      28      21      32      27      24      29      29 
+       Agg      25      25      25      25      25      25      25 
+   Scoring     114      78     133     114      99     120     125 
+ Defending     101     135      90     106     115     100     100 
+   Overall     264     237     270     268     257     270     274 
 
 ** 1st XI **
 NORMAL
 GK F_Marchetti
 DF P_Mertesacker
 DF G_Bianco
-DF C_Martinez
 DF M_Reynolds
+DF G_Junior
 DM Taison
 DM C_Sanchez
 MF A_Innocenti
@@ -156,27 +156,27 @@ AM G_Jesus
 AM T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     106     136      96     110     118     105     106 
-   PASSING     135      95     138     133     100     145     145 
-  SHOOTING      63      35     110      65      88      58      69 
+  TACKLING     105     135      95     109     117     104     105 
+   PASSING     137      96     140     135     102     148     146 
+  SHOOTING      62      35     110      64      88      58      69 
    SH Mean      18      21      18      19      19      18      18 
  SH Median      20      20      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      21      15      24      21      19      22      22 
+  SH Bonus      21      16      24      21      19      22      22 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      27      20      30      26      24      27      28 
-       Agg      26      26      26      26      26      26      26 
-   Scoring     111      75     129     110      96     116     120 
- Defending     106     136      96     110     118     105     106 
-   Overall     265     233     274     267     254     269     274 
+  GK Bonus      27      20      31      26      24      28      28 
+       Agg      25      25      25      25      25      25      25 
+   Scoring     112      76     130     112      97     118     120 
+ Defending     105     135      95     109     117     104     105 
+   Overall     265     234     274     268     256     271     274 
 
 ** 1st XI **
 LONG_BALL
 GK F_Marchetti
 DF P_Mertesacker
 DF G_Bianco
-DF C_Martinez
 DF M_Reynolds
+DF G_Junior
 DF C_Sanchez
 MF A_Innocenti
 MF Taison
@@ -185,262 +185,259 @@ MF G_Jesus
 AM T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     107     141      98     112     122     106     105 
-   PASSING     135      93     136     135     110     152     145 
-  SHOOTING      48      26      98      45      73      44      60 
-   SH Mean      18      21      18      18      19      17      17 
+  TACKLING     106     140      97     111     121     105     104 
+   PASSING     137      94     138     137     113     155     147 
+  SHOOTING      48      26      97      44      72      44      60 
+   SH Mean      18      21      18      18      19      18      17 
  SH Median      20      20      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      20      14      23      20      19      21      21 
+  SH Bonus      21      15      23      20      19      22      22 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      26      20      29      25      23      27      27 
-       Agg      26      26      26      26      26      26      26 
-   Scoring     106      71     123     105      98     116     117 
- Defending     107     141      98     112     122     106     105 
-   Overall     260     228     271     262     259     270     271 
+  GK Bonus      26      20      30      25      24      28      28 
+       Agg      25      25      25      25      25      25      25 
+   Scoring     107      71     124     106      99     118     118 
+ Defending     106     140      97     111     121     105     104 
+   Overall     260     228     271     263     261     271     270 
 
 ** 1st XI **
 DEFENSIVE
 GK F_Marchetti
 DF P_Mertesacker
-DF G_Bianco
 DF C_Martinez
 DF M_Reynolds
+DF G_Junior
+MF G_Bianco
 MF A_Innocenti
 MF Taison
 MF C_Sanchez
-MF C_Hourihane
 AM E_Elia
 AM G_Jesus
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING      98     142      84     107     115      96      95 
-   PASSING     147     104     148     146     110     158     165 
-  SHOOTING      51      30      99      50      76      47      62 
-   SH Mean      16      18      16      17      17      16      16 
- SH Median      20      20      15      20      20      20      15 
+  TACKLING     100     153      82     111     120      97      97 
+   PASSING     142     100     143     141     107     153     158 
+  SHOOTING      48      29      92      47      73      44      58 
+   SH Mean      16      18      15      16      16      16      15 
+ SH Median      20      20      15      20      20      20      20 
     SH Max      20      20      20      20      20      20      20 
-  SH Bonus      20      14      21      20      17      21      19 
+  SH Bonus      19      13      20      19      17      20      21 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      28      20      33      27      24      29      31 
+  GK Bonus      27      20      33      26      23      29      30 
        Agg      26      26      26      26      26      26      26 
-   Scoring     115      80     132     114      99     121     131 
- Defending      98     142      84     107     115      96      95 
-   Overall     260     242     257     267     254     264     270 
+   Scoring     110      77     126     110      95     117     124 
+ Defending     100     153      82     111     120      97      97 
+   Overall     257     242     250     265     252     261     268 
 
 ** First XI **
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
-T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  14  0.7  -1 ||  67 || FW  4 FW  6 FW  5 FW  5 FW  4 FW  5 AM  0       
-E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  10  1.0  -1 ||  60 || AM  6 AM  7 FW  6 AM  5 AM  5 AM  4 AM  2       
-G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  1.1   7 ||  54 || AM  4 AM  5 FW  4 AM  3 AM  2 AM  2 AM  0    F  
-G_Bianco        29 21/14/10 | MF D :  34   9 :  43 |   7  1.1   0 ||  51 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 MF  9  S    
-A_Innocenti     23 10/23/15 | MF D :  30   6 :  36 |   5  0.6   6 ||  48 || MF  5 DM  4 DF  5 DM  4 DM  4 DM  4 MF  6       
-Taison          27 10/22/14 | MF D :  29   5 :  34 |   8  0.4   2 ||  44 || DM  4 DF  3 DF  4 DM  3 DM  3 DM  3 MF  5  S    
-F_Marchetti     34    26    | GK N :  39   5 :  44 |   1  0.1   0 ||  44 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
-P_Mertesacker   35 23/11/ 8 | DF L :  33   9 :  42 |   0  1.1   1 ||  44 || DF  8 DF  8 DF  6 DF  8 DF  8 DF  9 DF  9       
-C_Sanchez       31 14/22/ 8 | MF D :  32   8 :  40 |   0  0.6  -1 ||  40 || DM  6 DF  4 DF  6 DF  5 DF  5 DF  6 MF  8       
-M_Reynolds      31 20/11/ 7 | DF L :  29   6 :  35 |  -4  0.8  -1 ||  30 || DF  5 DF  4 DF  3 DF  5 DF  5 DF  6 DM  5       
-C_Martinez      32 20/11/ 4 | DF L :  29   5 :  34 |  -5  1.4  -1 ||  29 || DF  3 DF  3 DF  2 DF  4 DF  4 DF  5 DM  5       
+T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.7  -1 ||  70 || AM  0 FW  6 FW  5 FW  5 FW  4 FW  5 AM  0       
+E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  12  1.1  -1 ||  61 || MF  4 AM  7 FW  6 AM  5 AM  5 AM  4 AM  2  S    
+A_Innocenti     23 10/23/15 | MF E :  37   5 :  42 |   8  0.9   6 ||  56 || MF  5 AM  2 DM  4 DM  4 DM  4 DM  4 MF  4       
+G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  1.1   7 ||  54 || MF  1 AM  5 FW  4 AM  3 AM  2 AM  2 AM  0    F  
+G_Junior        24 19/15/ 3 | DM D :  29   7 :  36 |   5  0.7   5 ||  46 || DF  3 DF  0 DF  2 DM  1 DF  1 DF  1 DM  7       
+F_Marchetti     34    26    | GK N :  39   5 :  44 |   3  0.1   0 ||  46 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
+Taison          27 10/22/14 | DM E :  32   4 :  35 |   6  0.4   2 ||  44 || DM  4 AM  0 DM  3 DM  3 DM  3 DM  3 MF  4  S    
+G_Bianco        29 21/14/10 | DM D :  30   8 :  38 |   1  1.0   0 ||  40 || DF  8 DF  5 DF  5 DF  4 DF  4 DM  4 DM  8  S    
+P_Mertesacker   35 23/11/ 8 | DF D :  29   9 :  38 |   0  0.8   1 ||  40 || DF  8 DF  5 DF  4 DF  4 DF  4 DF  4 DF  9       
+C_Sanchez       31 14/22/ 8 | DM D :  28   6 :  35 |  -3  0.6  -1 ||  31 || DM  6 DF  1 DM  4 DM  5 DM  4 DM  3 DM  6       
+M_Reynolds      31 20/11/ 7 | DM D :  27   5 :  32 |  -5  0.7  -1 ||  27 || DF  5 DF  1 DF  1 DF  1 DF  1 DF  0 DM  5       
+C_Martinez      32 20/11/ 4 | DM D :  27   5 :  32 |  -5  1.4  -1 ||  27 || DF  3 DF  0 DF  0 DF  0 DF  0 DF  0 DM  5       
 
 ** First Squad (21) **
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
-F_Forster       27    23    | GK N :  35   0 :  35 |   8  1.0   2 ||  46 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   0  1.8  -1 ||  41 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
-C_Hourihane     26  8/20/14 | MF D :  26   1 :  27 |   2  1.1   3 ||  33 || MF  0 MF  0 AM  0 AM  0 AM  0 MF  0 MF  1       
-A_Lynch         22    20    | GK N :  30  -4 :  26 |  -5  0.1   7 ||  27 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
-L_Hyam          26 10/18/ 5 | MF D :  25   0 :  25 |  -1  0.5   3 ||  27 || DM -2 DF -3 DF -2 DF -2 DF -2 DF -1 MF  0       
-J_Rhodes        27  4/13/20 | FW E :  25  -1 :  24 |  -2  1.1   2 ||  25 || FW -1 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
-R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -7  0.8   2 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
-K_McLaggon      28  6/10/19 | FW N :  24  -2 :  22 |  -8  0.8   1 ||  15 || FW -3 DF -4 FW -4 FW -2 FW -2 AM -3 FW -4       
-J_King          25  2/ 9/17 | FW N :  20  -6 :  15 |  -8  0.2   4 ||  11 || FW -6 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
-F_Lopes         30 16/ 9/ 7 | DF L :  24   0 :  24 | -15  1.2  -1 ||   9 || DF  0 DF -1 DF -2 DF  0 DF  0 DF  0 DM  0       
+C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   6  1.2   3 ||  43 || MF  0 AM -2 AM  0 AM  0 AM  0 MF  0 MF  0       
+F_Forster       27    23    | GK N :  35   0 :  35 |   6  1.0   2 ||  43 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.8  -1 ||  43 || FW -4 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
+J_Rhodes        27  4/13/20 | FW P :  31  -1 :  30 |   1  1.4   2 ||  34 || FW -5 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
+A_Lynch         22    20    | GK N :  30  -4 :  26 |  -8  0.1   7 ||  24 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
+L_Hyam          26 10/18/ 5 | DM D :  22   0 :  22 |  -5  0.4   3 ||  20 || DM -2 DF -6 DM -2 DM -2 DM -3 DM -4 DM  0       
+R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -9  0.8   2 ||  13 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
+F_Lopes         30 16/ 9/ 7 | DM D :  22   0 :  22 | -14  1.1  -1 ||   8 || DF  0 DF -4 DF -5 DF -4 DF -4 DM -4 DM  0       
+J_King          25  2/ 9/17 | FW N :  20  -6 :  15 | -12  0.2   4 ||   7 || FW-10 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
 
 ** Training Squad **
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
-F_Forster       27    23    | GK N :  35   0 :  35 |   8  1.0   2 ||  46 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   0  1.8  -1 ||  41 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
-C_Hourihane     26  8/20/14 | MF D :  26   1 :  27 |   2  1.1   3 ||  33 || MF  0 MF  0 AM  0 AM  0 AM  0 MF  0 MF  1       
-A_Lynch         22    20    | GK N :  30  -4 :  26 |  -5  0.1   7 ||  27 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
-L_Hyam          26 10/18/ 5 | MF D :  25   0 :  25 |  -1  0.5   3 ||  27 || DM -2 DF -3 DF -2 DF -2 DF -2 DF -1 MF  0       
-J_Rhodes        27  4/13/20 | FW E :  25  -1 :  24 |  -2  1.1   2 ||  25 || FW -1 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
-R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -7  0.8   2 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
-K_McLaggon      28  6/10/19 | FW N :  24  -2 :  22 |  -8  0.8   1 ||  15 || FW -3 DF -4 FW -4 FW -2 FW -2 AM -3 FW -4       
-J_King          25  2/ 9/17 | FW N :  20  -6 :  15 |  -8  0.2   4 ||  11 || FW -6 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
-F_Lopes         30 16/ 9/ 7 | DF L :  24   0 :  24 | -15  1.2  -1 ||   9 || DF  0 DF -1 DF -2 DF  0 DF  0 DF  0 DM  0       
+C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   6  1.2   3 ||  43 || MF  0 AM -2 AM  0 AM  0 AM  0 MF  0 MF  0       
+F_Forster       27    23    | GK N :  35   0 :  35 |   6  1.0   2 ||  43 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.8  -1 ||  43 || FW -4 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
+J_Rhodes        27  4/13/20 | FW P :  31  -1 :  30 |   1  1.4   2 ||  34 || FW -5 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
+A_Lynch         22    20    | GK N :  30  -4 :  26 |  -8  0.1   7 ||  24 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
+L_Hyam          26 10/18/ 5 | DM D :  22   0 :  22 |  -5  0.4   3 ||  20 || DM -2 DF -6 DM -2 DM -2 DM -3 DM -4 DM  0       
+R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -9  0.8   2 ||  13 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
+F_Lopes         30 16/ 9/ 7 | DM D :  22   0 :  22 | -14  1.1  -1 ||   8 || DF  0 DF -4 DF -5 DF -4 DF -4 DM -4 DM  0       
+J_King          25  2/ 9/17 | FW N :  20  -6 :  15 | -12  0.2   4 ||   7 || FW-10 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
 
 ** Remaining **
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
 
 ** Replacement Level **
-EUROPEAN         35  22  28  33  32  26 
-ATTACKING        35  25  29  31  36  40 
-PASSING          35  27  25  26  28  32 
-COUNTER_ATTACK   35  22  27  28  30  30 
-NORMAL           35  23  27  27  29  26 
-LONG_BALL        35  24  25  27  29  32 
-DEFENSIVE        35  21  22  25  25  20 
+EUROPEAN         35  22  28  33  35  30 
+ATTACKING        35  28  32  33  36  40 
+PASSING          35  29  25  26  28  32 
+COUNTER_ATTACK   35  27  27  28  30  30 
+NORMAL           35  27  27  27  29  26 
+LONG_BALL        35  29  25  27  29  32 
+DEFENSIVE        35  21  22  26  25  20 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     4     5     2     0     8     2 
+                       Count     4     6     2     0     8     1 
                          Max    39    31    31    31    34    30 
-                  1st XI (N)    39    27    31    27    31       
-                  1st XI (E)    39    25    34    34    35       
+                  1st XI (N)    39    27    27    27             
+                  1st XI (E)    39    25    30    34             
                          Min
                       NORMAL    27    23    24          26    20 
                    DEFENSIVE    27                24    15       
                    ATTACKING    27    24    24          34    31 
-              COUNTER_ATTACK    27    22    31    24    30    23 
+              COUNTER_ATTACK    27    22    28    24    30    23 
                    LONG_BALL    27    22          27          25 
                      PASSING    27    25                      24 
                     EUROPEAN    27    30    22    27    22       
 
 ** /for_transfer.txt **
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
-AchrafLazaar    26 21/18/ 4 | DM D :  33  11 :  44 |  18  0.9   3 ||  66 || DF  7 DF  7 DF  9 DF  9 DF  9 DF 11 DM 11          £17,000,000  Benevento
-CristianoBiraghi 25 21/12/ 3 | DM D :  29   7 :  36 |  14  1.1   4 ||  55 || DF  4 DF  4 DF  4 DF  6 DF  5 DF  7 DM  7          £15,000,000  Fiorentina/Pescara
-GilbertoJunior  24 19/15/ 3 | DM D :  29   7 :  36 |  10  0.7   5 ||  52 || DF  3 DF  3 DF  4 DF  5 DF  5 DF  7 DM  7          £6,000,000   Fiorentina
-GeatanoLetizia  27 21/12/ 4 | DF L :  31   7 :  38 |  11  0.8   2 ||  52 || DF  5 DF  4 DF  4 DF  6 DF  6 DF  7 DM  7          £12,000,000  Benevento
-C_Eastmond      29 18/19/ 8 | MF D :  34   9 :  43 |   8  0.9   0 ||  52 || DM  6 DF  7 DF  7 DF  7 DF  7 DF  8 MF  9       
-GianlucaDiChiara 24 19/15/ 3 | DM D :  29   7 :  36 |  10  0.4   5 ||  51 || DF  3 DF  3 DF  4 DF  5 DF  5 DF  7 DM  7          £5,000,000   Benevento
-SebastianCristoforo 24 11/21/11 | MF D :  29   4 :  33 |   8  0.8   5 ||  47 || DM  3 DF  2 DF  3 DM  2 DF  2 DF  2 MF  4          £15,000,000  Fiorentina
-BryanDabo       25 20/11/ 3 | DM D :  27   5 :  32 |  10  0.6   4 ||  47 || DF  3 DF  2 DF  2 DF  4 DF  4 DF  5 DM  5          £10,000,000  Fiorentina
-RanieriSandro   28 13/21/10 | MF D :  31   6 :  37 |   8  1.2   1 ||  47 || DM  4 DF  4 DF  5 DF  4 DF  4 DF  4 MF  6          £18,000,000  Benevento
-N_N'Koulou      25 19/10/ 6 | DF L :  28   4 :  31 |   9  1.2   4 ||  46 || DF  3 DF  2 DF  1 DF  3 DF  3 DF  4 DF  4        3m
-Leo             32 22/13/ 9 | DF L :  33   9 :  42 |   2  1.4  -1 ||  45 || DF  8 DF  8 DF  7 DF  9 DF  9 DF  9 MF  9       
-StefanoSensi    22 12/21/ 5 | MF D :  29   4 :  33 |   2  0.8   7 ||  43 || DM  3 DF  0 DF  2 DM  2 DF  1 DF  3 MF  4          £19,000,000  Sassuolo
-MarquesGuilherme 26  3/20/15 | MF A :  31   1 :  32 |   7  1.3   3 ||  43 || AM  0 MF  1 AM -1 AM  0 AM -1 MF -2 AM -2          £11,000,000  Benevento
-GilDias         21  3/20/17 | MF A :  33   2 :  35 |  -1  0.6   7 ||  42 || AM  2 MF  2 FW  1 AM  1 AM  1 MF -1 AM -1          £15,000,000  Fiorentina
-AdamSmith       26 21/ 8/ 5 | DF D :  26   6 :  32 |   6  0.7   3 ||  42 || DF  4 DF  3 DF  1 DF  4 DF  4 DF  5 DF  6          £15,000,000  Bournemouth
-LucaAntei       25 20/ 7/ 7 | DF D :  25   4 :  29 |   7  0.6   4 ||  40 || DF  3 DF  2 DF  0 DF  3 DF  3 DF  3 DF  4          £10,000,000  Benevento
-FilipDjuricic   26  3/21/13 | MF A :  31   0 :  31 |   6  0.4   3 ||  40 || MF  0 MF  0 MF  0 AM -1 MF -1 MF -2 AM -3          £19,000,000  Benevento
-CarloPinsoglio  27    22    | GK N :  33  -1 :  32 |   5  1.0   2 ||  40 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1          £1,000,000   Juventus
-A_Diamanti      32  4/24/15 | MF A :  35   5 :  40 |   0  1.1  -1 ||  40 || MF  4 MF  5 MF  3 AM  3 MF  3 MF  1 AM  1       
-A_Iwobi         21  2/20/16 | MF A :  32   2 :  34 |  -2  0.5   7 ||  39 || AM  1 MF  2 AM  0 AM  0 AM  0 MF -2 AM -2       
-BeratDjimsiti   25 18/10/ 5 | DM D :  25   3 :  27 |   5  1.0   4 ||  37 || DF  2 DF  1 DF  0 DF  2 DF  2 DF  3 DM  3          £2,000,000   Benevento 
-M_Radut         27  5/20/14 | MF A :  31   0 :  31 |   4  0.7   2 ||  37 || AM  0 MF  0 AM -1 AM -1 AM -1 MF -1 MF -2        8m
-FrancescoMagnanelli 33 15/22/ 3 | MF D :  32   8 :  40 |  -2  0.5  -1 ||  37 || DM  6 DF  3 DF  5 DF  5 DF  4 DF  6 MF  8          £16,000,000  Sassuolo
-ArturBoruc      36    24    | GK N :  36   2 :  38 |  -4  1.0   3 ||  37 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2           £1,000,000   Bournemouth
-SimonFrancis    32 21/12/ 5 | DF L :  31   7 :  38 |  -2  0.7  -1 ||  36 || DF  5 DF  5 DF  4 DF  6 DF  6 DF  7 DM  7          £15,000,000  Bournemouth
-BrunoCaspar     23 20/ 8/ 4 | DF D :  25   4 :  29 |  -1  0.6   6 ||  35 || DF  3 DF  1 DF  0 DF  3 DF  3 DF  4 DF  4          £10,000,000  Fiorentina
-CristianDellOrco 24 19/ 8/ 6 | DF D :  24   3 :  27 |   2  1.1   5 ||  35 || DF  2 DF  1 DF  0 DF  2 DF  2 DF  3 DF  3          £5,000,000   Sassuolo
-JohannGudmundsson 27  5/20/13 | MF A :  30  -1 :  29 |   3  1.2   2 ||  35 || MF -1 MF -1 MF -1 AM -1 MF -1 MF -2 MF -2          £10,000,000  Burnley
-JamesTomkins    28 21/ 6/ 6 | DF D :  26   5 :  31 |   1  0.7   1 ||  34 || DF  4 DF  2 DF  0 DF  3 DF  3 DF  4 DF  5          £15,000,000  Crystal Palace
-LucaMazzitelli  22  9/21/ 6 | MF D :  26   1 :  27 |  -3  0.6   7 ||  32 || DM  1 DF -2 DM  0 DM  0 DM -1 DF -1 MF  1          £17,000,000  Sassuolo
-R_Shawcross     28 20/ 9/ 3 | DF D :  25   5 :  30 |   0  0.5   1 ||  32 || DF  2 DF  1 DF  0 DF  3 DF  3 DF  4 DF  5       10m
-VincentLaurini  28 20/ 9/ 3 | DF D :  25   5 :  30 |   0  0.6   1 ||  32 || DF  2 DF  1 DF  0 DF  3 DF  3 DF  4 DF  5          £10,000,000  Fiorentina
-LorenzoVenuti   22 19/ 8/ 4 | DF D :  24   3 :  27 |  -4  0.8   7 ||  31 || DF  2 DF  0 DF -1 DF  2 DF  2 DF  2 DF  3          £6,000,000   Benevento
-L_Freeman       25  7/19/11 | MF D :  23  -1 :  22 |   0  1.4   4 ||  28 || DM -2 DM -3 MF -2 MF -2 MF -2 DM -3 MF -1       
-M_Vrancic       27  3/19/12 | MF A :  28  -2 :  26 |  -1  1.4   2 ||  28 || AM -3 MF -2 MF -3 AM -4 MF -3 MF -4 AM -5       
-E_Dzeko         33  3/ 9/23 | FW L :  33   1 :  34 |  -8  1.2  -1 ||  27 || FW  0 FW  0 FW -1 FW  0 FW  1 FW  1 FW -3       
-ConnorGoldson   25 17/ 6/ 5 | DF D :  21   0 :  21 |  -1  0.7   4 ||  26 || DF -1 DF -2 DF -4 DF -1 DF -1 DF -1 DF  0          £1,000,000   Brighton
+AchrafLazaar    26 21/18/ 4 | DM D :  33  11 :  44 |  17  0.9   3 ||  64 || DF  7 DF  4 DF  6 DM  6 DF  5 DF  5 DM 11          £17,000,000  Benevento
+CristianoBiraghi 25 21/12/ 3 | DM D :  29   7 :  36 |  10  1.1   4 ||  51 || DF  4 DF  1 DF  1 DF  1 DF  1 DF  2 DM  7          £15,000,000  Fiorentina/Pescara
+GilDias         21  3/20/17 | AM A :  38   2 :  39 |   3  0.9   7 ||  50 || MF  0 AM  2 FW  1 AM  1 AM  1 MF -1 AM -1          £15,000,000  Fiorentina
+A_Iwobi         21  2/20/16 | AM A :  36   0 :  37 |   1  0.6   7 ||  46 || MF -1 AM  0 AM  0 AM  0 AM  0 MF -2 AM -2       
+GianlucaDiChiara 24 19/15/ 3 | DM D :  29   7 :  36 |   5  0.4   5 ||  46 || DF  3 DF  0 DF  2 DM  1 DF  1 DF  1 DM  7          £5,000,000   Benevento
+GilbertoJunior  24 19/15/ 3 | DM D :  29   7 :  36 |   5  0.7   5 ||  46 || DF  3 DF  0 DF  2 DM  1 DF  1 DF  1 DM  7          £6,000,000   Fiorentina
+GeatanoLetizia  27 21/12/ 4 | DM D :  29   7 :  36 |   7  0.7   2 ||  45 || DF  5 DF  1 DF  2 DF  2 DF  2 DF  2 DM  7          £12,000,000  Benevento
+A_Diamanti      32  4/24/15 | MF E :  37   4 :  41 |   4  1.1  -1 ||  45 || MF  4 AM  3 MF  3 AM  3 MF  3 MF  1 AM  1       
+BryanDabo       25 20/11/ 3 | DM D :  27   5 :  32 |   6  0.6   4 ||  43 || DF  3 DF -1 DF  0 DF  0 DF  0 DF  0 DM  5          £10,000,000  Fiorentina
+RanieriSandro   28 13/21/10 | MF D :  31   5 :  36 |   4  1.2   1 ||  42 || DM  4 DF  1 DM  3 DM  4 DM  3 DM  2 MF  5          £18,000,000  Benevento
+C_Eastmond      29 18/19/ 8 | DM D :  30   9 :  39 |   1  0.7   0 ||  41 || DM  6 DF  4 DF  5 DM  5 DM  4 DM  4 DM  9       
+ArturBoruc      36    24    | GK N :  36   2 :  38 |   0  1.0   3 ||  41 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2           £1,000,000   Bournemouth
+AdamSmith       26 21/ 8/ 5 | DF D :  26   6 :  32 |   5  0.7   3 ||  40 || DF  4 DF  0 DF -1 DF  0 DF  0 DF -1 DF  6          £15,000,000  Bournemouth
+FilipDjuricic   26  3/21/13 | MF E :  32   0 :  32 |   5  0.4   3 ||  40 || MF  0 MF -2 MF  0 AM -1 MF -1 MF -2 AM -3          £19,000,000  Benevento
+Leo             32 22/13/ 9 | DM D :  30   9 :  39 |   1  1.3  -1 ||  40 || DF  8 DF  5 DF  5 DF  4 DF  5 DF  4 DM  9       
+SebastianCristoforo 24 11/21/11 | MF D :  29   3 :  32 |   1  0.8   5 ||  39 || DM  3 DF -1 DM  2 DM  2 DM  2 DM  1 MF  3          £15,000,000  Fiorentina
+CarloPinsoglio  27    22    | GK N :  33  -1 :  32 |   3  1.0   2 ||  37 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1          £1,000,000   Juventus
+LucaAntei       25 20/ 7/ 7 | DF D :  25   4 :  29 |   3  0.6   4 ||  36 || DF  3 DF -1 DF -2 DF -1 DF -1 DF -2 DF  4          £10,000,000  Benevento
+M_Radut         27  5/20/14 | MF E :  32  -1 :  31 |   2  0.5   2 ||  36 || MF -1 AM -2 AM -1 AM -1 AM -1 MF -1 AM -2        8m
+N_N'Koulou      25 19/10/ 6 | DF D :  24   4 :  28 |   2  0.9   4 ||  35 || DF  3 DF -1 DF -1 DF -1 DF -1 DF -1 DF  4        3m
+MarquesGuilherme 26  3/20/15 | AM C :  29   0 :  29 |   2  1.3   3 ||  35 || MF -1 AM -1 AM -1 AM  0 AM -1 MF -2 AM -2          £11,000,000  Benevento
+StefanoSensi    22 12/21/ 5 | DM D :  26   4 :  29 |  -4  0.7   7 ||  33 || DM  3 DF -3 DM  2 DM  2 DM  1 DM -1 DM  4          £19,000,000  Sassuolo
+BeratDjimsiti   25 18/10/ 5 | DM D :  25   3 :  27 |   1  1.0   4 ||  33 || DF  2 DF -2 DF -2 DF -2 DF -2 DF -3 DM  3          £2,000,000   Benevento 
+SimonFrancis    32 21/12/ 5 | DM D :  29   7 :  36 |  -2  0.6  -1 ||  33 || DF  5 DF  2 DF  2 DF  2 DF  2 DF  2 DM  7          £15,000,000  Bournemouth
+JamesTomkins    28 21/ 6/ 6 | DF D :  26   5 :  31 |  -1  0.7   1 ||  32 || DF  4 DF -1 DF -2 DF -1 DF -1 DF -2 DF  5          £15,000,000  Crystal Palace
+FrancescoMagnanelli 33 15/22/ 3 | DM D :  29   7 :  37 |  -5  0.5  -1 ||  32 || DM  6 DF  0 DM  4 DM  4 DM  3 DF  1 DM  7          £16,000,000  Sassuolo
+BrunoCaspar     23 20/ 8/ 4 | DF D :  25   4 :  29 |  -5  0.6   6 ||  31 || DF  3 DF -2 DF -2 DF -1 DF -1 DF -2 DF  4          £10,000,000  Fiorentina
+CristianDellOrco 24 19/ 8/ 6 | DF D :  24   3 :  27 |  -4  1.1   5 ||  30 || DF  2 DF -2 DF -3 DF -2 DF -2 DF -3 DF  3          £5,000,000   Sassuolo
+R_Shawcross     28 20/ 9/ 3 | DF D :  25   5 :  30 |  -2  0.5   1 ||  30 || DF  2 DF -2 DF -2 DF -1 DF -1 DF -1 DF  5       10m
+VincentLaurini  28 20/ 9/ 3 | DF D :  25   5 :  30 |  -2  0.6   1 ||  30 || DF  2 DF -2 DF -2 DF -1 DF -1 DF -1 DF  5          £10,000,000  Fiorentina
+LorenzoVenuti   22 19/ 8/ 4 | DF D :  24   3 :  27 |  -7  0.8   7 ||  28 || DF  2 DF -3 DF -3 DF -2 DF -2 DF -3 DF  3          £6,000,000   Benevento
+ScottDann       30 21/ 8/ 6 | DF D :  26   6 :  32 |  -4  0.9  -1 ||  27 || DF  4 DF  0 DF -1 DF  0 DF  0 DF  0 DF  6          £15,000,000  Crystal Palace
+E_Dzeko         33  3/ 9/23 | FW L :  33   1 :  34 |  -7  1.2  -1 ||  27 || FW -4 FW  0 FW -1 FW  0 FW  1 FW  1 FW -3       
+DaleStephens    28  8/21/ 7 | DM E :  28   0 :  28 |  -3  0.9   1 ||  26 || DM  0 DM -5 DM -1 MF -1 MF -1 DM -3 DM  0          £15,000,000  Brighton
+StephenWard     32 21/ 9/ 3 | DF D :  26   6 :  32 |  -6  0.5  -1 ||  26 || DF  3 DF -1 DF -1 DF  0 DF  0 DF  0 DF  6          £15,000,000  Burnley
 BartlomiejDragowski 20    22    | GK N :  33  -1 :  32 | -15  0.7   7 ||  25 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1          £4,000,000   Fiorentina
-ScottDann       30 21/ 8/ 6 | DF D :  26   6 :  32 |  -7  0.9  -1 ||  25 || DF  4 DF  3 DF  2 DF  4 DF  4 DF  5 DF  6          £15,000,000  Crystal Palace
-GeorgesNkodou   22  4/21/10 | MF P :  25  -1 :  24 |  -7  0.5   7 ||  24 || MF -1 MF -2 MF -1 MF -2 MF -1 MF -4 MF -3          £35,000,000  Burnley/Tottenham
-DaleStephens    28  8/21/ 7 | MF D :  25   1 :  26 |  -4  0.9   1 ||  24 || DM  0 DM -3 DM -1 MF -1 MF -1 DF -2 MF  1          £15,000,000  Brighton
-StephenWard     32 21/ 9/ 3 | DF D :  26   6 :  32 |  -8  0.5  -1 ||  24 || DF  3 DF  2 DF  1 DF  4 DF  4 DF  5 DF  6          £15,000,000  Burnley
-JamesMcArthur   30 10/21/ 8 | MF D :  27   3 :  30 |  -9  0.8  -1 ||  22 || DM  2 DF  0 DM  1 DM  1 DM  0 DF  1 MF  3          £15,000,000  Crystal Palace
-AndreaCosta     32 21/ 6/ 6 | DF D :  26   5 :  31 |  -9  0.5  -1 ||  21 || DF  4 DF  2 DF  0 DF  3 DF  3 DF  4 DF  5          £6,000,000   Benevento
-BradSmith       23 17/ 7/ 4 | DF D :  21   1 :  22 |  -9  1.2   6 ||  20 || DF -1 DF -2 DF -4 DF -1 DF -1 DF  0 DF  1          £1,000,000   Bournemouth
-KevinLong       27 17/ 6/ 6 | DF D :  21   0 :  21 |  -5  0.7   2 ||  19 || DF  0 DF -2 DF -4 DF -1 DF -1 DF -1 DF  0          £1,000,000   Burnley
-AshleyBarnes    28  8/19/ 8 | MF D :  24  -1 :  23 |  -6  0.8   1 ||  19 || DM -2 DF -3 DM -2 DM -2 DM -3 DF -3 MF -1          £5,000,000   Burnley
-MarcoDAlessandro 27  4/20/ 9 | MF P :  23  -2 :  21 |  -5  0.6   2 ||  18 || MF -3 MF -4 MF -2 MF -3 MF -3 MF -5 MF -4          £8,000,000   Benevento
-MarkusSuttner   30 20/ 6/ 6 | DF D :  25   4 :  28 | -10  0.5  -1 ||  18 || DF  3 DF  1 DF -1 DF  2 DF  2 DF  3 DF  4          £10,000,000  Brighton
-JeffHendrick    28  5/20/11 | MF P :  24  -1 :  23 |  -7  0.7   1 ||  17 || MF -2 MF -2 MF -1 MF -2 MF -2 MF -3 MF -2          £10,000,000  Burnley
-BeremKayal      29  8/20/10 | MF D :  25   1 :  26 | -10  0.7   0 ||  17 || DM -1 DM -2 DM -1 MF -1 DM -1 DF -2 MF  1          £10,000,000  Brighton
-ScottArfield    29  8/20/10 | MF D :  25   1 :  26 | -10  1.1   0 ||  17 || DM -1 DM -2 DM -1 MF -1 DM -1 DF -2 MF  1          £10,000,000  Burnley
-JordanMutch     26  4/19/ 8 | MF P :  22  -3 :  19 |  -7  1.1   3 ||  16 || MF -5 MF -5 MF -3 MF -4 MF -4 MF -7 MF -5          £5,000,000   Crystal Palace
-MarcPugh        30  8/20/13 | MF D :  26   1 :  27 | -12  1.5  -1 ||  15 || DM  0 DM  0 DM  0 MF  0 DM  0 DM  0 MF  1          £10,000,000  Bournemouth
-NikolaMilenkovic 20 19/ 6/ 6 | DF D :  23   3 :  26 | -20  0.4   7 ||  13 || DF  2 DF  0 DF -2 DF  1 DF  1 DF  1 DF  3          £20,000,000  Fiorentina
-SollyMarch      23  6/19/ 6 | MF D :  21  -3 :  18 | -12  0.8   6 ||  13 || DM -4 DM -6 MF -3 MF -4 MF -4 DF -5 MF -3          £5,000,000   Brighton
-SamBaldock      28  7/18/ 8 | MF D :  22  -2 :  20 | -10  0.7   1 ||  12 || DM -4 DF -5 DM -4 DM -4 MF -4 DF -4 MF -2          £2,000,000   Brighton
-Liamosenier     33 19/ 8/ 4 | DF D :  24   3 :  27 | -15  0.5  -1 ||  12 || DF  2 DF  0 DF -1 DF  2 DF  2 DF  2 DF  3          £5,000,000   Brighton
-LewisCook       21  4/19/10 | MF P :  23  -3 :  20 | -16  1.1   7 ||  11 || MF -4 MF -4 MF -3 MF -4 MF -3 MF -5 MF -4          £20,000,000  Bournemouth
-CristianoLombardi 22  5/18/ 8 | MF P :  21  -4 :  17 | -14  0.7   7 ||  11 || DM -5 DM -6 MF -4 MF -5 MF -5 DM -6 MF -4          £4,000,000   Benevento
-NicolasViola    28  4/19/ 9 | MF P :  22  -3 :  19 | -10  1.0   1 ||  11 || MF -4 MF -5 MF -3 MF -4 MF -4 MF -6 MF -4          £2,000,000   Benevento
-AndrewSurman    31  8/20/ 9 | MF D :  25   0 :  25 | -14  0.9  -1 ||  11 || DM -1 DM -2 DM -1 MF -1 DM -1 DF -2 MF  0          £10,000,000  Bournemouth
-VittorioParigini 21  3/19/ 9 | MF P :  22  -3 :  19 | -17  0.5   7 ||   9 || MF -4 MF -5 MF -3 MF -5 MF -4 MF -6 MF -5          £7,000,000   Benevento
-T_Tamuz         29  6/10/19 | FW N :  24  -2 :  22 | -14  1.0   0 ||   9 || FW -3 DF -4 FW -4 FW -2 FW -2 AM -3 FW -4       
-PetkoHristov    18 17/ 8/ 4 | DF D :  22   1 :  22 | -24  0.6   7 ||   6 || DF  0 DF -2 DF -3 DF  0 DF  0 DF  0 DF  1          £4,000,000   Fiorentina
-RhoysWiggins    30 17/ 6/ 6 | DF D :  21   0 :  21 | -17  1.2  -1 ||   5 || DF  0 DF -2 DF -4 DF -1 DF -1 DF -1 DF  0          £1,000,000   Bournemouth
-FabioLucioni    30 17/ 6/ 6 | DF D :  21   0 :  21 | -17  0.6  -1 ||   4 || DF  0 DF -2 DF -4 DF -1 DF -1 DF -1 DF  0          £1,000,000   Benevento
+AndreaCosta     32 21/ 6/ 6 | DF D :  26   5 :  31 |  -7  0.5  -1 ||  23 || DF  4 DF -1 DF -2 DF -1 DF -1 DF -2 DF  5          £6,000,000   Benevento
+ConnorGoldson   25 17/ 6/ 5 | DF D :  21   0 :  21 |  -5  0.7   4 ||  22 || DF -1 DF -5 DF -6 DF -5 DF -5 DM -6 DF  0          £1,000,000   Brighton
+L_Freeman       25  7/19/11 | MF P :  24  -2 :  22 |  -5  1.0   4 ||  22 || DM -2 MF -5 MF -2 MF -2 MF -2 DM -3 MF -2       
+GeorgesNkodou   22  4/21/10 | MF P :  25  -1 :  24 | -10  0.5   7 ||  21 || MF -1 MF -4 MF -1 MF -2 MF -1 MF -4 AM -4          £35,000,000  Burnley/Tottenham
+LucaMazzitelli  22  9/21/ 6 | DM D :  23   1 :  23 | -10  0.5   7 ||  21 || DM  1 DM -5 DM  0 DM  0 DM -1 DM -3 DM  1          £17,000,000  Sassuolo
+JohannGudmundsson 27  5/20/13 | MF P :  25  -1 :  24 |  -5  0.9   2 ||  21 || MF -1 MF -3 MF -1 AM -1 MF -1 MF -2 AM -2          £10,000,000  Burnley
+MarcPugh        30  8/20/13 | DM E :  28   0 :  28 |  -8  1.4  -1 ||  20 || DM  0 MF -3 DM  0 MF  0 DM  0 DM  0 MF  0          £10,000,000  Bournemouth
+MarkusSuttner   30 20/ 6/ 6 | DF D :  25   4 :  28 |  -8  0.5  -1 ||  20 || DF  3 DF -2 DF -3 DF -2 DF -2 DF -3 DF  4          £10,000,000  Brighton
+BradSmith       23 17/ 7/ 4 | DF D :  21   1 :  22 | -12  1.2   6 ||  17 || DF -1 DF -5 DF -6 DF -5 DF -5 DF -6 DF  1          £1,000,000   Bournemouth
+KevinLong       27 17/ 6/ 6 | DF D :  21   0 :  21 |  -7  0.7   2 ||  17 || DF  0 DF -5 DF -6 DF -5 DF -5 DM -6 DF  0          £1,000,000   Burnley
+BeremKayal      29  8/20/10 | DM E :  28  -1 :  27 | -11  0.7   0 ||  17 || DM -1 DM -5 DM -1 MF -1 DM -1 DM -2 MF -1          £10,000,000  Brighton
+ScottArfield    29  8/20/10 | DM E :  28  -1 :  27 | -11  1.2   0 ||  17 || DM -1 DM -5 DM -1 MF -1 DM -1 DM -2 MF -1          £10,000,000  Burnley
+MarcoDAlessandro 27  4/20/ 9 | MF P :  23  -2 :  21 |  -8  0.6   2 ||  16 || MF -3 MF -6 MF -2 MF -3 MF -3 MF -5 DM -5          £8,000,000   Benevento
+JeffHendrick    28  5/20/11 | MF P :  24  -1 :  23 |  -9  0.7   1 ||  15 || MF -2 MF -4 MF -1 MF -2 MF -2 MF -3 AM -3          £10,000,000  Burnley
+JamesMcArthur   30 10/21/ 8 | DM D :  24   2 :  25 | -11  0.6  -1 ||  15 || DM  2 DF -3 DM  1 DM  1 DM  0 DM -1 DM  2          £15,000,000  Crystal Palace
+AndrewSurman    31  8/20/ 9 | DM E :  27  -1 :  27 | -11  1.0  -1 ||  15 || DM -1 DM -5 DM -1 MF -1 DM -1 DM -2 DM -1          £10,000,000  Bournemouth
+JordanMutch     26  4/19/ 8 | MF P :  22  -3 :  19 |  -8  1.1   3 ||  14 || MF -5 MF -7 MF -3 MF -4 MF -4 MF -7 DM -5          £5,000,000   Crystal Palace
+M_Vrancic       27  3/19/12 | MF P :  23  -3 :  20 |  -9  1.2   2 ||  14 || MF -3 MF -4 MF -3 AM -4 MF -3 MF -4 AM -5       
+NikolaMilenkovic 20 19/ 6/ 6 | DF D :  23   3 :  26 | -20  0.4   7 ||  13 || DF  2 DF -3 DF -4 DF -3 DF -3 DF -4 DF  3          £20,000,000  Fiorentina
+Liamosenier     33 19/ 8/ 4 | DF D :  24   3 :  27 | -14  0.5  -1 ||  12 || DF  2 DF -3 DF -3 DF -2 DF -2 DF -3 DF  3          £5,000,000   Brighton
+LewisCook       21  4/19/10 | MF P :  23  -3 :  20 | -16  1.1   7 ||  11 || MF -4 MF -6 MF -3 MF -4 MF -3 MF -5 AM -5          £20,000,000  Bournemouth
+VittorioParigini 21  3/19/ 9 | MF P :  22  -3 :  19 | -17  0.5   7 ||   9 || MF -4 MF -7 MF -3 MF -5 MF -4 MF -6 AM -6          £7,000,000   Benevento
+SollyMarch      23  6/19/ 6 | MF P :  22  -3 :  19 | -16  0.5   6 ||   9 || DM -4 DM -9 MF -3 MF -4 MF -4 DM -6 DM -3          £5,000,000   Brighton
+NicolasViola    28  4/19/ 9 | MF P :  22  -3 :  19 | -12  1.0   1 ||   9 || MF -4 MF -7 MF -3 MF -4 MF -4 MF -6 DM -5          £2,000,000   Benevento
+CristianoLombardi 22  5/18/ 8 | MF P :  21  -4 :  17 | -17  0.7   7 ||   8 || DM -5 MF -8 MF -4 MF -5 MF -5 DM -6 DM -5          £4,000,000   Benevento
+AshleyBarnes    28  8/19/ 8 | DM D :  20  -1 :  19 | -13  0.6   1 ||   8 || DM -2 DF -6 DM -2 DM -2 DM -3 DM -4 DM -1          £5,000,000   Burnley
+FabioLucioni    30 17/ 6/ 6 | DF D :  21   0 :  21 | -15  0.6  -1 ||   7 || DF  0 DF -5 DF -6 DF -5 DF -5 DM -6 DF  0          £1,000,000   Benevento
+RhoysWiggins    30 17/ 6/ 6 | DF D :  21   0 :  21 | -15  1.2  -1 ||   7 || DF  0 DF -5 DF -6 DF -5 DF -5 DM -6 DF  0          £1,000,000   Bournemouth
+PetkoHristov    18 17/ 8/ 4 | DF D :  22   1 :  22 | -24  0.6   7 ||   6 || DF  0 DF -5 DF -5 DF -4 DF -4 DF -5 DF  1          £4,000,000   Fiorentina
+T_Tamuz         29  6/10/19 | FW N :  24  -2 :  22 | -16  1.0   0 ||   6 || DF -5 FW -5 FW -4 FW -2 FW -2 AM -3 FW -4       
+JasonPuncheon   31  3/20/11 | MF P :  24  -2 :  22 | -16  0.8  -1 ||   5 || MF -2 MF -4 MF -2 MF -3 MF -2 MF -4 AM -4          £10,000,000  Crystal Palace
+LediaMemushaj   31  3/20/10 | MF P :  23  -2 :  21 | -17  0.8  -1 ||   4 || MF -3 MF -5 MF -2 MF -3 MF -3 MF -5 AM -5          £5,000,000   Benevento
 AndersLindegaard 33    19    | GK N :  29  -6 :  23 | -19  1.3  -1 ||   4 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6          £1,000,000   Burnley
-JasonPuncheon   31  3/20/11 | MF P :  24  -2 :  22 | -18  0.8  -1 ||   3 || MF -2 MF -2 MF -2 MF -3 MF -2 MF -4 MF -4          £10,000,000  Crystal Palace
-LediaMemushaj   31  3/20/10 | MF P :  23  -2 :  21 | -18  0.8  -1 ||   2 || MF -3 MF -3 MF -2 MF -3 MF -3 MF -5 MF -4          £5,000,000   Benevento
-S_Calik         33  5/ 6/20 | FW N :  23  -3 :  21 | -21  1.5  -1 ||   0 || FW -4 FW -6 FW -6 FW -4 FW -3 FW -3 FW -5        10m
-EmersonHyndman  21  3/17/ 7 | MF P :  20  -6 :  14 | -22  1.0   7 ||  -1 || MF -8 MF -8 MF -6 MF -7 MF -7 DM -9 MF -7          £1,000,000   Bournemouth
-FrancescoCassata 20  5/18/ 9 | MF P :  22  -4 :  18 | -29  0.7   7 ||  -3 || DM -5 MF -6 MF -4 MF -5 MF -4 DM -6 MF -4          £8,000,000   Sassuolo
+SamBaldock      28  7/18/ 8 | DM D :  19  -3 :  16 | -16  0.6   1 ||   1 || DM -4 DF -8 DM -4 DM -4 MF -4 DM -5 DM -3          £2,000,000   Brighton
+S_Calik         33  5/ 6/20 | FW N :  23  -3 :  21 | -21  1.5  -1 ||   0 || DF -7 FW -6 FW -6 FW -4 FW -3 FW -3 FW -5        10m
+EmersonHyndman  21  3/17/ 7 | MF P :  20  -6 :  14 | -22  1.0   7 ||  -1 || MF -8 MF-10 MF -6 MF -7 MF -7 DM -9 DM -8          £1,000,000   Bournemouth
+FrancescoCassata 20  5/18/ 9 | MF P :  22  -4 :  18 | -29  0.7   7 ||  -3 || DM -5 MF -8 MF -4 MF -5 MF -4 DM -6 DM -5          £8,000,000   Sassuolo
 
-Forced:T_Walcott/E_Elia/G_Jesus/A_Innocenti/C_Hourihane/
+Forced:T_Walcott/A_Innocenti/G_Jesus/G_Junior/C_Hourihane/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  E     A     P     C     N     L     D   
-T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  14  0.7  -1 ||  67 || FW  4 FW  6 FW  5 FW  5 FW  4 FW  5 AM  0       
-E_Elia          32  4/22/20 | AM A :  43   7 :  50 |  10  1.0  -1 ||  60 || AM  6 AM  7 FW  6 AM  5 AM  5 AM  4 AM  2       
-G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  1.1   7 ||  54 || AM  4 AM  5 FW  4 AM  3 AM  2 AM  2 AM  0    F  
-S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   0  1.8  -1 ||  41 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
-F_Marchetti     34    26    | GK N :  39   5 :  44 |   1  0.1   0 ||  44 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
-J_Rhodes        27  4/13/20 | FW E :  25  -1 :  24 |  -2  1.1   2 ||  25 || FW -1 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
-A_Innocenti     23 10/23/15 | MF D :  30   6 :  36 |   5  0.6   6 ||  48 || MF  5 DM  4 DF  5 DM  4 DM  4 DM  4 MF  6       
-K_McLaggon      28  6/10/19 | FW N :  24  -2 :  22 |  -8  0.8   1 ||  15 || FW -3 DF -4 FW -4 FW -2 FW -2 AM -3 FW -4       
-F_Forster       27    23    | GK N :  35   0 :  35 |   8  1.0   2 ||  46 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-C_Hourihane     26  8/20/14 | MF D :  26   1 :  27 |   2  1.1   3 ||  33 || MF  0 MF  0 AM  0 AM  0 AM  0 MF  0 MF  1       
-P_Mertesacker   35 23/11/ 8 | DF L :  33   9 :  42 |   0  1.1   1 ||  44 || DF  8 DF  8 DF  6 DF  8 DF  8 DF  9 DF  9       
-J_King          25  2/ 9/17 | FW N :  20  -6 :  15 |  -8  0.2   4 ||  11 || FW -6 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
-C_Sanchez       31 14/22/ 8 | MF D :  32   8 :  40 |   0  0.6  -1 ||  40 || DM  6 DF  4 DF  6 DF  5 DF  5 DF  6 MF  8       
-A_Lynch         22    20    | GK N :  30  -4 :  26 |  -5  0.1   7 ||  27 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
-M_Reynolds      31 20/11/ 7 | DF L :  29   6 :  35 |  -4  0.8  -1 ||  30 || DF  5 DF  4 DF  3 DF  5 DF  5 DF  6 DM  5       
-C_Martinez      32 20/11/ 4 | DF L :  29   5 :  34 |  -5  1.4  -1 ||  29 || DF  3 DF  3 DF  2 DF  4 DF  4 DF  5 DM  5       
-R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -7  0.8   2 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
-F_Lopes         30 16/ 9/ 7 | DF L :  24   0 :  24 | -15  1.2  -1 ||   9 || DF  0 DF -1 DF -2 DF  0 DF  0 DF  0 DM  0       
-L_Hyam          26 10/18/ 5 | MF D :  25   0 :  25 |  -1  0.5   3 ||  27 || DM -2 DF -3 DF -2 DF -2 DF -2 DF -1 MF  0       
+F_Marchetti     34    26    | GK N :  39   5 :  44 |   3  0.1   0 ||  46 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
+A_Innocenti     23 10/23/15 | MF E :  37   5 :  42 |   8  0.9   6 ||  56 || MF  5 AM  2 DM  4 DM  4 DM  4 DM  4 MF  4       
+G_Jesus         20  2/20/20 | AM A :  41   5 :  46 |   0  1.1   7 ||  54 || MF  1 AM  5 FW  4 AM  3 AM  2 AM  2 AM  0    F  
+T_Walcott       30  4/16/24 | FW A :  46   6 :  53 |  17  0.7  -1 ||  70 || AM  0 FW  6 FW  5 FW  5 FW  4 FW  5 AM  0       
+F_Forster       27    23    | GK N :  35   0 :  35 |   6  1.0   2 ||  43 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+C_Sanchez       31 14/22/ 8 | DM D :  28   6 :  35 |  -3  0.6  -1 ||  31 || DM  6 DF  1 DM  4 DM  5 DM  4 DM  3 DM  6       
+C_Hourihane     26  8/20/14 | MF E :  33   0 :  33 |   6  1.2   3 ||  43 || MF  0 AM -2 AM  0 AM  0 AM  0 MF  0 MF  0       
+A_Lynch         22    20    | GK N :  30  -4 :  26 |  -8  0.1   7 ||  24 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4       
+G_Junior        24 19/15/ 3 | DM D :  29   7 :  36 |   5  0.7   5 ||  46 || DF  3 DF  0 DF  2 DM  1 DF  1 DF  1 DM  7       
+P_Mertesacker   35 23/11/ 8 | DF D :  29   9 :  38 |   0  0.8   1 ||  40 || DF  8 DF  5 DF  4 DF  4 DF  4 DF  4 DF  9       
+S_Doumbia       32  4/13/21 | FW A :  40   0 :  40 |   2  1.8  -1 ||  43 || FW -4 FW  0 FW  0 FW  0 FW  0 FW  0 FW -3       
+J_Rhodes        27  4/13/20 | FW P :  31  -1 :  30 |   1  1.4   2 ||  34 || FW -5 AM -1 FW -1 FW -1 FW -1 AM -1 FW -3       
+M_Reynolds      31 20/11/ 7 | DM D :  27   5 :  32 |  -5  0.7  -1 ||  27 || DF  5 DF  1 DF  1 DF  1 DF  1 DF  0 DM  5       
+L_Hyam          26 10/18/ 5 | DM D :  22   0 :  22 |  -5  0.4   3 ||  20 || DM -2 DF -6 DM -2 DM -2 DM -3 DM -4 DM  0       
+R_Fernandez     27    18    | GK N :  27  -7 :  20 |  -9  0.8   2 ||  13 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7       
+C_Martinez      32 20/11/ 4 | DM D :  27   5 :  32 |  -5  1.4  -1 ||  27 || DF  3 DF  0 DF  0 DF  0 DF  0 DF  0 DM  5       
+J_King          25  2/ 9/17 | FW N :  20  -6 :  15 | -12  0.2   4 ||   7 || FW-10 AM -8 FW -7 FW -7 FW -6 AM -7 FW -7       
+F_Lopes         30 16/ 9/ 7 | DM D :  22   0 :  22 | -14  1.1  -1 ||   8 || DF  0 DF -4 DF -5 DF -4 DF -4 DM -4 DM  0       
 
-ATTACKING
+EUROPEAN
 GK F_Marchetti
 DF P_Mertesacker
 DF C_Martinez
 DF M_Reynolds
-DF F_Lopes
-DF C_Sanchez
-DM A_Innocenti
-DM C_Hourihane
-AM E_Elia
-AM G_Jesus
-FW T_Walcott
+DF G_Junior
+DM C_Sanchez
+DM L_Hyam
+MF A_Innocenti
+MF C_Hourihane
+MF G_Jesus
+AM T_Walcott
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     108     129     102     110     118     107     108 
-   PASSING     111      75     119     112      90     132     111 
-  SHOOTING      70      36     114      70      89      66      71 
-   SH Mean      19      22      19      19      20      19      18 
- SH Median      20      20      20      20      20      20      20 
+  TACKLING     105     141      94     111     119     104     106 
+   PASSING     136      96     137     135     105     147     149 
+  SHOOTING      41      22      82      39      65      37      48 
+   SH Mean      17      21      17      18      18      17      17 
+ SH Median      20      24      20      20      20      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      20      14      22      20      18      21      20 
+  SH Bonus      20      15      23      20      18      21      21 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      25      19      28      25      23      26      25 
+  GK Bonus      26      20      29      25      23      27      27 
        Agg      26      26      26      26      26      26      26 
-   Scoring      97      62     117      98      90     110      97 
- Defending     108     129     102     110     118     107     108 
-   Overall     249     207     268     252     245     265     249 
+   Scoring     104      71     119     103      91     110     116 
+ Defending     105     141      94     111     119     104     106 
+   Overall     256     229     262     258     248     261     269 
 
 GK F_Forster
-DM L_Hyam
-FW S_Doumbia
-FW J_Rhodes
-FW K_McLaggon
+GK A_Lynch
+DM F_Lopes
+AM S_Doumbia
+AM J_Rhodes
 
 SUB GK F_Forster GK IF INJURED GK
-SUB DF L_Hyam DF IF INJURED DF
-SUB DM L_Hyam DM IF INJURED DM
-SUB MF L_Hyam MF IF INJURED MF
-SUB AM L_Hyam AM IF INJURED AM
+SUB DF F_Lopes DF IF INJURED DF
+SUB DM S_Doumbia DM IF INJURED DM
+SUB MF S_Doumbia MF IF INJURED MF
+SUB AM S_Doumbia AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
-SUB T_Walcott S_Doumbia FW IF MIN = 50
-SUB A_Innocenti J_Rhodes FW IF MIN = 75
-SUB C_Hourihane L_Hyam DM IF MIN = 87
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 59 SCORE = 1
-TACTIC P IF MIN >= 30 SCORE >= 2
+SUB T_Walcott S_Doumbia AM IF MIN = 70
+SUB L_Hyam J_Rhodes AM IF MIN = 75
+TACTIC A IF MIN >= 75 SCORE <= -2
+TACTIC A IF MIN >= 75 SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC E IF SCORE = 1
+TACTIC D IF MIN >= 52 SCORE >= 2
 
 
