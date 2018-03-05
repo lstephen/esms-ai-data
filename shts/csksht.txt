@@ -7,25 +7,25 @@ DF G_Bianco
 DF C_Martinez
 DF M_Reynolds
 DM G_Junior
+DM C_Sanchez
 MF A_Innocenti
-MF Taison
 MF E_Elia
 MF G_Jesus
 AM T_Walcott
 
 GK F_Forster
 GK A_Lynch
-DM F_Lopes
+MF Taison
 MF C_Hourihane
 AM S_Doumbia
 
 PK: T_Walcott
 AGG 20
 
-SUB 11 16 AM IF MIN = 55
-SUB 8 15 MF IF MIN = 60
+SUB 11 14 MF IF MIN = 50
+SUB 9 15 MF IF MIN = 55
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC E IF SCORE = 1
+TACTIC D IF MIN >= 82 SCORE = 1
 TACTIC D IF MIN >= 50 SCORE >= 2
