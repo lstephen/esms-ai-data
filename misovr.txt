@@ -374,7 +374,7 @@ DEFENSIVE        29  27  29  31  30  26
                    DEFENSIVE    26    18          20    21    19 
                    ATTACKING    26    18          24          31 
               COUNTER_ATTACK    26    18    23          21    25 
-                   LONG_BALL    26    19          20    25    25 
+                   LONG_BALL    26    19          20    25    26 
                      PASSING    26    19                      24 
                     EUROPEAN    26    17    20    28    26    22 
 
@@ -533,13 +533,15 @@ SUB MF C_Parry MF IF INJURED MF
 SUB AM C_Parry AM IF INJURED AM
 SUB FW X_Cullie FW IF INJURED FW
 
-SUB V_Barbieri X_Cullie DF IF MIN = 50
-SUB Tarildo C_Parry MF IF MIN = 60
-TACTIC A IF MIN >= 58 SCORE <= -2
-TACTIC A IF MIN >= 74 SCORE = -1
+SUB Tarildo C_Parry FW IF MIN = 50
+SUB V_Barbieri X_Cullie DF IF MIN = 60
+CHANGEPOS C_Parry MF IF MIN = 78
+CHANGEPOS C_Parry FW IF MIN = 81
+TACTIC A IF MIN >= 50 SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 60 SCORE >= 2
+TACTIC L IF MIN >= 78 SCORE >= 2
 
 
 Forced:R_Silano/C_Stirbei/E_Petrescu/N_Morariu/
@@ -594,27 +596,27 @@ FW R_Silano
    Overall     214     190     189     215     191     210     219 
 
 DF Q_Detert
+DF S_Stancu
 DF L_Gabor
+DM E_Silivasi
 AM D_Lungu
-FW V_Eristov
-FW V_Zefirov
 
 SUB GK D_Lungu GK IF INJURED GK
 SUB DF Q_Detert DF IF INJURED DF
 SUB DM D_Lungu DM IF INJURED DM
 SUB MF D_Lungu MF IF INJURED MF
 SUB AM D_Lungu AM IF INJURED AM
-SUB FW V_Zefirov FW IF INJURED FW
+SUB FW D_Lungu FW IF INJURED FW
 
-SUB N_Parasca D_Lungu MF IF MIN = 45
-CHANGEPOS P_Deusner DM IF MIN = 50
-SUB E_Petrescu Q_Detert DF IF MIN = 55
-CHANGEPOS N_Morariu DM IF MIN = 60
-SUB R_Silano V_Zefirov FW IF MIN = 81
+SUB N_Morariu E_Silivasi DF IF MIN = 55
+SUB E_Petrescu D_Lungu MF IF MIN = 60
+CHANGEPOS P_Deusner DM IF MIN = 65
+SUB N_Parasca Q_Detert DF IF MIN = 75
+CHANGEPOS E_Silivasi DM IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 61 SCORE = 1
+TACTIC C IF MIN >= 34 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 
