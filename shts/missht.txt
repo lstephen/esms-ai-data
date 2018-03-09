@@ -15,15 +15,15 @@ FW R_Gelman
 
 GK A_Kapustov
 DF K_Prescott
-DF S_Dobre
 DF X_Cullie
 FW C_Parry
+FW D_Tikhomirov
 
 PK: Camelino
 AGG 20
 
-SUB 7 16 FW IF MIN = 50
-SUB 6 15 DF IF MIN = 60
+SUB 7 15 FW IF MIN = 50
+SUB 6 14 DF IF MIN = 55
 TACTIC A IF MIN >= 50 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
