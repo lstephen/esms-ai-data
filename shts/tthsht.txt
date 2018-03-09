@@ -15,16 +15,16 @@ FW R_Sharp
 
 GK C_Poenaru
 DF X_Alonso
-DM D_McHale
 AM T_Hurlock
+FW G_Weah
 FW Hugo_Sanchez
 
 PK: R_Sharp
 AGG 20
 
 SUB 4 13 DF IF MIN = 50
-SUB 11 16 FW IF MIN = 55
-SUB 9 15 MF IF MIN = 78
+SUB 11 15 FW IF MIN = 55
+SUB 9 14 MF IF MIN = 75
 TACTIC E IF MIN >= 8 SCORE <= -2
 TACTIC E IF MIN >= 16 SCORE = -1
 TACTIC C IF SCORE = 0
