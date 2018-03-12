@@ -9,23 +9,23 @@ DF M_Tensfeldt
 DF V_Barbieri
 DM Tarildo
 DM D_Bledsoe
-MF C_Yastrzemski
+FW C_Parry
 FW Camelino
 FW R_Gelman
 
 GK A_Kapustov
-DF K_Prescott
 DF X_Cullie
-FW C_Parry
 FW D_Tikhomirov
+FW W_Obershaw
+FW H_Roller
 
 PK: Camelino
 AGG 20
 
-SUB 7 15 MF IF MIN = 60
-SUB 6 14 DF IF MIN = 65
-TACTIC A IF MIN >= 54 SCORE <= -2
-TACTIC A IF MIN >= 72 SCORE = -1
+SUB 6 13 DF IF MIN = 55
+SUB 9 14 FW IF MIN = 65
+TACTIC A IF MIN >= 65 SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 60 SCORE >= 2
+TACTIC L IF MIN >= 73 SCORE >= 2
