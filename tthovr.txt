@@ -372,7 +372,7 @@ DEFENSIVE        30  32  33  36  32  28
               COUNTER_ATTACK    27    21    23    30    22    25 
                    LONG_BALL    27                25          26 
                      PASSING    27    23                      23 
-                    EUROPEAN    27    27    21    25    22       
+                    EUROPEAN    27    27    21    25    22    27 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     L     N     D   
@@ -578,29 +578,29 @@ FW Hugo_Sanchez
    Overall     275     235     300     282     246     310     256 
 
 GK C_Poenaru
+DF W_Morgan
 DF Doriva
 FW R_Pires
 FW A_Johnson
-FW B_Celina
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF Doriva DF IF INJURED DF
+SUB DF W_Morgan DF IF INJURED DF
 SUB DM R_Pires DM IF INJURED DM
 SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB R_Sharp B_Celina MF IF MIN = 50
+SUB R_Sharp A_Johnson FW IF MIN = 45
 SUB Hugo_Sanchez R_Pires FW IF MIN = 55
-SUB T_Hurlock A_Johnson FW IF MIN = 70
+SUB E_Plummer W_Morgan DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 76 SCORE >= 2
+TACTIC D IF MIN >= 79 SCORE >= 2
 
-SUB A_Wisdom Doriva DF IF SCORE <= -3
-SUB A_Wisdom Doriva DF IF SCORE >= 3
+SUB A_Wisdom W_Morgan DF IF SCORE <= -3
+SUB A_Wisdom W_Morgan DF IF SCORE >= 3
 
 Forced:Moreto/C_Sandulescu/
 ** Reserves Selection **
