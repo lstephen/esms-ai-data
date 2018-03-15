@@ -1,5 +1,5 @@
 csk
-E
+C
 
 GK F_Marchetti
 DF P_Mertesacker
@@ -7,25 +7,26 @@ DF G_Bianco
 DF C_Martinez
 DF M_Reynolds
 DM G_Junior
-DM C_Sanchez
 MF A_Innocenti
-MF E_Elia
-MF G_Jesus
+MF Taison
+AM E_Elia
+AM G_Jesus
 AM T_Walcott
 
 GK F_Forster
-GK A_Lynch
-MF Taison
-MF C_Hourihane
-AM S_Doumbia
+DF F_Lopes
+AM C_Hourihane
+FW S_Doumbia
+FW J_Rhodes
 
 PK: T_Walcott
 AGG 20
 
-SUB 9 14 MF IF MIN = 55
-SUB 11 15 MF IF MIN = 60
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 81 SCORE = 1
-TACTIC D IF MIN >= 55 SCORE >= 2
+SUB 11 14 MF IF MIN = 55
+SUB 6 16 AM IF MIN = 78
+SUB 9 15 AM IF MIN = 87
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 80 SCORE = 1
+TACTIC D IF MIN >= 47 SCORE >= 2
