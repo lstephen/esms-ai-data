@@ -438,10 +438,10 @@ AM T_Walcott
    Overall     262     235     270     266     254     268     274 
 
 GK F_Forster
-GK A_Lynch
 DF F_Lopes
 AM C_Hourihane
 FW S_Doumbia
+FW J_Rhodes
 
 SUB GK F_Forster GK IF INJURED GK
 SUB DF F_Lopes DF IF INJURED DF
@@ -450,14 +450,13 @@ SUB MF C_Hourihane MF IF INJURED MF
 SUB AM C_Hourihane AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
-SUB T_Walcott C_Hourihane MF IF MIN = 50
-SUB E_Elia S_Doumbia FW IF MIN = 75
-CHANGEPOS G_Jesus MF IF MIN = 78
-CHANGEPOS G_Bianco DM IF MIN = 81
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
+SUB G_Junior C_Hourihane MF IF MIN = 60
+SUB T_Walcott J_Rhodes AM IF MIN = 70
+SUB E_Elia S_Doumbia AM IF MIN = 87
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 84 SCORE = 1
+TACTIC D IF MIN >= 80 SCORE = 1
 TACTIC D IF MIN >= 47 SCORE >= 2
 
 
