@@ -13,8 +13,8 @@ MF M_Antonio
 MF D_Iacobescu
 FW C_Sandulescu
 
+DF I_Muresanu
 DM J_Milburn
-DM N_Barbulescu
 AM D_Mario
 AM E_Davids
 FW R_Giurgiu
@@ -22,10 +22,11 @@ FW R_Giurgiu
 PK: C_Sandulescu
 AGG 20
 
-SUB 11 14 FW IF MIN = 45
-SUB 10 12 MF IF MIN = 50
+SUB 10 14 FW IF MIN = 60
+SUB 11 12 DF IF MIN = 65
+SUB 4 13 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
-TACTIC P IF MIN >= 38 SCORE = -1
+TACTIC E IF MIN >= 65 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 34 SCORE = 1
 TACTIC D IF MIN >= 17 SCORE >= 2
