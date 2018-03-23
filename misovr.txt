@@ -374,7 +374,7 @@ DEFENSIVE        29  27  29  31  30  26
                    DEFENSIVE    26    18          20    21    19 
                    ATTACKING    26    18          24          31 
               COUNTER_ATTACK    26    18    23          21    25 
-                   LONG_BALL    26    19          20    25    25 
+                   LONG_BALL    26    19          20    25    26 
                      PASSING    26    19                      24 
                     EUROPEAN    26    17    20    28    26    22 
 
@@ -470,79 +470,75 @@ S_Verma         29  4/20/ 9 | MF P :  23  -3 :  21 | -32  1.1   0 || -10 || MF -
 Forced:Camelino/R_Gelman/V_Barbieri/R_Figueiredo/P_Litto/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
-R_Gelman        28 13/20/24 | FW A :  49  12 :  61 |   7  1.1   1 ||  70 || FW 10 FW 12 FW  9 FW  4 FW  8 FW 10 FW  4       
-AJ_Camodo       31    27    | GK N :  41  12 :  53 |   1  1.5  -1 ||  53 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12       
 Camelino        31  8/21/26 | FW A :  53  16 :  69 |  17  1.6  -1 ||  86 || FW 12 FW 16 FW 11 FW  4 FW  8 FW 11 FW  3       
+R_Gelman        28 13/20/24 | FW A :  49  12 :  61 |   7  1.1   1 ||  70 || FW 10 FW 12 FW  9 FW  4 FW  8 FW 10 FW  4       
 R_Figueiredo    30 27/17/16 | DF L :  48  11 :  59 |   7  1.2  -1 ||  66 || DF  9 DF  9 DF  9 DF  9 DF  9 DF 11 DF 10       
-G_C_Moore       27 24/18/16 | DF L :  44   8 :  52 |  -4  0.7   2 ||  50 || DF  7 DF  7 DF  7 DF  7 DF  7 DF  8 DF  7       
 P_Litto         31 26/16/15 | DF L :  45   9 :  54 |   2  0.7  -1 ||  56 || DF  7 DF  7 DF  8 DF  8 DF  8 DF  9 DF  9       
+G_C_Moore       27 24/18/16 | DF L :  44   8 :  52 |  -4  0.7   2 ||  50 || DF  7 DF  7 DF  7 DF  7 DF  7 DF  8 DF  7       
 M_Tensfeldt     29 24/17/15 | DF L :  43   7 :  50 |  -2  0.8   0 ||  49 || DF  6 DF  6 DF  6 DF  6 DF  6 DF  7 DF  6       
 V_Barbieri      23 21/17/17 | DF L :  42   5 :  47 |  16  1.0   6 ||  69 || DF  4 DF  4 DF  4 DF  4 DF  4 DF  5 DM  3       
-D_Bledsoe       31 17/21/15 | MF N :  35   4 :  38 | -14  1.0  -1 ||  25 || MF  3 DM  3 MF  3 MF  3 MF  4 AM  1 MF  2       
+AJ_Camodo       31    27    | GK N :  41  12 :  53 |   1  1.5  -1 ||  53 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12       
 C_Yastrzemski   31  7/25/15 | MF E :  39   6 :  45 |  -7  0.7  -1 ||  37 || MF  5 MF  5 MF  6 MF  2 AM  4 AM  0 AM -2       
+D_Bledsoe       31 17/21/15 | MF N :  35   4 :  38 | -14  1.0  -1 ||  25 || MF  3 DM  3 MF  3 MF  3 MF  4 AM  1 MF  2       
 X_Cullie        24 18/17/15 | DF A :  37   0 :  37 |   3  1.5   5 ||  46 || DF  0 DF  0 DF  0 DM  0 DF  0 DF  0 MF  0       
-C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   3  1.2   6 ||  45 || FW  0 AM  0 MF  0 MF -2 AM  0 AM -1 AM -4       
-Tarildo         30 16/21/ 4 | DM E :  33   0 :  33 | -19  0.6  -1 ||  14 || DM  0 DM -4 DM  0 MF  0 DM -1 DM -6 DM -1       
-K_Prescott      33 19/15/10 | DF D :  27   0 :  27 |   0  0.7  -1 ||  26 || DF -2 DF -4 DF -2 DF -1 DF -2 DM -2 DF  0       
 H_Roller        22  9/11/19 | FW L :  30   0 :  30 |   2  1.4   7 ||  40 || FW -3 FW -1 FW  0 FW -8 FW -2 FW  0 FW -4       
-A_Kapustov      23    19    | GK N :  29   0 :  29 |  -2  0.2   6 ||  32 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+C_Parry         23  9/20/15 | AM A :  34   0 :  34 |   3  1.2   6 ||  45 || FW  0 AM  0 MF  0 MF -2 AM  0 AM -1 AM -4       
 D_Tikhomirov    24  3/19/15 | AM A :  33  -1 :  33 |  -2  0.7   5 ||  37 || AM -2 AM -1 AM -2 MF -6 AM -3 AM -4 AM -8       
 W_Obershaw      23  6/ 8/19 | FW L :  28  -1 :  27 |  -4  1.0   6 ||  30 || FW -6 FW -3 FW -2 FW-11 FW -5 FW -1 FW -7       
-I_Yolkin        22 19/ 9/ 4 | DF D :  25  -1 :  24 |  -4  1.0   7 ||  27 || DF -8 DF-11 DF -6 DF -6 DF -7 DM -8 DF -1       
+K_Prescott      33 19/15/10 | DF D :  27   0 :  27 |   0  0.7  -1 ||  26 || DF -2 DF -4 DF -2 DF -1 DF -2 DM -2 DF  0       
+Tarildo         30 16/21/ 4 | DM E :  33   0 :  33 | -19  0.6  -1 ||  14 || DM  0 DM -4 DM  0 MF  0 DM -1 DM -6 DM -1       
+A_Kapustov      23    19    | GK N :  29   0 :  29 |  -2  0.2   6 ||  32 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 S_Dobre         22 18/ 6/ 8 | DF D :  23  -3 :  20 |  -8  1.0   7 ||  20 || DF-10 DF-11 DF -6 DF -7 DF -8 DM -8 DF -3       
+I_Yolkin        22 19/ 9/ 4 | DF D :  25  -1 :  24 |  -4  1.0   7 ||  27 || DF -8 DF-11 DF -6 DF -6 DF -7 DM -8 DF -1       
 
-COUNTER_ATTACK
+ATTACKING
 GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
+DF G_C_Moore
 DF M_Tensfeldt
-DM G_C_Moore
-DM Tarildo
+DF V_Barbieri
+DM X_Cullie
+DM D_Bledsoe
 MF C_Yastrzemski
-AM V_Barbieri
-AM D_Bledsoe
-AM R_Gelman
 FW Camelino
+FW R_Gelman
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     126     171      83     145     145     111     116 
-   PASSING     140     100     148     143      69     166     152 
-  SHOOTING      96      54     162      80     154      76      93 
-   SH Mean      20      21      19      20      19      20      20 
- SH Median      17      24      17      24      17      24      17 
+  TACKLING     157     194     125     162     180     147     152 
+   PASSING     112      75     128     120      59     154     111 
+  SHOOTING      99      45     165      81     155      83      92 
+   SH Mean      20      23      20      21      20      21      21 
+ SH Median      24      24      17      24      17      24      24 
     SH Max      26      26      26      26      26      26      26 
-  SH Bonus      21      16      27      21      17      26      22 
+  SH Bonus      19      12      22      19      14      22      19 
    GK Qual      27      27      27      27      27      27      27 
-  GK Bonus      27      20      38      25      23      30      29 
-       Agg      28      28      28      28      28      28      28 
-   Scoring     125      84     153     122      97     136     132 
- Defending     126     171      83     145     145     111     116 
-   Overall     299     269     273     311     274     300     298 
+  GK Bonus      23      18      29      22      20      26      23 
+       Agg      24      24      24      24      24      24      24 
+   Scoring     108      65     141     107      91     130     105 
+ Defending     157     194     125     162     180     147     152 
+   Overall     299     246     315     301     283     324     292 
 
 GK A_Kapustov
-DF S_Dobre
-AM K_Prescott
-AM X_Cullie
-AM C_Parry
+DF K_Prescott
+FW C_Parry
+FW D_Tikhomirov
+FW H_Roller
 
 SUB GK A_Kapustov GK IF INJURED GK
 SUB DF K_Prescott DF IF INJURED DF
 SUB DM C_Parry DM IF INJURED DM
 SUB MF C_Parry MF IF INJURED MF
 SUB AM C_Parry AM IF INJURED AM
-SUB FW X_Cullie FW IF INJURED FW
+SUB FW H_Roller FW IF INJURED FW
 
-CHANGEPOS Tarildo MF IF MIN = 45
-CHANGEPOS V_Barbieri DM IF MIN = 60
-SUB Tarildo C_Parry MF IF MIN = 65
-CHANGEPOS D_Bledsoe DM IF MIN = 70
-CHANGEPOS V_Barbieri AM IF MIN = 75
-SUB D_Bledsoe X_Cullie DM IF MIN = 78
-TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC E IF MIN >= 60 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
+SUB X_Cullie D_Tikhomirov AM IF MIN = 50
+SUB D_Tikhomirov C_Parry DM IF MIN = 70
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 27 SCORE >= 2
 
 
 Forced:R_Silano/C_Stirbei/E_Petrescu/
@@ -610,17 +606,15 @@ SUB MF N_Morariu MF IF INJURED MF
 SUB AM N_Morariu AM IF INJURED AM
 SUB FW V_Zefirov FW IF INJURED FW
 
-SUB R_Silano V_Zefirov FW IF MIN = 55
-SUB E_Petrescu N_Morariu DF IF MIN = 60
-CHANGEPOS A_Briden MF IF MIN = 75
-SUB D_Lungu Q_Detert DF IF MIN = 78
-CHANGEPOS O_Bucsa DM IF MIN = 81
-CHANGEPOS P_Deusner MF IF MIN = 84
-CHANGEPOS A_Briden DM IF MIN = 87
+SUB E_Petrescu Q_Detert DF IF MIN = 55
+SUB R_Silano V_Zefirov FW IF MIN = 70
+SUB D_Lungu N_Morariu DF IF MIN = 75
+CHANGEPOS A_Briden MF IF MIN = 78
+CHANGEPOS N_Morariu DM IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 49 SCORE = 1
+TACTIC C IF MIN >= 63 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 
