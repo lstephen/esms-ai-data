@@ -373,7 +373,7 @@ DEFENSIVE        30  32  33  36  32  28
               COUNTER_ATTACK    27    21    23    30    22    25 
                    LONG_BALL    27                25          26 
                      PASSING    27    23                      23 
-                    EUROPEAN    27    27    21    25    22       
+                    EUROPEAN    27    27    21    25    22    27 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     L     N     D   
@@ -582,23 +582,23 @@ GK C_Poenaru
 DF W_Morgan
 DF Doriva
 FW R_Pires
-FW B_Celina
+FW A_Johnson
 
 SUB GK C_Poenaru GK IF INJURED GK
 SUB DF W_Morgan DF IF INJURED DF
 SUB DM R_Pires DM IF INJURED DM
 SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
-SUB FW R_Pires FW IF INJURED FW
+SUB FW A_Johnson FW IF INJURED FW
 
-SUB R_Sharp B_Celina FW IF MIN = 45
-SUB Hugo_Sanchez R_Pires FW IF MIN = 50
+SUB R_Sharp A_Johnson FW IF MIN = 50
+SUB Hugo_Sanchez R_Pires FW IF MIN = 60
 SUB E_Plummer W_Morgan DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 79 SCORE >= 2
+TACTIC D IF MIN >= 80 SCORE >= 2
 
 SUB A_Wisdom W_Morgan DF IF SCORE <= -3
 SUB A_Wisdom W_Morgan DF IF SCORE >= 3
@@ -654,28 +654,27 @@ FW C_Sandulescu
  Defending     101     159      81     112     148      98      96 
    Overall     240     231     233     248     214     245     249 
 
-DF I_Muresanu
 DM J_Milburn
+DM N_Barbulescu
 AM D_Mario
 AM E_Davids
 FW R_Giurgiu
 
-SUB GK I_Muresanu GK IF INJURED GK
-SUB DF I_Muresanu DF IF INJURED DF
+SUB GK E_Davids GK IF INJURED GK
+SUB DF J_Milburn DF IF INJURED DF
 SUB DM D_Mario DM IF INJURED DM
 SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB D_Iacobescu D_Mario FW IF MIN = 60
-SUB C_Sandulescu I_Muresanu DF IF MIN = 65
-SUB M_Oezil J_Milburn MF IF MIN = 70
+SUB C_Sandulescu D_Mario FW IF MIN = 45
+SUB D_Iacobescu J_Milburn MF IF MIN = 55
 TACTIC E IF SCORE <= -2
-TACTIC E IF MIN >= 65 SCORE = -1
+TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 34 SCORE = 1
 TACTIC D IF MIN >= 17 SCORE >= 2
 
-SUB M_Twaddle I_Muresanu DF IF SCORE <= -3
-SUB M_Twaddle I_Muresanu DF IF SCORE >= 3
+SUB M_Twaddle J_Milburn DF IF SCORE <= -3
+SUB M_Twaddle J_Milburn DF IF SCORE >= 3
 
