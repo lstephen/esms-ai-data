@@ -532,7 +532,7 @@ SUB MF C_Parry MF IF INJURED MF
 SUB AM C_Parry AM IF INJURED AM
 SUB FW X_Cullie FW IF INJURED FW
 
-SUB V_Barbieri X_Cullie DF IF MIN = 65
+SUB V_Barbieri X_Cullie DF IF MIN = 55
 SUB Tarildo C_Parry MF IF MIN = 70
 TACTIC A IF MIN >= 43 SCORE <= -2
 TACTIC A IF MIN >= 70 SCORE = -1
@@ -607,8 +607,9 @@ SUB MF D_Fidatov MF IF INJURED MF
 SUB AM D_Fidatov AM IF INJURED AM
 SUB FW V_Zefirov FW IF INJURED FW
 
-SUB V_Dobre D_Fidatov DM IF MIN = 55
-SUB Q_Detert V_Zefirov DF IF MIN = 70
+CHANGEPOS V_Dobre DM IF MIN = 60
+SUB Q_Detert V_Zefirov DF IF MIN = 65
+SUB V_Dobre D_Fidatov DM IF MIN = 70
 SUB E_Petrescu E_Silivasi DF IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
