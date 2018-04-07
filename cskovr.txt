@@ -435,22 +435,20 @@ FW T_Walcott
 
 GK F_Forster
 GK A_Lynch
-DF L_Hyam
+GK R_Fernandez
 FW C_Hourihane
 FW S_Doumbia
 
 SUB GK F_Forster GK IF INJURED GK
-SUB DF L_Hyam DF IF INJURED DF
+SUB DF C_Hourihane DF IF INJURED DF
 SUB DM C_Hourihane DM IF INJURED DM
 SUB MF C_Hourihane MF IF INJURED MF
 SUB AM C_Hourihane AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
 SUB Taison C_Hourihane DM IF MIN = 65
-SUB T_Walcott L_Hyam MF IF MIN = 81
-SUB A_Innocenti S_Doumbia FW IF MIN = 84
-CHANGEPOS L_Hyam DM IF MIN = 87
-TACTIC P IF SCORE <= -2
+SUB T_Walcott S_Doumbia FW IF MIN = 70
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
