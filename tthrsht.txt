@@ -16,15 +16,15 @@ FW D_Mario
 GK A_Ghita
 MF Juninho
 MF M_Antonio
-MF N_Barbulescu
+MF J_Milburn
 FW R_Giurgiu
 
 PK: M_Twaddle
 AGG 20
 
-SUB 10 13 MF IF MIN = 45
-SUB 4 15 DF IF MIN = 50
-SUB 9 14 MF IF MIN = 65
+SUB 4 16 DF IF MIN = 45
+SUB 10 14 MF IF MIN = 60
+SUB 9 13 MF IF MIN = 65
 TACTIC E IF MIN >= 29 SCORE <= -2
 TACTIC C IF MIN >= 28 SCORE = -1
 TACTIC L IF SCORE = 0

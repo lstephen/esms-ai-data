@@ -368,12 +368,12 @@ DEFENSIVE        30  32  33  36  32  28
                 Reserves (P)    27    30    26    27          35 
                          Min
                       NORMAL    27    21    23          22    22 
-                   DEFENSIVE    27          34    21    19    19 
+                   DEFENSIVE    27          23    21    19    19 
                    ATTACKING    27    22    23          25    32 
               COUNTER_ATTACK    27    21    24    30    22    25 
                    LONG_BALL    27                25          27 
                      PASSING    27    23                      23 
-                    EUROPEAN    27    27    21    25    22    27 
+                    EUROPEAN    27    27    21    25    22       
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -590,9 +590,9 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB I_Hack W_Morgan DF IF MIN = 50
-SUB D_McHale Hugo_Sanchez FW IF MIN = 55
-SUB R_Sharp A_Johnson AM IF MIN = 60
+SUB I_Hack A_Johnson AM IF MIN = 55
+SUB D_McHale W_Morgan DF IF MIN = 60
+SUB R_Sharp Hugo_Sanchez FW IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -655,19 +655,19 @@ FW D_Mario
 GK A_Ghita
 MF Juninho
 MF M_Antonio
-MF N_Barbulescu
+MF J_Milburn
 FW R_Giurgiu
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF M_Antonio DF IF INJURED DF
+SUB DF J_Milburn DF IF INJURED DF
 SUB DM Juninho DM IF INJURED DM
 SUB MF Juninho MF IF INJURED MF
 SUB AM Juninho AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB D_Iacobescu Juninho MF IF MIN = 45
-SUB C_Sandulescu N_Barbulescu DF IF MIN = 50
-SUB J_Cadette M_Antonio MF IF MIN = 65
+SUB C_Sandulescu R_Giurgiu DF IF MIN = 45
+SUB D_Iacobescu M_Antonio MF IF MIN = 60
+SUB J_Cadette Juninho MF IF MIN = 65
 TACTIC E IF MIN >= 29 SCORE <= -2
 TACTIC C IF MIN >= 28 SCORE = -1
 TACTIC L IF SCORE = 0
