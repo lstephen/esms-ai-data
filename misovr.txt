@@ -374,7 +374,7 @@ DEFENSIVE        29  27  29  31  30  26
                    DEFENSIVE    26    18          20    21    19 
                    ATTACKING    26    18          24          31 
               COUNTER_ATTACK    26    18    23          21    25 
-                   LONG_BALL    26    19          20          26 
+                   LONG_BALL    26    19          20          25 
                      PASSING    26    19                      24 
                     EUROPEAN    26    17    20    28    26    22 
 
@@ -521,7 +521,7 @@ FW L_Selders
 
 GK A_Kapustov
 DF K_Prescott
-DF S_Dobre
+DF I_Yolkin
 DF X_Cullie
 FW C_Parry
 
