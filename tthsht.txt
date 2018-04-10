@@ -15,13 +15,13 @@ FW Hugo_Sanchez
 
 GK C_Poenaru
 MF C_McGregor
-FW G_Weah
+AM G_Weah
 
 PK: Hugo_Sanchez
 AGG 20
 
+SUB 8 13 MF IF MIN = 45
 SUB 11 14 FW IF MIN = 50
-SUB 8 13 MF IF MIN = 55
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
