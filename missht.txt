@@ -14,16 +14,16 @@ MF L_Selders
 FW R_Gelman
 
 GK A_Kapustov
+DF S_Dobre
 DM X_Cullie
 DM Tarildo
 MF C_Parry
-MF D_Tikhomirov
 
 PK: Camelino
 AGG 20
 
-SUB 6 13 DM IF MIN = 55
-SUB 10 15 MF IF MIN = 70
+SUB 6 14 DM IF MIN = 65
+SUB 10 16 MF IF MIN = 70
 TACTIC A IF MIN >= 86 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
