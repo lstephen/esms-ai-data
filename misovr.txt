@@ -521,10 +521,10 @@ FW R_Gelman
    Overall     308     268     283     308     283     305     314 
 
 GK A_Kapustov
+DF S_Dobre
 DM X_Cullie
 DM Tarildo
 MF C_Parry
-MF D_Tikhomirov
 
 SUB GK A_Kapustov GK IF INJURED GK
 SUB DF X_Cullie DF IF INJURED DF
@@ -533,7 +533,7 @@ SUB MF Tarildo MF IF INJURED MF
 SUB AM Tarildo AM IF INJURED AM
 SUB FW X_Cullie FW IF INJURED FW
 
-SUB V_Barbieri X_Cullie DM IF MIN = 55
+SUB V_Barbieri X_Cullie DM IF MIN = 65
 SUB L_Selders C_Parry MF IF MIN = 70
 TACTIC A IF MIN >= 86 SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -607,16 +607,15 @@ SUB MF N_Parasca MF IF INJURED MF
 SUB AM N_Parasca AM IF INJURED AM
 SUB FW V_Zefirov FW IF INJURED FW
 
-CHANGEPOS I_Ungureanu MF IF MIN = 45
-SUB N_Morariu Q_Detert DF IF MIN = 50
-CHANGEPOS D_Fidatov MF IF MIN = 60
-SUB I_Ungureanu V_Zefirov FW IF MIN = 65
-CHANGEPOS V_Dobre FW IF MIN = 70
-SUB E_Petrescu E_Silivasi DF IF MIN = 81
-TACTIC A IF MIN >= 65 SCORE <= -2
+CHANGEPOS I_Ungureanu MF IF MIN = 55
+SUB E_Petrescu Q_Detert DF IF MIN = 60
+SUB N_Morariu E_Silivasi DF IF MIN = 65
+CHANGEPOS D_Fidatov MF IF MIN = 75
+SUB R_Silano V_Zefirov FW IF MIN = 78
+TACTIC A IF MIN >= 76 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC C IF MIN >= 78 SCORE = 1
+TACTIC D IF MIN >= 57 SCORE >= 2
 
 
