@@ -446,10 +446,11 @@ SUB MF C_Hourihane MF IF INJURED MF
 SUB AM C_Hourihane AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
-CHANGEPOS A_Innocenti DM IF MIN = 55
-SUB T_Walcott S_Doumbia FW IF MIN = 65
-SUB M_Reynolds L_Hyam DF IF MIN = 75
-SUB E_Elia C_Hourihane FW IF MIN = 90
+CHANGEPOS A_Innocenti DM IF MIN = 60
+SUB C_Sanchez S_Doumbia FW IF MIN = 70
+SUB T_Walcott L_Hyam DM IF MIN = 75
+CHANGEPOS A_Innocenti MF IF MIN = 78
+SUB A_Innocenti C_Hourihane FW IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
