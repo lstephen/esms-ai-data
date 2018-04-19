@@ -14,17 +14,16 @@ AM D_Mario
 FW R_Sharp
 
 GK A_Ghita
+DM M_Antonio
 DM J_Cadette
 MF Juninho
 AM A_Johnson
-AM B_Celina
 
 PK: R_Sharp
 AGG 20
 
-SUB 10 13 MF IF MIN = 50
-SUB 9 15 MF IF MIN = 60
-SUB 11 16 FW IF MIN = 70
+SUB 10 16 MF IF MIN = 45
+SUB 9 14 MF IF MIN = 50
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
