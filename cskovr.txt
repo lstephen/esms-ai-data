@@ -447,7 +447,7 @@ SUB AM S_Doumbia AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
 SUB C_Martinez M_Reynolds DF IF MIN = 55
-SUB C_Hourihane S_Doumbia FW IF MIN = 60
+SUB C_Hourihane S_Doumbia FW IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC L IF SCORE = 0
