@@ -553,9 +553,9 @@ SUB MF M_Saganowski MF IF INJURED MF
 SUB AM M_Saganowski AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
-SUB C_McGregor M_Saganowski MF IF MIN = 55
+SUB Hugo_Sanchez G_Weah FW IF MIN = 55
 SUB M_Twaddle W_Morgan DF IF MIN = 60
-SUB Hugo_Sanchez G_Weah FW IF MIN = 70
+SUB C_McGregor M_Saganowski MF IF MIN = 70
 TACTIC E IF MIN >= 12 SCORE <= -2
 TACTIC E IF MIN >= 24 SCORE = -1
 TACTIC C IF SCORE = 0
@@ -629,13 +629,13 @@ SUB MF Juninho MF IF INJURED MF
 SUB AM Juninho AM IF INJURED AM
 SUB FW Juninho FW IF INJURED FW
 
-SUB D_Mario M_Antonio DM IF MIN = 55
-SUB M_Oezil J_Cadette DF IF MIN = 65
-SUB Moreto Ridoutkha DF IF MIN = 78
+SUB D_Mario Ridoutkha DM IF MIN = 50
+SUB M_Oezil J_Cadette DF IF MIN = 60
+SUB M_James M_Antonio DM IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 21 SCORE = 1
+TACTIC D IF MIN >= 76 SCORE = 1
 TACTIC D IF MIN >= 46 SCORE >= 2
 
 
