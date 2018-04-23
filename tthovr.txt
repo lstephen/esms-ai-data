@@ -370,7 +370,7 @@ DEFENSIVE        30  33  33  36  32  28
                 Reserves (P)    27    34    28                37 
                          Min
                       NORMAL    27    21    23          22    22 
-                   DEFENSIVE    27          23    21    19    19 
+                   DEFENSIVE    27          34    21    19    19 
                    ATTACKING    27    22    23          25    32 
               COUNTER_ATTACK    27    21    24    30    22    25 
                    LONG_BALL    27                25          27 
@@ -380,10 +380,12 @@ DEFENSIVE        30  33  33  36  32  28
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
 N_Wade          36 31/ 9/ 6 | MF L :  55  10 :  64 |  22  1.1   1 ||  88 || DF  3 DF  5 DF  6 DF  5 DF  4 MF 10 DF  9       
+P_Nedved        34  7/25/23 | FW A :  51   8 :  59 |  16  0.5   1 ||  76 || FW  5 FW  8 FW  5 AM  5 AM  4 AM  4 AM  1       
 Defender01      27 23/12/10 | MF L :  47   2 :  49 |  17  0.8   5 ||  72 || DF -2 DF  0 DF  0 DF  0 DF -2 MF  2 DM  0     r 
 Keeper06        26    26    | GK N :  39   9 :  48 |  16  0.6   6 ||  70 || GK  9 GK  9 GK  9 GK  9 GK  9 GK  9 GK  9     r 
 Keeper02        33    28    | GK N :  42  12 :  54 |  11  1.1   3 ||  69 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12     r 
 Forward12       28  8/12/25 | FW A :  45   3 :  48 |  15  0.6   4 ||  68 || FW -2 FW  3 FW  1 FW  1 FW  1 FW  1 FW -2       
+Ru_B_Perry      20  7/22/17 | AM A :  39  -2 :  38 |  17  0.8   8 ||  64 || MF -2 AM -2 AM -3 MF -2 MF -2 AM -2 AM -4     r 
 Forward13       30  5/11/25 | FW A :  45   2 :  47 |  12  0.6   3 ||  63 || FW -4 FW  2 FW -1 FW  0 FW -1 FW  0 FW -4       
 Forward01       26  4/ 8/25 | FW A :  43   0 :  43 |  10  0.9   5 ||  59 || FW -6 FW  0 FW -3 FW -1 FW -2 FW -1 FW -5       
 Forward16       30  7/ 9/25 | FW A :  43   1 :  44 |  10  1.3   3 ||  58 || FW -5 FW  1 FW -1 FW  0 FW -1 FW  0 FW -4       
@@ -394,13 +396,11 @@ Forward17       26  4/ 8/24 | FW A :  41  -1 :  40 |   7  1.1   5 ||  53 || FW -
 Forward10       30  9/ 8/25 | FW L :  37   0 :  37 |   2  1.1   3 ||  43 || FW -5 FW  0 FW -1 FW  0 FW  0 FW  0 FW -3       
 S_Corchia       31  5/ 5/26 | FW L :  36   0 :  36 |   0  1.2   3 ||  40 || FW -7 FW  0 FW -3 FW -1 FW -1 FW  0 FW -5       
 Keeper04        33    23    | GK N :  35   5 :  39 |  -4  0.6   3 ||  38 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5     r 
-T_Turner        34  6/12/22 | FW A :  41  -2 :  39 |  -4  1.9   1 ||  38 || FW -6 FW -2 FW -3 FW -2 FW -3 AM -2 FW -6     r 
 Defender06      27 24/ 8/ 6 | DF D :  32   0 :  32 |   0  0.5   5 ||  37 || DF -5 DF -3 DF -2 DF -2 DF -4 DF -1 DF  0     r 
 Forward09       28  7/ 5/24 | FW L :  34  -2 :  32 |  -1  1.4   4 ||  37 || FW -9 FW -3 FW -4 FW -3 FW -3 FW -2 FW -5     r 
 Defender14      28 24/ 9/ 5 | DF D :  32   0 :  32 |  -1  0.6   5 ||  36 || DF -4 DF -3 DF -2 DF -2 DF -4 DF -1 DF  0     r 
 Defender16      28 24/ 7/ 9 | DF L :  31   0 :  31 |  -1  1.0   5 ||  36 || DF -5 DF -2 DF -2 DF -1 DF -4 DF  0 DF -1     r 
 Defender02      29 24/ 8/ 8 | DF L :  31   0 :  31 |  -1  0.5   4 ||  34 || DF -4 DF -2 DF -1 DF -1 DF -3 DF  0 DF  0     r 
-D_Barr          34 22/17/ 7 | DM D :  36   2 :  38 |  -6  0.4   2 ||  34 || DF  0 DF  0 DF  1 DF -1 DF -1 DM  1 DM  2     r 
 Midfielder19    21 11/22/10 | DM P :  28  -2 :  25 |  -2  0.7   8 ||  31 || DM -2 DM -4 MF -3 MF -4 MF -3 DM -3 AM -5     r 
 Midfielder23    26  9/25/ 9 | MF P :  30  -1 :  29 |  -4  0.5   5 ||  30 || MF -1 DM -3 MF -1 MF -1 MF -1 DM -4 AM -5       
 Keeper07        32    22    | GK N :  33   3 :  36 | -10  0.9   3 ||  30 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3     r 
@@ -411,7 +411,6 @@ Midfielder13    27  9/25/ 5 | MF P :  29  -2 :  27 |  -5  0.5   5 ||  27 || MF -
 R_Clemance      19    15    | GK N :  23  -7 :  15 |   1  0.6  10 ||  26 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7     r 
 P_Srnicek       20    16    | GK N :  24  -6 :  18 |  -2  0.8   9 ||  26 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
 Midfielder05    30 10/25/ 7 | MF P :  29  -1 :  28 |  -6  0.8   3 ||  26 || MF -1 DM -3 MF -1 MF -2 MF -1 DM -5 MF -5       
-M_Hornschuh     31 24/ 4/ 5 | DF D :  31  -1 :  30 |  -7  0.7   3 ||  26 || DF -8 DF -5 DF -4 DF -4 DF -6 DF -2 DF -1     r 
 Midfielder22    29  8/25/ 6 | MF P :  29  -2 :  27 |  -6  0.5   4 ||  25 || MF -2 DM -5 MF -2 MF -3 MF -2 DM -7 AM -7       
 Midfielder02    29 10/24/ 7 | MF P :  28  -2 :  26 |  -6  0.9   4 ||  24 || MF -2 DM -4 MF -2 MF -3 MF -2 DM -5 MF -6     r 
 K_Traore        26 22/12/ 7 | DM L :  25  -1 :  24 |  -8  1.2   6 ||  22 || DF -4 DF -2 DF -2 DF -2 DF -4 DM -1 DM -1     r 
@@ -419,24 +418,15 @@ Midfielder15    27  5/25/ 4 | MF P :  27  -3 :  24 |  -7  0.5   5 ||  22 || MF -
 Defender05      28 23/10/ 8 | DM L :  25   0 :  25 |  -8  0.7   5 ||  22 || DF -4 DF -2 DF -1 DF -1 DF -3 DM  0 DM -1     r 
 Defender10      28 23/ 7/10 | DM L :  25   0 :  25 |  -8  0.7   5 ||  22 || DF -5 DF -2 DF -2 DF -2 DF -4 DM  0 DF -2     r 
 Midfielder18    24  6/23/10 | MF P :  27  -3 :  24 | -10  1.2   6 ||  21 || MF -3 DM -5 MF -4 MF -4 MF -4 DM -7 AM -8     r 
-ToZe            26 10/21/17 | DM L :  24  -1 :  23 |  -9  0.5   5 ||  20 || AM -2 DM -2 FW -2 FW -2 MF -2 DM -1 AM -3     r 
 Midfielder20    30  9/24/ 7 | MF P :  28  -2 :  26 |  -9  0.5   3 ||  20 || MF -2 DM -4 MF -3 MF -3 MF -3 DM -6 AM -7     r 
 Midfielder16    28  7/24/ 5 | MF P :  27  -3 :  24 |  -9  0.5   4 ||  19 || MF -3 DM -6 MF -4 MF -5 MF -4 DM -8 AM -9     r 
-P_Sousa         28  8/23/ 8 | MF P :  27  -3 :  24 |  -9  0.6   4 ||  19 || MF -3 DM -5 MF -4 MF -4 MF -4 DM -6 AM -7     r 
 T_Fori          23  7/22/ 8 | MF P :  26  -4 :  21 | -13  0.5   7 ||  16 || MF -4 DM -7 MF -5 MF -6 MF -5 DM -7 AM -9     r 
 Defender03      30 23/ 8/ 8 | DM L :  24  -1 :  23 | -11  0.7   4 ||  16 || DF -5 DF -3 DF -2 DF -2 DF -4 DM -1 DF -2     r 
 Forward08       20  6/ 8/18 | FW E :  21  -7 :  13 |  -7  0.9   8 ||  15 || FW-13 FW-10 FW -9 FW -7 FW -8 AM -8 FW-10     r 
-C_Weale         34    19    | GK N :  29  -1 :  27 | -16  0.6   2 ||  13 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1     r 
 Forward05       23  6/ 6/22 | FW E :  23  -4 :  19 | -15  0.6   7 ||  11 || FW-10 FW -6 FW -6 FW -4 FW -5 AM -5 FW -7     r 
 Forward03       23  9/ 7/19 | AM L :  23  -6 :  17 | -17  1.0   7 ||   7 || FW-12 FW -9 FW -7 FW -6 FW -7 AM -6 FW -8     r 
 T_A_Adams       30 20/ 8/ 7 | DM L :  22  -4 :  18 | -17  0.6   4 ||   5 || DF -9 DF -6 DF -6 DF -5 DF -8 DM -4 DF -5     r 
-S_Stanfield     33  9/15/19 | AM L :  26  -3 :  23 | -20  0.4   2 ||   5 || FW -6 FW -4 FW -3 FW -3 FW -4 AM -3 FW -6     r 
 J_Hine          35 18/14/10 | DM L :  24  -1 :  23 | -20  0.7   1 ||   4 || DM -5 DF -4 DF -4 DF -4 DM -6 DM -1 DM -4     r 
-S_Taylor        32 13/20/ 6 | DM P :  27  -4 :  23 | -23  0.9   2 ||   3 || DM -4 DM -7 MF -5 DM -6 DM -5 DM -5 DM -6     r 
-S_Trike         28  9/ 7/18 | DM L :  19  -7 :  12 | -21  0.7   4 ||  -5 || FW-13 FW-11 FW -8 FW -7 FW -8 DM -7 FW -8     r 
-Z_Brightside    34  5/22/ 4 | MF P :  24  -6 :  18 | -25  0.4   1 ||  -5 || MF -6 DM-10 MF -7 MF -8 MF -7 DM-11 AM-12     r 
-B_Strang        36    16    | GK N :  24  -6 :  18 | -25  0.4   1 ||  -5 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
-A_Mizuno        35  4/19/ 9 | MF P :  22  -8 :  14 | -29  1.0   1 || -13 || MF -8 DM-10 MF-10 MF-10 MF -9 DM-10 AM-12     r 
 
 ** /for_transfer.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -553,9 +543,9 @@ SUB MF M_Saganowski MF IF INJURED MF
 SUB AM M_Saganowski AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
-SUB Hugo_Sanchez G_Weah FW IF MIN = 55
-SUB M_Twaddle W_Morgan DF IF MIN = 60
-SUB C_McGregor M_Saganowski MF IF MIN = 70
+SUB Hugo_Sanchez G_Weah FW IF MIN = 50
+SUB C_McGregor M_Saganowski MF IF MIN = 55
+SUB M_Twaddle W_Morgan DF IF MIN = 70
 TACTIC E IF MIN >= 12 SCORE <= -2
 TACTIC E IF MIN >= 24 SCORE = -1
 TACTIC C IF SCORE = 0
@@ -604,7 +594,7 @@ FW R_Sharp
   STOPPING      27      27      27      27      27      27      27 
   TACKLING     119     158     110     120     130     118     106 
    PASSING     117      79     123     117      56     137     115 
-  SHOOTING      79      46     130      81     105      77      84 
+  SHOOTING      79      46     130      81     104      77      84 
    SH Mean      18      20      18      19      18      18      18 
  SH Median      19      19      19      19      19      19      19 
     SH Max      24      24      24      24      24      24      24 
@@ -629,13 +619,13 @@ SUB MF Juninho MF IF INJURED MF
 SUB AM Juninho AM IF INJURED AM
 SUB FW Juninho FW IF INJURED FW
 
-SUB D_Mario Ridoutkha DM IF MIN = 50
-SUB M_Oezil J_Cadette DF IF MIN = 60
+SUB D_Mario J_Cadette DM IF MIN = 45
+SUB M_Oezil Ridoutkha DF IF MIN = 60
 SUB M_James M_Antonio DM IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 76 SCORE = 1
-TACTIC D IF MIN >= 46 SCORE >= 2
+TACTIC D IF MIN >= 78 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
 
 
