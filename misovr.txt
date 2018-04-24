@@ -264,7 +264,7 @@ FW D_Lungu
 FW R_Silano
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING     101     123      80     104     113      94      97 
+  TACKLING     101     123      80     104     113      94      98 
    PASSING      77      50      93      84      41     112      73 
   SHOOTING      75      37     121      64     112      66      71 
    SH Mean      14      15      14      14      14      14      14 
@@ -275,7 +275,7 @@ FW R_Silano
   GK Bonus      16      12      20      16      14      18      16 
        Agg      18      18      18      18      18      18      18 
    Scoring      76      46     102      77      64      97      72 
- Defending     101     123      80     104     113      94      97 
+ Defending     101     123      80     104     113      94      98 
    Overall     203     166     218     207     192     225     195 
 
 ** First XI **
@@ -374,7 +374,7 @@ DEFENSIVE        29  27  29  31  30  26
                    DEFENSIVE    26    18          20    22    19 
                    ATTACKING    26    18          24          31 
               COUNTER_ATTACK    26    18    23          21    25 
-                   LONG_BALL    26    19          21          25 
+                   LONG_BALL    26    19          21          26 
                      PASSING    26    19                      24 
                     EUROPEAN    26    17    20    29    26    22 
 
