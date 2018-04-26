@@ -1,32 +1,34 @@
 tthr
-A
+D
 
 GK D_Gogean
 DF A_Hinkel
 DF E_Plummer
 DF I_Hack
-DF Moreto
-DF M_Oezil
-DM M_James
-AM A_Johnson
-AM T_Hurlock
-AM D_Mario
-FW R_Sharp
+MF M_James
+MF T_Hurlock
+MF Moreto
+MF Ridoutkha
+MF M_Oezil
+MF J_Cadette
+FW D_Mario
 
 GK A_Ghita
-DM Ridoutkha
-DM M_Antonio
-DM J_Cadette
-AM Juninho
+DM I_Harte
+MF A_Johnson
+MF M_Antonio
+FW R_Sharp
 
-PK: R_Sharp
+PK: D_Mario
 AGG 20
 
-SUB 10 14 DM IF MIN = 55
-SUB 6 13 DF IF MIN = 60
-SUB 7 15 DM IF MIN = 81
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 80 SCORE = 1
-TACTIC D IF MIN >= 46 SCORE >= 2
+SUB 11 16 FW IF MIN = 50
+SUB 6 15 MF IF MIN = 55
+SUB 10 14 MF IF MIN = 60
+TACTIC E IF MIN >= 7 SCORE <= -2
+TACTIC E IF MIN >= 14 SCORE = -1
+TACTIC D IF SCORE = 0
+TACTIC L IF SCORE = 1
+TACTIC L IF SCORE >= 2
+SUB 2 13 DF IF SCORE <= -3
+SUB 2 13 DF IF SCORE >= 3
