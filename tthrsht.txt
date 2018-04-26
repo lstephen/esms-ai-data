@@ -14,7 +14,7 @@ MF J_Cadette
 FW D_Mario
 
 GK A_Ghita
-DM I_Harte
+MF I_Harte
 MF A_Johnson
 MF M_Antonio
 FW R_Sharp
@@ -22,9 +22,9 @@ FW R_Sharp
 PK: D_Mario
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 6 15 MF IF MIN = 55
-SUB 10 14 MF IF MIN = 60
+SUB 6 14 MF IF MIN = 50
+SUB 11 16 FW IF MIN = 55
+SUB 10 15 MF IF MIN = 60
 TACTIC E IF MIN >= 7 SCORE <= -2
 TACTIC E IF MIN >= 14 SCORE = -1
 TACTIC D IF SCORE = 0
