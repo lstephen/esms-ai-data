@@ -545,9 +545,9 @@ SUB MF M_Saganowski MF IF INJURED MF
 SUB AM M_Saganowski AM IF INJURED AM
 SUB FW R_Pires FW IF INJURED FW
 
-SUB Janssen M_Saganowski DF IF MIN = 45
-SUB Hugo_Sanchez S_Howey MF IF MIN = 50
-SUB T_Manniman C_McGregor MF IF MIN = 70
+SUB Hugo_Sanchez M_Saganowski MF IF MIN = 45
+SUB Janssen C_McGregor DF IF MIN = 50
+SUB D_McHale R_Pires MF IF MIN = 70
 TACTIC E IF MIN >= 6 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC D IF SCORE = 0
@@ -610,7 +610,7 @@ FW D_Mario
    Overall     248     256     220     265     260     251     248 
 
 GK A_Ghita
-DM I_Harte
+MF I_Harte
 MF A_Johnson
 MF M_Antonio
 FW R_Sharp
@@ -622,9 +622,9 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
-SUB T_Hurlock A_Johnson MF IF MIN = 50
-SUB D_Mario R_Sharp FW IF MIN = 55
-SUB J_Cadette M_Antonio MF IF MIN = 60
+SUB D_Mario R_Sharp FW IF MIN = 45
+SUB T_Hurlock A_Johnson MF IF MIN = 55
+SUB J_Cadette M_Antonio MF IF MIN = 70
 TACTIC E IF MIN >= 7 SCORE <= -2
 TACTIC E IF MIN >= 14 SCORE = -1
 TACTIC D IF SCORE = 0
