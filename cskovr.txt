@@ -446,9 +446,8 @@ SUB MF C_Hourihane MF IF INJURED MF
 SUB AM C_Hourihane AM IF INJURED AM
 SUB FW C_Hourihane FW IF INJURED FW
 
-SUB Taison C_Hourihane DM IF MIN = 65
-CHANGEPOS C_Hourihane FW IF MIN = 75
-SUB S_Doumbia L_Hyam DM IF MIN = 78
+SUB S_Doumbia C_Hourihane FW IF MIN = 45
+SUB Taison L_Hyam DM IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
