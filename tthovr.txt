@@ -424,8 +424,10 @@ L_Ruiz          34 16/ 3/ 3 | DF D :  21 -12 :   9 | -35  1.3   2 || -23 || DF-1
 ** /for_transfer.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 Renald          30 26/ 8/10 | MF L :  50   2 :  52 |  16  0.8   4 ||  72 || DF -2 DF  0 DF  1 DF  1 DF -1 MF  2 DF  2       
+Neves           28  5/ 6/26 | FW A :  43   0 :  43 |   9  0.9   4 ||  57 || FW -6 FW -4 FW  0 FW -1 FW -1 FW  0 FW -5       
 N_Schulz        29  7/26/16 | MF E :  41   2 :  43 |   7  0.4   4 ||  54 || MF  2 MF  1 MF  1 MF  2 MF  2 AM -2 AM -2       
 Christinoa      27  9/ 7/26 | FW L :  38   1 :  39 |   6  0.3   5 ||  50 || FW -5 FW -2 FW  1 FW  0 FW  0 FW  1 FW -2       
+B_Ivanovic      28 26/10/ 7 | DF D :  35   3 :  38 |   3  1.3   5 ||  46 || DF -1 DF  0 DF  1 DF  1 DF -1 DF  2 DF  3       
 S_Berghuis      23  4/23/16 | MF A :  35  -2 :  33 |   0  0.6   7 ||  40 || MF -2 AM -3 MF -2 MF -2 MF -2 AM -4 AM -6     r 
 L_Dixon         21 23/ 7/ 9 | DF L :  30  -2 :  28 |   0  1.4   8 ||  38 || DF -6 DF -4 DF -3 DF -2 DF -5 DF -2 DF -2       
 V_Nicu          19  9/15/ 7 | DM L :  16 -11 :   5 | -11  0.8   9 ||   4 || MF-11 MF-12 DM-13 DF-13 MF-11 DM-11 AM-12     r 
@@ -535,13 +537,13 @@ SUB AM M_Saganowski AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
 SUB Janssen G_Weah FW IF MIN = 45
-SUB Hugo_Sanchez M_Saganowski MF IF MIN = 50
-SUB T_Manniman M_Twaddle DF IF MIN = 78
+SUB T_Manniman M_Saganowski MF IF MIN = 65
+SUB Hugo_Sanchez M_Twaddle DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 87 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 86 SCORE = 1
+TACTIC D IF MIN >= 59 SCORE >= 2
 
 SUB A_Wisdom W_Morgan DF IF SCORE <= -3
 SUB A_Wisdom W_Morgan DF IF SCORE >= 3
@@ -612,13 +614,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB D_Mario M_Antonio DM IF MIN = 55
-SUB Moreto Ridoutkha DM IF MIN = 60
-SUB M_James J_Cadette DF IF MIN = 78
+SUB D_Mario M_Antonio DM IF MIN = 50
+SUB I_Harte J_Cadette DM IF MIN = 70
+SUB M_James Ridoutkha DF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 60 SCORE = 1
+TACTIC D IF MIN >= 70 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB Moreto Ridoutkha DF IF SCORE <= -3
