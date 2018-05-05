@@ -537,8 +537,8 @@ SUB AM M_Saganowski AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
 SUB Janssen G_Weah FW IF MIN = 45
-SUB T_Manniman M_Saganowski MF IF MIN = 65
-SUB Hugo_Sanchez M_Twaddle DF IF MIN = 70
+SUB T_Manniman M_Saganowski MF IF MIN = 70
+SUB Hugo_Sanchez M_Twaddle DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -614,13 +614,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW R_Giurgiu FW IF INJURED FW
 
-SUB D_Mario M_Antonio DM IF MIN = 50
-SUB I_Harte J_Cadette DM IF MIN = 70
-SUB M_James Ridoutkha DF IF MIN = 75
+SUB D_Mario M_Antonio DM IF MIN = 55
+SUB I_Harte J_Cadette DF IF MIN = 65
+SUB Moreto Ridoutkha DF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 70 SCORE = 1
+TACTIC P IF MIN >= 55 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB Moreto Ridoutkha DF IF SCORE <= -3
