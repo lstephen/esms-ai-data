@@ -6,29 +6,29 @@ DF A_Hinkel
 DF E_Plummer
 DF I_Hack
 DF I_Harte
-DF Moreto
-DM M_James
+DF M_Oezil
+DM Moreto
+DM Ridoutkha
 AM A_Johnson
 AM T_Hurlock
-AM D_Mario
-FW R_Sharp
+FW D_Mario
 
 GK A_Ghita
-DM Ridoutkha
 DM M_Antonio
 DM J_Cadette
+FW R_Sharp
 FW R_Giurgiu
 
-PK: R_Sharp
+PK: D_Mario
 AGG 20
 
-SUB 10 14 DM IF MIN = 55
-SUB 5 15 DF IF MIN = 65
-SUB 6 13 DF IF MIN = 75
+SUB 8 15 FW IF MIN = 60
+SUB 11 13 DM IF MIN = 65
+SUB 4 14 DF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 55 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
-SUB 6 13 DF IF SCORE <= -3
-SUB 6 13 DF IF SCORE >= 3
+TACTIC D IF MIN >= 68 SCORE = 1
+TACTIC D IF MIN >= 35 SCORE >= 2
+SUB 3 14 DF IF SCORE <= -3
+SUB 3 14 DF IF SCORE >= 3
