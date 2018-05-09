@@ -1,20 +1,20 @@
 tthr
-C
+A
 
 GK D_Gogean
 DF A_Hinkel
 DF E_Plummer
+DF I_Hack
 DF M_Twaddle
+DF M_Oezil
 DM Moreto
 DM Ridoutkha
-DM M_Oezil
-MF C_McGregor
-MF D_McHale
+AM A_Johnson
 AM D_Mario
 FW R_Sharp
 
 GK A_Ghita
-DF I_Hack
+DF I_Harte
 DM M_Antonio
 DM J_Cadette
 FW R_Giurgiu
@@ -22,11 +22,11 @@ FW R_Giurgiu
 PK: R_Sharp
 AGG 20
 
-SUB 10 15 MF IF MIN = 45
-SUB 3 13 DF IF MIN = 60
-SUB 6 14 MF IF MIN = 75
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 35 SCORE = 1
-TACTIC L IF MIN >= 45 SCORE >= 2
+SUB 8 14 DM IF MIN = 55
+SUB 4 13 DF IF MIN = 65
+SUB 6 15 DM IF MIN = 75
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 75 SCORE = 1
+TACTIC D IF MIN >= 39 SCORE >= 2
