@@ -33,7 +33,6 @@ Midfielder11 32  swi 2  8  24 14 32 300 300 300 300
 Midfielder19 21  isr 3  11 22 10 12 400 400 400 400
 Midfielder18 24  pol 2  6  23 10 23 800 800 800 800
 Defender08   26  sco 3  23 5  7  22 600 600 600 600
-Forward03    32  chi 2  9  7  26 41 500 500 500 500
 Forward09    28  ukr 2  7  5  24 32 800 800 800 800
 Forward10    30  ukr 2  9  8  25 33 600 600 600 600
 Midfielder15 27  chi 3  5  25 4  32 300 300 300 300
@@ -43,7 +42,6 @@ Defender01   30  tur 3  24 7  8  33 400 400 400 400
 Forward01    26  eng 2  4  8  25 41 400 400 400 400
 Midfielder02  19 ire  2  6 21  7 43 400 400 400 400
 D_Horzano     19 nzl  2 20  8  6 22 300 300 300 300
-Forward03    26  uga 2  8  10 24 23 500 500 500 500
 Keeper02     30  arg 29 3  2  1  31 300 300 300 300
 Forward05    25  sen 3  6  9  22 31 400 400 400 400
 Forward03    25  jam 1  8  8  21 43 400 400 400 400
@@ -61,13 +59,13 @@ Forward01    27  hol 2  5  8  23 22 300 300 300 300
 Forward01    29  bra 3  5  11 26 30 500 500 500 500
 Alexandr_Pato 34 ita  1  3  3 21 28 300 256 404 801
 M_Folivi      18 eng  1  5  7 15 23 300 345 770 145
-A_Lukimya     35 uga  1 21 11 12 39 300 386 725 133
 L_Ruiz        34 spa  2 16  3  3 21 285 920 646 412
-M_A_Stegen    18 hol 20  2  2  1 11 908 500 500 500
 C_Smith       24 eng  1  7 20  9 31 400 504 969 452
 S_Sirigu      32 ita 26  2  2  2 23 800 838 828 824
 Defender01   25  bos 3  22 9  5  11 300 300 300 300
-B_Moore       36 eng  2 30 13 11 20 301 994 999 970
-R_Vlaar       36 hol  1 22 13 11 30 300 686 775 198
-D_Smith       19 fin  3 19  7  6 30 600 700 620 631
-Jesper_Olsen  20 den  3 12 18  6 12 400 738 104 528
+Midfielder04 28  mex 3  6  22 14 22 800 800 800 800
+Midfielder09 28  hol 1  7  23 15 20 500 500 500 500
+G_Williams    34 wal  1  4 12 17 20 300 485 275 963
+David_Alaba   31 nig  3 23  7  7 22 300 750 840 737
+D_Pierre_Lous 27 fra  2  5  6 18 22 300 653  44 672
+J_Ambersmyth  34 eng  3  5  8 21 27 300 442 120 933
