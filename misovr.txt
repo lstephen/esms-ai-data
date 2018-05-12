@@ -373,7 +373,7 @@ DEFENSIVE        29  27  29  31  30  26
                    DEFENSIVE    26    20          21    22    19 
                    ATTACKING    26    19          24          31 
               COUNTER_ATTACK    26    19    23          22    25 
-                   LONG_BALL    26    20          21    25    26 
+                   LONG_BALL    26    20          21    25    25 
                      PASSING    26    20                      24 
                     EUROPEAN    26    18    21    29    26    22 
 
@@ -523,14 +523,15 @@ SUB MF C_Parry MF IF INJURED MF
 SUB AM C_Parry AM IF INJURED AM
 SUB FW H_Roller FW IF INJURED FW
 
-CHANGEPOS L_Selders FW IF MIN = 60
-SUB Tarildo C_Parry DM IF MIN = 65
-SUB C_Yastrzemski D_Tikhomirov MF IF MIN = 75
+CHANGEPOS R_Gelman FW IF MIN = 45
+CHANGEPOS C_Yastrzemski DM IF MIN = 50
+SUB Tarildo D_Tikhomirov AM IF MIN = 55
+SUB C_Yastrzemski C_Parry DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 33 SCORE >= 2
+TACTIC C IF MIN >= 18 SCORE >= 2
 
 
 Forced:R_Silano/C_Stirbei/D_Lungu/E_Petrescu/
@@ -597,9 +598,9 @@ SUB AM E_Silivasi AM IF INJURED AM
 SUB FW V_Zefirov FW IF INJURED FW
 
 SUB E_Petrescu E_Silivasi DF IF MIN = 60
-SUB D_Lungu V_Zefirov FW IF MIN = 75
-CHANGEPOS I_Ungureanu MF IF MIN = 78
-TACTIC A IF MIN >= 75 SCORE <= -2
+SUB D_Lungu V_Zefirov FW IF MIN = 70
+CHANGEPOS I_Ungureanu MF IF MIN = 75
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
