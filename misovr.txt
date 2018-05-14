@@ -264,7 +264,7 @@ FW D_Lungu
 FW R_Silano
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING     101     123      80     104     113      94      97 
+  TACKLING     101     123      80     104     113      94      98 
    PASSING      77      50      93      84      41     113      73 
   SHOOTING      75      37     121      64     112      66      71 
    SH Mean      14      15      14      14      14      14      14 
@@ -275,7 +275,7 @@ FW R_Silano
   GK Bonus      16      12      20      16      14      18      16 
        Agg      18      18      18      18      18      18      18 
    Scoring      76      46     102      77      65      97      72 
- Defending     101     123      80     104     113      94      97 
+ Defending     101     123      80     104     113      94      98 
    Overall     204     166     218     208     192     226     195 
 
 ** First XI **
@@ -523,15 +523,14 @@ SUB MF C_Parry MF IF INJURED MF
 SUB AM C_Parry AM IF INJURED AM
 SUB FW H_Roller FW IF INJURED FW
 
-CHANGEPOS R_Gelman FW IF MIN = 45
-CHANGEPOS C_Yastrzemski DM IF MIN = 50
-SUB Tarildo D_Tikhomirov AM IF MIN = 55
-SUB C_Yastrzemski C_Parry DM IF MIN = 70
+CHANGEPOS L_Selders FW IF MIN = 60
+SUB Tarildo C_Parry DM IF MIN = 65
+SUB C_Yastrzemski D_Tikhomirov MF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 18 SCORE >= 2
+TACTIC L IF MIN >= 33 SCORE >= 2
 
 
 Forced:R_Silano/C_Stirbei/D_Lungu/E_Petrescu/
@@ -598,9 +597,9 @@ SUB AM E_Silivasi AM IF INJURED AM
 SUB FW V_Zefirov FW IF INJURED FW
 
 SUB E_Petrescu E_Silivasi DF IF MIN = 60
-SUB D_Lungu V_Zefirov FW IF MIN = 70
-CHANGEPOS I_Ungureanu MF IF MIN = 75
-TACTIC A IF MIN >= 70 SCORE <= -2
+SUB D_Lungu V_Zefirov FW IF MIN = 75
+CHANGEPOS I_Ungureanu MF IF MIN = 78
+TACTIC A IF MIN >= 75 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
