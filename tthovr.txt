@@ -357,7 +357,7 @@ DEFENSIVE        30  33  33  36  32  28
                 Reserves (P)    29    35    28    30          35 
                          Min
                       NORMAL    27    23    27          31    22 
-                   DEFENSIVE    27          30    25    19    19 
+                   DEFENSIVE    27          34    25    19    19 
                    ATTACKING    27    25    27          41    32 
               COUNTER_ATTACK    27    23    28    32    32    25 
                    LONG_BALL    27                32          27 
@@ -538,13 +538,13 @@ SUB MF C_McGregor MF IF INJURED MF
 SUB AM C_McGregor AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
-SUB Hugo_Sanchez C_McGregor MF IF MIN = 45
-SUB J_Vardy D_McHale DF IF MIN = 50
-SUB Janssen G_Weah FW IF MIN = 55
+SUB Janssen W_Morgan DF IF MIN = 45
+SUB R_Pires C_McGregor MF IF MIN = 60
+SUB Hugo_Sanchez D_McHale DM IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC D IF MIN >= 45 SCORE = 1
+TACTIC D IF MIN >= 59 SCORE = 1
 TACTIC D IF MIN >= 27 SCORE >= 2
 
 SUB A_R_Essien W_Morgan DF IF SCORE <= -3
@@ -614,13 +614,13 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
-SUB A_Hinkel R_Sharp FW IF MIN = 70
-SUB D_Mario I_Hack DF IF MIN = 75
-SUB E_Plummer I_Harte DF IF MIN = 87
+SUB D_Mario R_Sharp FW IF MIN = 55
+SUB E_Plummer I_Hack DF IF MIN = 60
+SUB A_Hinkel I_Harte DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
+TACTIC D IF MIN >= 89 SCORE = 1
 TACTIC D IF MIN >= 46 SCORE >= 2
 
 SUB M_Twaddle I_Hack DF IF SCORE <= -3
