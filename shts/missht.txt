@@ -4,14 +4,14 @@ A
 GK AJ_Camodo
 DF R_Figueiredo
 DF P_Litto
+DF G_C_Moore
 DF M_Tensfeldt
 DF V_Barbieri
-DF X_Cullie
-DM D_Bledsoe
-DM R_Gelman
+DM X_Cullie
 MF C_Yastrzemski
 AM L_Selders
 FW Camelino
+FW R_Gelman
 
 GK A_Kapustov
 DF K_Prescott
@@ -22,11 +22,10 @@ FW H_Roller
 PK: Camelino
 AGG 20
 
-CHANGEPOS 8 FW IF MIN = 65
-SUB 9 14 DM IF MIN = 70
-SUB 7 15 AM IF MIN = 81
+SUB 7 15 AM IF MIN = 60
+SUB 8 14 DM IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 21 SCORE >= 2
+TACTIC L IF MIN >= 32 SCORE >= 2
