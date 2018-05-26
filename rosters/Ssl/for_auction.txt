@@ -1,23 +1,20 @@
-M_Bianco      23 ita 23  1  1  1 30 300 300 300 300  
-O_Ligo        19 sui 21  1  1  1 24 300 300 300 300  
-G_Kitchenhoff 26 ger  5 23 20 15 18 300 300 300 300  
-C_Nogueira    21 por  4 22 18 14 29 300 300 300 300  
-K_Williams    19 eng  5 21 13  5 30 300 300 300 300  
-H_Tolly       17 wal  2 17  5  2 29 300 300 300 300  
-R_Goncalves   16 esp  4 15 13 12 28 300 300 300 300  
-D_Rogers      24 sco  1 12 23 15 10 300 300 300 300  
-I_Levanking   25 den  3 17 23 16 18 300 300 300 300  
-D_Quates      20 usa  1 14 21 11 27 300 300 300 300  
-B_Martinez    18 arg  3  6 19 15 18 300 300 300 300  
-M_Champagne   17 fra  3 14 16 14 26 300 300 300 300  
-O_Dillen      22 ire  1  6  9 23 17 300 300 300 300  
-G_Barham      18 nir  1  5 15 18 24 300 300 300 300  
-I_Layla       16 bra  1 12 13 15 16 300 300 300 300  
-
-
-E_Byrns 22 slo 1 5 16 21 9 390 273 823 584 # 5m
-Khal_Drogo 22 aus 1 4 16 22 20 588 486 597 619 # 12.5m
-R_Wheeler 24 aus 1 5 24 6 22 500 574 347 556 # 11m
-W_Junkin 24 ger 2 14 20 10 19 95 259 382 299 # 1m
-Lars_R-Fish 23 rsa 1 6 20 15 10 300 770 276 104 # 1m
-E_Sanders 20 eng 1 8 20 8 10 800 753 195 857 # 6m
+Half_Sack	25	 aus	1	22	11	6	  5 937 485 209 387
+R_Kovac	22	 cro	2	21	15	13	 30 300 902 877 940
+Big_Yan	23	 sco	1	21	12	9	 25 752 501 109 907
+F_Baggins	24	 eng	1	21	8	4	  9 300 420 207   7
+G_Petokey	27	 cro	1	21	4	6	 29 300 740 556 292
+C_Bronson	28	 eng	2	21	10	6	 12 111 874 808 484
+D_Dowicz	29	 rsa	5	16	24	16	 27 500 257  33 995
+Didier_Six	23	 fra	1	17	22	10	 24 570 562 672 787
+T_Mackes	23	 sco	1	15	22	6	 57 300 326 540 783
+T_Zvacek	25	 pol	1	12	22	7	 32 724 245 789 551
+S_Snay   	25	 rsa	1	9	22	8	 56 300 254  90 483
+I_Schnell	28	 ger	2	7	22	9	 10 390 692 101 844
+DoktorDiscord	29	 hkg	2	10	22	6	 17 230 479 727 740
+F_Goan	        29	 uru	1	7	22	18	 39 300  83 342 148
+J_Dasiwa	23	 por	1	15	21	11	 12 500 616 707 415
+Prof_Green	28	 hkg	1	6	11	23	 17 941 530 963 684
+G_Dougherty	29	 nir	4	5	8	23	 27 700 610 674 719
+D_Van_Ry	23	 hol	3	13	17	21	 24 300 776 106 305
+J_Francisco	25	 arg	1	7	6	21	 47 300 727 817  59
+P_Ken	        28	 jap	2	7	20	21	 27 451  91 297 948
