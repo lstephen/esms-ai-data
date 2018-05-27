@@ -13,17 +13,18 @@ AM L_Selders
 FW Camelino
 FW R_Gelman
 
-GK A_Kapustov
+GK Q_Bonnette
 DF K_Prescott
 FW C_Parry
-FW D_Tikhomirov
+FW C_Owen
 FW H_Roller
 
 PK: Camelino
 AGG 20
 
-SUB 8 14 DM IF MIN = 65
-SUB 7 15 AM IF MIN = 70
+SUB 7 14 DM IF MIN = 45
+SUB 8 15 FW IF MIN = 70
+CHANGEPOS 11 DM IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
