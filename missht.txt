@@ -6,15 +6,15 @@ DF R_Figueiredo
 DF P_Litto
 DF G_C_Moore
 DF M_Tensfeldt
-DF V_Barbieri
-DM X_Cullie
+DF C_Stirbei
+DM V_Barbieri
 MF C_Yastrzemski
 AM L_Selders
 FW Camelino
 FW R_Gelman
 
 GK Q_Bonnette
-DF K_Prescott
+DF X_Cullie
 FW C_Parry
 FW C_Owen
 FW H_Roller
@@ -22,9 +22,11 @@ FW H_Roller
 PK: Camelino
 AGG 20
 
-SUB 7 14 DM IF MIN = 60
-SUB 8 15 FW IF MIN = 70
-CHANGEPOS 11 DM IF MIN = 75
+SUB 8 14 DM IF MIN = 50
+SUB 6 15 FW IF MIN = 78
+CHANGEPOS 7 DF IF MIN = 81
+SUB 7 13 DF IF MIN = 84
+CHANGEPOS 11 DM IF MIN = 87
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0

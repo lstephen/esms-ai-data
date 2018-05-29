@@ -1,34 +1,32 @@
 msy
-C
+L
 
 GK O_Devers
-DF C_Stirbei
-DF O_Bucsa
+DF Q_Detert
+DF E_Petrescu
 DF N_Morariu
-DM N_Parasca
-MF I_Ungureanu
+DF L_Gabor
 MF D_Fidatov
+MF P_Deusner
 MF V_Dobre
-AM D_Lungu
-AM R_Silano
-FW V_Zefirov
+MF D_Lungu
+MF E_Voelker
+FW R_Silano
 
 GK S_Manescu
-DF E_Petrescu
+DF S_Stancu
 DF E_Silivasi
-FW L_Gabor
-FW V_Eristov
+DF N_Parasca
+DF J_Wisely
 
-PK: V_Zefirov
+PK: R_Silano
 AGG 20
 
-CHANGEPOS 8 AM IF MIN = 55
-SUB 11 16 FW IF MIN = 60
-SUB 5 14 DF IF MIN = 65
-CHANGEPOS 4 DM IF MIN = 70
-SUB 4 13 DM IF MIN = 75
-TACTIC E IF MIN >= 15 SCORE <= -2
-TACTIC E IF MIN >= 30 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
+SUB 3 15 MF IF MIN = 60
+SUB 6 14 DF IF MIN = 65
+SUB 2 13 DF IF MIN = 75
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC L IF SCORE = 0
+TACTIC D IF MIN >= 45 SCORE = 1
+TACTIC D IF MIN >= 23 SCORE >= 2
