@@ -3,32 +3,32 @@ P
 
 GK R_Ceni
 DF A_Wisdom
-DF A_R_Essien
+DF W_Morgan
 DF S_Howey
 DF T_Manniman
 DF Doriva
+DM E_Gabor
+DM D_McHale
 MF R_Pires
-AM Janssen
-FW R_Sharp
 FW G_Weah
 FW J_Vardy
 
 GK C_Poenaru
-DF E_Gabor
+DF A_R_Essien
 DF C_McGregor
-DF D_McHale
+FW R_Sharp
 FW Hugo_Sanchez
 
 PK: G_Weah
 AGG 20
 
-SUB 8 15 DM IF MIN = 45
-SUB 11 13 DM IF MIN = 50
-SUB 10 14 DM IF MIN = 55
+SUB 11 14 DM IF MIN = 45
+SUB 3 13 DF IF MIN = 55
+SUB 10 15 FW IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 87 SCORE = 1
-TACTIC D IF MIN >= 52 SCORE >= 2
-SUB 6 13 DF IF SCORE <= -3
-SUB 6 13 DF IF SCORE >= 3
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
+SUB 2 13 DF IF SCORE <= -3
+SUB 2 13 DF IF SCORE >= 3
