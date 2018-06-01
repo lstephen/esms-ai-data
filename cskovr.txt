@@ -389,10 +389,10 @@ SUB MF C_Hourihane MF IF INJURED MF
 SUB AM C_Hourihane AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
-SUB C_Martinez M_Reynolds DF IF MIN = 45
-SUB Taison C_Hourihane DM IF MIN = 60
+SUB C_Martinez M_Reynolds DF IF MIN = 50
+SUB Taison C_Hourihane DM IF MIN = 65
 SUB T_Walcott S_Doumbia FW IF MIN = 84
-TACTIC A IF MIN >= 61 SCORE <= -2
+TACTIC A IF MIN >= 65 SCORE <= -2
 TACTIC A IF MIN >= 89 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
