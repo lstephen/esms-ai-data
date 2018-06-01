@@ -133,31 +133,31 @@ FW Hugo_Sanchez
 ** 1st XI **
 EUROPEAN
 GK R_Ceni
-DF S_Howey
+DF A_Wisdom
 DF A_Hinkel
 DF M_Twaddle
-DM A_Wisdom
 DM A_R_Essien
+DM E_Gabor
 DM Doriva
-MF E_Gabor
 MF R_Pires
+MF D_McHale
 MF T_Hurlock
 FW Hugo_Sanchez
                  N       D       A       C       L       P       E 
   STOPPING      50      50      50      50      50      50      50 
-  TACKLING     129     203     104     143     183     125     125 
-   PASSING     155     111     163     157      77     171     175 
-  SHOOTING      51      28      92      47      78      47      54 
-   SH Mean      18      20      18      18      18      19      18 
+  TACKLING     127     197     104     141     179     124     122 
+   PASSING     157     113     165     159      78     174     177 
+  SHOOTING      53      30      97      48      82      49      57 
+   SH Mean      18      20      18      18      18      18      18 
  SH Median      19      23      19      19      19      19      19 
     SH Max      23      23      23      23      23      23      23 
-  SH Bonus      19      13      23      18      12      21      21 
+  SH Bonus      20      13      23      19      12      21      21 
    GK Qual      33      33      33      33      33      33      33 
-  GK Bonus      32      23      39      30      23      34      34 
-       Agg      30      30      30      30      30      30      30 
-   Scoring     120      84     139     120      77     130     135 
- Defending     129     203     104     143     183     125     125 
-   Overall     300     287     298     310     265     309     314 
+  GK Bonus      32      24      39      31      24      34      35 
+       Agg      29      29      29      29      29      29      29 
+   Scoring     122      85     142     122      79     132     137 
+ Defending     127     197     104     141     179     124     122 
+   Overall     302     287     302     311     266     311     314 
 
 ** 1st XI **
 NORMAL
@@ -368,7 +368,7 @@ DEFENSIVE        30  33  33  36  32  28
               COUNTER_ATTACK    27    23    28    32    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    22    19 
+                    EUROPEAN    27    22    21    28    19    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -552,9 +552,9 @@ SUB MF C_McGregor MF IF INJURED MF
 SUB AM C_McGregor AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
-SUB J_Vardy C_McGregor DM IF MIN = 45
-SUB W_Morgan A_R_Essien DF IF MIN = 55
-SUB G_Weah R_Sharp FW IF MIN = 60
+SUB G_Weah C_McGregor DM IF MIN = 45
+SUB J_Vardy R_Sharp FW IF MIN = 55
+SUB W_Morgan A_R_Essien DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -631,8 +631,8 @@ SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
 SUB V_Yonescu I_Harte DF IF MIN = 50
-SUB Ridoutkha M_Antonio DM IF MIN = 65
-SUB Moreto J_Milburn DM IF MIN = 78
+SUB Moreto M_Antonio DM IF MIN = 65
+SUB Ridoutkha J_Milburn DM IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
