@@ -14,16 +14,17 @@ FW Camelino
 FW R_Gelman
 
 GK Q_Bonnette
+DF S_Anselme
 DF X_Cullie
 FW C_Parry
 FW C_Owen
-FW H_Roller
 
 PK: Camelino
 AGG 20
 
-SUB 6 13 DF IF MIN = 50
-SUB 8 15 FW IF MIN = 65
+SUB 8 16 FW IF MIN = 50
+SUB 6 13 DF IF MIN = 55
+SUB 3 14 DF IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
