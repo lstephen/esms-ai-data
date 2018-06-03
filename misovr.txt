@@ -389,7 +389,7 @@ DEFENSIVE        36  26  25  26  28  25
                    DEFENSIVE    21    17          13    22    19 
                    ATTACKING    21    19          16    35    31 
               COUNTER_ATTACK    21    17    22    16    25    23 
-                   LONG_BALL    21    20          11          26 
+                   LONG_BALL    21    20          11    25    26 
                      PASSING    21    19          15          24 
                     EUROPEAN    21    17    21    19    26    22 
 
@@ -535,21 +535,20 @@ FW R_Gelman
    Overall     287     238     308     289     277     309     281 
 
 GK Q_Bonnette
-DF S_Anselme
 DF X_Cullie
 FW C_Parry
 FW C_Owen
+FW H_Roller
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF S_Anselme DF IF INJURED DF
+SUB DF X_Cullie DF IF INJURED DF
 SUB DM C_Parry DM IF INJURED DM
 SUB MF C_Parry MF IF INJURED MF
 SUB AM C_Parry AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB C_Yastrzemski C_Owen FW IF MIN = 50
-SUB C_Stirbei S_Anselme DF IF MIN = 55
-SUB P_Litto X_Cullie DF IF MIN = 84
+SUB C_Stirbei X_Cullie DF IF MIN = 55
+SUB C_Yastrzemski C_Owen FW IF MIN = 60
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -622,13 +621,13 @@ SUB MF N_Parasca MF IF INJURED MF
 SUB AM N_Parasca AM IF INJURED AM
 SUB FW J_Wisely FW IF INJURED FW
 
-SUB E_Petrescu N_Parasca MF IF MIN = 55
-SUB D_Fidatov E_Silivasi DF IF MIN = 65
-SUB Q_Detert S_Stancu DF IF MIN = 81
+SUB D_Fidatov E_Silivasi DF IF MIN = 55
+SUB Q_Detert N_Parasca MF IF MIN = 60
+SUB E_Petrescu S_Stancu DF IF MIN = 84
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
-TACTIC D IF MIN >= 45 SCORE = 1
+TACTIC D IF MIN >= 60 SCORE = 1
 TACTIC D IF MIN >= 23 SCORE >= 2
 
 
