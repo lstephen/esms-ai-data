@@ -550,24 +550,25 @@ FW D_Van_Ry
 
 GK Q_Bonnette
 MF C_Yastrzemski
+MF C_Parry
 MF I_Drover
 AM L_Selders
-FW C_Owen
 
 SUB GK Q_Bonnette GK IF INJURED GK
 SUB DF I_Drover DF IF INJURED DF
 SUB DM C_Yastrzemski DM IF INJURED DM
 SUB MF C_Yastrzemski MF IF INJURED MF
 SUB AM C_Yastrzemski AM IF INJURED AM
-SUB FW C_Owen FW IF INJURED FW
+SUB FW L_Selders FW IF INJURED FW
 
-SUB O_Burgin L_Selders MF IF MIN = 60
-SUB G_Mordino I_Drover DM IF MIN = 65
-SUB D_Van_Ry C_Owen FW IF MIN = 78
-TACTIC A IF MIN >= 66 SCORE <= -2
+SUB G_Mordino C_Parry MF IF MIN = 50
+SUB Camelino I_Drover MF IF MIN = 60
+SUB O_Burgin L_Selders MF IF MIN = 75
+CHANGEPOS I_Drover DM IF MIN = 78
+TACTIC A IF MIN >= 81 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC L IF MIN >= 66 SCORE = 1
+TACTIC L IF MIN >= 60 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 
@@ -636,7 +637,7 @@ SUB AM A_With AM IF INJURED AM
 SUB FW J_Wisely FW IF INJURED FW
 
 CHANGEPOS V_Dobre MF IF MIN = 45
-SUB L_Gabor E_Silivasi DF IF MIN = 50
+SUB L_Gabor E_Silivasi DF IF MIN = 55
 SUB Q_Detert S_Stancu DF IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC P IF SCORE = -1
