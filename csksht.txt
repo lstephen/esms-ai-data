@@ -1,32 +1,35 @@
 csk
 P
 
-GK F_Marchetti
+GK M_Miskiewicz
 DF P_Mertesacker
 DF G_Bianco
 DF C_Martinez
 DF G_Junior
 DF C_Sanchez
 DM A_Innocenti
-DM Taison
+DM C_Hourihane
 FW E_Elia
 FW T_Walcott
 FW G_Carrillo
 
-GK A_Lynch
-GK R_Fernandez
+GK F_Marchetti
 DF M_Reynolds
-FW C_Hourihane
+DF M_Bauer
+FW Taison
 FW S_Doumbia
 
 PK: T_Walcott
 AGG 20
 
-SUB 4 14 DF IF MIN = 45
-SUB 8 15 DM IF MIN = 65
-SUB 10 16 FW IF MIN = 84
-TACTIC A IF MIN >= 65 SCORE <= -2
-TACTIC A IF MIN >= 89 SCORE = -1
+SUB 4 15 DF IF MIN = 65
+CHANGEPOS 15 MF IF MIN = 78
+SUB 9 14 DF IF MIN = 81
+CHANGEPOS 8 MF IF MIN = 84
+SUB 8 16 FW IF MIN = 87
+CHANGEPOS 15 DM IF MIN = 90
+TACTIC A IF MIN >= 87 SCORE <= -2
+TACTIC A IF MIN >= 87 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC P IF SCORE >= 2
