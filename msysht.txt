@@ -6,7 +6,7 @@ DF Q_Detert
 DF E_Petrescu
 DF N_Morariu
 DF L_Gabor
-DF E_Voelker
+DF I_Tatarescu
 DM D_Fidatov
 DM V_Dobre
 DM N_Parasca
@@ -16,15 +16,15 @@ FW R_Silano
 GK S_Manescu
 DF S_Stancu
 DF E_Silivasi
-DF J_Wisely
-MF A_With
+DF P_Lazar
+MF A_Selymes
 
 PK: R_Silano
 AGG 20
 
-CHANGEPOS 8 MF IF MIN = 45
-SUB 5 13 DF IF MIN = 60
-SUB 2 14 DF IF MIN = 65
+SUB 2 14 DF IF MIN = 50
+CHANGEPOS 8 MF IF MIN = 60
+SUB 5 13 DF IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
