@@ -543,15 +543,13 @@ SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
 SUB C_Owen G_Mordino FW IF MIN = 45
-SUB Camelino I_Drover FW IF MIN = 70
-SUB O_Burgin L_Selders AM IF MIN = 75
-CHANGEPOS I_Drover DM IF MIN = 78
-CHANGEPOS L_Selders FW IF MIN = 81
+SUB Camelino L_Selders FW IF MIN = 50
+SUB P_Litto I_Drover DF IF MIN = 78
 TACTIC A IF MIN >= 22 SCORE <= -2
-TACTIC A IF MIN >= 75 SCORE = -1
+TACTIC A IF MIN >= 89 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 78 SCORE >= 2
+TACTIC L IF MIN >= 66 SCORE >= 2
 
 
 Forced:D_Lungu/R_Silano/I_Tatarescu/E_Petrescu/N_Parasca/
@@ -618,9 +616,9 @@ SUB MF A_Selymes MF IF INJURED MF
 SUB AM A_Selymes AM IF INJURED AM
 SUB FW P_Lazar FW IF INJURED FW
 
-SUB Q_Detert E_Silivasi DF IF MIN = 50
-CHANGEPOS V_Dobre MF IF MIN = 60
-SUB L_Gabor S_Stancu DF IF MIN = 65
+SUB L_Gabor E_Silivasi DF IF MIN = 60
+CHANGEPOS V_Dobre MF IF MIN = 65
+SUB Q_Detert S_Stancu DF IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
