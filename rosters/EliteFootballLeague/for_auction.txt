@@ -1,3 +1,4 @@
+Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
 Keeper03     22  usa 23 2  3  2  33 300 300 300 300
 Keeper06     26  chi 26 5  2  2  20 400 400 400 400
 Midfielder02 29  rsa 3  10 24 7  21 600 600 600 600
@@ -47,7 +48,6 @@ Forward01    29  swe 3  6  8  25 22 300 300 300 300
 Defender01   27  rsa 1  23 7  5  20 800 800 800 800
 R_Clemance    19 eng 15  3  3  1 40 398 300 300 300
 Forward01    27  hol 2  5  8  23 22 300 300 300 300
-Forward01    29  bra 3  5  11 26 30 500 500 500 500
 M_Folivi      18 eng  1  5  7 15 23 300 345 770 145
 L_Ruiz        34 spa  2 16  3  3 21 285 920 646 412
 C_Smith       24 eng  1  7 20  9 31 400 504 969 452
@@ -67,7 +67,6 @@ R_Ekelund     35 spa  1 12 24 13 28 300 739  27 529
 G_Marilungo   31 fra  2  5  8 25 29 300 828 659 345
 D_Smith       19 fin  3 19  7  6 30 600 828 638 619
 Forward18    31  per 3  7  5  25 31 800 800 800 800
-Gil           21 bra  3  6  9 23 12 500 866  53 534
-K_Kairinen    21 fin  3  9 23  9 11 700   8 597 971
 Defender01   24  eng 1  23 10 7  33 300 300 300 300
-Defender02   28  ukr 2  28 8  6  23 300 300 300 300
+Gil           21 bra  3  6  9 23 12 500 866  53 534
+Forward01    29  bra 3  5  11 26 30 500 500 500 500
