@@ -364,9 +364,9 @@ SUB MF S_Doumbia MF IF INJURED MF
 SUB AM S_Doumbia AM IF INJURED AM
 SUB FW S_Doumbia FW IF INJURED FW
 
-SUB G_Junior M_Reynolds DF IF MIN = 60
-SUB E_Elia M_Bauer MF IF MIN = 65
-SUB T_Walcott S_Doumbia FW IF MIN = 90
+SUB G_Junior M_Bauer DF IF MIN = 45
+SUB T_Walcott M_Reynolds DF IF MIN = 60
+SUB G_Carrillo S_Doumbia AM IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
