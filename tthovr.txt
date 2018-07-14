@@ -363,12 +363,12 @@ DEFENSIVE        30  33  34  37  32  29
                 Reserves (P)    29    32    28                38 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    30    23    26    18 
+                   DEFENSIVE    27    26    34    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    32    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    22    25 
+                    EUROPEAN    27    22    21    28    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -548,14 +548,14 @@ SUB MF C_McGregor MF IF INJURED MF
 SUB AM C_McGregor AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB A_Hinkel C_McGregor DM IF MIN = 45
-SUB J_Vardy S_Howey DF IF MIN = 50
-SUB G_Weah D_McHale DM IF MIN = 55
+SUB J_Vardy D_McHale DM IF MIN = 45
+SUB G_Weah S_Howey DM IF MIN = 50
+SUB W_Morgan C_McGregor DF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 85 SCORE = 1
-TACTIC D IF MIN >= 51 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE = 1
+TACTIC D IF MIN >= 47 SCORE >= 2
 
 SUB A_Wisdom S_Howey DF IF SCORE <= -3
 SUB A_Wisdom S_Howey DF IF SCORE >= 3
@@ -625,12 +625,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB V_Yonescu I_Muresanu DF IF MIN = 55
-SUB Moreto M_Antonio DM IF MIN = 60
+SUB Ridoutkha M_Antonio DM IF MIN = 60
+SUB V_Yonescu C_Sandulescu FW IF MIN = 70
+SUB Moreto I_Muresanu DF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 72 SCORE = 1
+TACTIC P IF MIN >= 48 SCORE = 1
 TACTIC D IF MIN >= 36 SCORE >= 2
 
 SUB T_Hurlock M_Antonio AM IF SCORE <= -3
