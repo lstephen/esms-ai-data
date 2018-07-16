@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    17          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    17    24    16    26    23 
-                   LONG_BALL    21    20          11          25 
+                   LONG_BALL    21    20          11          27 
                      PASSING    21    19          15          29 
                     EUROPEAN    21    17    21    19    30       
 
@@ -524,28 +524,26 @@ FW C_Owen
    Overall     281     230     304     284     275     306     272 
 
 GK A_Kapustov
-DF X_Cullie
 DF I_Drover
 FW L_Selders
 FW D_Van_Ry
+FW G_Mordino
 
 SUB GK A_Kapustov GK IF INJURED GK
-SUB DF X_Cullie DF IF INJURED DF
+SUB DF I_Drover DF IF INJURED DF
 SUB DM L_Selders DM IF INJURED DM
 SUB MF L_Selders MF IF INJURED MF
 SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
-SUB P_Druery L_Selders FW IF MIN = 45
-CHANGEPOS C_Owen DF IF MIN = 50
-SUB P_Litto X_Cullie DF IF MIN = 65
-CHANGEPOS C_Owen FW IF MIN = 81
-SUB Camelino I_Drover DF IF MIN = 84
+SUB C_Owen G_Mordino FW IF MIN = 45
+SUB P_Druery I_Drover DF IF MIN = 50
+SUB Camelino L_Selders FW IF MIN = 70
 TACTIC A IF MIN >= 9 SCORE <= -2
-TACTIC A IF MIN >= 84 SCORE = -1
+TACTIC A IF MIN >= 79 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 58 SCORE >= 2
+TACTIC L IF MIN >= 64 SCORE >= 2
 
 
 Forced:D_Lungu/R_Silano/I_Tatarescu/E_Petrescu/N_Parasca/
@@ -612,9 +610,9 @@ SUB MF L_Gabor MF IF INJURED MF
 SUB AM L_Gabor AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-CHANGEPOS D_Lungu AM IF MIN = 50
-SUB Q_Detert S_Stancu DF IF MIN = 55
-SUB E_Silivasi L_Gabor DF IF MIN = 60
+SUB E_Silivasi S_Stancu DF IF MIN = 50
+SUB Q_Detert L_Gabor DF IF MIN = 60
+CHANGEPOS D_Lungu AM IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
