@@ -7,10 +7,10 @@ DF M_Twaddle
 DF V_Yonescu
 DF Moreto
 DF M_Oezil
-DM J_Cadette
 DM M_Antonio
+DM Ridoutkha
+DM J_Cadette
 FW T_Hurlock
-FW A_Johnson
 FW D_Mario
 
 GK A_Ghita
@@ -22,12 +22,13 @@ FW G_Vasile
 PK: D_Mario
 AGG 20
 
-SUB 4 13 DF IF MIN = 50
-SUB 11 15 DM IF MIN = 60
+SUB 4 14 DF IF MIN = 45
+SUB 2 13 DF IF MIN = 65
+SUB 11 16 FW IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
-SUB 9 16 FW IF SCORE <= -3
-SUB 9 16 FW IF SCORE >= 3
+TACTIC D IF MIN >= 57 SCORE >= 2
+SUB 10 16 FW IF SCORE <= -3
+SUB 10 16 FW IF SCORE >= 3
