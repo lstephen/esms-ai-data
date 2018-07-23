@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     7     3     7 
+                       Count     5    18     2     6     3     6 
                          Max    36    40    37    37    38    39 
                   1st XI (N)    36    36    34    34          33 
                   1st XI (P)    36    39    29    31          39 
@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    17          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    17    25    16    26    23 
-                   LONG_BALL    21    20          11          25 
+                   LONG_BALL    21    20          11    25    25 
                      PASSING    21    19          15          29 
                     EUROPEAN    21    17    21    19    30       
 
@@ -523,23 +523,22 @@ FW C_Owen
    Overall     281     230     304     284     276     307     272 
 
 GK A_Kapustov
-FW I_Drover
+DF X_Cullie
 FW L_Selders
 FW D_Van_Ry
 FW G_Mordino
 
 SUB GK A_Kapustov GK IF INJURED GK
-SUB DF I_Drover DF IF INJURED DF
+SUB DF X_Cullie DF IF INJURED DF
 SUB DM L_Selders DM IF INJURED DM
 SUB MF L_Selders MF IF INJURED MF
 SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
+SUB P_Druery X_Cullie DF IF MIN = 45
 SUB C_Owen L_Selders AM IF MIN = 50
-SUB P_Druery I_Drover DF IF MIN = 55
-CHANGEPOS R_Gelman DM IF MIN = 60
-CHANGEPOS L_Selders FW IF MIN = 65
-SUB O_Burgin D_Van_Ry DM IF MIN = 81
+CHANGEPOS R_Gelman DM IF MIN = 75
+SUB O_Burgin D_Van_Ry DM IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -612,8 +611,8 @@ SUB AM L_Gabor AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
 CHANGEPOS D_Lungu AM IF MIN = 55
-SUB Q_Detert L_Gabor DF IF MIN = 60
-SUB E_Petrescu S_Stancu DF IF MIN = 65
+SUB E_Petrescu L_Gabor DF IF MIN = 60
+SUB Q_Detert S_Stancu DF IF MIN = 65
 SUB E_Silivasi R_Georghiou DF IF MIN = 90
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
