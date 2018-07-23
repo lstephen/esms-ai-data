@@ -8,27 +8,25 @@ DF C_Martinez
 DF G_Junior
 DF C_Sanchez
 DM A_Innocenti
-DM C_Hourihane
 FW E_Elia
 FW T_Walcott
 FW G_Carrillo
+FW S_Doumbia
 
 GK F_Marchetti
 DF M_Reynolds
 DF M_Bauer
 FW Taison
-FW S_Doumbia
+FW C_Hourihane
 
 PK: T_Walcott
 AGG 20
 
-SUB 9 15 MF IF MIN = 55
-CHANGEPOS 8 MF IF MIN = 60
-CHANGEPOS 15 DM IF MIN = 65
-SUB 8 16 FW IF MIN = 70
-SUB 4 14 DF IF MIN = 75
-TACTIC A IF MIN >= 65 SCORE <= -2
-TACTIC A IF MIN >= 70 SCORE = -1
+SUB 11 15 DM IF MIN = 45
+SUB 4 14 DF IF MIN = 60
+SUB 8 16 MF IF MIN = 84
+TACTIC A IF MIN >= 84 SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+TACTIC L IF MIN >= 84 SCORE >= 2
