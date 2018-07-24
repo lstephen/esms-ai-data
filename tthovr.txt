@@ -363,12 +363,12 @@ DEFENSIVE        30  33  34  37  32  29
                 Reserves (P)    29    32    28                35 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    30    23    26    18 
+                   DEFENSIVE    27    26    34    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    19    25 
+                    EUROPEAN    27    22    21    28    19    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -550,14 +550,14 @@ SUB MF M_Saganowski MF IF INJURED MF
 SUB AM M_Saganowski AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB G_Weah A_Johnson MF IF MIN = 45
-SUB Janssen M_Saganowski DM IF MIN = 50
-SUB R_Sharp Hugo_Sanchez FW IF MIN = 55
+SUB Janssen M_Saganowski DM IF MIN = 45
+SUB G_Weah Hugo_Sanchez FW IF MIN = 50
+SUB R_Sharp A_Johnson MF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 55 SCORE >= 2
 
 SUB Doriva A_Hinkel DF IF SCORE <= -3
 SUB Doriva A_Hinkel DF IF SCORE >= 3
