@@ -3,16 +3,16 @@ V_Barbieri      24 21/18/17 | DF L :  42   5 :  47 |  12  1.7   5 ||  65 || DF  
 O_Burgin        23 20/18/16 | DF L :  40   3 :  43 |  10  1.3   6 ||  60 || DF  2 DF  1 DF  2 DF  3 DF  2 DF  3 DF  3       
 Camelino        32  6/20/25 | AM A :  46   7 :  53 |   8  0.4  -1 ||  60 || FW  5 AM  7 AM  4 FW  2 AM  3 FW  3 FW  0       
 R_Gelman        29 13/21/24 | AM A :  45   7 :  52 |   4  0.9   0 ||  57 || FW  6 AM  7 AM  6 FW  5 AM  5 AM  5 AM  4       
-Q_Bonnette      25    24    | GK N :  36   8 :  44 |   6  1.1   4 ||  55 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
+Q_Bonnette      25    24    | GK N :  36   8 :  44 |   6  1.2   4 ||  55 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
 P_Druery        22 19/ 7/17 | DF L :  37   0 :  37 |   9  1.4   7 ||  54 || DF -7 DF -4 DF -2 DF -3 DF -3 DF  0 DF -1       
-C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.6   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
-G_C_Moore       28 24/18/16 | DF L :  44   8 :  52 |   0  1.5   1 ||  54 || DF  6 DF  5 DF  6 DF  7 DF  6 DF  8 DF  7       
+C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.7   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
+G_C_Moore       28 24/18/16 | DF L :  44   8 :  52 |   0  1.6   1 ||  54 || DF  6 DF  5 DF  6 DF  7 DF  6 DF  8 DF  7       
 G_Mordino       22 13/18/20 | AM C :  35   0 :  35 |   7  0.6   7 ||  50 || AM  0 MF  0 AM  0 AM  0 AM  0 MF  0 AM  0       
 D_Van_Ry        24 13/17/21 | AM A :  39   0 :  39 |   3  0.6   5 ||  48 || FW  0 AM  0 FW  0 FW  0 FW  0 MF  0 FW  0       
-R_Figueiredo    31 27/16/15 | DF D :  36  11 :  47 |   2  0.6  -1 ||  48 || DF  8 DF  6 DF  8 DF  9 DF  8 DF 10 DF 11       
+R_Figueiredo    31 27/16/15 | DF D :  36  11 :  47 |   2  0.7  -1 ||  48 || DF  8 DF  6 DF  8 DF  9 DF  8 DF 10 DF 11       
 L_Selders       31  6/20/22 | AM A :  42   4 :  46 |   1  1.4  -1 ||  47 || FW  2 AM  4 AM  2 FW -1 AM  1 AM  0 FW -2       
 C_Yastrzemski   32  7/25/15 | MF E :  39   5 :  44 |  -1  1.1  -1 ||  43 || MF  4 MF  3 MF  5 MF  3 MF  1 MF -5 AM -2       
-I_Drover        23 17/18/18 | AM D :  32   2 :  33 |   0  0.5   6 ||  40 || DF  0 DF  0 MF  0 MF  1 MF  0 DF  1 AM  2       
+I_Drover        23 17/18/18 | AM D :  32   2 :  33 |   0  0.6   6 ||  40 || DF  0 DF  0 MF  0 MF  1 MF  0 DF  1 AM  2       
 D_Lungu         20  7/17/17 | MF A :  30  -3 :  27 |   4  0.1   7 ||  38 || AM -4 MF -3 AM -4 MF -5 AM -5 AM -6 FW -6   R r 
 S_Manescu       19    17    | GK N :  26  -3 :  23 |   5  1.4   7 ||  36 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
 O_Devers        21    18    | GK N :  27  -1 :  26 |   0  1.2   7 ||  34 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1   R r 
@@ -283,19 +283,19 @@ V_Barbieri      24 21/18/17 | DF L :  42   5 :  47 |  12  1.7   5 ||  65 || DF  
 O_Burgin        23 20/18/16 | DF L :  40   3 :  43 |  10  1.3   6 ||  60 || DF  2 DF  1 DF  2 DF  3 DF  2 DF  3 DF  3       
 Camelino        32  6/20/25 | AM A :  46   7 :  53 |   8  0.4  -1 ||  60 || FW  5 AM  7 AM  4 FW  2 AM  3 FW  3 FW  0       
 R_Gelman        29 13/21/24 | AM A :  45   7 :  52 |   4  0.9   0 ||  57 || FW  6 AM  7 AM  6 FW  5 AM  5 AM  5 AM  4       
-Q_Bonnette      25    24    | GK N :  36   8 :  44 |   6  1.1   4 ||  55 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
-G_C_Moore       28 24/18/16 | DF L :  44   8 :  52 |   0  1.5   1 ||  54 || DF  6 DF  5 DF  6 DF  7 DF  6 DF  8 DF  7       
-R_Figueiredo    31 27/16/15 | DF D :  36  11 :  47 |   2  0.6  -1 ||  48 || DF  8 DF  6 DF  8 DF  9 DF  8 DF 10 DF 11       
+Q_Bonnette      25    24    | GK N :  36   8 :  44 |   6  1.2   4 ||  55 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
+G_C_Moore       28 24/18/16 | DF L :  44   8 :  52 |   0  1.6   1 ||  54 || DF  6 DF  5 DF  6 DF  7 DF  6 DF  8 DF  7       
+R_Figueiredo    31 27/16/15 | DF D :  36  11 :  47 |   2  0.7  -1 ||  48 || DF  8 DF  6 DF  8 DF  9 DF  8 DF 10 DF 11       
 L_Selders       31  6/20/22 | AM A :  42   4 :  46 |   1  1.4  -1 ||  47 || FW  2 AM  4 AM  2 FW -1 AM  1 AM  0 FW -2       
 C_Yastrzemski   32  7/25/15 | MF E :  39   5 :  44 |  -1  1.1  -1 ||  43 || MF  4 MF  3 MF  5 MF  3 MF  1 MF -5 AM -2       
-I_Drover        23 17/18/18 | AM D :  32   2 :  33 |   0  0.5   6 ||  40 || DF  0 DF  0 MF  0 MF  1 MF  0 DF  1 AM  2       
+I_Drover        23 17/18/18 | AM D :  32   2 :  33 |   0  0.6   6 ||  40 || DF  0 DF  0 MF  0 MF  1 MF  0 DF  1 AM  2       
 M_Tensfeldt     30 24/17/15 | DF D :  33   7 :  40 |  -6  0.6  -1 ||  34 || DF  5 DF  4 DF  6 DF  6 DF  5 DF  7 DF  7       
 P_Litto         32 24/15/13 | DF D :  33   7 :  39 |  -6  0.9  -1 ||  33 || DF  3 DF  1 DF  4 DF  5 DF  4 DF  4 DF  7       
 
 ** First Squad (21) **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 P_Druery        22 19/ 7/17 | DF L :  37   0 :  37 |   9  1.4   7 ||  54 || DF -7 DF -4 DF -2 DF -3 DF -3 DF  0 DF -1       
-C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.6   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
+C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.7   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
 G_Mordino       22 13/18/20 | AM C :  35   0 :  35 |   7  0.6   7 ||  50 || AM  0 MF  0 AM  0 AM  0 AM  0 MF  0 AM  0       
 D_Van_Ry        24 13/17/21 | AM A :  39   0 :  39 |   3  0.6   5 ||  48 || FW  0 AM  0 FW  0 FW  0 FW  0 MF  0 FW  0       
 X_Cullie        25 18/17/15 | DM C :  32   0 :  32 |  -5  1.4   4 ||  32 || DF -1 DF -2 DF  0 DM  0 DF -1 DM  0 MF  0       
@@ -332,7 +332,7 @@ A_Selymes       18  3/15/ 2 | MF P :  16 -10 :   6 | -10  1.0   7 ||   4 || MF-1
 ** Training Squad **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 P_Druery        22 19/ 7/17 | DF L :  37   0 :  37 |   9  1.4   7 ||  54 || DF -7 DF -4 DF -2 DF -3 DF -3 DF  0 DF -1       
-C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.6   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
+C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.7   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
 G_Mordino       22 13/18/20 | AM C :  35   0 :  35 |   7  0.6   7 ||  50 || AM  0 MF  0 AM  0 AM  0 AM  0 MF  0 AM  0       
 D_Van_Ry        24 13/17/21 | AM A :  39   0 :  39 |   3  0.6   5 ||  48 || FW  0 AM  0 FW  0 FW  0 FW  0 MF  0 FW  0       
 S_Manescu       19    17    | GK N :  26  -3 :  23 |   5  1.4   7 ||  36 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     7     3     7 
+                       Count     5    18     2     7     3     6 
                          Max    36    40    37    37    38    39 
                   1st XI (N)    36    36    34    34          33 
                   1st XI (P)    36    39    29    31          39 
@@ -373,13 +373,12 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    17          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    17    25    16    26    23 
-                   LONG_BALL    21    20          11    25    25 
+                   LONG_BALL    21    20          11          28 
                      PASSING    21    19          15          29 
                     EUROPEAN    21    17    21    19    30       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
-J_Charles       26 15/10/19 | DF L :  35  -2 :  32 |  -4  1.3   3 ||  33 || FW -7 DF -5 DF -4 FW -4 FW -4 DF -2 FW -2       
 R_Gripton       22 19/10/10 | DF D :  25  -1 :  25 |  -3  0.7   7 ||  29 || DF -6 DF -8 DF -4 DF -4 DF -5 DM -4 DF -1       
 F_Walter        22 19/ 7/ 5 | DF D :  25  -1 :  23 |  -5  0.7   7 ||  26 || DF-10 DF-13 DF -6 DF -6 DF -8 DM -8 DF -1       
 P_Brewis        22 19/ 7/ 6 | DF D :  25  -1 :  23 |  -5  0.6   7 ||  26 || DF-10 DF-13 DF -6 DF -6 DF -8 DM -8 DF -1       
@@ -416,11 +415,11 @@ V_Eristov       22  8/ 4/19 | FW D :  19  -7 :  12 | -16  1.0   7 ||   4 || FW-1
 W_Obershaw      24  6/ 8/19 | FW E :  23  -7 :  16 | -19  0.9   5 ||   4 || FW-10 FW-10 FW -7 FW-10 FW -9 FW -7 FW -7       
 A_Gary          16  2/12/ 4 | MF P :  14 -13 :   0 |  -6  0.5   7 ||   2 || MF-13 MF-18 MF-17 MF-16 MF-18 DM-22 DM-19     r 
 U_Shotz         16  3/12/ 3 | MF P :  14 -13 :   0 |  -6  0.5   7 ||   2 || MF-13 MF-19 MF-17 MF-15 MF-18 DM-21 DM-18     r 
+H_Potter        25  4/19/ 7 | MF P :  22  -5 :  17 | -20  0.7   4 ||   1 || MF -5 MF -9 MF -6 MF -7 MF -9 DM-16 MF-12       
 Simoncelli      26  3/ 3/19 | FW L :  26  -9 :  17 | -20  0.7   3 ||   1 || FW-15 FW-13 FW-10 FW-14 FW-12 FW -9 FW-10       
 K_MacDonald     26 10/ 3/19 | FW D :  20  -6 :  14 | -23  0.5   3 ||  -6 || FW-13 FW-13 FW -8 FW-10 FW -9 FW -8 FW -6       
 B_Bauer         16  1/ 3/12 | FW D :  10 -16 :  -6 | -12  0.5   7 || -10 || AM-20 MF-21 FW-17 FW-22 FW-20 FW-19 FW-16     r 
 R_Kuyt          25  7/ 3/19 | FW D :  19  -8 :  11 | -27  0.9   4 || -11 || FW-14 FW-13 FW -9 FW-12 FW-11 FW -8 FW -8       
-N_Brody         26  7/ 3/19 | FW D :  19  -8 :  11 | -26  0.4   3 || -12 || FW-14 FW-13 FW -9 FW-12 FW-11 FW -8 FW -8       
 N_Seelig        29  4/ 3/19 | FW L :  26  -9 :  17 | -31  0.7   0 || -13 || FW-15 FW-13 FW -9 FW-13 FW-12 FW -9 FW -9       
 B_Torres        17  2/ 3/12 | FW D :  11 -16 :  -5 | -18  0.7   7 || -15 || AM-20 MF-21 FW-17 FW-21 FW-20 FW-19 FW-16     r 
 K_Fogerty       27  5/ 5/19 | FW E :  22  -8 :  14 | -34  0.7   2 || -18 || FW-13 FW-12 FW -8 FW-12 FW-11 FW -8 FW -8       
@@ -470,9 +469,9 @@ C_Guilbeau      29 10/12/19 | FW D :  22  -4 :  18 | -30  0.9   0 || -11 || FW -
 Forced:O_Burgin/Camelino/R_Gelman/C_Owen/P_Druery/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
-R_Figueiredo    31 27/16/15 | DF D :  36  11 :  47 |   2  0.6  -1 ||  48 || DF  8 DF  6 DF  8 DF  9 DF  8 DF 10 DF 11       
+R_Figueiredo    31 27/16/15 | DF D :  36  11 :  47 |   2  0.7  -1 ||  48 || DF  8 DF  6 DF  8 DF  9 DF  8 DF 10 DF 11       
 R_Gelman        29 13/21/24 | AM A :  45   7 :  52 |   4  0.9   0 ||  57 || FW  6 AM  7 AM  6 FW  5 AM  5 AM  5 AM  4       
-G_C_Moore       28 24/18/16 | DF L :  44   8 :  52 |   0  1.5   1 ||  54 || DF  6 DF  5 DF  6 DF  7 DF  6 DF  8 DF  7       
+G_C_Moore       28 24/18/16 | DF L :  44   8 :  52 |   0  1.6   1 ||  54 || DF  6 DF  5 DF  6 DF  7 DF  6 DF  8 DF  7       
 Camelino        32  6/20/25 | AM A :  46   7 :  53 |   8  0.4  -1 ||  60 || FW  5 AM  7 AM  4 FW  2 AM  3 FW  3 FW  0       
 M_Tensfeldt     30 24/17/15 | DF D :  33   7 :  40 |  -6  0.6  -1 ||  34 || DF  5 DF  4 DF  6 DF  6 DF  5 DF  7 DF  7       
 P_Litto         32 24/15/13 | DF D :  33   7 :  39 |  -6  0.9  -1 ||  33 || DF  3 DF  1 DF  4 DF  5 DF  4 DF  4 DF  7       
@@ -480,9 +479,9 @@ L_Selders       31  6/20/22 | AM A :  42   4 :  46 |   1  1.4  -1 ||  47 || FW  
 O_Burgin        23 20/18/16 | DF L :  40   3 :  43 |  10  1.3   6 ||  60 || DF  2 DF  1 DF  2 DF  3 DF  2 DF  3 DF  3       
 D_Van_Ry        24 13/17/21 | AM A :  39   0 :  39 |   3  0.6   5 ||  48 || FW  0 AM  0 FW  0 FW  0 FW  0 MF  0 FW  0       
 G_Mordino       22 13/18/20 | AM C :  35   0 :  35 |   7  0.6   7 ||  50 || AM  0 MF  0 AM  0 AM  0 AM  0 MF  0 AM  0       
-Q_Bonnette      25    24    | GK N :  36   8 :  44 |   6  1.1   4 ||  55 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
-I_Drover        23 17/18/18 | AM D :  32   2 :  33 |   0  0.5   6 ||  40 || DF  0 DF  0 MF  0 MF  1 MF  0 DF  1 AM  2       
-C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.6   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
+Q_Bonnette      25    24    | GK N :  36   8 :  44 |   6  1.2   4 ||  55 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
+I_Drover        23 17/18/18 | AM D :  32   2 :  33 |   0  0.6   6 ||  40 || DF  0 DF  0 MF  0 MF  1 MF  0 DF  1 AM  2       
+C_Owen          26  9/14/23 | FW A :  44   0 :  44 |   7  0.7   3 ||  54 || FW -1 FW  0 FW  0 FW -1 FW -1 FW  0 FW -1       
 C_Yastrzemski   32  7/25/15 | MF E :  39   5 :  44 |  -1  1.1  -1 ||  43 || MF  4 MF  3 MF  5 MF  3 MF  1 MF -5 AM -2       
 X_Cullie        25 18/17/15 | DM C :  32   0 :  32 |  -5  1.4   4 ||  32 || DF -1 DF -2 DF  0 DM  0 DF -1 DM  0 MF  0       
 D_Tikhomirov    25  3/19/15 | MF A :  30  -3 :  28 | -10  0.7   4 ||  22 || MF -3 MF -3 MF -3 MF -5 AM -5 AM -9 AM -8       
@@ -534,13 +533,12 @@ SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
 SUB C_Owen I_Drover DM IF MIN = 45
-SUB P_Druery G_Mordino FW IF MIN = 50
-CHANGEPOS I_Drover DF IF MIN = 55
-CHANGEPOS I_Drover DM IF MIN = 65
-CHANGEPOS G_Mordino DF IF MIN = 70
-SUB C_Yastrzemski L_Selders FW IF MIN = 75
+SUB P_Druery G_Mordino DF IF MIN = 50
+CHANGEPOS G_Mordino FW IF MIN = 55
+CHANGEPOS O_Burgin DF IF MIN = 60
+SUB Camelino L_Selders FW IF MIN = 75
 TACTIC A IF MIN >= 10 SCORE <= -2
-TACTIC A IF MIN >= 70 SCORE = -1
+TACTIC A IF MIN >= 77 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC L IF MIN >= 65 SCORE >= 2
@@ -610,13 +608,14 @@ SUB MF L_Gabor MF IF INJURED MF
 SUB AM L_Gabor AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-SUB Q_Detert S_Stancu DF IF MIN = 55
-SUB N_Morariu L_Gabor DF IF MIN = 65
-SUB E_Silivasi R_Georghiou DF IF MIN = 90
+SUB E_Silivasi S_Stancu DF IF MIN = 45
+SUB Q_Detert L_Gabor DF IF MIN = 60
+CHANGEPOS E_Petrescu DF IF MIN = 65
+CHANGEPOS N_Morariu DM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 80 SCORE = 1
+TACTIC C IF MIN >= 51 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 
