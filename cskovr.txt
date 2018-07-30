@@ -364,7 +364,7 @@ SUB AM Taison AM IF INJURED AM
 SUB FW Taison FW IF INJURED FW
 
 SUB S_Doumbia G_Junior DM IF MIN = 45
-SUB E_Elia Taison MF IF MIN = 55
+SUB E_Elia Taison MF IF MIN = 60
 SUB T_Walcott C_Hourihane MF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
