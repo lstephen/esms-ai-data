@@ -366,12 +366,12 @@ DEFENSIVE        30  33  34  37  32  29
                 Reserves (P)    29    35    28                35 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    34    23    26    18 
+                   DEFENSIVE    27    26    30    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    19    25 
+                    EUROPEAN    27    22    21    28    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -543,21 +543,21 @@ FW Janssen
    Overall     270     233     291     277     244     299     252 
 
 GK C_Poenaru
+DF S_Howey
+DF M_Saganowski
 DF Doriva
 FW A_Johnson
-FW R_Sharp
-FW Hugo_Sanchez
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF Doriva DF IF INJURED DF
+SUB DF S_Howey DF IF INJURED DF
 SUB DM A_Johnson DM IF INJURED DM
 SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
-SUB FW R_Sharp FW IF INJURED FW
+SUB FW A_Johnson FW IF INJURED FW
 
-SUB J_Vardy Doriva DM IF MIN = 45
-SUB Janssen A_Johnson MF IF MIN = 50
-SUB G_Weah R_Sharp FW IF MIN = 60
+SUB J_Vardy S_Howey DM IF MIN = 45
+SUB Janssen Doriva DM IF MIN = 50
+SUB G_Weah A_Johnson FW IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -594,53 +594,53 @@ I_Muresanu      19 18/ 7/ 6 | DF D :  24  -8 :  16 |  -1  1.0   9 ||  25 || DM-1
 COUNTER_ATTACK
 GK D_Gogean
 DF E_Plummer
-DF I_Hack
+DF M_Twaddle
 DF V_Yonescu
 DM Moreto
+DM Ridoutkha
 DM M_Oezil
-MF T_Hurlock
 MF C_McGregor
-MF Ridoutkha
 MF M_Antonio
-FW M_Twaddle
+MF J_Cadette
+FW T_Hurlock
                  N       D       A       C       L       P       E 
   STOPPING      29      29      29      29      29      29      29 
-  TACKLING     110     181      83     127     179     106     102 
-   PASSING     142     104     147     143      71     152     167 
-  SHOOTING      43      24      78      38      66      39      45 
-   SH Mean      14      15      13      14      13      14      13 
- SH Median      18      18      18      18      18      18      18 
+  TACKLING     112     180      89     126     172     109     107 
+   PASSING     141     103     152     145      71     157     163 
+  SHOOTING      42      20      72      38      61      39      42 
+   SH Mean      14      15      13      14      13      15      14 
+ SH Median      18      19      18      18      18      18      18 
     SH Max      19      19      19      19      19      19      19 
-  SH Bonus      17      10      20      16       9      17      18 
+  SH Bonus      17      11      19      16       9      18      18 
    GK Qual      19      19      19      19      19      19      19 
-  GK Bonus      19      14      24      18      13      20      21 
+  GK Bonus      19      13      23      18      13      20      20 
        Agg      23      23      23      23      23      23      23 
-   Scoring     109      77     124     108      69     114     126 
- Defending     110     181      83     127     179     106     102 
-   Overall     255     252     242     267     237     257     265 
+   Scoring     108      76     125     109      68     118     123 
+ Defending     112     180      89     126     172     109     107 
+   Overall     256     249     250     268     230     264     267 
 
 GK A_Ghita
+DF I_Hack
 DF I_Harte
-DM J_Cadette
 DM J_Milburn
 AM D_Mario
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF I_Harte DF IF INJURED DF
-SUB DM J_Cadette DM IF INJURED DM
-SUB MF J_Cadette MF IF INJURED MF
-SUB AM J_Cadette AM IF INJURED AM
+SUB DF I_Hack DF IF INJURED DF
+SUB DM D_Mario DM IF INJURED DM
+SUB MF D_Mario MF IF INJURED MF
+SUB AM D_Mario AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB V_Yonescu I_Harte DF IF MIN = 45
-SUB M_Twaddle D_Mario FW IF MIN = 50
-SUB M_Antonio J_Milburn DM IF MIN = 78
-TACTIC E IF MIN >= 6 SCORE <= -2
-TACTIC E IF MIN >= 12 SCORE = -1
+SUB V_Yonescu I_Harte DF IF MIN = 50
+SUB M_Antonio I_Hack DF IF MIN = 70
+SUB E_Plummer D_Mario AM IF MIN = 75
+TACTIC A IF MIN >= 50 SCORE <= -2
+TACTIC A IF MIN >= 70 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 26 SCORE = 1
-TACTIC D IF MIN >= 13 SCORE >= 2
+TACTIC D IF MIN >= 32 SCORE = 1
+TACTIC D IF MIN >= 16 SCORE >= 2
 
-SUB M_Twaddle D_Mario FW IF SCORE <= -3
-SUB M_Twaddle D_Mario FW IF SCORE >= 3
+SUB M_Twaddle I_Hack DF IF SCORE <= -3
+SUB M_Twaddle I_Hack DF IF SCORE >= 3
 
