@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     6     3     7 
+                       Count     5    18     2     7     3     7 
                          Max    36    40    37    37    38    39 
                   1st XI (N)    36    36    34    34          33 
                   1st XI (P)    36    39    29    31          39 
@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    17          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    17    25    16    26    23 
-                   LONG_BALL    21    20          11    25    25 
+                   LONG_BALL    21    20          11    25    28 
                      PASSING    21    19          15          29 
                     EUROPEAN    21    17    21    19    30       
 
@@ -536,15 +536,15 @@ SUB MF L_Selders MF IF INJURED MF
 SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
-SUB C_Owen D_Van_Ry FW IF MIN = 45
-SUB P_Druery X_Cullie DM IF MIN = 55
-CHANGEPOS D_Van_Ry DF IF MIN = 60
-SUB I_Drover L_Selders FW IF MIN = 65
+SUB P_Druery L_Selders FW IF MIN = 50
+CHANGEPOS C_Owen DF IF MIN = 55
+SUB C_Owen D_Van_Ry DF IF MIN = 60
+SUB O_Burgin X_Cullie DF IF MIN = 75
 TACTIC A IF MIN >= 10 SCORE <= -2
-TACTIC A IF MIN >= 72 SCORE = -1
+TACTIC A IF MIN >= 61 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 55 SCORE >= 2
+TACTIC L IF MIN >= 65 SCORE >= 2
 
 
 Forced:D_Lungu/E_Petrescu/I_Tatarescu/N_Morariu/N_Parasca/
@@ -611,12 +611,12 @@ SUB MF L_Gabor MF IF INJURED MF
 SUB AM L_Gabor AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-SUB E_Silivasi L_Gabor DF IF MIN = 45
-SUB Q_Detert S_Stancu DF IF MIN = 60
-TACTIC A IF MIN >= 82 SCORE <= -2
+SUB Q_Detert S_Stancu DF IF MIN = 50
+SUB E_Silivasi L_Gabor DF IF MIN = 60
+TACTIC A IF MIN >= 79 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 82 SCORE >= 2
+TACTIC L IF MIN >= 81 SCORE >= 2
 
 
