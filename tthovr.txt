@@ -371,7 +371,7 @@ DEFENSIVE        30  33  34  37  32  29
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    22    19 
+                    EUROPEAN    27    22    21    28    19    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -543,20 +543,20 @@ FW Janssen
    Overall     270     233     291     277     244     299     252 
 
 GK C_Poenaru
-DF S_Howey
 DF Doriva
 FW A_Johnson
 FW R_Sharp
+FW Hugo_Sanchez
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF S_Howey DF IF INJURED DF
+SUB DF Doriva DF IF INJURED DF
 SUB DM A_Johnson DM IF INJURED DM
 SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
-SUB Janssen A_Johnson MF IF MIN = 45
-SUB J_Vardy S_Howey DM IF MIN = 50
+SUB J_Vardy Doriva DM IF MIN = 45
+SUB Janssen A_Johnson MF IF MIN = 50
 SUB G_Weah R_Sharp FW IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
@@ -632,9 +632,9 @@ SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB T_Hurlock D_Mario FW IF MIN = 60
-SUB M_Twaddle I_Harte DF IF MIN = 81
+SUB V_Yonescu I_Harte DF IF MIN = 45
+SUB M_Twaddle I_Hack DF IF MIN = 60
+SUB T_Hurlock D_Mario FW IF MIN = 70
 TACTIC E IF MIN >= 2 SCORE <= -2
 TACTIC P IF MIN >= 40 SCORE = -1
 TACTIC C IF SCORE = 0
