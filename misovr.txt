@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     6     3     6 
+                       Count     5    18     2     7     3     6 
                          Max    36    40    37    37    38    39 
                   1st XI (N)    36    36    34    34          33 
                   1st XI (P)    36    39    29    31          39 
@@ -584,7 +584,7 @@ AM D_Lungu
 FW N_Morariu
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING      92     122      57     102     108      79      86 
+  TACKLING      92     121      57     102     108      79      86 
    PASSING     101      73     106     102      49     114     112 
   SHOOTING      51      29      89      43      83      40      48 
    SH Mean      12      13      12      12      12      12      12 
@@ -595,7 +595,7 @@ FW N_Morariu
   GK Bonus      17      13      25      16      14      19      18 
        Agg      22      22      22      22      22      22      22 
    Scoring      84      58     100      82      60      90      91 
- Defending      92     122      57     102     108      79      86 
+ Defending      92     121      57     102     108      79      86 
    Overall     207     186     184     211     182     202     210 
 
 GK O_Devers
