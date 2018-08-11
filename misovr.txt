@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     7     3     7 
+                       Count     5    18     2     6     3     6 
                          Max    36    40    37    37    38    39 
                   1st XI (N)    36    36    34    34          33 
                   1st XI (P)    36    39    29    31          39 
@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    17          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    17    25    16    26    23 
-                   LONG_BALL    21    20          11    25    25 
+                   LONG_BALL    21    20          11          28 
                      PASSING    21    19          15          29 
                     EUROPEAN    21    17    21    19    30       
 
@@ -525,20 +525,21 @@ FW C_Owen
 
 GK A_Kapustov
 DF P_Litto
-DF X_Cullie
+FW I_Drover
 FW D_Van_Ry
 FW G_Mordino
 
 SUB GK A_Kapustov GK IF INJURED GK
 SUB DF P_Litto DF IF INJURED DF
-SUB DM G_Mordino DM IF INJURED DM
-SUB MF G_Mordino MF IF INJURED MF
-SUB AM G_Mordino AM IF INJURED AM
+SUB DM I_Drover DM IF INJURED DM
+SUB MF I_Drover MF IF INJURED MF
+SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB C_Owen D_Van_Ry FW IF MIN = 45
-SUB P_Druery P_Litto DF IF MIN = 50
-SUB O_Burgin G_Mordino DM IF MIN = 78
+SUB P_Druery I_Drover DF IF MIN = 45
+SUB V_Barbieri P_Litto DF IF MIN = 50
+CHANGEPOS L_Selders FW IF MIN = 55
+SUB C_Owen G_Mordino DM IF MIN = 60
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -610,8 +611,8 @@ SUB AM A_Selymes AM IF INJURED AM
 SUB FW S_Stancu FW IF INJURED FW
 
 CHANGEPOS N_Parasca MF IF MIN = 50
-SUB L_Gabor S_Stancu DF IF MIN = 65
-SUB Q_Detert R_Georghiou DF IF MIN = 70
+SUB L_Gabor R_Georghiou DF IF MIN = 65
+SUB Q_Detert S_Stancu DF IF MIN = 70
 TACTIC E IF MIN >= 5 SCORE <= -2
 TACTIC E IF MIN >= 10 SCORE = -1
 TACTIC C IF SCORE = 0
