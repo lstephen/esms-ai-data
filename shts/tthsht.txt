@@ -14,7 +14,7 @@ FW J_Vardy
 FW Janssen
 
 GK C_Poenaru
-DF P_Henrique
+DF M_Saganowski
 DF D_McHale
 FW A_Johnson
 FW R_Pires
@@ -22,9 +22,9 @@ FW R_Pires
 PK: R_Sharp
 AGG 20
 
-SUB 11 14 DM IF MIN = 45
-SUB 10 15 FW IF MIN = 50
-SUB 9 16 FW IF MIN = 60
+SUB 10 15 FW IF MIN = 45
+SUB 9 14 DM IF MIN = 50
+SUB 11 16 FW IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
