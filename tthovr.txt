@@ -367,7 +367,7 @@ DEFENSIVE        30  34  35  37  32  29
                 Reserves (P)    29    35    28                35 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    30    23    26    18 
+                   DEFENSIVE    27    26    34    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
@@ -555,9 +555,9 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB Janssen D_McHale DM IF MIN = 45
-SUB R_Sharp A_Johnson FW IF MIN = 50
-SUB J_Vardy R_Pires FW IF MIN = 55
+SUB Janssen R_Pires FW IF MIN = 45
+SUB J_Vardy D_McHale DM IF MIN = 50
+SUB R_Sharp A_Johnson FW IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -632,11 +632,11 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB V_Yonescu M_Antonio DF IF MIN = 50
-SUB I_Hack I_Harte DF IF MIN = 60
-SUB Ridoutkha J_Cadette DM IF MIN = 70
-TACTIC P IF MIN >= 50 SCORE <= -2
-TACTIC P IF MIN >= 50 SCORE = -1
+SUB V_Yonescu J_Cadette DF IF MIN = 45
+SUB Ridoutkha M_Antonio DM IF MIN = 60
+SUB I_Hack I_Harte DF IF MIN = 75
+TACTIC P IF MIN >= 45 SCORE <= -2
+TACTIC P IF MIN >= 45 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
