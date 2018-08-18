@@ -1,32 +1,32 @@
 msy
-C
+E
 
 GK S_Manescu
 DF Q_Detert
 DF E_Silivasi
-DF L_Gabor
+DF N_Morariu
 DM E_Petrescu
 DM N_Parasca
 DM I_Tatarescu
 MF D_Fidatov
-AM V_Dobre
-AM D_Lungu
-FW N_Morariu
+MF V_Dobre
+MF D_Lungu
+FW R_Silano
 
 GK O_Devers
 GK C_Ionita
 DF S_Stancu
+DF L_Gabor
 DF R_Georghiou
-MF A_Selymes
 
-PK: D_Lungu
+PK: R_Silano
 AGG 20
 
-CHANGEPOS 6 MF IF MIN = 50
-SUB 4 15 DF IF MIN = 65
-SUB 3 14 DF IF MIN = 70
-TACTIC E IF MIN >= 5 SCORE <= -2
-TACTIC E IF MIN >= 10 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 89 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+SUB 2 14 DF IF MIN = 60
+SUB 4 15 DF IF MIN = 70
+SUB 3 16 DF IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 81 SCORE = 1
+TACTIC D IF MIN >= 39 SCORE >= 2
