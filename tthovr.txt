@@ -367,12 +367,12 @@ DEFENSIVE        30  34  35  37  32  29
                 Reserves (P)    29    35    28                35 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    30    23    26    18 
+                   DEFENSIVE    27    26    34    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    19    19 
+                    EUROPEAN    27    22    21    28    22    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -633,8 +633,8 @@ SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB T_Hurlock D_Mario FW IF MIN = 45
-SUB V_Yonescu I_Hack DF IF MIN = 50
+SUB V_Yonescu I_Hack DF IF MIN = 45
+SUB T_Hurlock D_Mario FW IF MIN = 50
 SUB M_Oezil J_Milburn DM IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF MIN >= 2 SCORE = -1
