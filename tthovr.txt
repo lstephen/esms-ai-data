@@ -372,7 +372,7 @@ DEFENSIVE        30  34  35  37  32  29
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    22    25 
+                    EUROPEAN    27    22    21    28    19    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -556,14 +556,14 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB J_Vardy A_Johnson MF IF MIN = 45
-SUB G_Weah S_Howey DM IF MIN = 50
-SUB W_Morgan D_McHale DF IF MIN = 65
+SUB G_Weah A_Johnson FW IF MIN = 45
+SUB J_Vardy S_Howey DM IF MIN = 50
+SUB R_Sharp D_McHale DM IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 88 SCORE = 1
+TACTIC D IF MIN >= 54 SCORE >= 2
 
 SUB A_Wisdom S_Howey DF IF SCORE <= -3
 SUB A_Wisdom S_Howey DF IF SCORE >= 3
@@ -633,9 +633,9 @@ SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB T_Hurlock D_Mario FW IF MIN = 50
-SUB M_Oezil J_Milburn DM IF MIN = 81
+SUB E_Plummer I_Hack DF IF MIN = 45
+SUB V_Yonescu I_Harte DF IF MIN = 50
+SUB T_Hurlock D_Mario FW IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF MIN >= 2 SCORE = -1
 TACTIC C IF SCORE = 0
