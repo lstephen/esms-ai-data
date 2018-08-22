@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     7     3     6 
+                       Count     5    18     2     7     3     7 
                          Max    36    40    37    37    38    39 
                   1st XI (N)    36    36    34    34          33 
                   1st XI (P)    36    39    29    31          39 
@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    17          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    17    25    16    26    23 
-                   LONG_BALL    21    20          11          28 
+                   LONG_BALL    21    20          11    25    28 
                      PASSING    21    19          15          29 
                     EUROPEAN    21    17    21    19    30       
 
@@ -538,9 +538,9 @@ SUB MF L_Selders MF IF INJURED MF
 SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
-SUB C_Yastrzemski L_Selders AM IF MIN = 50
-SUB O_Burgin I_Drover DM IF MIN = 65
-SUB C_Owen D_Van_Ry DM IF MIN = 75
+SUB C_Owen G_Mordino DM IF MIN = 50
+SUB C_Yastrzemski L_Selders AM IF MIN = 55
+SUB O_Burgin I_Drover DM IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -612,12 +612,13 @@ SUB MF L_Gabor MF IF INJURED MF
 SUB AM L_Gabor AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-SUB E_Silivasi L_Gabor DF IF MIN = 60
-SUB Q_Detert S_Stancu DF IF MIN = 70
+SUB Q_Detert S_Stancu DF IF MIN = 60
+SUB N_Morariu L_Gabor DF IF MIN = 70
+SUB E_Silivasi R_Georghiou DF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 37 SCORE = 1
+TACTIC D IF MIN >= 81 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 
