@@ -367,7 +367,7 @@ DEFENSIVE        30  34  35  37  32  29
                 Reserves (P)    29    35    28                35 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    30    23    26    18 
+                   DEFENSIVE    27    26    34    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
@@ -558,7 +558,7 @@ SUB FW A_Johnson FW IF INJURED FW
 
 SUB J_Vardy A_Johnson MF IF MIN = 45
 SUB G_Weah S_Howey DM IF MIN = 50
-SUB W_Morgan D_McHale DF IF MIN = 55
+SUB W_Morgan D_McHale DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
