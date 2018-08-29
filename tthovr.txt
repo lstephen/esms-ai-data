@@ -314,6 +314,7 @@ Ridoutkha       24 16/22/ 7 | MF C :  32  -2 :  30 |  -4  0.5   6 ||  32 || DM -
 D_Mario         21  6/19/19 | FW E :  26  -2 :  23 |  -3  0.9   8 ||  29 || FW -4 AM -5 AM -3 FW -2 FW -4 AM -3 AM -6   R r 
 I_Hack          29 23/ 8/10 | DF L :  31  -2 :  29 |  -7  0.8   4 ||  27 || DF -6 DF -4 DF -3 DF -2 DF -5 DF -2 DF -3   R r 
 M_Antonio       24 13/22/ 6 | MF C :  30  -3 :  27 |  -8  0.5   6 ||  25 || DM -4 MF -3 DM -6 DM -6 MF -4 DM -6 DM -6   R r 
+I_Harte         24 22/ 8/ 7 | DF D :  30  -4 :  25 |  -9  0.8   7 ||  24 || DF -8 DF -6 DF -5 DF -4 DF -7 DF -4 DF -4   R r 
 J_Cadette       27 15/21/ 6 | MF C :  30  -3 :  27 |  -7  0.6   5 ||  24 || DM -4 MF -3 DM -6 DM -5 DM -4 DM -5 DM -4   R r 
 M_Oezil         34 17/21/ 9 | DM C :  33  -1 :  31 | -13  0.5   1 ||  20 || DM -2 DM -1 DF -3 DM -3 DM -2 DM -2 DM -2   R r 
 
@@ -321,7 +322,6 @@ M_Oezil         34 17/21/ 9 | DM C :  33  -1 :  31 | -13  0.5   1 ||  20 || DM -
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 A_Ghita         16    18    | GK N :  27  -3 :  24 |  -1  0.6  11 ||  34 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
 V_Yonescu       18 20/ 4/ 6 | DF E :  22  -8 :  14 |   2  0.7  10 ||  26 || DF-13 DF-10 DF-10 DF -8 DF-11 DF -8 DF -8   R r 
-I_Harte         24 22/ 8/ 7 | DF D :  30  -4 :  25 |  -9  0.8   7 ||  24 || DF -8 DF -6 DF -5 DF -4 DF -7 DF -4 DF -4   R r 
 J_Milburn       21 14/18/ 7 | DM P :  26  -7 :  19 |  -7  1.5   8 ||  21 || DM -7 DM -7 DF -8 DF -9 DM -7 DM -7 DM -7   R r 
 C_Sandulescu    19  6/ 8/18 | FW E :  21  -8 :  13 |  -2  0.9   9 ||  20 || FW-13 FW-11 FW-12 FW -8 FW -8 AM -8 FW-10   R r 
 I_Chirila       18  6/ 5/18 | FW E :  19  -9 :  10 |  -2  0.8   9 ||  19 || FW-16 FW-13 FW-14 FW -9 FW -9 AM -9 FW-11   R r 
@@ -338,7 +338,6 @@ G_Weah          29  9/ 7/25 | FW L :  37   0 :  37 |   1  1.5   4 ||  43 || FW -
 A_Ghita         16    18    | GK N :  27  -3 :  24 |  -1  0.6  11 ||  34 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
 C_Poenaru       27    20    | GK N :  30   0 :  30 |  -4  0.4   6 ||  32 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
 V_Yonescu       18 20/ 4/ 6 | DF E :  22  -8 :  14 |   2  0.7  10 ||  26 || DF-13 DF-10 DF-10 DF -8 DF-11 DF -8 DF -8   R r 
-I_Harte         24 22/ 8/ 7 | DF D :  30  -4 :  25 |  -9  0.8   7 ||  24 || DF -8 DF -6 DF -5 DF -4 DF -7 DF -4 DF -4   R r 
 J_Milburn       21 14/18/ 7 | DM P :  26  -7 :  19 |  -7  1.5   8 ||  21 || DM -7 DM -7 DF -8 DF -9 DM -7 DM -7 DM -7   R r 
 C_Sandulescu    19  6/ 8/18 | FW E :  21  -8 :  13 |  -2  0.9   9 ||  20 || FW-13 FW-11 FW-12 FW -8 FW -8 AM -8 FW-10   R r 
 I_Chirila       18  6/ 5/18 | FW E :  19  -9 :  10 |  -2  0.8   9 ||  19 || FW-16 FW-13 FW-14 FW -9 FW -9 AM -9 FW-11   R r 
@@ -367,12 +366,12 @@ DEFENSIVE        30  34  35  37  32  29
                 Reserves (P)    29    35    29    27          39 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    34    23    26    18 
+                   DEFENSIVE    27    26    30    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    22    19 
+                    EUROPEAN    27    22    21    28    19    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -555,13 +554,13 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB J_Vardy A_R_Essien DM IF MIN = 45
-SUB G_Weah P_Henrique DM IF MIN = 50
-SUB Janssen A_Johnson FW IF MIN = 55
+SUB Janssen A_R_Essien DM IF MIN = 45
+SUB J_Vardy A_Johnson MF IF MIN = 50
+SUB Hugo_Sanchez P_Henrique DM IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 77 SCORE = 1
 TACTIC D IF MIN >= 50 SCORE >= 2
 
 SUB A_Wisdom A_R_Essien DF IF SCORE <= -3
@@ -633,11 +632,11 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB Moreto J_Cadette DM IF MIN = 50
-SUB Ridoutkha M_Antonio DM IF MIN = 55
-SUB V_Yonescu C_McGregor DF IF MIN = 60
+SUB V_Yonescu C_McGregor MF IF MIN = 45
+SUB Moreto M_Antonio DF IF MIN = 60
+SUB C_McGregor J_Cadette DM IF MIN = 70
 TACTIC P IF MIN >= 60 SCORE <= -2
-TACTIC P IF MIN >= 60 SCORE = -1
+TACTIC P IF MIN >= 45 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
