@@ -366,12 +366,12 @@ DEFENSIVE        30  34  35  37  32  29
                 Reserves (P)    29    35    29    27          39 
                          Min
                       NORMAL    27    23    27          26    21 
-                   DEFENSIVE    27    26    34    23    26    18 
+                   DEFENSIVE    27    26    30    23    26    18 
                    ATTACKING    27    25    27          42    30 
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    19    19 
+                    EUROPEAN    27    22    21    28    19    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -554,9 +554,9 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB Janssen P_Henrique DM IF MIN = 45
-SUB J_Vardy A_R_Essien DM IF MIN = 50
-SUB G_Weah A_Johnson FW IF MIN = 55
+SUB J_Vardy A_R_Essien DM IF MIN = 45
+SUB G_Weah P_Henrique DM IF MIN = 50
+SUB Janssen A_Johnson FW IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -633,12 +633,12 @@ SUB AM C_McGregor AM IF INJURED AM
 SUB FW G_Vasile FW IF INJURED FW
 
 SUB V_Yonescu C_McGregor DF IF MIN = 50
-SUB Moreto J_Milburn DF IF MIN = 70
+SUB Moreto J_Milburn DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 69 SCORE >= 2
+TACTIC D IF MIN >= 70 SCORE >= 2
 
 SUB Moreto E_Plummer DF IF SCORE <= -3
 SUB Moreto E_Plummer DF IF SCORE >= 3
