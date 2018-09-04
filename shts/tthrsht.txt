@@ -7,27 +7,28 @@ DF V_Yonescu
 DF Moreto
 DF D_McHale
 DF M_Oezil
+DM C_McGregor
 DM Ridoutkha
-DM M_Antonio
 DM J_Cadette
+MF M_Antonio
 FW T_Hurlock
-FW D_Mario
 
 GK A_Ghita
 DF E_Plummer
-DF C_McGregor
+DF I_Harte
 DF J_Milburn
-FW G_Vasile
+FW D_Mario
 
 PK: T_Hurlock
 AGG 20
 
 SUB 3 14 DF IF MIN = 50
-SUB 4 15 DF IF MIN = 65
+SUB 10 16 FW IF MIN = 60
+SUB 2 15 DF IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 70 SCORE >= 2
-SUB 4 13 DF IF SCORE <= -3
-SUB 4 13 DF IF SCORE >= 3
+TACTIC D IF MIN >= 63 SCORE >= 2
+SUB 2 14 DF IF SCORE <= -3
+SUB 2 14 DF IF SCORE >= 3
