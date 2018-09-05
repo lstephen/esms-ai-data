@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    18          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    18    25    16    26    23 
-                   LONG_BALL    21    20          11          28 
+                   LONG_BALL    21    20          11          25 
                      PASSING    21    20          15          29 
                     EUROPEAN    21    18    21    19    30       
 
@@ -536,13 +536,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB C_Owen D_Van_Ry FW IF MIN = 50
-SUB G_Mordino I_Drover DM IF MIN = 60
-SUB P_Litto X_Cullie DF IF MIN = 84
+CHANGEPOS G_Mordino AM IF MIN = 45
+SUB C_Owen X_Cullie DM IF MIN = 55
+SUB G_Mordino D_Van_Ry FW IF MIN = 60
+SUB O_Burgin I_Drover DM IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 45 SCORE = 1
 TACTIC L IF MIN >= 27 SCORE >= 2
 
 
@@ -610,9 +611,9 @@ SUB MF A_Selymes MF IF INJURED MF
 SUB AM A_Selymes AM IF INJURED AM
 SUB FW P_Lazar FW IF INJURED FW
 
+SUB L_Gabor S_Stancu DF IF MIN = 55
 SUB Q_Detert E_Silivasi DF IF MIN = 60
-SUB L_Gabor S_Stancu DF IF MIN = 65
-CHANGEPOS V_Dobre MF IF MIN = 70
+CHANGEPOS V_Dobre MF IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
