@@ -372,7 +372,7 @@ DEFENSIVE        30  34  35  37  32  29
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    22    25 
+                    EUROPEAN    27    22    21    28    19    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -555,14 +555,14 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB Hugo_Sanchez Doriva DM IF MIN = 45
-SUB Janssen A_Johnson MF IF MIN = 50
-SUB J_Vardy R_Pires MF IF MIN = 55
+SUB J_Vardy A_Johnson FW IF MIN = 45
+SUB Janssen R_Pires FW IF MIN = 50
+SUB G_Weah Doriva DM IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 77 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 64 SCORE >= 2
 
 SUB A_Wisdom S_Howey DF IF SCORE <= -3
 SUB A_Wisdom S_Howey DF IF SCORE >= 3
@@ -633,13 +633,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB V_Yonescu J_Cadette DF IF MIN = 45
-SUB Ridoutkha M_Antonio DM IF MIN = 55
-SUB I_Hack I_Harte DF IF MIN = 78
-TACTIC P IF MIN >= 45 SCORE <= -2
-TACTIC P IF MIN >= 45 SCORE = -1
+SUB V_Yonescu I_Harte DF IF MIN = 45
+SUB C_McGregor J_Cadette DM IF MIN = 65
+SUB Ridoutkha M_Antonio DM IF MIN = 75
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 65 SCORE = 1
 TACTIC D IF MIN >= 34 SCORE >= 2
 
 SUB T_Hurlock M_Antonio AM IF SCORE <= -3
