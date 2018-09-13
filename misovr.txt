@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     6     3     7 
+                       Count     5    18     2     7     3     7 
                          Max    36    40    38    37    38    39 
                   1st XI (N)    36    36    34    35          34 
                   1st XI (P)    36    39    29    31          40 
@@ -538,11 +538,11 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB L_Selders I_Drover DM IF MIN = 45
-CHANGEPOS R_Gelman FW IF MIN = 50
-SUB C_Owen D_Van_Ry FW IF MIN = 60
-SUB O_Burgin G_Mordino DM IF MIN = 81
-CHANGEPOS R_Gelman DM IF MIN = 84
+SUB C_Owen I_Drover DM IF MIN = 55
+CHANGEPOS R_Gelman FW IF MIN = 60
+SUB O_Burgin G_Mordino DM IF MIN = 65
+SUB L_Selders D_Van_Ry FW IF MIN = 75
+CHANGEPOS R_Gelman DM IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
