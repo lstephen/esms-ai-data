@@ -362,7 +362,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  26  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     6     3     7 
+                       Count     5    18     2     7     3     6 
                          Max    36    40    38    37    38    39 
                   1st XI (N)    36    36    34    35          34 
                   1st XI (P)    36    39    29    31          40 
@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    18          13    22       
                    ATTACKING    21    19          16          32 
               COUNTER_ATTACK    21    18    25    16    26    23 
-                   LONG_BALL    21    20          11    25    25 
+                   LONG_BALL    21    20          11    25    28 
                      PASSING    21    20          15          29 
                     EUROPEAN    21    18    21    19    30       
 
@@ -538,10 +538,13 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB C_Owen G_Mordino DM IF MIN = 45
-CHANGEPOS R_Gelman FW IF MIN = 50
-SUB O_Burgin D_Van_Ry DM IF MIN = 65
-SUB P_Litto I_Drover DF IF MIN = 84
+SUB O_Burgin D_Van_Ry DM IF MIN = 45
+CHANGEPOS L_Selders AM IF MIN = 50
+SUB C_Owen I_Drover DM IF MIN = 55
+CHANGEPOS R_Gelman FW IF MIN = 60
+CHANGEPOS D_Van_Ry FW IF MIN = 65
+SUB R_Gelman G_Mordino DM IF MIN = 87
+CHANGEPOS L_Selders FW IF MIN = 90
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -613,13 +616,13 @@ SUB MF A_Selymes MF IF INJURED MF
 SUB AM A_Selymes AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-SUB E_Silivasi R_Georghiou DF IF MIN = 60
-SUB E_Petrescu S_Stancu DF IF MIN = 70
-CHANGEPOS N_Morariu DM IF MIN = 75
+SUB E_Silivasi R_Georghiou DF IF MIN = 50
+SUB E_Petrescu S_Stancu DF IF MIN = 78
+CHANGEPOS N_Morariu DM IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 77 SCORE = 1
+TACTIC D IF MIN >= 81 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 
