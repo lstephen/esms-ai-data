@@ -1,5 +1,5 @@
 mis
-A
+P
 
 GK Q_Bonnette
 DF R_Figueiredo
@@ -8,27 +8,25 @@ DF P_Litto
 DF M_Tensfeldt
 DF V_Barbieri
 DM O_Burgin
-AM R_Gelman
+MF C_Yastrzemski
 FW Camelino
+FW R_Gelman
 FW C_Owen
-FW L_Selders
 
 GK A_Kapustov
-DF X_Cullie
-FW I_Drover
+DF I_Drover
+FW L_Selders
 FW D_Van_Ry
 FW G_Mordino
 
 PK: Camelino
 AGG 20
 
-SUB 7 14 DM IF MIN = 50
-SUB 10 16 DM IF MIN = 55
-CHANGEPOS 8 FW IF MIN = 60
-SUB 11 15 FW IF MIN = 78
-CHANGEPOS 8 DM IF MIN = 81
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
+SUB 11 16 FW IF MIN = 45
+SUB 9 14 FW IF MIN = 60
+SUB 7 13 DM IF MIN = 78
+TACTIC A IF MIN >= 22 SCORE <= -2
+TACTIC A IF MIN >= 72 SCORE = -1
+TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 30 SCORE >= 2
+TACTIC L IF MIN >= 66 SCORE >= 2
