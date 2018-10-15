@@ -368,7 +368,7 @@ DEFENSIVE        30  34  35  37  32  29
               COUNTER_ATTACK    27    23    28    30    26    24 
                    LONG_BALL    27                27          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    28    19    19 
+                    EUROPEAN    27    22    21    28    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -521,22 +521,22 @@ GK C_Poenaru
 DF A_Hinkel
 DF W_Morgan
 AM A_Johnson
-FW Hugo_Sanchez
+FW G_Weah
 
 SUB GK C_Poenaru GK IF INJURED GK
 SUB DF A_Hinkel DF IF INJURED DF
 SUB DM A_Johnson DM IF INJURED DM
 SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
-SUB FW Hugo_Sanchez FW IF INJURED FW
+SUB FW G_Weah FW IF INJURED FW
 
-SUB J_Vardy Hugo_Sanchez AM IF MIN = 45
-SUB R_Sharp A_Johnson FW IF MIN = 60
-SUB S_Howey W_Morgan DF IF MIN = 78
-TACTIC A IF MIN >= 20 SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB J_Vardy G_Weah FW IF MIN = 45
+SUB R_Sharp W_Morgan DF IF MIN = 50
+SUB S_Howey A_Johnson MF IF MIN = 55
+TACTIC E IF MIN >= 50 SCORE <= -2
+TACTIC E IF MIN >= 55 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 45 SCORE = 1
+TACTIC D IF MIN >= 50 SCORE = 1
 TACTIC D IF MIN >= 26 SCORE >= 2
 
 
@@ -605,9 +605,9 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW G_Vasile FW IF INJURED FW
 
-SUB V_Yonescu J_Milburn DF IF MIN = 50
-SUB J_Cadette M_Antonio DM IF MIN = 60
-SUB E_Plummer I_Hack DF IF MIN = 81
+SUB V_Yonescu J_Milburn DF IF MIN = 45
+SUB J_Cadette M_Antonio DM IF MIN = 50
+SUB E_Plummer I_Hack DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
