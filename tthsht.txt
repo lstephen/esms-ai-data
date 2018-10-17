@@ -9,24 +9,24 @@ DF P_Henrique
 DF Doriva
 DM E_Gabor
 DM T_Manniman
+MF R_Pires
 FW R_Sharp
 FW J_Vardy
-FW Hugo_Sanchez
 
 GK C_Poenaru
 DF A_Hinkel
 DF C_McGregor
 FW A_Johnson
-FW R_Pires
+FW Hugo_Sanchez
 
 PK: R_Sharp
 AGG 20
 
-SUB 11 14 DM IF MIN = 45
-SUB 10 15 FW IF MIN = 50
-SUB 9 16 FW IF MIN = 60
+SUB 11 16 FW IF MIN = 45
+SUB 10 15 MF IF MIN = 50
+SUB 9 14 DM IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
