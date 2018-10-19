@@ -373,7 +373,7 @@ DEFENSIVE        29  26  29  31  30  27
                    DEFENSIVE    21    18          13    22       
                    ATTACKING    21    20          16          32 
               COUNTER_ATTACK    21    18    25    16    24    29 
-                   LONG_BALL    21    21          11          28 
+                   LONG_BALL    21    21          11    25    25 
                      PASSING    21    20          15          29 
                     EUROPEAN    21    18    22    19    30       
 
@@ -536,11 +536,11 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB O_Burgin I_Drover DM IF MIN = 50
-SUB C_Owen G_Mordino DM IF MIN = 55
-CHANGEPOS R_Gelman FW IF MIN = 60
-SUB L_Selders D_Van_Ry FW IF MIN = 78
-CHANGEPOS R_Gelman DM IF MIN = 81
+SUB C_Owen I_Drover DM IF MIN = 45
+CHANGEPOS R_Gelman FW IF MIN = 50
+SUB O_Burgin G_Mordino DM IF MIN = 60
+SUB L_Selders D_Van_Ry FW IF MIN = 75
+CHANGEPOS R_Gelman DM IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -607,19 +607,18 @@ AM L_Gabor
 
 SUB GK O_Devers GK IF INJURED GK
 SUB DF E_Silivasi DF IF INJURED DF
-SUB DM E_Silivasi DM IF INJURED DM
-SUB MF E_Silivasi MF IF INJURED MF
-SUB AM E_Silivasi AM IF INJURED AM
+SUB DM L_Gabor DM IF INJURED DM
+SUB MF L_Gabor MF IF INJURED MF
+SUB AM L_Gabor AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-SUB P_Lazar S_Stancu DF IF MIN = 45
+SUB P_Lazar L_Gabor DF IF MIN = 45
 SUB Q_Detert E_Silivasi DF IF MIN = 60
-CHANGEPOS V_Dobre MF IF MIN = 78
-SUB E_Petrescu L_Gabor DF IF MIN = 81
-TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC E IF MIN >= 78 SCORE = -1
+SUB E_Petrescu S_Stancu DF IF MIN = 90
+TACTIC A IF MIN >= 62 SCORE <= -2
+TACTIC E IF MIN >= 90 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 62 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 
