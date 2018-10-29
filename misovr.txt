@@ -360,7 +360,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  27  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     7     2     6 
+                       Count     5    18     2     6     2     6 
                          Max    36    40    38    37    38    39 
                   1st XI (N)    36    37    34    35          34 
                   1st XI (P)    36    40    29    31          40 
@@ -534,14 +534,15 @@ SUB MF L_Selders MF IF INJURED MF
 SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
-SUB P_Druery I_Drover FW IF MIN = 45
-SUB Camelino L_Selders FW IF MIN = 55
-SUB R_Gelman G_Mordino FW IF MIN = 81
+SUB P_Druery I_Drover DM IF MIN = 45
+SUB V_Barbieri L_Selders FW IF MIN = 70
+CHANGEPOS O_Burgin DF IF MIN = 75
+SUB Camelino D_Van_Ry FW IF MIN = 78
 TACTIC A IF MIN >= 38 SCORE <= -2
-TACTIC P IF SCORE = -1
+TACTIC A IF MIN >= 81 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 67 SCORE >= 2
+TACTIC L IF MIN >= 50 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/E_Petrescu/N_Parasca/P_Lazar/
