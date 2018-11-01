@@ -1,32 +1,33 @@
 tthr
-P
+C
 
 GK D_Gogean
-DF W_Morgan
 DF E_Plummer
-DF M_Twaddle
+DF I_Hack
 DF V_Yonescu
-DF M_Oezil
 DM Moreto
-DM D_McHale
-DM Ridoutkha
-FW T_Hurlock
-FW D_Mario
+DM M_Oezil
+MF T_Hurlock
+MF D_McHale
+MF Ridoutkha
+MF M_Antonio
+FW M_Twaddle
 
 GK A_Ghita
-DF I_Hack
-DF M_Antonio
-DF J_Cadette
-FW G_Vasile
+DF I_Harte
+DM J_Cadette
+DM J_Milburn
+AM D_Mario
 
 PK: M_Twaddle
 AGG 20
 
-SUB 5 14 DF IF MIN = 45
-SUB 2 15 MF IF MIN = 75
-SUB 11 13 DF IF MIN = 78
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 75 SCORE = 1
-TACTIC D IF MIN >= 57 SCORE >= 2
+SUB 4 14 DF IF MIN = 50
+SUB 11 16 FW IF MIN = 65
+TACTIC P IF MIN >= 50 SCORE <= -2
+TACTIC P IF MIN >= 65 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 26 SCORE = 1
+TACTIC D IF MIN >= 13 SCORE >= 2
+SUB 11 16 FW IF SCORE <= -3
+SUB 11 16 FW IF SCORE >= 3
