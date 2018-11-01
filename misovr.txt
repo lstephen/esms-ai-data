@@ -360,7 +360,7 @@ LONG_BALL        29  37  31  34  34  36
 DEFENSIVE        29  27  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     7     2     7 
+                       Count     5    18     2     6     2     6 
                          Max    36    40    38    37    38    39 
                   1st XI (N)    36    37    34    35          34 
                   1st XI (P)    36    40    29    31          40 
@@ -534,14 +534,14 @@ SUB MF L_Selders MF IF INJURED MF
 SUB AM L_Selders AM IF INJURED AM
 SUB FW L_Selders FW IF INJURED FW
 
-SUB P_Druery I_Drover DM IF MIN = 45
-SUB O_Burgin D_Van_Ry FW IF MIN = 55
-SUB Camelino L_Selders FW IF MIN = 70
+SUB P_Druery D_Van_Ry FW IF MIN = 45
+SUB Camelino L_Selders FW IF MIN = 60
+SUB O_Burgin I_Drover DM IF MIN = 81
 TACTIC A IF MIN >= 38 SCORE <= -2
-TACTIC A IF MIN >= 56 SCORE = -1
+TACTIC A IF MIN >= 66 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 63 SCORE >= 2
+TACTIC L IF MIN >= 65 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/E_Petrescu/N_Parasca/P_Lazar/
@@ -603,16 +603,16 @@ DF L_Gabor
 
 SUB GK O_Devers GK IF INJURED GK
 SUB DF E_Silivasi DF IF INJURED DF
-SUB DM L_Gabor DM IF INJURED DM
-SUB MF L_Gabor MF IF INJURED MF
-SUB AM L_Gabor AM IF INJURED AM
+SUB DM E_Silivasi DM IF INJURED DM
+SUB MF E_Silivasi MF IF INJURED MF
+SUB AM E_Silivasi AM IF INJURED AM
 SUB FW L_Gabor FW IF INJURED FW
 
-CHANGEPOS D_Lungu MF IF MIN = 45
-SUB P_Lazar S_Stancu DF IF MIN = 50
-SUB E_Petrescu L_Gabor DF IF MIN = 60
-CHANGEPOS N_Parasca MF IF MIN = 65
-SUB Q_Detert E_Silivasi DF IF MIN = 75
+SUB P_Lazar E_Silivasi DF IF MIN = 45
+CHANGEPOS N_Parasca MF IF MIN = 55
+SUB Q_Detert S_Stancu DF IF MIN = 60
+CHANGEPOS D_Lungu MF IF MIN = 65
+SUB E_Petrescu L_Gabor DF IF MIN = 70
 TACTIC A IF MIN >= 25 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
