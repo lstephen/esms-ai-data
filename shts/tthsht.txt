@@ -14,18 +14,18 @@ MF R_Pires
 FW R_Sharp
 
 GK C_Poenaru
-DM A_R_Essien
+DM G_Pique
 DM S_Howey
 DM T_Manniman
-AM J_Vardy
+AM Hugo_Sanchez
 
 PK: G_Weah
 AGG 20
 
 SUB 4 13 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 50
-SUB 6 14 DM IF MIN = 70
-TACTIC E IF SCORE <= -2
+SUB 6 16 MF IF MIN = 65
+SUB 9 14 DM IF MIN = 70
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 40 SCORE = 1
