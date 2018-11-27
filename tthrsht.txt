@@ -1,34 +1,34 @@
 tthr
-A
+P
 
 GK D_Gogean
-DF E_Plummer
 DF M_Twaddle
 DF D_Barr
 DF V_Yonescu
+DF Moreto
 DF M_Oezil
 DM C_McGregor
-DM Moreto
 DM D_McHale
-AM T_Hurlock
-FW D_Mario
-
-GK A_Ghita
 DM Ridoutkha
-DM M_Antonio
-DM J_Cadette
+FW T_Hurlock
 FW C_Robinson
 
-PK: M_Twaddle
+GK A_Ghita
+DF E_Plummer
+DF I_Hack
+DF J_Cadette
+FW D_Mario
+
+PK: C_Robinson
 AGG 20
 
-SUB 5 15 DF IF MIN = 50
-SUB 9 13 DM IF MIN = 55
-SUB 7 14 DM IF MIN = 81
-TACTIC P IF MIN >= 50 SCORE <= -2
+SUB 11 16 FW IF MIN = 45
+SUB 4 15 DF IF MIN = 50
+SUB 2 14 DF IF MIN = 70
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
-TACTIC D IF MIN >= 34 SCORE >= 2
-SUB 10 13 AM IF SCORE <= -3
-SUB 10 13 AM IF SCORE >= 3
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 64 SCORE >= 2
+SUB 10 16 FW IF SCORE <= -3
+SUB 10 16 FW IF SCORE >= 3
