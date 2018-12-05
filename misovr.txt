@@ -534,8 +534,8 @@ SUB MF D_Van_Ry MF IF INJURED MF
 SUB AM D_Van_Ry AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB O_Burgin X_Cullie DF IF MIN = 60
-SUB C_Owen D_Van_Ry FW IF MIN = 65
+SUB O_Burgin X_Cullie DF IF MIN = 55
+SUB C_Owen D_Van_Ry FW IF MIN = 60
 SUB M_Tensfeldt C_Stirbei DF IF MIN = 87
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
@@ -609,14 +609,13 @@ SUB MF K_Brockmire MF IF INJURED MF
 SUB AM K_Brockmire AM IF INJURED AM
 SUB FW K_Brockmire FW IF INJURED FW
 
-SUB E_Silivasi R_Georghiou DF IF MIN = 65
-SUB L_Gabor S_Stancu DF IF MIN = 70
-SUB E_Petrescu K_Brockmire FW IF MIN = 84
-CHANGEPOS L_Frenier DF IF MIN = 87
+SUB E_Silivasi S_Stancu DF IF MIN = 65
+SUB L_Frenier K_Brockmire FW IF MIN = 70
+SUB L_Gabor R_Georghiou DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 62 SCORE >= 2
+TACTIC D IF MIN >= 78 SCORE >= 2
 
 
