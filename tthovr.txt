@@ -549,25 +549,25 @@ FW G_Weah
    Overall     277     258     280     283     242     280     290 
 
 GK C_Poenaru
+DM G_Pique
 DM A_R_Essien
-DM S_Howey
 DM Doriva
 AM Hugo_Sanchez
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF A_R_Essien DF IF INJURED DF
+SUB DF G_Pique DF IF INJURED DF
 SUB DM Doriva DM IF INJURED DM
 SUB MF Doriva MF IF INJURED MF
 SUB AM Doriva AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB Janssen S_Howey DF IF MIN = 45
-SUB R_Sharp Doriva MF IF MIN = 50
-SUB A_Wisdom A_R_Essien DM IF MIN = 78
+SUB R_Sharp G_Pique DF IF MIN = 50
+SUB Janssen Doriva MF IF MIN = 55
+SUB A_Wisdom A_R_Essien DM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 45 SCORE = 1
+TACTIC D IF MIN >= 50 SCORE = 1
 TACTIC D IF MIN >= 25 SCORE >= 2
 
 SUB A_Wisdom Doriva DM IF SCORE <= -3
@@ -637,11 +637,11 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB C_Robinson D_Mario FW IF MIN = 45
-SUB J_Cadette M_Antonio MF IF MIN = 60
-SUB C_McGregor T_Hurlock MF IF MIN = 75
+SUB V_Yonescu M_Antonio DF IF MIN = 50
+SUB C_Robinson T_Hurlock FW IF MIN = 55
+SUB J_Cadette D_Mario MF IF MIN = 75
 TACTIC E IF MIN >= 15 SCORE <= -2
-TACTIC E IF MIN >= 30 SCORE = -1
+TACTIC C IF MIN >= 13 SCORE = -1
 TACTIC L IF SCORE = 0
 TACTIC L IF SCORE = 1
 TACTIC L IF SCORE >= 2
