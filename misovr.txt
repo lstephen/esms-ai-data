@@ -381,7 +381,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    20     3     9     3     9 
+                       Count     5    20     3    10     3    10 
                          Max    38    40    38    37    38    39 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -543,14 +543,14 @@ SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW Camelino FW IF INJURED FW
 
-SUB D_Van_Ry Camelino FW IF MIN = 45
-SUB C_Stirbei O_Burgin DF IF MIN = 50
-SUB G_Mordino H_Kewell FW IF MIN = 75
-TACTIC A IF MIN >= 32 SCORE <= -2
-TACTIC A IF MIN >= 75 SCORE = -1
+SUB C_Stirbei O_Burgin DF IF MIN = 45
+SUB G_Mordino H_Kewell FW IF MIN = 55
+SUB D_Van_Ry Camelino FW IF MIN = 70
+TACTIC A IF MIN >= 52 SCORE <= -2
+TACTIC A IF MIN >= 77 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 65 SCORE >= 2
+TACTIC L IF MIN >= 66 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/E_Petrescu/N_Parasca/N_Morariu/
@@ -618,12 +618,12 @@ SUB MF E_Silivasi MF IF INJURED MF
 SUB AM E_Silivasi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB N_Parasca S_Stancu DF IF MIN = 60
-SUB E_Petrescu E_Silivasi DF IF MIN = 65
+SUB N_Parasca E_Silivasi DF IF MIN = 55
+SUB E_Petrescu S_Stancu DF IF MIN = 60
 TACTIC A IF MIN >= 34 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
-TACTIC D IF MIN >= 72 SCORE = 1
+TACTIC D IF MIN >= 71 SCORE = 1
 TACTIC D IF MIN >= 11 SCORE >= 2
 
 
