@@ -368,7 +368,7 @@ DEFENSIVE        30  34  36  37  32  29
               COUNTER_ATTACK    27    23    28    30    33    24 
                    LONG_BALL    27                31          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    22    25 
+                    EUROPEAN    27    22    21    33    19    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -565,14 +565,14 @@ SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW R_Pires FW IF INJURED FW
 
-SUB G_Weah R_Pires AM IF MIN = 50
-SUB W_Morgan A_R_Essien DF IF MIN = 55
-SUB Hugo_Sanchez P_Henrique DM IF MIN = 70
+SUB Hugo_Sanchez P_Henrique DM IF MIN = 55
+SUB W_Morgan R_Pires AM IF MIN = 65
+SUB G_Weah A_R_Essien DF IF MIN = 70
 TACTIC P IF MIN >= 70 SCORE <= -2
 TACTIC P IF MIN >= 70 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF MIN >= 11 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 51 SCORE >= 2
 
 SUB A_Wisdom G_Pique DF IF SCORE <= -3
 SUB A_Wisdom G_Pique DF IF SCORE >= 3
