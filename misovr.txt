@@ -353,7 +353,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     3     6     1     6 
+                       Count     5    17     3     6     1     7 
                          Max    38    41    38    37    38    39 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -521,17 +521,18 @@ SUB MF A_Briden MF IF INJURED MF
 SUB AM A_Briden AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-CHANGEPOS O_Bravo MF IF MIN = 45
-CHANGEPOS I_Drover AM IF MIN = 50
-SUB C_Owen G_Mordino FW IF MIN = 55
-SUB C_Stirbei X_Cullie DF IF MIN = 60
-CHANGEPOS O_Bravo DM IF MIN = 87
-SUB O_Burgin A_Briden MF IF MIN = 90
-TACTIC A IF MIN >= 61 SCORE <= -2
-TACTIC P IF MIN >= 79 SCORE = -1
+SUB C_Owen G_Mordino FW IF MIN = 45
+SUB C_Stirbei X_Cullie DF IF MIN = 55
+CHANGEPOS I_Drover AM IF MIN = 70
+CHANGEPOS Alan_Michael DM IF MIN = 81
+CHANGEPOS O_Bravo MF IF MIN = 84
+SUB O_Burgin A_Briden MF IF MIN = 87
+CHANGEPOS O_Bravo DM IF MIN = 90
+TACTIC A IF MIN >= 50 SCORE <= -2
+TACTIC P IF MIN >= 90 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 49 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/I_Kazaku/M_Parvulescu/
@@ -596,8 +597,8 @@ SUB MF E_Silivasi MF IF INJURED MF
 SUB AM E_Silivasi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Gabor R_Georghiou DF IF MIN = 55
-SUB E_Petrescu E_Silivasi DF IF MIN = 65
+SUB L_Gabor R_Georghiou DF IF MIN = 45
+SUB E_Petrescu E_Silivasi DF IF MIN = 55
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
