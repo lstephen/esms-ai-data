@@ -566,10 +566,10 @@ SUB AM R_Pires AM IF INJURED AM
 SUB FW R_Pires FW IF INJURED FW
 
 SUB G_Weah P_Henrique DM IF MIN = 45
-SUB W_Morgan A_R_Essien DF IF MIN = 55
-SUB Hugo_Sanchez R_Pires AM IF MIN = 60
-TACTIC P IF MIN >= 55 SCORE <= -2
-TACTIC P IF MIN >= 55 SCORE = -1
+SUB Hugo_Sanchez R_Pires AM IF MIN = 50
+SUB W_Morgan A_R_Essien DF IF MIN = 70
+TACTIC P IF MIN >= 70 SCORE <= -2
+TACTIC P IF MIN >= 50 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF MIN >= 11 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
@@ -630,8 +630,8 @@ FW C_Robinson
 
 MF I_Muresanu
 MF T_Hurlock
-MF M_Antonio
 MF J_Cadette
+MF D_Mario
 MF J_Milburn
 
 SUB GK I_Muresanu GK IF INJURED GK
@@ -642,9 +642,9 @@ SUB AM T_Hurlock AM IF INJURED AM
 SUB FW T_Hurlock FW IF INJURED FW
 
 SUB V_Yonescu J_Cadette DF IF MIN = 45
-SUB C_Robinson T_Hurlock FW IF MIN = 50
-SUB Ridoutkha M_Antonio MF IF MIN = 70
-TACTIC P IF MIN >= 34 SCORE <= -2
+SUB C_Robinson D_Mario FW IF MIN = 55
+SUB Ridoutkha T_Hurlock MF IF MIN = 70
+TACTIC E IF MIN >= 22 SCORE <= -2
 TACTIC C IF MIN >= 33 SCORE = -1
 TACTIC L IF SCORE = 0
 TACTIC L IF SCORE = 1
