@@ -1,32 +1,32 @@
 mis
-A
+D
 
 GK Q_Bonnette
 DF R_Figueiredo
 DF G_C_Moore
-DF V_Barbieri
-DF O_Burgin
 DF C_Stirbei
-DM Alan_Michael
-DM O_Bravo
-DM G_Mordino
-FW R_Gelman
+MF V_Barbieri
+MF O_Burgin
+MF Alan_Michael
+MF O_Bravo
+MF I_Drover
+AM R_Gelman
 FW C_Owen
 
 GK A_Kapustov
-DF P_Druery
-DF X_Cullie
-DF O_Bucsa
-FW I_Drover
+DF S_Baratheon
+MF X_Cullie
+MF A_Briden
+AM G_Mordino
 
 PK: R_Gelman
 AGG 20
 
-SUB 9 16 DM IF MIN = 45
-SUB 5 14 DF IF MIN = 65
-SUB 6 13 DF IF MIN = 75
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC L IF MIN >= 45 SCORE = 1
-TACTIC L IF MIN >= 25 SCORE >= 2
+SUB 11 16 FW IF MIN = 60
+SUB 9 14 MF IF MIN = 65
+SUB 6 15 MF IF MIN = 87
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC D IF SCORE = 0
+TACTIC D IF SCORE = 1
+TACTIC D IF SCORE >= 2
