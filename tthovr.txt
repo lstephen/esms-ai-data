@@ -368,7 +368,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    22    25 
+                    EUROPEAN    27    22    21    33    19    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -565,13 +565,13 @@ SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
-SUB Janssen R_Sharp FW IF MIN = 45
-SUB Hugo_Sanchez G_Weah FW IF MIN = 70
+SUB Janssen G_Weah FW IF MIN = 50
+SUB Hugo_Sanchez R_Sharp FW IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 58 SCORE >= 2
 
 SUB E_Gabor R_Pires DM IF SCORE <= -3
 SUB E_Gabor R_Pires DM IF SCORE >= 3
@@ -629,25 +629,25 @@ FW C_Robinson
    Overall     251     222     268     252     211     262     247 
 
 GK A_Ghita
-DF J_Milburn
 DM Ridoutkha
+DM M_Antonio
 DM J_Cadette
 FW C_Sandulescu
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF Ridoutkha DF IF INJURED DF
-SUB DM Ridoutkha DM IF INJURED DM
-SUB MF Ridoutkha MF IF INJURED MF
-SUB AM Ridoutkha AM IF INJURED AM
+SUB DM M_Antonio DM IF INJURED DM
+SUB MF M_Antonio MF IF INJURED MF
+SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB V_Yonescu J_Milburn DF IF MIN = 45
-SUB I_Hack J_Cadette DM IF MIN = 55
-SUB D_Mario Ridoutkha DF IF MIN = 65
+SUB V_Yonescu J_Cadette DF IF MIN = 45
+SUB I_Hack Ridoutkha DM IF MIN = 55
+SUB D_Mario M_Antonio DF IF MIN = 65
 TACTIC P IF MIN >= 65 SCORE <= -2
 TACTIC P IF MIN >= 65 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 55 SCORE = 1
+TACTIC P IF MIN >= 45 SCORE = 1
 TACTIC D IF MIN >= 36 SCORE >= 2
 
 SUB E_Plummer Ridoutkha DF IF SCORE <= -3
