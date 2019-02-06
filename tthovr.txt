@@ -368,7 +368,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    25 
+                    EUROPEAN    27    22    21    33    19    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -553,29 +553,29 @@ FW Hugo_Sanchez
    Overall     294     258     319     301     252     323     281 
 
 GK C_Poenaru
-DF G_Pique
 DM P_Henrique
+DM C_McGregor
 FW G_Weah
 FW Janssen
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF G_Pique DF IF INJURED DF
+SUB DF P_Henrique DF IF INJURED DF
 SUB DM P_Henrique DM IF INJURED DM
 SUB MF P_Henrique MF IF INJURED MF
 SUB AM P_Henrique AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
 SUB Hugo_Sanchez P_Henrique DM IF MIN = 50
-SUB R_Sharp G_Weah FW IF MIN = 55
-SUB W_Morgan G_Pique DF IF MIN = 75
-TACTIC A IF SCORE <= -2
+SUB A_Johnson C_McGregor DM IF MIN = 55
+SUB R_Sharp G_Weah FW IF MIN = 60
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 64 SCORE = 1
+TACTIC D IF MIN >= 61 SCORE = 1
 TACTIC D IF MIN >= 47 SCORE >= 2
 
-SUB A_Wisdom G_Pique DF IF SCORE <= -3
-SUB A_Wisdom G_Pique DF IF SCORE >= 3
+SUB A_Wisdom P_Henrique DF IF SCORE <= -3
+SUB A_Wisdom P_Henrique DF IF SCORE >= 3
 
 Forced:E_Plummer/V_Yonescu/
 ** Reserves Selection **
@@ -642,9 +642,9 @@ SUB MF T_Hurlock MF IF INJURED MF
 SUB AM T_Hurlock AM IF INJURED AM
 SUB FW T_Hurlock FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB J_Cadette T_Hurlock MF IF MIN = 60
-SUB M_Antonio J_Milburn MF IF MIN = 78
+SUB V_Yonescu I_Hack DF IF MIN = 50
+SUB M_Antonio T_Hurlock MF IF MIN = 60
+SUB J_Cadette J_Milburn MF IF MIN = 70
 TACTIC E IF MIN >= 12 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC D IF SCORE = 0
