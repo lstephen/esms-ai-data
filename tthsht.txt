@@ -1,34 +1,34 @@
 tth
-P
+L
 
 GK R_Ceni
-DF A_Wisdom
+DF A_Hinkel
 DF A_R_Essien
-DF S_Howey
-DF P_Henrique
-DF Doriva
-DM E_Gabor
-AM Hugo_Sanchez
-FW G_Weah
-FW R_Sharp
+DF Hugo_Sanchez
+MF A_Wisdom
+MF S_Howey
+MF P_Henrique
+MF E_Gabor
+MF T_Manniman
+MF Doriva
 FW Janssen
 
 GK C_Poenaru
-DF W_Morgan
-DF T_Manniman
-FW R_Pires
-FW A_Johnson
+MF W_Morgan
+MF G_Pique
+MF R_Pires
+FW G_Weah
 
-PK: G_Weah
+PK: Hugo_Sanchez
 AGG 20
 
-SUB 9 16 FW IF MIN = 45
-SUB 11 15 MF IF MIN = 50
-SUB 10 13 DM IF MIN = 75
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 63 SCORE >= 2
-SUB 2 13 DF IF SCORE <= -3
-SUB 2 13 DF IF SCORE >= 3
+SUB 11 16 FW IF MIN = 45
+SUB 4 13 DF IF MIN = 55
+SUB 8 15 MF IF MIN = 78
+TACTIC E IF MIN >= 15 SCORE <= -2
+TACTIC E IF MIN >= 29 SCORE = -1
+TACTIC L IF SCORE = 0
+TACTIC L IF SCORE = 1
+TACTIC L IF SCORE >= 2
+SUB 5 15 MF IF SCORE <= -3
+SUB 5 15 MF IF SCORE >= 3
