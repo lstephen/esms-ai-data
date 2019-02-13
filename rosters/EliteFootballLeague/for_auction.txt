@@ -1,4 +1,3 @@
-Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
 Forward05    30  cam 3  8  8  24 21 800 800 800 800
 Forward08    26  bul 3  6  7  24 32 700 700 700 700
 Forward09    35  fra 1  11 6  25 31 300 300 300 300
@@ -87,5 +86,6 @@ N_Alexander   34 sco 23  3  2  5 20 400 400 400 400
 K_Schmeichel  34 spa 25  2  3  3 13 578 300 300 300
 P_Scholes     28 eng  2  9 25  5 22 300 320 395 306
 D_Duff        28 ire  3  5 25  4 32 300 270 400 275
-Marquinhos    36 bra  2 30  7  2 18 500 134 374 508
 Defender01   17  nig 2  19 9  8  42 600 600 600 600
+Marquinhos    36 bra  2 30  7  2 18 500 134 374 508
+M_Tudgay      35 gre  2 34  6  8 32 300 750 375 228
