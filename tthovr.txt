@@ -368,7 +368,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    25 
+                    EUROPEAN    27    22    21    33    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -558,13 +558,13 @@ SUB AM R_Pires AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
 SUB Janssen A_Johnson FW IF MIN = 45
-SUB G_Weah C_McGregor DM IF MIN = 50
+SUB G_Weah R_Pires MF IF MIN = 50
 SUB A_Hinkel A_R_Essien DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 62 SCORE >= 2
+TACTIC D IF MIN >= 56 SCORE >= 2
 
 SUB A_Wisdom A_R_Essien DF IF SCORE <= -3
 SUB A_Wisdom A_R_Essien DF IF SCORE >= 3
@@ -633,13 +633,14 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW C_Robinson FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB Ridoutkha E_Plummer DF IF MIN = 60
+SUB Ridoutkha E_Plummer DF IF MIN = 65
+SUB V_Yonescu C_Robinson FW IF MIN = 78
+SUB J_Cadette I_Hack DF IF MIN = 81
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 63 SCORE >= 2
 
 SUB D_McHale J_Milburn DM IF SCORE <= -3
 SUB D_McHale J_Milburn DM IF SCORE >= 3
