@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     9     1     6 
+                       Count     5    18     2     9     1     7 
                          Max    38    42    38    37    38    39 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -520,14 +520,14 @@ SUB MF A_Briden MF IF INJURED MF
 SUB AM A_Briden AM IF INJURED AM
 SUB FW I_Drover FW IF INJURED FW
 
-SUB C_Stirbei X_Cullie DF IF MIN = 45
-SUB C_Owen I_Drover FW IF MIN = 55
-SUB G_Mordino A_Briden DM IF MIN = 84
-TACTIC A IF MIN >= 89 SCORE <= -2
+SUB C_Owen X_Cullie DM IF MIN = 50
+SUB G_Mordino I_Drover FW IF MIN = 60
+SUB C_Stirbei A_Briden DF IF MIN = 75
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 80 SCORE >= 2
+TACTIC C IF MIN >= 86 SCORE = 1
+TACTIC L IF MIN >= 50 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/E_Petrescu/I_Kazaku/M_Parvulescu/
@@ -584,8 +584,8 @@ FW N_Morariu
 
 GK C_Ionita
 DF R_Georghiou
-DF P_Lazar
 DF T_Gheorghiu
+FW F_Pacuraru
 FW R_Amanar
 
 SUB GK C_Ionita GK IF INJURED GK
@@ -596,11 +596,10 @@ SUB AM R_Amanar AM IF INJURED AM
 SUB FW R_Amanar FW IF INJURED FW
 
 SUB E_Silivasi R_Georghiou DF IF MIN = 65
-SUB M_Parvulescu R_Amanar FW IF MIN = 81
-CHANGEPOS N_Morariu DM IF MIN = 84
-CHANGEPOS V_Dobre AM IF MIN = 87
-CHANGEPOS I_Tatarescu AM IF MIN = 90
-TACTIC A IF MIN >= 73 SCORE <= -2
+SUB N_Morariu R_Amanar FW IF MIN = 70
+CHANGEPOS I_Tatarescu AM IF MIN = 75
+CHANGEPOS N_Parasca DM IF MIN = 78
+TACTIC A IF MIN >= 78 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
