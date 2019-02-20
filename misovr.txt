@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     8     1     6 
+                       Count     5    18     2     9     1     7 
                          Max    38    42    38    37    38    39 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -582,7 +582,7 @@ FW N_Morariu
 GK C_Ionita
 DF R_Georghiou
 DF P_Lazar
-FW F_Pacuraru
+DF T_Gheorghiu
 FW R_Amanar
 
 SUB GK C_Ionita GK IF INJURED GK
