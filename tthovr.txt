@@ -367,7 +367,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    22    19 
+                    EUROPEAN    27    22    21    33    22    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -552,18 +552,18 @@ FW A_Johnson
 
 SUB GK C_Poenaru GK IF INJURED GK
 SUB DF S_Howey DF IF INJURED DF
-SUB DM C_McGregor DM IF INJURED DM
-SUB MF C_McGregor MF IF INJURED MF
-SUB AM C_McGregor AM IF INJURED AM
+SUB DM A_Johnson DM IF INJURED DM
+SUB MF A_Johnson MF IF INJURED MF
+SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB G_Weah C_McGregor DM IF MIN = 45
-SUB R_Sharp A_Johnson FW IF MIN = 55
-SUB W_Morgan S_Howey DF IF MIN = 60
+SUB G_Weah A_Johnson MF IF MIN = 45
+SUB W_Morgan C_McGregor DM IF MIN = 60
+SUB R_Pires S_Howey DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 88 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB A_Wisdom S_Howey DF IF SCORE <= -3
@@ -632,10 +632,9 @@ SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB C_Robinson C_Sandulescu FW IF MIN = 65
-SUB J_Cadette D_Mario MF IF MIN = 70
-TACTIC E IF SCORE <= -2
+SUB C_Robinson D_Mario FW IF MIN = 45
+SUB V_Yonescu I_Hack DF IF MIN = 50
+TACTIC A IF MIN >= 89 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 28 SCORE = 1
