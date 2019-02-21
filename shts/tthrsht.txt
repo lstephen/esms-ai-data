@@ -9,25 +9,26 @@ DM Moreto
 DM Ridoutkha
 DM M_Oezil
 MF T_Hurlock
+MF J_P_Veron
 MF M_Antonio
-MF J_Cadette
 FW C_Robinson
 
 GK A_Ghita
 DF I_Hack
+DM J_Cadette
 DM J_Milburn
 AM D_Mario
-AM C_Sandulescu
 
 PK: C_Robinson
 AGG 20
 
-SUB 11 15 FW IF MIN = 45
+SUB 11 16 FW IF MIN = 45
 SUB 4 13 DF IF MIN = 50
-TACTIC A IF MIN >= 89 SCORE <= -2
+SUB 10 14 MF IF MIN = 70
+TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 28 SCORE = 1
-TACTIC D IF MIN >= 14 SCORE >= 2
-SUB 8 15 MF IF SCORE <= -3
-SUB 8 15 MF IF SCORE >= 3
+TACTIC D IF MIN >= 32 SCORE = 1
+TACTIC D IF MIN >= 16 SCORE >= 2
+SUB 8 14 MF IF SCORE <= -3
+SUB 8 14 MF IF SCORE >= 3
