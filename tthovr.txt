@@ -369,7 +369,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    25 
+                    EUROPEAN    27    22    21    33    22    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -552,23 +552,23 @@ DF C_McGregor
 FW A_Johnson
 
 SUB GK C_Poenaru GK IF INJURED GK
-SUB DF E_Gabor DF IF INJURED DF
-SUB DM A_Johnson DM IF INJURED DM
-SUB MF A_Johnson MF IF INJURED MF
-SUB AM A_Johnson AM IF INJURED AM
+SUB DF P_Henrique DF IF INJURED DF
+SUB DM C_McGregor DM IF INJURED DM
+SUB MF C_McGregor MF IF INJURED MF
+SUB AM C_McGregor AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB G_Weah A_Johnson FW IF MIN = 45
-SUB R_Sharp C_McGregor DM IF MIN = 50
-SUB W_Morgan P_Henrique DF IF MIN = 60
+SUB G_Weah C_McGregor DM IF MIN = 45
+SUB R_Sharp A_Johnson FW IF MIN = 50
+SUB W_Morgan P_Henrique DF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 64 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
-SUB A_Wisdom E_Gabor DF IF SCORE <= -3
-SUB A_Wisdom E_Gabor DF IF SCORE >= 3
+SUB A_Wisdom P_Henrique DF IF SCORE <= -3
+SUB A_Wisdom P_Henrique DF IF SCORE >= 3
 
 Forced:E_Plummer/V_Yonescu/C_Robinson/
 ** Reserves Selection **
@@ -634,9 +634,9 @@ SUB MF J_Cadette MF IF INJURED MF
 SUB AM J_Cadette AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
+SUB V_Yonescu I_Hack DF IF MIN = 45
 SUB C_Robinson D_Mario FW IF MIN = 50
-SUB M_Antonio I_Hack DF IF MIN = 70
-SUB V_Yonescu J_Cadette MF IF MIN = 75
+SUB M_Antonio J_Cadette MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
