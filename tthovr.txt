@@ -370,7 +370,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    22    25 
+                    EUROPEAN    27    22    21    33    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -560,14 +560,14 @@ SUB MF A_Johnson MF IF INJURED MF
 SUB AM A_Johnson AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB G_Weah A_Johnson MF IF MIN = 45
-SUB W_Morgan Doriva DF IF MIN = 50
-SUB A_Hinkel D_McHale DF IF MIN = 70
+SUB R_Sharp Doriva DM IF MIN = 50
+SUB C_McGregor A_Johnson FW IF MIN = 60
+SUB G_Weah D_McHale DM IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC D IF MIN >= 85 SCORE = 1
+TACTIC D IF MIN >= 50 SCORE >= 2
 
 SUB A_Wisdom Doriva DF IF SCORE <= -3
 SUB A_Wisdom Doriva DF IF SCORE >= 3
@@ -576,74 +576,75 @@ Forced:V_Yonescu/C_Robinson/
 ** Reserves Selection **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 M_Twaddle       36 21/12/18 | DM L :  30   2 :  32 | -27  0.9   1 ||   6 || DF -3 DF -2 DF  1 DF -2 DF -2 DM  2 FW -2     r 
-T_Hurlock       34  7/22/18 | AM L :  27  -2 :  25 | -19  1.2   1 ||   8 || MF -2 AM -3 AM -3 AM -3 MF -2 AM -2 AM -5     r 
-D_Mario         22  6/20/20 | AM L :  28  -1 :  27 |   0  0.5   7 ||  34 || FW -2 AM -3 FW -2 FW -3 AM -3 AM -1 AM -6     r 
-Moreto          23 17/22/ 8 | MF C :  32  -2 :  31 |  -1  0.8   7 ||  37 || DM -2 MF -2 DM -4 DM -2 DM -2 DM -3 MF -2     r 
+E_Plummer       25 23/10/10 | DM L :  27  -1 :  25 | -11  1.2   6 ||  22 || DF -5 DF -4 DF -2 DF -4 DF -4 DM -1 DF -3     r 
 D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -10  0.9   1 ||  27 || DF -2 DF -2 DF -1 DM -4 DF -3 DM -1 DM  0     r 
+I_Hack          30 23/ 8/10 | DF L :  31  -2 :  29 |  -7  1.3   4 ||  26 || DF -6 DF -5 DF -3 DF -5 DF -5 DF -2 DF -3     r 
+Moreto          23 17/22/ 8 | MF C :  32  -2 :  31 |  -1  0.8   7 ||  37 || DM -2 MF -2 DM -4 DM -2 DM -2 DM -3 MF -2     r 
 M_Oezil         35 16/20/10 | DM L :  25  -3 :  22 | -24  0.6   1 ||  -1 || DM -4 MF -4 DF -5 DM -5 DM -3 DM -3 MF -4     r 
 Ridoutkha       25 15/21/ 7 | MF C :  30  -4 :  26 |  -9  0.9   6 ||  23 || DM -4 MF -4 DM -6 DM -5 DM -4 DM -5 MF -5     r 
-E_Plummer       25 23/10/10 | DM L :  27  -1 :  25 | -11  1.2   6 ||  22 || DF -5 DF -4 DF -2 DF -4 DF -4 DM -1 DF -3     r 
 J_Cadette       28 15/21/ 6 | MF C :  30  -4 :  26 | -10  0.9   4 ||  21 || DM -4 MF -4 DM -6 DM -5 DM -4 DM -5 DM -5     r 
-M_Antonio       25 13/22/ 6 | MF C :  30  -4 :  26 | -10  0.7   6 ||  23 || MF -4 MF -4 DM -6 DM -6 MF -5 DM -6 MF -6     r 
-I_Hack          30 23/ 8/10 | DF L :  31  -2 :  29 |  -7  1.3   4 ||  26 || DF -6 DF -5 DF -3 DF -5 DF -5 DF -2 DF -3     r 
-D_Gogean        17    19    | GK N :  29  -1 :  27 |   2  1.4  11 ||  40 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1     r 
 J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -11  0.8   7 ||  13 || DM -7 DM -7 DF -8 DM -8 DM -7 DM -6 DM -7     r 
-A_Ghita         17    18    | GK N :  27  -3 :  24 |  -1  0.5  11 ||  34 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3     r 
-C_Robinson      20  4/ 6/21 | AM L :  23  -7 :  16 |   1  0.9   8 ||  26 || FW-12 FW-11 FW -9 FW -8 FW -7 AM -7 FW-10     r 
-C_Sandulescu    20  6/ 8/18 | AM L :  21  -8 :  13 |  -2  1.0   8 ||  20 || FW-13 FW-12 FW-12 FW -9 FW -9 AM -8 FW-10     r 
-I_Chirila       19  6/ 5/18 | AM L :  20  -9 :  11 |  -3  0.8   9 ||  18 || FW-16 FW-13 FW-14 FW-10 FW-10 AM -9 FW-11     r 
 V_Yonescu       19 20/ 4/ 6 | DF L :  25  -8 :  17 |   4  0.9   9 ||  31 || DF-14 DF-11 DF-10 DF-11 DF-11 DF -8 DF -8     r 
 I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -4  1.2   9 ||  16 || DF-13 DF-11 DF-11 DF-11 DF-12 DM -9 DF-10     r 
+M_Antonio       25 13/22/ 6 | MF C :  30  -4 :  26 | -10  0.7   6 ||  23 || MF -4 MF -4 DM -6 DM -6 MF -5 DM -6 MF -6     r 
+T_Hurlock       34  7/22/18 | AM L :  27  -2 :  25 | -19  1.2   1 ||   8 || MF -2 AM -3 AM -3 AM -3 MF -2 AM -2 AM -5     r 
+D_Mario         22  6/20/20 | AM L :  28  -1 :  27 |   0  0.5   7 ||  34 || FW -2 AM -3 FW -2 FW -3 AM -3 AM -1 AM -6     r 
+C_Robinson      20  4/ 6/21 | AM L :  23  -7 :  16 |   1  0.9   8 ||  26 || FW-12 FW-11 FW -9 FW -8 FW -7 AM -7 FW-10     r 
+D_Gogean        17    19    | GK N :  29  -1 :  27 |   2  1.4  11 ||  40 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1     r 
+A_Ghita         17    18    | GK N :  27  -3 :  24 |  -1  0.5  11 ||  34 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3     r 
+C_Sandulescu    20  6/ 8/18 | AM L :  21  -8 :  13 |  -2  1.0   8 ||  20 || FW-13 FW-12 FW-12 FW -9 FW -9 AM -8 FW-10     r 
+I_Chirila       19  6/ 5/18 | AM L :  20  -9 :  11 |  -3  0.8   9 ||  18 || FW-16 FW-13 FW-14 FW-10 FW-10 AM -9 FW-11     r 
 
-COUNTER_ATTACK
+LONG_BALL
 GK D_Gogean
 DF E_Plummer
-DF M_Twaddle
+DF I_Hack
 DF V_Yonescu
-DM D_Barr
-DM M_Oezil
+MF M_Twaddle
+MF D_Barr
 MF Moreto
 MF Ridoutkha
-MF M_Antonio
+MF M_Oezil
 MF J_Cadette
 FW C_Robinson
                  N       D       A       C       L       P       E 
   STOPPING      29      29      29      29      29      29      29 
-  TACKLING     109     185      83     125     191     105     102 
-   PASSING     133      96     136     133      66     142     154 
-  SHOOTING      44      23      76      40      65      41      46 
-   SH Mean      15      16      14      16      14      16      15 
- SH Median      18      21      18      21      18      21      18 
+  TACKLING      99     191      66     121     234      94      87 
+   PASSING     126      92     128     127      64     134     150 
+  SHOOTING      45      29      86      41      72      43      51 
+   SH Mean      15      16      14      16      14      16      14 
+ SH Median      18      21      18      21      18      18      18 
     SH Max      21      21      21      21      21      21      21 
-  SH Bonus      17      11      21      17       9      20      19 
+  SH Bonus      18      11      22      17       8      19      20 
    GK Qual      19      19      19      19      19      19      19 
-  GK Bonus      19      13      23      17      13      19      20 
+  GK Bonus      19      13      26      17      12      20      22 
        Agg      22      22      22      22      22      22      22 
-   Scoring     103      72     116     102      65     108     118 
- Defending     109     185      83     125     191     105     102 
-   Overall     248     246     237     260     237     252     259 
+   Scoring      99      71     114      98      66     104     117 
+ Defending      99     191      66     121     234      94      87 
+   Overall     235     248     212     252     260     236     242 
 
 GK A_Ghita
-DF I_Hack
-DM J_Milburn
-AM T_Hurlock
-AM D_Mario
+MF I_Muresanu
+MF M_Antonio
+FW D_Mario
+FW C_Sandulescu
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF I_Hack DF IF INJURED DF
-SUB DM T_Hurlock DM IF INJURED DM
-SUB MF T_Hurlock MF IF INJURED MF
-SUB AM T_Hurlock AM IF INJURED AM
+SUB DF I_Muresanu DF IF INJURED DF
+SUB DM M_Antonio DM IF INJURED DM
+SUB MF M_Antonio MF IF INJURED MF
+SUB AM M_Antonio AM IF INJURED AM
 SUB FW D_Mario FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB C_Robinson D_Mario FW IF MIN = 50
-TACTIC E IF MIN >= 3 SCORE <= -2
-TACTIC E IF MIN >= 5 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 21 SCORE = 1
-TACTIC D IF MIN >= 11 SCORE >= 2
+SUB C_Robinson C_Sandulescu FW IF MIN = 45
+SUB J_Cadette D_Mario FW IF MIN = 60
+SUB C_Sandulescu M_Antonio MF IF MIN = 65
+TACTIC E IF MIN >= 17 SCORE <= -2
+TACTIC E IF MIN >= 33 SCORE = -1
+TACTIC L IF SCORE = 0
+TACTIC L IF SCORE = 1
+TACTIC L IF SCORE >= 2
 
-SUB M_Twaddle I_Hack DF IF SCORE <= -3
-SUB M_Twaddle I_Hack DF IF SCORE >= 3
+SUB M_Twaddle M_Antonio MF IF SCORE <= -3
+SUB M_Twaddle M_Antonio MF IF SCORE >= 3
 
