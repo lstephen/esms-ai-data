@@ -7,8 +7,8 @@ DF I_Hack
 DF V_Yonescu
 MF M_Twaddle
 MF D_Barr
+MF T_Hurlock
 MF Moreto
-MF Ridoutkha
 MF M_Oezil
 MF J_Cadette
 FW C_Robinson
@@ -22,10 +22,10 @@ FW D_Mario
 PK: C_Robinson
 AGG 20
 
-SUB 11 16 FW IF MIN = 45
-SUB 4 14 DF IF MIN = 55
-SUB 10 15 MF IF MIN = 70
-TACTIC P IF MIN >= 30 SCORE <= -2
+SUB 4 15 DF IF MIN = 45
+SUB 11 16 FW IF MIN = 50
+SUB 10 14 MF IF MIN = 60
+TACTIC E IF MIN >= 16 SCORE <= -2
 TACTIC C IF MIN >= 24 SCORE = -1
 TACTIC L IF SCORE = 0
 TACTIC L IF SCORE = 1
