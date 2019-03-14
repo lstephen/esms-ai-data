@@ -1,4 +1,3 @@
-Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
 Forward05    30  cam 3  8  8  24 21 800 800 800 800
 Forward08    26  bul 3  6  7  24 32 700 700 700 700
 Forward09    35  fra 1  11 6  25 31 300 300 300 300
@@ -24,7 +23,6 @@ Midfielder12 25  ken 1  10 21 7  33 400 400 400 400
 Midfielder13 29  srb 1  9  25 10 31 300 300 300 300
 Keeper03     27  jpn 25 1  2  1  32 600 600 600 600
 Defender08   27  cze 1  23 7  9  31 400 400 400 400
-Keeper04     29  mon 25 1  1  1  30 600 600 600 600
 Keeper08     33  uru 31 5  3  1  21 300 300 300 300
 Forward02    20  por 3  8  9  19 33 600 600 600 600
 Defender01   30  fin 1  23 5  6  32 400 400 400 400
@@ -77,10 +75,11 @@ Defender02   30  jam 3  24 8  6  21 800 800 800 800
 N_Alexander   34 sco 23  3  2  5 20 400 400 400 400
 C_Clark       37 sco 27  4  2  3 38 193 300 300 300
 C_Poenaru     28 rom 20  2  3  3 33 239 600 600 600
-A_Van_Buuren  36 hol  2 32 12  8 25 300 195 750 448
 Defender20   29  slo 2  25 10 5  42 400 400 400 400
 Defender18   29  hol 3  25 8  5  21 500 500 500 500
-S_Corchia     32 fra  1  5  5 26 45 300 884 793 900
-Defender19   28  rsa 3  26 7  6  23 300 300 300 300
-Keeper02     15  ken 16 3  3  1  21 700 700 700 700
-M_Friedrich   33 ger  2 29 12 10 29 800 243  78 170
+A_Van_Buuren  36 hol  2 32 12  8 25 300 195 750 448
+Keeper04     29  mon 25 1  1  1  30 600 600 600 600
+P_Miranda     35 bra  2 26 10  7 36 700 318 420 868
+M_Muniesa     32 spa  2  7  8 25 17 300 934 214 122
+A_Anyukov     34 rus  1  9  4 26 35 300 190 674 105
+Valdano       29 arg  2  8 12 25 42 300 296 336 451
