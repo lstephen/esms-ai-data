@@ -371,7 +371,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    22    19 
+                    EUROPEAN    27    22    21    33    22    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -561,9 +561,9 @@ SUB MF C_McGregor MF IF INJURED MF
 SUB AM C_McGregor AM IF INJURED AM
 SUB FW G_Weah FW IF INJURED FW
 
-SUB J_P_Veron G_Weah FW IF MIN = 55
-SUB E_Gabor C_McGregor DM IF MIN = 60
-SUB Hugo_Sanchez R_Sharp FW IF MIN = 75
+SUB J_P_Veron C_McGregor DM IF MIN = 55
+SUB Hugo_Sanchez G_Weah FW IF MIN = 60
+SUB E_Gabor R_Sharp FW IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
@@ -626,27 +626,27 @@ FW C_Robinson
    Overall     251     221     266     253     209     264     245 
 
 GK A_Ghita
-DF J_Milburn
+DF I_Hack
 DM M_Antonio
 DM J_Cadette
 FW C_Sandulescu
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF J_Cadette DF IF INJURED DF
+SUB DF I_Hack DF IF INJURED DF
 SUB DM M_Antonio DM IF INJURED DM
 SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB V_Yonescu J_Cadette DM IF MIN = 55
-SUB Ridoutkha J_Milburn DF IF MIN = 60
+SUB V_Yonescu J_Cadette DF IF MIN = 45
+SUB C_Robinson C_Sandulescu FW IF MIN = 50
 SUB D_Mario M_Antonio DM IF MIN = 75
 TACTIC P IF MIN >= 75 SCORE <= -2
-TACTIC P IF MIN >= 75 SCORE = -1
+TACTIC P IF MIN >= 45 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 73 SCORE = 1
+TACTIC D IF MIN >= 75 SCORE = 1
 TACTIC D IF MIN >= 37 SCORE >= 2
 
-SUB M_Twaddle J_Cadette DF IF SCORE <= -3
-SUB M_Twaddle J_Cadette DF IF SCORE >= 3
+SUB M_Twaddle I_Hack DF IF SCORE <= -3
+SUB M_Twaddle I_Hack DF IF SCORE >= 3
 
