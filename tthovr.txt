@@ -560,22 +560,22 @@ GK K_Shand
 DF W_Morgan
 FW A_Johnson
 FW J_P_Veron
-FW R_Sharp
+FW G_Weah
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF W_Morgan DF IF INJURED DF
 SUB DM J_P_Veron DM IF INJURED DM
 SUB MF J_P_Veron MF IF INJURED MF
 SUB AM J_P_Veron AM IF INJURED AM
-SUB FW R_Sharp FW IF INJURED FW
+SUB FW G_Weah FW IF INJURED FW
 
-SUB Hugo_Sanchez A_Johnson MF IF MIN = 45
-SUB Valdano R_Sharp FW IF MIN = 50
-SUB A_Hinkel W_Morgan DF IF MIN = 65
+SUB Valdano A_Johnson MF IF MIN = 45
+SUB Hugo_Sanchez G_Weah FW IF MIN = 60
+SUB A_Hinkel W_Morgan DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
+TACTIC D IF MIN >= 88 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB P_Henrique J_P_Veron DM IF SCORE <= -3
@@ -646,8 +646,8 @@ SUB MF J_Cadette MF IF INJURED MF
 SUB AM J_Cadette AM IF INJURED AM
 SUB FW C_Robinson FW IF INJURED FW
 
-SUB Moreto J_Cadette DM IF MIN = 60
-SUB D_Barr J_Milburn DM IF MIN = 70
+SUB Moreto J_Milburn DM IF MIN = 60
+SUB D_Barr J_Cadette DM IF MIN = 65
 SUB D_Mario C_Robinson FW IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
