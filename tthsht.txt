@@ -3,32 +3,32 @@ P
 
 GK R_Ceni
 DF A_Wisdom
-DF A_Hinkel
-DF A_R_Essien
 DF S_Howey
+DF P_Henrique
+DF T_Manniman
 DF Doriva
 DM E_Gabor
-DM P_Henrique
-MF R_Pires
-FW Valdano
-FW Hugo_Sanchez
+AM Valdano
+FW G_Weah
+FW R_Sharp
+FW Janssen
 
 GK K_Shand
-DF W_Morgan
-FW A_Johnson
+DF B_Draghici
+DF C_McGregor
+FW R_Pires
 FW J_P_Veron
-FW G_Weah
 
-PK: Valdano
+PK: G_Weah
 AGG 20
 
-SUB 10 14 MF IF MIN = 45
-SUB 11 16 FW IF MIN = 60
-SUB 3 13 DF IF MIN = 75
+SUB 11 13 DM IF MIN = 45
+SUB 8 14 DM IF MIN = 50
+SUB 9 15 MF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 88 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
-SUB 8 15 DM IF SCORE <= -3
-SUB 8 15 DM IF SCORE >= 3
+TACTIC D IF MIN >= 86 SCORE = 1
+TACTIC D IF MIN >= 53 SCORE >= 2
+SUB 2 13 DF IF SCORE <= -3
+SUB 2 13 DF IF SCORE >= 3
