@@ -519,15 +519,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Owen O_Burgin DM IF MIN = 45
-SUB C_Stirbei G_Mordino FW IF MIN = 55
-CHANGEPOS O_Burgin DF IF MIN = 60
-SUB D_Van_Ry I_Drover FW IF MIN = 70
-TACTIC A IF MIN >= 60 SCORE <= -2
+SUB C_Stirbei I_Drover DF IF MIN = 45
+SUB D_Van_Ry G_Mordino FW IF MIN = 50
+SUB C_Owen O_Burgin DM IF MIN = 60
+TACTIC A IF MIN >= 25 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 62 SCORE >= 2
+TACTIC C IF MIN >= 89 SCORE = 1
+TACTIC L IF MIN >= 60 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/E_Petrescu/N_Parasca/I_Kazaku/
@@ -555,31 +554,31 @@ U_Harkins       16 12/ 1/ 5 | DF D :  15 -12 :   3 |  -4  1.1   7 ||   7 || DM-2
 
 COUNTER_ATTACK
 GK S_Manescu
+DF E_Petrescu
 DF E_Silivasi
-DF N_Morariu
 DF L_Gabor
-DM E_Petrescu
 DM I_Kazaku
+DM I_Tatarescu
 MF N_Parasca
-AM I_Tatarescu
+AM N_Morariu
 AM D_Lungu
 AM M_Parvulescu
 FW R_Amanar
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING      92     127      55     107     107      79      83 
-   PASSING     102      73     106     103      50     117     112 
-  SHOOTING      61      34     104      51      98      47      58 
-   SH Mean      13      13      12      13      12      13      13 
- SH Median      14      14      12      14      12      14      14 
+  TACKLING      92     127      56     107     107      79      83 
+   PASSING     101      73     105     102      49     116     111 
+  SHOOTING      60      35     104      51      97      47      58 
+   SH Mean      13      14      13      13      12      13      13 
+ SH Median      14      14      14      14      14      14      14 
     SH Max      17      17      17      17      17      17      17 
-  SH Bonus      14       9      18      13      10      16      16 
+  SH Bonus      14      10      19      13      11      16      16 
    GK Qual      18      18      18      18      18      18      18 
-  GK Bonus      18      13      26      16      15      20      19 
+  GK Bonus      18      13      26      16      14      20      19 
        Agg      20      20      20      20      20      20      20 
-   Scoring      88      60     105      86      66      93      94 
- Defending      92     127      55     107     107      79      83 
-   Overall     211     192     184     219     190     207     211 
+   Scoring      87      60     105      85      65      93      93 
+ Defending      92     127      56     107     107      79      83 
+   Overall     211     192     186     219     189     207     210 
 
 GK C_Ionita
 DF R_Georghiou
@@ -594,11 +593,10 @@ SUB MF F_Pacuraru MF IF INJURED MF
 SUB AM F_Pacuraru AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
+SUB R_Amanar F_Pacuraru FW IF MIN = 50
 SUB E_Silivasi R_Georghiou DF IF MIN = 65
-SUB M_Parvulescu F_Pacuraru FW IF MIN = 81
-CHANGEPOS R_Amanar AM IF MIN = 84
-TACTIC A IF MIN >= 72 SCORE <= -2
-TACTIC E IF MIN >= 85 SCORE = -1
+TACTIC A IF MIN >= 68 SCORE <= -2
+TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
 TACTIC D IF MIN >= 60 SCORE >= 2
