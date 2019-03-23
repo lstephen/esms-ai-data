@@ -558,29 +558,29 @@ FW Janssen
    Overall     285     248     311     295     257     320     269 
 
 GK K_Shand
-DF W_Morgan
+DF S_Howey
 DF C_McGregor
 FW A_Johnson
-FW J_P_Veron
+FW G_Weah
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF W_Morgan DF IF INJURED DF
-SUB DM J_P_Veron DM IF INJURED DM
-SUB MF J_P_Veron MF IF INJURED MF
-SUB AM J_P_Veron AM IF INJURED AM
-SUB FW A_Johnson FW IF INJURED FW
+SUB DF S_Howey DF IF INJURED DF
+SUB DM C_McGregor DM IF INJURED DM
+SUB MF C_McGregor MF IF INJURED MF
+SUB AM C_McGregor AM IF INJURED AM
+SUB FW G_Weah FW IF INJURED FW
 
-SUB Valdano A_Johnson FW IF MIN = 45
-SUB Janssen W_Morgan DM IF MIN = 50
-SUB Hugo_Sanchez C_McGregor DM IF MIN = 60
+SUB Janssen G_Weah FW IF MIN = 45
+SUB Hugo_Sanchez C_McGregor DM IF MIN = 50
+SUB Valdano A_Johnson MF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 88 SCORE = 1
+TACTIC D IF MIN >= 89 SCORE = 1
 TACTIC D IF MIN >= 54 SCORE >= 2
 
-SUB A_Wisdom W_Morgan DF IF SCORE <= -3
-SUB A_Wisdom W_Morgan DF IF SCORE >= 3
+SUB A_Wisdom S_Howey DF IF SCORE <= -3
+SUB A_Wisdom S_Howey DF IF SCORE >= 3
 
 Forced:E_Plummer/V_Yonescu/
 ** Reserves Selection **
@@ -646,8 +646,8 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW C_Robinson FW IF INJURED FW
 
-SUB V_Yonescu I_Muresanu DF IF MIN = 55
-SUB D_Mario C_Robinson FW IF MIN = 65
+SUB V_Yonescu I_Muresanu DF IF MIN = 60
+SUB D_Mario C_Robinson FW IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
