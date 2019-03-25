@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    14    26          16    22 
                    LONG_BALL    23    18          13          23 
                      PASSING    23    14                      16 
-                    EUROPEAN    23    14    22    18    21       
+                    EUROPEAN    23    14    22    18    19       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -519,14 +519,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Stirbei O_Burgin DF IF MIN = 45
-SUB C_Owen I_Drover FW IF MIN = 55
-SUB D_Van_Ry G_Mordino FW IF MIN = 70
-TACTIC A IF MIN >= 64 SCORE <= -2
+SUB D_Van_Ry G_Mordino FW IF MIN = 45
+SUB C_Stirbei O_Burgin DF IF MIN = 50
+SUB C_Owen I_Drover FW IF MIN = 65
+TACTIC A IF MIN >= 69 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 58 SCORE >= 2
+TACTIC C IF MIN >= 65 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/E_Petrescu/N_Parasca/I_Kazaku/
@@ -593,10 +593,11 @@ SUB MF F_Pacuraru MF IF INJURED MF
 SUB AM F_Pacuraru AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 55
-SUB E_Silivasi R_Georghiou DF IF MIN = 65
-TACTIC A IF MIN >= 70 SCORE <= -2
-TACTIC E IF MIN >= 84 SCORE = -1
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
+SUB L_Gabor P_Lazar DF IF MIN = 75
+SUB E_Silivasi R_Georghiou DF IF MIN = 87
+TACTIC A IF MIN >= 75 SCORE <= -2
+TACTIC E IF MIN >= 75 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
 TACTIC D IF MIN >= 61 SCORE >= 2
