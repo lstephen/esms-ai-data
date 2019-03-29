@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    14    26          16    22 
                    LONG_BALL    23    18          13          23 
                      PASSING    23    14                      16 
-                    EUROPEAN    23    14    22    18    21    19 
+                    EUROPEAN    23    14    22    18    21       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -517,17 +517,13 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB O_Burgin G_Mordino AM IF MIN = 45
-CHANGEPOS D_Van_Ry AM IF MIN = 50
-CHANGEPOS D_Van_Ry DM IF MIN = 55
-CHANGEPOS G_Mordino DM IF MIN = 60
-SUB C_Stirbei I_Drover DF IF MIN = 65
-CHANGEPOS D_Van_Ry FW IF MIN = 70
-SUB D_Van_Ry X_Cullie DM IF MIN = 75
+SUB C_Stirbei X_Cullie DF IF MIN = 45
+SUB C_Owen G_Mordino FW IF MIN = 65
+SUB D_Van_Ry I_Drover DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC L IF MIN >= 51 SCORE = 1
+TACTIC C IF MIN >= 40 SCORE = 1
 TACTIC L IF MIN >= 24 SCORE >= 2
 
 
@@ -595,12 +591,12 @@ SUB MF E_Silivasi MF IF INJURED MF
 SUB AM E_Silivasi AM IF INJURED AM
 SUB FW P_Lazar FW IF INJURED FW
 
-SUB R_Amanar P_Lazar DF IF MIN = 45
-SUB P_Lazar E_Silivasi DF IF MIN = 65
+SUB R_Amanar P_Lazar DF IF MIN = 60
+SUB L_Gabor E_Silivasi DF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 70 SCORE = 1
 TACTIC D IF MIN >= 24 SCORE >= 2
 
 
