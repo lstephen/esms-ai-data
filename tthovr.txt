@@ -377,7 +377,7 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    25 
+                    EUROPEAN    27    22    21    33    22    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -570,14 +570,14 @@ SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW A_Johnson FW IF INJURED FW
 
-SUB Janssen A_Johnson FW IF MIN = 45
-SUB W_Morgan D_McHale DM IF MIN = 60
-SUB Hugo_Sanchez P_Henrique DF IF MIN = 65
+SUB Janssen D_McHale DM IF MIN = 45
+SUB R_Sharp P_Henrique DM IF MIN = 50
+SUB Hugo_Sanchez A_Johnson FW IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
 
 SUB A_Wisdom P_Henrique DF IF SCORE <= -3
 SUB A_Wisdom P_Henrique DF IF SCORE >= 3
