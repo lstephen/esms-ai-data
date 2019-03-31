@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     9     1     6 
+                       Count     5    18     2     9     1     7 
                          Max    38    42    38    37    38    39 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -517,13 +517,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Stirbei X_Cullie DF IF MIN = 45
-SUB C_Owen G_Mordino FW IF MIN = 65
-SUB D_Van_Ry I_Drover DM IF MIN = 70
+SUB C_Stirbei X_Cullie DF IF MIN = 50
+CHANGEPOS D_Van_Ry DM IF MIN = 55
+SUB O_Burgin I_Drover DM IF MIN = 60
+SUB D_Van_Ry G_Mordino DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC C IF MIN >= 40 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC L IF MIN >= 24 SCORE >= 2
 
 
@@ -591,12 +592,12 @@ SUB MF E_Silivasi MF IF INJURED MF
 SUB AM E_Silivasi AM IF INJURED AM
 SUB FW P_Lazar FW IF INJURED FW
 
-SUB R_Amanar P_Lazar DF IF MIN = 60
-SUB L_Gabor E_Silivasi DF IF MIN = 70
+SUB R_Amanar P_Lazar DF IF MIN = 45
+SUB P_Lazar E_Silivasi DF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
-TACTIC D IF MIN >= 70 SCORE = 1
+TACTIC D IF MIN >= 68 SCORE = 1
 TACTIC D IF MIN >= 24 SCORE >= 2
 
 
