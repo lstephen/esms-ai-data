@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     8     1     7 
+                       Count     5    18     2     8     1     6 
                          Max    38    42    38    37    39    40 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    14    26          16    22 
                    LONG_BALL    23    18          13          23 
                      PASSING    23    14                      16 
-                    EUROPEAN    23    14    22    18    19    19 
+                    EUROPEAN    23    14    22    18    21    19 
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -514,15 +514,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Stirbei I_Drover DF IF MIN = 50
-SUB D_Van_Ry G_Mordino AM IF MIN = 60
-CHANGEPOS Alan_Michael DM IF MIN = 65
-SUB O_Burgin X_Cullie DM IF MIN = 78
-TACTIC A IF MIN >= 61 SCORE <= -2
+SUB C_Stirbei X_Cullie DF IF MIN = 50
+SUB D_Van_Ry G_Mordino AM IF MIN = 55
+SUB C_Owen I_Drover FW IF MIN = 65
+TACTIC A IF MIN >= 67 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 77 SCORE >= 2
+TACTIC D IF MIN >= 69 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/I_Kazaku/E_Petrescu/N_Morariu/
@@ -530,74 +529,72 @@ Forced:I_Tatarescu/D_Lungu/I_Kazaku/E_Petrescu/N_Morariu/
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
 I_Tatarescu     19 16/18/12 | MF C :  29  -1 :  28 |   7  1.3   7 ||  43 || DM -2 DM -4 MF -1 DM -2 DM -1 DM -3 DM -2     r 
 D_Lungu         21  9/17/17 | AM E :  30  -3 :  27 |   3  0.8   7 ||  38 || AM -3 MF -3 MF -4 AM -3 MF -4 AM -6 FW -4     r 
-N_Morariu       19 18/11/14 | DF D :  24  -2 :  22 |   1  0.3   7 ||  30 || DF -5 DF -6 DF -3 DF -3 DF -3 DM -3 DF -2     r 
-E_Petrescu      19 18/13/ 8 | DF D :  25  -2 :  23 |   2  0.9   7 ||  33 || DF -6 DF -9 DF -4 DF -4 DF -5 DM -5 DF -2     r 
-S_Manescu       20    18    | GK N :  27  -1 :  26 |   2  0.5   7 ||  35 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1     r 
 V_Dobre         21  7/18/13 | MF P :  23  -4 :  19 |  -5  1.3   7 ||  22 || MF -4 MF -5 MF -5 MF -5 MF -6 MF-10 AM -7     r 
 N_Parasca       19 13/18/ 5 | MF C :  26  -4 :  22 |   0  0.9   7 ||  30 || MF -4 DM-10 MF -4 DM -5 DM -5 DM -9 DM -5     r 
-L_Gabor         19 17/ 9/11 | DF D :  23  -4 :  19 |  -3  0.2   7 ||  23 || DF -9 DF-10 DF -6 DF -5 DF -6 DM -6 DF -4     r 
+S_Manescu       20    18    | GK N :  27  -1 :  26 |   2  0.5   7 ||  35 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1     r 
+N_Morariu       19 18/11/14 | DF D :  24  -2 :  22 |   1  0.3   7 ||  30 || DF -5 DF -6 DF -3 DF -3 DF -3 DM -3 DF -2     r 
+E_Petrescu      19 18/13/ 8 | DF D :  25  -2 :  23 |   2  0.9   7 ||  33 || DF -6 DF -9 DF -4 DF -4 DF -5 DM -5 DF -2     r 
 I_Kazaku        16 14/15/ 9 | MF C :  24  -5 :  19 |  12  0.5   7 ||  38 || DM -6 DM-10 MF -5 DM -6 DM -6 DM -7 DM -6     r 
 M_Parvulescu    17 11/15/11 | MF P :  21  -6 :  14 |   4  1.3   7 ||  27 || MF -6 DM -9 MF -6 MF -8 DM -8 DM -9 AM -8     r 
-E_Silivasi      20 17/ 9/ 4 | DF D :  23  -4 :  19 |  -5  0.7   7 ||  22 || DM-11 DF-15 DF -8 DF -8 DF -9 DM-10 DF -4     r 
+L_Gabor         19 17/ 9/11 | DF D :  23  -4 :  19 |  -3  0.2   7 ||  23 || DF -9 DF-10 DF -6 DF -5 DF -6 DM -6 DF -4     r 
 C_Ionita        18    15    | GK N :  23  -6 :  17 |  -3  1.2   7 ||  22 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
+E_Silivasi      20 17/ 9/ 4 | DF D :  23  -4 :  19 |  -5  0.7   7 ||  22 || DM-11 DF-15 DF -8 DF -8 DF -9 DM-10 DF -4     r 
 R_Amanar        16  9/10/14 | FW D :  18  -8 :   9 |   2  1.3   7 ||  19 || AM-11 DM-12 MF-12 FW-11 FW-11 DM-11 FW -8     r 
-F_Pacuraru      16  6/ 8/15 | FW D :  16 -10 :   7 |  -1  0.6   7 ||  14 || AM-13 MF-14 FW-14 FW-11 FW-12 FW-12 FW-10     r 
 P_Lazar         17 15/ 5/ 8 | DF D :  19  -7 :  12 |   2  0.6   7 ||  22 || DM-15 DF-16 DF-11 DF-10 DF-11 DM-11 DF -7     r 
+F_Pacuraru      16  6/ 8/15 | FW D :  16 -10 :   7 |  -1  0.6   7 ||  14 || AM-13 MF-14 FW-14 FW-11 FW-12 FW-12 FW-10     r 
 R_Georghiou     18 16/ 7/ 3 | DF D :  21  -6 :  15 |  -4  1.2   7 ||  20 || DM-13 DF-18 DF-10 DF-10 DF-11 DM-12 DF -6     r 
-T_Gheorghiu     16 14/ 3/ 5 | DF D :  18  -9 :   9 |   2  1.3   7 ||  18 || DM-18 DF-20 DF-13 DF-13 DF-14 DM-14 DF -9     r 
 J_Hogue         16  4/12/ 6 | MF P :  15 -12 :   2 |  -5  1.2   7 ||   6 || MF-12 MF-16 MF-14 MF-16 MF-16 DM-19 FW-16     r 
 F_Owen          16  5/12/ 4 | MF P :  14 -12 :   2 |  -5  1.2   7 ||   5 || MF-12 DM-18 MF-14 MF-16 MF-16 DM-19 DM-16     r 
+T_Gheorghiu     16 14/ 3/ 5 | DF D :  18  -9 :   9 |   2  1.3   7 ||  18 || DM-18 DF-20 DF-13 DF-13 DF-14 DM-14 DF -9     r 
 U_Harkins       16 12/ 1/ 5 | DF D :  15 -12 :   3 |  -4  1.2   7 ||   7 || DM-20 DF-23 DF-16 DF-15 DF-17 DM-17 DF-12     r 
 
-NORMAL
+EUROPEAN
 GK S_Manescu
-DF E_Petrescu
 DF N_Morariu
+DF E_Silivasi
 DF L_Gabor
+DM E_Petrescu
 DM I_Tatarescu
-DM N_Parasca
 DM I_Kazaku
 MF V_Dobre
-MF D_Lungu
+MF N_Parasca
 MF M_Parvulescu
-FW R_Amanar
+FW D_Lungu
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING      97     128      61     103     120      84      92 
-   PASSING     113      81     119     115      56     128     127 
-  SHOOTING      54      24      93      39      90      39      48 
-   SH Mean      13      13      13      13      13      13      13 
- SH Median      14      14      13      14      13      14      14 
+  TACKLING     101     135      61     108     126      86      95 
+   PASSING     111      80     118     113      55     127     125 
+  SHOOTING      51      24      88      39      83      39      45 
+   SH Mean      13      14      13      13      12      14      13 
+ SH Median      13      17      13      14      13      14      14 
     SH Max      17      17      17      17      17      17      17 
-  SH Bonus      14      10      18      14      10      16      15 
+  SH Bonus      14      10      18      13      10      16      15 
    GK Qual      18      18      18      18      18      18      18 
-  GK Bonus      18      13      25      17      14      20      19 
-       Agg      21      21      21      21      21      21      21 
-   Scoring      93      62     110      90      68      99     101 
- Defending      97     128      61     103     120      84      92 
-   Overall     222     197     196     222     200     216     226 
+  GK Bonus      17      13      25      16      14      19      18 
+       Agg      20      20      20      20      20      20      20 
+   Scoring      91      61     108      88      65      98      98 
+ Defending     101     135      61     108     126      86      95 
+   Overall     222     199     196     224     199     218     227 
 
 GK C_Ionita
-DF E_Silivasi
 DF R_Georghiou
 DF P_Lazar
-FW F_Pacuraru
+DF T_Gheorghiu
+AM R_Amanar
 
 SUB GK C_Ionita GK IF INJURED GK
-SUB DF E_Silivasi DF IF INJURED DF
-SUB DM E_Silivasi DM IF INJURED DM
-SUB MF E_Silivasi MF IF INJURED MF
-SUB AM E_Silivasi AM IF INJURED AM
-SUB FW F_Pacuraru FW IF INJURED FW
+SUB DF R_Georghiou DF IF INJURED DF
+SUB DM R_Amanar DM IF INJURED DM
+SUB MF R_Amanar MF IF INJURED MF
+SUB AM R_Amanar AM IF INJURED AM
+SUB FW R_Amanar FW IF INJURED FW
 
-CHANGEPOS N_Parasca MF IF MIN = 60
-SUB L_Gabor E_Silivasi DF IF MIN = 65
-SUB I_Kazaku R_Georghiou DF IF MIN = 70
-CHANGEPOS E_Petrescu DM IF MIN = 75
+SUB E_Silivasi P_Lazar DF IF MIN = 55
+SUB L_Gabor R_Georghiou DF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC N IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
-TACTIC D IF MIN >= 38 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 67 SCORE = 1
+TACTIC D IF MIN >= 33 SCORE >= 2
 
 
