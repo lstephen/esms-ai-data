@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    14    26          16    22 
                    LONG_BALL    23    18          13          23 
                      PASSING    23    14                      16 
-                    EUROPEAN    23    14    22    18    19    19 
+                    EUROPEAN    23    14    22    18    19       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -513,13 +513,17 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB P_Druery I_Drover DF IF MIN = 50
-SUB D_Van_Ry G_Mordino MF IF MIN = 55
-SUB C_Stirbei X_Cullie DF IF MIN = 65
-TACTIC A IF MIN >= 56 SCORE <= -2
+SUB P_Druery X_Cullie DF IF MIN = 45
+SUB O_Burgin I_Drover MF IF MIN = 55
+CHANGEPOS I_Drover DM IF MIN = 60
+SUB M_Tensfeldt G_Mordino FW IF MIN = 70
+CHANGEPOS C_Owen AM IF MIN = 75
+CHANGEPOS C_Owen MF IF MIN = 78
+CHANGEPOS Alan_Michael DM IF MIN = 81
+TACTIC A IF MIN >= 60 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC L IF MIN >= 43 SCORE = 1
+TACTIC L IF MIN >= 46 SCORE = 1
 TACTIC D IF MIN >= 35 SCORE >= 2
 
 
@@ -588,8 +592,10 @@ SUB MF R_Amanar MF IF INJURED MF
 SUB AM R_Amanar AM IF INJURED AM
 SUB FW R_Amanar FW IF INJURED FW
 
-SUB L_Gabor R_Georghiou DF IF MIN = 65
-SUB E_Silivasi P_Lazar DF IF MIN = 70
+SUB L_Gabor P_Lazar DF IF MIN = 70
+SUB E_Silivasi R_Amanar DF IF MIN = 81
+SUB M_Parvulescu R_Georghiou DF IF MIN = 87
+CHANGEPOS R_Amanar MF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
