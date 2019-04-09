@@ -1,50 +1,50 @@
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 R_Ceni          34    35    | GK N :  53  23 :  75 |  30  0.1   2 || 108 || GK 23 GK 23 GK 23 GK 23 GK 23 GK 23 GK 23       
 A_Wisdom        34 28/23/ 8 | DM D :  46  11 :  57 |  12  1.1   2 ||  72 || DF  9 DM  8 DF  8 DM  7 DM  7 MF 10 DM 11       
-E_Plummer       25 24/11/11 | MF L :  49   0 :  49 |  13  2.1   6 ||  70 || DF -3 DF -2 DF  0 DF -3 DF -2 MF  0 DF -1   R r 
+E_Plummer       25 24/11/11 | MF L :  49   0 :  49 |  13  2.1   6 ||  70 || DF -3 DF -2 DF  0 DF  0 DF -2 MF  0 DF -1   R r 
 Doriva          24 22/23/10 | MF D :  42   4 :  46 |   9  1.2   6 ||  62 || DF  4 DM  4 DF  3 DM  3 DM  3 DM  3 MF  4     r 
-M_Twaddle       36 23/13/19 | MF L :  53   5 :  58 |   0  1.8   1 ||  60 || DF  0 FW  0 DF  4 DF  0 DF  0 MF  5 MF  0   R r 
-Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW -1 FW  0 AM  0 FW -3       
-A_Hinkel        35 25/11/10 | MF L :  50   1 :  50 |   4  1.2   1 ||  57 || DF -2 DF -1 DF  0 DF -2 DF -2 MF  1 DF  0       
-R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -2 FW -1 AM -1 FW -4       
+M_Twaddle       36 23/13/19 | MF L :  53   5 :  58 |   0  1.8   1 ||  60 || DF  0 FW  0 DF  4 DF  3 DF  0 MF  5 MF  0   R r 
+Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW  0 FW  0 AM  0 FW -3       
+A_Hinkel        35 25/11/10 | MF L :  50   1 :  50 |   4  1.2   1 ||  57 || DF -2 DF -1 DF  0 DF  0 DF -2 MF  1 DF  0       
+R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -1 FW -1 AM -1 FW -4       
 R_Pires         30  9/26/17 | MF E :  42   2 :  43 |   6  0.9   3 ||  53 || MF  2 MF  1 DM  1 MF  2 MF  2 AM -1 AM -2       
-Hugo_Sanchez    34  9/16/24 | FW A :  46   1 :  48 |   3  0.7   1 ||  52 || FW -1 FW  0 FW  1 FW  0 FW  0 AM  1 FW -2     r 
-Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -4 FW -4 FW -3 FW -6       
-W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -4 DF -3 DF  0 DF  0       
+Hugo_Sanchez    34  9/16/24 | FW A :  46   1 :  48 |   3  0.7   1 ||  52 || FW -1 FW  0 FW  1 FW  1 FW  0 AM  1 FW -2     r 
+Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -3 FW -4 FW -3 FW -6       
+W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -1 DF -3 DF  0 DF  0       
 A_R_Essien      34 24/21/ 1 | DM D :  40   4 :  45 |   0  0.6   2 ||  47 || DF  2 DM  1 DF  0 DM  1 DM  0 DF -1 DM  4     r 
 Moreto          23 18/23/ 8 | DM C :  35   0 :  35 |   4  0.8   7 ||  46 || DM  0 DM  0 DM -2 DM -1 DM  0 DM -1 MF  0   R r 
 T_Hurlock       34  8/24/19 | AM A :  43   0 :  44 |  -1  1.6   1 ||  46 || FW  0 AM  0 AM  0 AM  0 AM  0 AM -1 AM -3   R r 
 D_Gogean        17    20    | GK N :  30   0 :  30 |   3  0.2  11 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0   R r 
 P_Henrique      32 19/25/ 7 | MF C :  36   2 :  39 |   2  0.4   2 ||  43 || DM  2 MF  2 DM  0 DM  2 DM  2 DM  0 MF  2       
-G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -2 FW -1 FW  0 FW -3       
+G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -1 FW -1 FW  0 FW -3       
 A_Johnson       35  6/25/18 | AM A :  43   0 :  43 |  -3  0.8   1 ||  42 || MF  0 AM  0 AM  0 MF  0 MF  0 AM -2 AM -4       
 C_McGregor      26 14/25/ 8 | MF C :  34   0 :  34 |   0  0.7   5 ||  40 || MF  0 MF  0 DM -2 DM -2 MF -1 DM -3 MF -3       
 D_McHale        29 16/24/12 | MF C :  35   1 :  36 |  -1  0.7   4 ||  40 || DM  0 MF  1 DM  0 DM  0 DM  1 DM  0 MF  0     r 
-S_Howey         34 23/19/ 5 | DM D :  38   2 :  40 |  -4  1.0   2 ||  38 || DF  0 DM  0 DF  0 DM -1 DM -1 DM -1 DM  2     r 
-B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
+S_Howey         34 23/19/ 5 | DM D :  38   2 :  40 |  -4  1.0   2 ||  38 || DF  0 DM  0 DF  0 DF -1 DM -1 DM -1 DM  2     r 
+B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
 K_Shand         26    20    | GK N :  30   0 :  30 |  -4  0.9   6 ||  33 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
 E_Gabor         33 18/26/ 5 | MF C :  36   2 :  39 |  -8  0.6   2 ||  33 || DM  2 MF  2 DM -1 DM  2 DM  2 DM -1 DM  1       
 A_Ghita         17    18    | GK N :  27  -3 :  24 |  -3  0.5  11 ||  32 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
-G_Pique         32 25/ 9/ 6 | DF D :  34   0 :  33 |  -4  0.3   3 ||  32 || DF -5 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
-V_Yonescu       19 20/ 4/ 6 | DF L :  25  -8 :  17 |   4  1.1   9 ||  31 || DF-14 DF-11 DF-10 DF-11 DF-11 DF -8 DF -8   R r 
-D_Mario         22  6/20/20 | AM L :  28  -2 :  26 |  -3  0.6   7 ||  31 || FW -2 AM -3 AM -2 FW -3 AM -3 AM -2 AM -6   R r 
+G_Pique         32 25/ 9/ 6 | DF D :  34   0 :  33 |  -4  0.3   3 ||  32 || DF -5 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
 J_P_Veron       30  9/25/15 | MF N :  32   0 :  32 |  -5  0.3   3 ||  31 || MF  0 MF -1 DM -1 MF  0 MF  0 AM -3 AM -3       
+D_Mario         22  6/20/20 | FW E :  27  -2 :  26 |  -3  0.5   7 ||  30 || FW -2 AM -3 AM -2 FW -2 AM -3 AM -2 AM -6   R r 
 Ridoutkha       25 16/22/ 7 | MF C :  32  -2 :  30 |  -6  1.1   6 ||  30 || DM -2 MF -2 DM -4 DM -3 DM -3 DM -4 MF -3   R r 
-I_Hack          30 24/ 8/10 | DF L :  32  -1 :  31 |  -6  0.4   4 ||  29 || DF -5 DF -4 DF -2 DF -4 DF -4 DF -1 DF -2   R r 
-D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -11  1.2   1 ||  27 || DF -2 DF -2 DF -1 DM -4 DF -3 DM -1 DM  0   R r 
+I_Hack          30 24/ 8/10 | DF L :  32  -1 :  31 |  -6  0.4   4 ||  29 || DF -5 DF -4 DF -2 DF -1 DF -4 DF -1 DF -2   R r 
+D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -11  1.2   1 ||  27 || DF -2 DF -2 DF -1 DF -2 DF -3 DM -1 DM  0   R r 
+V_Yonescu       19 20/ 4/ 6 | DF E :  22  -8 :  14 |   1  1.0   9 ||  25 || DF-14 DF-11 DF-10 DF -8 DF-11 DF -8 DF -8   R r 
+C_Robinson      20  4/ 6/21 | FW E :  22  -7 :  15 |   0  1.0   8 ||  24 || FW-12 FW-11 FW-10 FW -7 FW -7 AM -7 FW-10   R r 
 T_Manniman      35 18/24/ 5 | MF C :  34   0 :  35 | -12  0.9   1 ||  24 || DM  0 MF  0 DM -2 DM  0 DM  0 DM -2 DM  0     r 
-C_Robinson      20  4/ 6/21 | AM L :  23  -7 :  15 |  -1  1.0   8 ||  23 || FW-12 FW-11 FW-10 FW -8 FW -7 AM -7 FW-10   R r 
 M_Antonio       25 13/22/ 6 | MF C :  30  -4 :  26 | -10  0.9   6 ||  23 || MF -4 MF -4 DM -6 DM -6 MF -5 DM -6 MF -6   R r 
 J_Cadette       28 15/21/ 6 | MF C :  30  -4 :  26 | -11  1.0   4 ||  20 || DM -4 MF -4 DM -6 DM -5 DM -4 DM -5 DM -5   R r 
-C_Sandulescu    20  6/ 8/18 | AM L :  21  -8 :  13 |  -4  1.0   8 ||  18 || FW-13 FW-12 FW-13 FW -9 FW -9 AM -8 FW-10   R r 
-I_Chirila       19  6/ 5/18 | AM L :  20 -10 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW-10 FW-10 AM-10 FW-11   R r 
-I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -6  1.2   9 ||  15 || DF-13 DF-11 DF-11 DF-11 DF-12 DM -9 DF-10   R r 
-J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DM -8 DM -7 DM -6 DM -7   R r 
+C_Sandulescu    20  6/ 8/18 | FW E :  21  -8 :  12 |  -3  0.9   8 ||  18 || FW-13 FW-12 FW-13 FW -8 FW -9 AM -8 FW-10   R r 
+I_Chirila       19  6/ 5/18 | FW E :  19  -9 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW -9 FW-10 AM-10 FW-11   R r 
+I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -5  1.2   9 ||  16 || DF-13 DF-11 DF-11 DF -9 DF-12 DM -9 DF-10   R r 
+J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DF -8 DM -7 DM -6 DM -7   R r 
 M_Oezil         35 17/21/10 | DM L :  26  -2 :  24 | -22  0.6   1 ||   4 || DM -2 DM -2 DF -3 DM -3 DM -2 DM -2 MF -2   R r 
 
  17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
- 27    14 13 31 25 35 46 35 32    35 38 36    36 39 51 38 58
-    20 13 16 21 28 31 37 36 34 34 37 37 37 36 37 46 45 46   
+ 27    12 13 31 25 35 46 35 32    35 38 36    36 39 51 38 58
+    19 12 16 21 28 31 37 36 34 34 37 37 37 36 37 46 45 46   
 
 ** 1st XI **
 PASSING
@@ -136,31 +136,31 @@ FW Hugo_Sanchez
 ** 1st XI **
 EUROPEAN
 GK R_Ceni
+DF A_Wisdom
 DF A_Hinkel
-DF A_R_Essien
-DF S_Howey
-DM A_Wisdom
+DF M_Twaddle
+DM A_R_Essien
 DM P_Henrique
 DM Doriva
 MF E_Gabor
 MF R_Pires
-MF C_McGregor
-FW Valdano
+MF D_McHale
+FW Hugo_Sanchez
                  N       D       A       C       L       P       E 
   STOPPING      53      53      53      53      53      53      53 
-  TACKLING     133     211     107     148     194     129     128 
-   PASSING     168     120     174     169      83     185     187 
-  SHOOTING      46      28      81      43      70      42      45 
-   SH Mean      18      21      17      19      17      19      18 
- SH Median      25      25      17      25      17      25      25 
-    SH Max      25      25      25      25      25      25      25 
-  SH Bonus      22      14      23      21      11      24      24 
+  TACKLING     135     214     109     151     199     131     130 
+   PASSING     164     118     172     166      81     182     185 
+  SHOOTING      51      27      89      46      75      47      53 
+   SH Mean      18      20      17      19      17      19      18 
+ SH Median      19      24      19      24      19      24      19 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      20      13      23      20      11      23      21 
    GK Qual      35      35      35      35      35      35      35 
-  GK Bonus      34      25      41      32      25      36      37 
-       Agg      29      29      29      29      29      29      29 
-   Scoring     127      89     143     127      78     137     140 
- Defending     133     211     107     148     194     129     128 
-   Overall     317     303     307     327     274     326     328 
+  GK Bonus      34      25      41      32      24      36      36 
+       Agg      27      27      27      27      27      27      27 
+   Scoring     126      88     144     126      79     137     141 
+ Defending     135     214     109     151     199     131     130 
+   Overall     315     302     311     327     278     327     327 
 
 ** 1st XI **
 NORMAL
@@ -283,39 +283,39 @@ FW D_Mario
 R_Ceni          34    35    | GK N :  53  23 :  75 |  30  0.1   2 || 108 || GK 23 GK 23 GK 23 GK 23 GK 23 GK 23 GK 23       
 A_Wisdom        34 28/23/ 8 | DM D :  46  11 :  57 |  12  1.1   2 ||  72 || DF  9 DM  8 DF  8 DM  7 DM  7 MF 10 DM 11       
 Doriva          24 22/23/10 | MF D :  42   4 :  46 |   9  1.2   6 ||  62 || DF  4 DM  4 DF  3 DM  3 DM  3 DM  3 MF  4     r 
-A_Hinkel        35 25/11/10 | MF L :  50   1 :  50 |   4  1.2   1 ||  57 || DF -2 DF -1 DF  0 DF -2 DF -2 MF  1 DF  0       
+A_Hinkel        35 25/11/10 | MF L :  50   1 :  50 |   4  1.2   1 ||  57 || DF -2 DF -1 DF  0 DF  0 DF -2 MF  1 DF  0       
 R_Pires         30  9/26/17 | MF E :  42   2 :  43 |   6  0.9   3 ||  53 || MF  2 MF  1 DM  1 MF  2 MF  2 AM -1 AM -2       
-Hugo_Sanchez    34  9/16/24 | FW A :  46   1 :  48 |   3  0.7   1 ||  52 || FW -1 FW  0 FW  1 FW  0 FW  0 AM  1 FW -2     r 
+Hugo_Sanchez    34  9/16/24 | FW A :  46   1 :  48 |   3  0.7   1 ||  52 || FW -1 FW  0 FW  1 FW  1 FW  0 AM  1 FW -2     r 
 A_R_Essien      34 24/21/ 1 | DM D :  40   4 :  45 |   0  0.6   2 ||  47 || DF  2 DM  1 DF  0 DM  1 DM  0 DF -1 DM  4     r 
 P_Henrique      32 19/25/ 7 | MF C :  36   2 :  39 |   2  0.4   2 ||  43 || DM  2 MF  2 DM  0 DM  2 DM  2 DM  0 MF  2       
 D_McHale        29 16/24/12 | MF C :  35   1 :  36 |  -1  0.7   4 ||  40 || DM  0 MF  1 DM  0 DM  0 DM  1 DM  0 MF  0     r 
-S_Howey         34 23/19/ 5 | DM D :  38   2 :  40 |  -4  1.0   2 ||  38 || DF  0 DM  0 DF  0 DM -1 DM -1 DM -1 DM  2     r 
+S_Howey         34 23/19/ 5 | DM D :  38   2 :  40 |  -4  1.0   2 ||  38 || DF  0 DM  0 DF  0 DF -1 DM -1 DM -1 DM  2     r 
 E_Gabor         33 18/26/ 5 | MF C :  36   2 :  39 |  -8  0.6   2 ||  33 || DM  2 MF  2 DM -1 DM  2 DM  2 DM -1 DM  1       
 T_Manniman      35 18/24/ 5 | MF C :  34   0 :  35 | -12  0.9   1 ||  24 || DM  0 MF  0 DM -2 DM  0 DM  0 DM -2 DM  0     r 
 
 ** First Squad (21) **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
-Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW -1 FW  0 AM  0 FW -3       
-R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -2 FW -1 AM -1 FW -4       
-Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -4 FW -4 FW -3 FW -6       
-W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -4 DF -3 DF  0 DF  0       
-G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -2 FW -1 FW  0 FW -3       
+Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW  0 FW  0 AM  0 FW -3       
+R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -1 FW -1 AM -1 FW -4       
+Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -3 FW -4 FW -3 FW -6       
+W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -1 DF -3 DF  0 DF  0       
+G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -1 FW -1 FW  0 FW -3       
 A_Johnson       35  6/25/18 | AM A :  43   0 :  43 |  -3  0.8   1 ||  42 || MF  0 AM  0 AM  0 MF  0 MF  0 AM -2 AM -4       
 C_McGregor      26 14/25/ 8 | MF C :  34   0 :  34 |   0  0.7   5 ||  40 || MF  0 MF  0 DM -2 DM -2 MF -1 DM -3 MF -3       
-B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
+B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
 K_Shand         26    20    | GK N :  30   0 :  30 |  -4  0.9   6 ||  33 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
 
 ** Reserves XI **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
-E_Plummer       25 24/11/11 | MF L :  49   0 :  49 |  13  2.1   6 ||  70 || DF -3 DF -2 DF  0 DF -3 DF -2 MF  0 DF -1   R r 
-M_Twaddle       36 23/13/19 | MF L :  53   5 :  58 |   0  1.8   1 ||  60 || DF  0 FW  0 DF  4 DF  0 DF  0 MF  5 MF  0   R r 
+E_Plummer       25 24/11/11 | MF L :  49   0 :  49 |  13  2.1   6 ||  70 || DF -3 DF -2 DF  0 DF  0 DF -2 MF  0 DF -1   R r 
+M_Twaddle       36 23/13/19 | MF L :  53   5 :  58 |   0  1.8   1 ||  60 || DF  0 FW  0 DF  4 DF  3 DF  0 MF  5 MF  0   R r 
 Moreto          23 18/23/ 8 | DM C :  35   0 :  35 |   4  0.8   7 ||  46 || DM  0 DM  0 DM -2 DM -1 DM  0 DM -1 MF  0   R r 
 T_Hurlock       34  8/24/19 | AM A :  43   0 :  44 |  -1  1.6   1 ||  46 || FW  0 AM  0 AM  0 AM  0 AM  0 AM -1 AM -3   R r 
 D_Gogean        17    20    | GK N :  30   0 :  30 |   3  0.2  11 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0   R r 
-D_Mario         22  6/20/20 | AM L :  28  -2 :  26 |  -3  0.6   7 ||  31 || FW -2 AM -3 AM -2 FW -3 AM -3 AM -2 AM -6   R r 
+D_Mario         22  6/20/20 | FW E :  27  -2 :  26 |  -3  0.5   7 ||  30 || FW -2 AM -3 AM -2 FW -2 AM -3 AM -2 AM -6   R r 
 Ridoutkha       25 16/22/ 7 | MF C :  32  -2 :  30 |  -6  1.1   6 ||  30 || DM -2 MF -2 DM -4 DM -3 DM -3 DM -4 MF -3   R r 
-I_Hack          30 24/ 8/10 | DF L :  32  -1 :  31 |  -6  0.4   4 ||  29 || DF -5 DF -4 DF -2 DF -4 DF -4 DF -1 DF -2   R r 
-D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -11  1.2   1 ||  27 || DF -2 DF -2 DF -1 DM -4 DF -3 DM -1 DM  0   R r 
+I_Hack          30 24/ 8/10 | DF L :  32  -1 :  31 |  -6  0.4   4 ||  29 || DF -5 DF -4 DF -2 DF -1 DF -4 DF -1 DF -2   R r 
+D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -11  1.2   1 ||  27 || DF -2 DF -2 DF -1 DF -2 DF -3 DM -1 DM  0   R r 
 M_Antonio       25 13/22/ 6 | MF C :  30  -4 :  26 | -10  0.9   6 ||  23 || MF -4 MF -4 DM -6 DM -6 MF -5 DM -6 MF -6   R r 
 J_Cadette       28 15/21/ 6 | MF C :  30  -4 :  26 | -11  1.0   4 ||  20 || DM -4 MF -4 DM -6 DM -5 DM -4 DM -5 DM -5   R r 
 M_Oezil         35 17/21/10 | DM L :  26  -2 :  24 | -22  0.6   1 ||   4 || DM -2 DM -2 DF -3 DM -3 DM -2 DM -2 MF -2   R r 
@@ -323,42 +323,42 @@ M_Oezil         35 17/21/10 | DM L :  26  -2 :  24 | -22  0.6   1 ||   4 || DM -
 ** Reserves Squad (19) **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 A_Ghita         17    18    | GK N :  27  -3 :  24 |  -3  0.5  11 ||  32 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
-V_Yonescu       19 20/ 4/ 6 | DF L :  25  -8 :  17 |   4  1.1   9 ||  31 || DF-14 DF-11 DF-10 DF-11 DF-11 DF -8 DF -8   R r 
-C_Robinson      20  4/ 6/21 | AM L :  23  -7 :  15 |  -1  1.0   8 ||  23 || FW-12 FW-11 FW-10 FW -8 FW -7 AM -7 FW-10   R r 
-C_Sandulescu    20  6/ 8/18 | AM L :  21  -8 :  13 |  -4  1.0   8 ||  18 || FW-13 FW-12 FW-13 FW -9 FW -9 AM -8 FW-10   R r 
-I_Chirila       19  6/ 5/18 | AM L :  20 -10 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW-10 FW-10 AM-10 FW-11   R r 
-I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -6  1.2   9 ||  15 || DF-13 DF-11 DF-11 DF-11 DF-12 DM -9 DF-10   R r 
-J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DM -8 DM -7 DM -6 DM -7   R r 
+V_Yonescu       19 20/ 4/ 6 | DF E :  22  -8 :  14 |   1  1.0   9 ||  25 || DF-14 DF-11 DF-10 DF -8 DF-11 DF -8 DF -8   R r 
+C_Robinson      20  4/ 6/21 | FW E :  22  -7 :  15 |   0  1.0   8 ||  24 || FW-12 FW-11 FW-10 FW -7 FW -7 AM -7 FW-10   R r 
+C_Sandulescu    20  6/ 8/18 | FW E :  21  -8 :  12 |  -3  0.9   8 ||  18 || FW-13 FW-12 FW-13 FW -8 FW -9 AM -8 FW-10   R r 
+I_Chirila       19  6/ 5/18 | FW E :  19  -9 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW -9 FW-10 AM-10 FW-11   R r 
+I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -5  1.2   9 ||  16 || DF-13 DF-11 DF-11 DF -9 DF-12 DM -9 DF-10   R r 
+J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DF -8 DM -7 DM -6 DM -7   R r 
 
 ** Training Squad **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
-Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW -1 FW  0 AM  0 FW -3       
-R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -2 FW -1 AM -1 FW -4       
-Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -4 FW -4 FW -3 FW -6       
-W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -4 DF -3 DF  0 DF  0       
-G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -2 FW -1 FW  0 FW -3       
+Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW  0 FW  0 AM  0 FW -3       
+R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -1 FW -1 AM -1 FW -4       
+Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -3 FW -4 FW -3 FW -6       
+W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -1 DF -3 DF  0 DF  0       
+G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -1 FW -1 FW  0 FW -3       
 A_Johnson       35  6/25/18 | AM A :  43   0 :  43 |  -3  0.8   1 ||  42 || MF  0 AM  0 AM  0 MF  0 MF  0 AM -2 AM -4       
 C_McGregor      26 14/25/ 8 | MF C :  34   0 :  34 |   0  0.7   5 ||  40 || MF  0 MF  0 DM -2 DM -2 MF -1 DM -3 MF -3       
-B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
+B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
 K_Shand         26    20    | GK N :  30   0 :  30 |  -4  0.9   6 ||  33 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
 A_Ghita         17    18    | GK N :  27  -3 :  24 |  -3  0.5  11 ||  32 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3   R r 
-V_Yonescu       19 20/ 4/ 6 | DF L :  25  -8 :  17 |   4  1.1   9 ||  31 || DF-14 DF-11 DF-10 DF-11 DF-11 DF -8 DF -8   R r 
-C_Robinson      20  4/ 6/21 | AM L :  23  -7 :  15 |  -1  1.0   8 ||  23 || FW-12 FW-11 FW-10 FW -8 FW -7 AM -7 FW-10   R r 
-C_Sandulescu    20  6/ 8/18 | AM L :  21  -8 :  13 |  -4  1.0   8 ||  18 || FW-13 FW-12 FW-13 FW -9 FW -9 AM -8 FW-10   R r 
-I_Chirila       19  6/ 5/18 | AM L :  20 -10 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW-10 FW-10 AM-10 FW-11   R r 
-I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -6  1.2   9 ||  15 || DF-13 DF-11 DF-11 DF-11 DF-12 DM -9 DF-10   R r 
-J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DM -8 DM -7 DM -6 DM -7   R r 
+V_Yonescu       19 20/ 4/ 6 | DF E :  22  -8 :  14 |   1  1.0   9 ||  25 || DF-14 DF-11 DF-10 DF -8 DF-11 DF -8 DF -8   R r 
+C_Robinson      20  4/ 6/21 | FW E :  22  -7 :  15 |   0  1.0   8 ||  24 || FW-12 FW-11 FW-10 FW -7 FW -7 AM -7 FW-10   R r 
+C_Sandulescu    20  6/ 8/18 | FW E :  21  -8 :  12 |  -3  0.9   8 ||  18 || FW-13 FW-12 FW-13 FW -8 FW -9 AM -8 FW-10   R r 
+I_Chirila       19  6/ 5/18 | FW E :  19  -9 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW -9 FW-10 AM-10 FW-11   R r 
+I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -5  1.2   9 ||  16 || DF-13 DF-11 DF-11 DF -9 DF-12 DM -9 DF-10   R r 
+J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DF -8 DM -7 DM -6 DM -7   R r 
 
 ** Remaining **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
-G_Pique         32 25/ 9/ 6 | DF D :  34   0 :  33 |  -4  0.3   3 ||  32 || DF -5 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
+G_Pique         32 25/ 9/ 6 | DF D :  34   0 :  33 |  -4  0.3   3 ||  32 || DF -5 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
 J_P_Veron       30  9/25/15 | MF N :  32   0 :  32 |  -5  0.3   3 ||  31 || MF  0 MF -1 DM -1 MF  0 MF  0 AM -3 AM -3       
 
 ** Replacement Level **
 PASSING          30  38  33  31  35  39 
 COUNTER_ATTACK   30  34  35  34  37  37 
 ATTACKING        30  36  36  39  43  45 
-EUROPEAN         30  32  38  40  39  30 
+EUROPEAN         30  29  38  40  39  29 
 NORMAL           30  35  34  32  36  32 
 LONG_BALL        30  33  28  49  30  38 
 DEFENSIVE        30  34  36  38  33  29 
@@ -377,130 +377,130 @@ DEFENSIVE        30  34  36  38  33  29
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                33          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    25 
+                    EUROPEAN    27    22    21    33    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 Keeper08        33    31    | GK N :  47  17 :  63 |  17  0.5   3 ||  83 || GK 17 GK 17 GK 17 GK 17 GK 17 GK 17 GK 17       
-A_Van_Buuren    36 32/12/ 8 | MF L :  59  11 :  70 |  12  1.0   1 ||  83 || DF  5 DF  6 DF  7 DF  3 DF  5 MF 11 DF  9       
+A_Van_Buuren    36 32/12/ 8 | MF L :  59  11 :  70 |  12  1.0   1 ||  83 || DF  5 DF  6 DF  7 DF  6 DF  5 MF 11 DF  9       
 Keeper03        27    25    | GK N :  38   8 :  45 |  12  0.9   6 ||  63 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8     r 
 Keeper04        29    25    | GK N :  38   8 :  45 |   8  0.9   5 ||  59 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8     r 
-Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW -1 FW  0 AM  0 FW -3       
+Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW  0 FW  0 AM  0 FW -3       
 Bob_Wilson      28    24    | GK N :  36   6 :  42 |   5  1.0   5 ||  53 || GK  6 GK  6 GK  6 GK  6 GK  6 GK  6 GK  6     r 
 C_Clark         37    27    | GK N :  41  11 :  51 |  -7  0.3   1 ||  45 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11     r 
 V_Mannone       37    27    | GK N :  41  11 :  51 |  -7  0.3   1 ||  45 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11     r 
 Keeper02        33    24    | GK N :  36   6 :  42 |  -4  0.5   3 ||  41 || GK  6 GK  6 GK  6 GK  6 GK  6 GK  6 GK  6     r 
 Keeper06        33    24    | GK N :  36   6 :  42 |  -4  0.5   3 ||  41 || GK  6 GK  6 GK  6 GK  6 GK  6 GK  6 GK  6     r 
 Keeper05        32    22    | GK N :  33   3 :  36 |  -1  0.9   3 ||  39 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3     r 
-Defender14      27 25/ 8/ 7 | DF D :  33  -1 :  33 |  -1  1.1   5 ||  38 || DF -5 DF -3 DF -3 DF -4 DF -4 DF -1 DF -1       
-Defender13      21 22/ 7/ 8 | DF L :  29  -4 :  25 |   4  0.5   8 ||  37 || DF -9 DF -7 DF -6 DF -7 DF -7 DF -4 DF -5     r 
+Defender14      27 25/ 8/ 7 | DF D :  33  -1 :  33 |  -1  1.1   5 ||  38 || DF -5 DF -3 DF -3 DF -2 DF -4 DF -1 DF -1       
 N_Alexander     34    23    | GK N :  35   5 :  39 |  -6  0.6   2 ||  36 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5     r 
-Forward08       26  6/ 7/24 | FW L :  34  -3 :  31 |  -3  1.3   5 ||  35 || FW -8 FW -6 FW -5 FW -4 FW -4 FW -3 FW -6     r 
-Defender20      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
-M_Muniesa       32  7/ 8/25 | FW L :  36  -2 :  35 |  -2  0.4   2 ||  35 || FW -6 FW -4 FW -3 FW -3 FW -2 FW -2 FW -5       
+Defender20      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
+M_Muniesa       32  7/ 8/25 | FW L :  36  -2 :  35 |  -2  0.4   2 ||  35 || FW -6 FW -4 FW -3 FW -2 FW -2 FW -2 FW -5       
 P_Gulacsi       33    23    | GK N :  35   5 :  39 |  -7  0.9   3 ||  35 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5     r 
-Forward02       26  4/ 7/24 | FW L :  34  -4 :  30 |  -4  1.4   5 ||  33 || FW -9 FW -7 FW -5 FW -5 FW -4 FW -4 FW -7     r 
 I_Lawlor        27    20    | GK N :  30   0 :  30 |  -3  0.8   6 ||  33 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
-Defender18      29 25/ 8/ 5 | DF D :  33  -1 :  33 |  -4  0.8   4 ||  33 || DF -6 DF -4 DF -4 DF -5 DF -5 DF -2 DF -1       
-Defender15      29 24/11/ 7 | DF D :  33  -1 :  32 |  -5  0.9   4 ||  31 || DF -4 DF -3 DF -2 DF -4 DF -4 DF -1 DF -1     r 
-Defender09      26 23/ 7/10 | DF L :  31  -2 :  28 |  -6  0.5   6 ||  29 || DF -7 DF -5 DF -4 DF -5 DF -6 DF -2 DF -3     r 
-A_Anyukov       34  9/ 4/26 | FW L :  37  -1 :  36 |  -8  0.4   1 ||  29 || FW -8 FW -4 FW -4 FW -3 FW -2 FW -1 FW -4       
+Defender18      29 25/ 8/ 5 | DF D :  33  -1 :  33 |  -4  0.8   4 ||  33 || DF -6 DF -4 DF -4 DF -2 DF -5 DF -2 DF -1       
+Defender15      29 24/11/ 7 | DF D :  33  -1 :  32 |  -5  0.9   4 ||  31 || DF -4 DF -3 DF -2 DF -2 DF -4 DF -1 DF -1     r 
+Defender13      21 22/ 7/ 8 | DF E :  25  -4 :  21 |   0  0.5   8 ||  30 || DF -9 DF -7 DF -6 DF -4 DF -7 DF -4 DF -5     r 
+Defender09      26 23/ 7/10 | DF L :  31  -2 :  28 |  -6  0.5   6 ||  29 || DF -7 DF -5 DF -4 DF -3 DF -6 DF -2 DF -3     r 
+A_Anyukov       34  9/ 4/26 | FW L :  37  -1 :  36 |  -8  0.4   1 ||  29 || FW -8 FW -4 FW -4 FW -2 FW -2 FW -1 FW -4       
 C_Poenaru       28    20    | GK N :  30   0 :  30 |  -7  0.4   5 ||  28 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
-Defender05      28 24/ 9/ 8 | DF L :  31  -2 :  30 |  -7  0.9   5 ||  28 || DF -5 DF -4 DF -3 DF -5 DF -4 DF -2 DF -2     r 
-Defender12      29 24/ 6/10 | DF L :  31  -2 :  30 |  -7  0.7   4 ||  28 || DF -7 DF -5 DF -3 DF -5 DF -5 DF -2 DF -2     r 
-Defender02      30 24/ 8/ 6 | DF D :  32  -2 :  30 |  -7  1.2   4 ||  28 || DF -7 DF -5 DF -4 DF -6 DF -5 DF -2 DF -2     r 
-Defender17      21 20/ 7/ 5 | DF D :  27  -7 :  20 |  -1  0.8   8 ||  27 || DF-12 DF -9 DF -9 DF-10 DF-10 DF -7 DF -7     r 
-Defender08      27 23/ 7/ 9 | DF L :  30  -3 :  27 |  -6  0.7   5 ||  27 || DF -8 DF -5 DF -4 DF -6 DF -6 DF -3 DF -3     r 
-P_Miranda       35 26/10/ 7 | DF D :  35   1 :  36 | -10  0.5   1 ||  27 || DF -3 DF -1 DF -1 DF -3 DF -2 DF  1 DF  1       
-Defender11      30 24/ 8/ 8 | DF L :  31  -2 :  29 |  -8  0.7   4 ||  26 || DF -6 DF -4 DF -3 DF -5 DF -5 DF -2 DF -2     r 
-Forward09       35 11/ 6/25 | FW L :  37  -1 :  36 | -10  0.5   1 ||  26 || FW -7 FW -3 FW -4 FW -3 FW -1 FW -1 FW -3       
-P_Srnicek       21    16    | GK N :  24  -6 :  18 |  -3  0.8   9 ||  24 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
+Defender05      28 24/ 9/ 8 | DF L :  31  -2 :  30 |  -7  0.9   5 ||  28 || DF -5 DF -4 DF -3 DF -2 DF -4 DF -2 DF -2     r 
+Defender12      29 24/ 6/10 | DF L :  31  -2 :  30 |  -7  0.7   4 ||  28 || DF -7 DF -5 DF -3 DF -2 DF -5 DF -2 DF -2     r 
+Defender02      30 24/ 8/ 6 | DF D :  32  -2 :  30 |  -7  1.2   4 ||  28 || DF -7 DF -5 DF -4 DF -3 DF -5 DF -2 DF -2     r 
+Defender08      27 23/ 7/ 9 | DF L :  30  -3 :  27 |  -6  0.7   5 ||  27 || DF -8 DF -5 DF -4 DF -3 DF -6 DF -3 DF -3     r 
+P_Miranda       35 26/10/ 7 | DF D :  35   1 :  36 | -10  0.5   1 ||  27 || DF -3 DF -1 DF -1 DF  0 DF -2 DF  1 DF  1       
+Defender11      30 24/ 8/ 8 | DF L :  31  -2 :  29 |  -8  0.7   4 ||  26 || DF -6 DF -4 DF -3 DF -2 DF -5 DF -2 DF -2     r 
+Forward09       35 11/ 6/25 | FW L :  37  -1 :  36 | -10  0.5   1 ||  26 || FW -7 FW -3 FW -4 FW -2 FW -1 FW -1 FW -3       
+P_Srnicek       21    16    | GK N :  24  -6 :  18 |  -3  0.8   9 ||  25 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
 Midfielder13    29  9/25/10 | MF P :  30  -1 :  29 |  -8  0.5   4 ||  24 || MF -1 MF -2 DM -4 MF -2 MF -2 DM -6 AM -6       
 Midfielder02    29  9/25/ 8 | MF P :  29  -2 :  28 |  -9  0.5   4 ||  22 || MF -2 MF -2 DM -5 MF -3 MF -2 DM -7 AM -7       
 Midfielder11    21  8/20/ 7 | MF P :  24  -7 :  17 |  -4  1.2   8 ||  21 || MF -7 MF -8 DM-10 MF-10 MF -8 DM-10 AM-11     r 
-Forward10       21  6/ 6/21 | AM L :  23  -7 :  16 |  -4  0.5   8 ||  20 || FW-12 FW-10 FW-10 FW -7 FW -7 AM -7 FW -9     r 
 Midfielder04    29  7/25/ 7 | MF P :  29  -2 :  26 | -11  0.6   4 ||  20 || MF -2 MF -4 DM -6 MF -4 MF -3 DM -9 AM -9       
-Defender01      30 23/ 5/ 6 | DF D :  30  -4 :  26 | -11  0.6   4 ||  19 || DF-10 DF -7 DF -7 DF -8 DF -8 DF -4 DF -4     r 
-Defender10      25 21/ 9/ 4 | DF D :  29  -5 :  23 | -13  0.9   6 ||  17 || DF-10 DF -8 DF -8 DF -9 DF -9 DF -6 DF -5     r 
+Forward10       21  6/ 6/21 | FW E :  23  -6 :  16 |  -5  0.5   8 ||  19 || FW-12 FW-10 FW-10 FW -6 FW -7 AM -7 FW -9     r 
+Defender01      30 23/ 5/ 6 | DF D :  30  -4 :  26 | -11  0.6   4 ||  19 || DF-10 DF -7 DF -7 DF -5 DF -8 DF -4 DF -4     r 
+Defender17      21 20/ 7/ 5 | DF E :  22  -7 :  15 |  -6  0.8   8 ||  18 || DF-12 DF -9 DF -9 DF -7 DF-10 DF -7 DF -7     r 
+Defender10      25 21/ 9/ 4 | DF D :  29  -5 :  23 | -13  0.9   6 ||  17 || DF-10 DF -8 DF -8 DF -6 DF -9 DF -6 DF -5     r 
+Forward08       26  6/ 7/24 | FW E :  26  -3 :  22 | -11  1.1   5 ||  17 || FW -8 FW -6 FW -5 FW -3 FW -4 FW -3 FW -6     r 
 Midfielder07    28  6/24/ 9 | MF P :  28  -3 :  25 | -12  0.9   4 ||  17 || MF -3 MF -5 DM -6 MF -5 MF -4 DM -9 AM -9     r 
-Forward05       30  8/ 8/24 | AM L :  27  -2 :  25 | -12  1.3   3 ||  17 || FW -7 FW -5 FW -4 FW -3 FW -3 AM -2 FW -5     r 
+Forward05       30  8/ 8/24 | AM L :  27  -2 :  25 | -12  1.3   3 ||  17 || FW -7 FW -5 FW -4 FW -2 FW -3 AM -2 FW -5     r 
 Midfielder03    30  7/24/ 9 | MF P :  28  -3 :  25 | -12  1.1   3 ||  17 || MF -3 MF -4 DM -6 MF -5 MF -3 DM -9 AM -8     r 
-Forward01       28  7/10/23 | AM L :  27  -3 :  24 | -13  1.0   4 ||  16 || FW -7 FW -5 FW -4 FW -4 FW -3 AM -3 FW -6     r 
+Forward02       26  4/ 7/24 | FW E :  25  -4 :  22 | -12  1.2   5 ||  16 || FW -9 FW -7 FW -5 FW -4 FW -4 FW -4 FW -7     r 
 Midfielder10    24 10/23/ 6 | MF P :  27  -4 :  23 | -14  0.5   6 ||  15 || MF -4 MF -4 DM -7 MF -6 MF -4 DM -8 AM -8     r 
+Forward01       28  7/10/23 | FW E :  26  -3 :  23 | -14  0.9   4 ||  15 || FW -7 FW -5 FW -4 FW -3 FW -3 AM -3 FW -6     r 
+Defender16      25 21/ 9/ 8 | DF E :  25  -5 :  20 | -15  0.5   6 ||  11 || DF -8 DF -7 DF -6 DF -5 DF -7 DM -5 DF -5     r 
 P_Cech          29    17    | GK N :  26  -4 :  21 | -16  1.2   5 ||  11 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4     r 
 Midfielder12    25 10/21/ 7 | MF P :  25  -6 :  20 | -16  0.6   6 ||   9 || MF -6 MF -6 DM -8 MF -8 MF -6 DM -8 AM -9     r 
-Defender16      25 21/ 9/ 8 | DM L :  23  -5 :  19 | -17  0.5   6 ||   8 || DF -8 DF -7 DF -6 DF -7 DF -7 DM -5 DF -5     r 
-Forward03       24  6/ 6/21 | AM L :  23  -7 :  16 | -21  0.8   6 ||   3 || FW-12 FW-10 FW-10 FW -7 FW -7 AM -7 FW -9     r 
+J_Roger         19  5/ 8/13 | FW E :  16 -13 :   3 | -10  1.0   9 ||   3 || AM-18 FW-17 DM-19 FW-13 FW-15 AM-13 FW-15     r 
 G_Adam          36    20    | GK N :  30   0 :  30 | -28  0.1   1 ||   3 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
-J_Roger         19  5/ 8/13 | AM L :  16 -13 :   3 | -10  1.0   9 ||   2 || AM-18 FW-17 DM-19 FW-14 FW-15 AM-13 FW-15     r 
+Forward03       24  6/ 6/21 | FW E :  23  -6 :  16 | -21  0.8   6 ||   2 || FW-12 FW-10 FW-10 FW -6 FW -7 AM -7 FW -9     r 
 M_Taibi         28    15    | GK N :  23  -7 :  15 | -22  1.5   5 ||   0 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7     r 
-P_Kimpembe      30 17/ 9/ 9 | DM L :  21  -7 :  14 | -23  1.0   4 ||  -5 || DF-12 DF-10 DF -9 DF-11 DF-11 DM -7 DF-10     r 
-T_Dibble        16 13/10/ 5 | DM L :  16 -12 :   5 | -22  1.0  11 ||  -6 || DM-15 DF-15 DF-15 DF-15 DM-16 DM-12 DM-15     r 
-Y_Grubb         16 13/ 8/ 7 | DM L :  16 -11 :   5 | -22  0.7  11 ||  -6 || DM-16 DF-15 DF-15 DF-15 DF-16 DM-11 FW-15     r 
-C_Fodder        20  6/13/ 9 | DM L :  14 -14 :   1 | -16  0.9   8 ||  -6 || MF-14 MF-16 DM-16 FW-15 MF-15 DM-14 FW-16     r 
-C_Griffin       35  4/ 9/21 | AM L :  24  -6 :  18 | -28  0.8   1 ||  -9 || FW-10 FW -9 FW -8 FW -7 FW -7 AM -6 FW -9     r 
-E_Lee           22  4/ 7/15 | AM L :  18 -12 :   5 | -23  1.2   7 || -10 || FW-18 FW-16 FW-18 FW-13 FW-13 AM-12 FW-14     r 
-Luhcyen         31 17/ 9/ 6 | DM L :  19  -9 :  11 | -25  0.5   3 || -11 || DF-13 DF-11 DF-11 DF-12 DF-12 DM -9 DF-10     r 
-A_Ferdinand     36 21/ 7/ 7 | DF L :  27  -6 :  22 | -36  0.9   1 || -13 || DF-10 DF -8 DF -7 DF -8 DF -9 DF -6 DF -6     r 
-R_Brevett       36 21/ 4/ 9 | DF L :  27  -6 :  22 | -37  0.4   1 || -14 || DF-12 DF -9 DF -8 DF -8 DF-10 DF -6 DF -7     r 
-Alexandr_Pato   35  3/ 3/21 | FW N :  23  -9 :  14 | -32  1.0   1 || -16 || FW-15 FW-13 FW-12 FW -9 FW -9 AM -9 FW-11     r 
+P_Kimpembe      30 17/ 9/ 9 | DM L :  21  -7 :  14 | -23  1.0   4 ||  -5 || DF-12 DF-10 DF -9 DF -8 DF-11 DM -7 DF-10     r 
+T_Dibble        16 13/10/ 5 | DM L :  16 -12 :   5 | -22  1.0  11 ||  -6 || DM-15 DF-15 DF-15 DF-13 DM-16 DM-12 DM-15     r 
+Y_Grubb         16 13/ 8/ 7 | DM L :  16 -11 :   5 | -22  0.7  11 ||  -6 || DM-16 DF-15 DF-15 DF-12 DF-16 DM-11 FW-15     r 
+C_Fodder        20  6/13/ 9 | DM L :  14 -14 :   1 | -15  0.9   8 ||  -6 || MF-14 MF-16 DM-16 FW-14 MF-15 DM-14 FW-16     r 
+E_Lee           22  4/ 7/15 | FW E :  17 -12 :   5 | -23  1.1   7 || -10 || FW-18 FW-16 FW-18 FW-12 FW-13 AM-12 FW-14     r 
+C_Griffin       35  4/ 9/21 | FW E :  23  -6 :  18 | -28  0.7   1 || -10 || FW-10 FW -9 FW -8 FW -6 FW -7 AM -6 FW -9     r 
+Luhcyen         31 17/ 9/ 6 | DM L :  19  -9 :  11 | -25  0.5   3 || -11 || DF-13 DF-11 DF-11 DF -9 DF-12 DM -9 DF-10     r 
+Alexandr_Pato   35  3/ 3/21 | FW E :  21  -8 :  13 | -34  1.0   1 || -20 || FW-15 FW-13 FW-12 FW -8 FW -9 AM -9 FW-11     r 
+A_Ferdinand     36 21/ 7/ 7 | DF E :  24  -6 :  18 | -40  0.8   1 || -20 || DF-10 DF -8 DF -7 DF -6 DF -9 DF -6 DF -6     r 
+R_Brevett       36 21/ 4/ 9 | DF E :  24  -6 :  18 | -40  0.4   1 || -21 || DF-12 DF -9 DF -8 DF -6 DF-10 DF -6 DF -7     r 
 B_Vamm          37    16    | GK N :  24  -6 :  18 | -40  0.3   1 || -21 || GK -6 GK -6 GK -6 GK -6 GK -6 GK -6 GK -6     r 
-J_Woodbridge    35  4/ 7/18 | AM L :  20  -9 :  11 | -35  1.0   1 || -23 || FW-15 FW-13 FW-14 FW-10 FW-10 AM -9 FW-12     r 
-P_Tubb          36 20/11/ 6 | DM L :  22  -5 :  17 | -41  1.0   1 || -23 || DF -8 DF -7 DF -7 DF -8 DF -8 DM -5 DM -6     r 
-Edinho          36 18/ 7/11 | DM L :  22  -6 :  16 | -42  0.8   1 || -25 || DF-12 DF-10 DF -8 DF -9 DF-10 DM -6 DF-10     r 
-H_Van_Hus       35 17/ 1/ 4 | DF D :  22 -12 :   9 | -37  0.7   1 || -26 || DF-20 DF-16 DF-16 DF-15 DF-17 DF-13 DF-12     r 
+J_Woodbridge    35  4/ 7/18 | FW E :  20  -9 :  11 | -35  1.0   1 || -23 || FW-15 FW-13 FW-14 FW -9 FW-10 AM -9 FW-12     r 
+P_Tubb          36 20/11/ 6 | DM L :  22  -5 :  17 | -41  1.0   1 || -23 || DF -8 DF -7 DF -7 DF -6 DF -8 DM -5 DM -6     r 
+Edinho          36 18/ 7/11 | DM L :  22  -6 :  16 | -42  0.8   1 || -25 || DF-12 DF-10 DF -8 DF -7 DF-10 DM -6 DF-10     r 
 S_Haira         36    15    | GK N :  23  -7 :  15 | -43  0.6   1 || -26 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7     r 
-R_Henry         36 19/ 8/ 7 | DM L :  21  -7 :  14 | -44  0.6   1 || -29 || DF-11 DF -9 DF -9 DF-10 DF-10 DM -7 DF -8     r 
+R_Henry         36 19/ 8/ 7 | DM L :  21  -7 :  14 | -44  0.6   1 || -29 || DF-11 DF -9 DF -9 DF -7 DF-10 DM -7 DF -8     r 
 P_Out           34    12    | GK N :  18 -12 :   6 | -39  0.4   2 || -30 || GK-12 GK-12 GK-12 GK-12 GK-12 GK-12 GK-12     r 
+H_Van_Hus       35 17/ 1/ 4 | DF E :  17 -12 :   5 | -41  0.8   1 || -34 || DF-20 DF-16 DF-16 DF-12 DF-17 DF-13 DF-12     r 
 
 ** /for_transfer.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
-Defender13      21 22/ 7/ 8 | DF L :  29  -4 :  25 |   4  0.5   8 ||  37 || DF -9 DF -7 DF -6 DF -7 DF -7 DF -4 DF -5     r 
-Defender14      22 22/ 9/ 8 | DF L :  29  -4 :  26 |  -3  1.0   8 ||  31 || DF -7 DF -6 DF -5 DF -6 DF -6 DF -4 DF -4     r 
-Defender12      21 20/10/ 7 | DM L :  23  -5 :  17 |  -4  1.0   8 ||  22 || DF -9 DF -7 DF -7 DF -8 DF -8 DM -5 DF -6     r 
+Defender13      21 22/ 7/ 8 | DF E :  25  -4 :  21 |   0  0.5   8 ||  30 || DF -9 DF -7 DF -6 DF -4 DF -7 DF -4 DF -5     r 
+Defender14      22 22/ 9/ 8 | DF E :  26  -4 :  22 |  -6  1.0   8 ||  24 || DF -7 DF -6 DF -5 DF -4 DF -6 DF -4 DF -4     r 
+Defender12      21 20/10/ 7 | DM L :  23  -5 :  17 |  -4  1.0   8 ||  22 || DF -9 DF -7 DF -7 DF -6 DF -8 DM -5 DF -6     r 
 
 ** /wdb.txt **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 K_Ghost         37    39    | GK N :  59  29 :  87 |  29  0.2   1 || 117 || GK 29 GK 29 GK 29 GK 29 GK 29 GK 29 GK 29       
-A_Ranocchia     26 27/10/ 9 | MF L :  51   3 :  54 |  20  1.4   6 ||  81 || DF -1 DF  0 DF  1 DF -1 DF  0 MF  3 DF  2       
-V_Mosthovoy     34 30/11/ 7 | MF L :  55   6 :  61 |  17  0.8   2 ||  81 || DF  2 DF  3 DF  4 DF  1 DF  2 MF  6 DF  6       
-G_Angella       24 25/12/10 | MF L :  50   1 :  51 |  14  1.8   7 ||  74 || DF -1 DF -1 DF  1 DF -2 DF -1 MF  1 DF  0       
+A_Ranocchia     26 27/10/ 9 | MF L :  51   3 :  54 |  20  1.4   6 ||  81 || DF -1 DF  0 DF  1 DF  2 DF  0 MF  3 DF  2       
+V_Mosthovoy     34 30/11/ 7 | MF L :  55   6 :  61 |  17  0.8   2 ||  81 || DF  2 DF  3 DF  4 DF  4 DF  2 MF  6 DF  6       
+G_Angella       24 25/12/10 | MF L :  50   1 :  51 |  14  1.8   7 ||  74 || DF -1 DF -1 DF  1 DF  1 DF -1 MF  1 DF  0       
 A_Capivara      25    27    | GK N :  41  11 :  51 |  15  1.1   7 ||  74 || GK 11 GK 11 GK 11 GK 11 GK 11 GK 11 GK 11     r 
-Diaviera        34  8/11/29 | FW A :  51   5 :  56 |  11  0.4   1 ||  69 || FW  0 FW  2 FW  5 FW  2 FW  3 FW  5 FW  0       
+Diaviera        34  8/11/29 | FW A :  51   5 :  56 |  11  0.4   1 ||  69 || FW  0 FW  2 FW  5 FW  3 FW  3 FW  5 FW  0       
 G_Ochoa         24    26    | GK N :  39   9 :  48 |  11  1.2   7 ||  67 || GK  9 GK  9 GK  9 GK  9 GK  9 GK  9 GK  9     r 
-G_Puciato       28  9/ 9/28 | FW L :  41   3 :  44 |   7  0.4   4 ||  55 || FW -2 FW  0 FW  3 FW  1 FW  2 FW  3 FW -1       
-J_Cruyff        19  9/22/16 | MF N :  30  -3 :  27 |  14  1.4   9 ||  50 || MF -3 MF -3 DM -3 MF -4 MF -3 AM -4 AM -5     r 
-S_Gronkjaer     32 28/ 8/ 7 | DF D :  37   3 :  40 |   3  1.3   3 ||  47 || DF -2 DF  0 DF  0 DF -2 DF -1 DF  2 DF  3       
-Juanfran        26  6/ 7/26 | FW L :  37  -1 :  36 |   3  1.0   5 ||  45 || FW -6 FW -4 FW -2 FW -2 FW -2 FW -1 FW -5       
-J_Ekstrand      25 26/11/ 7 | DF D :  35   1 :  37 |   1  0.2   6 ||  44 || DF -2 DF -1 DF  0 DF -3 DF -2 DF  1 DF  1       
+G_Puciato       28  9/ 9/28 | FW L :  41   3 :  44 |   7  0.4   4 ||  55 || FW -2 FW  0 FW  3 FW  2 FW  2 FW  3 FW -1       
+J_Cruyff        19  9/22/16 | MF N :  30  -3 :  27 |  14  1.4   9 ||  51 || MF -3 MF -3 DM -3 MF -4 MF -3 AM -4 AM -5     r 
+S_Gronkjaer     32 28/ 8/ 7 | DF D :  37   3 :  40 |   3  1.3   3 ||  47 || DF -2 DF  0 DF  0 DF  1 DF -1 DF  2 DF  3       
+Juanfran        26  6/ 7/26 | FW L :  37  -1 :  36 |   3  1.0   5 ||  45 || FW -6 FW -4 FW -2 FW -1 FW -2 FW -1 FW -5       
+J_Ekstrand      25 26/11/ 7 | DF D :  35   1 :  37 |   1  0.2   6 ||  44 || DF -2 DF -1 DF  0 DF  0 DF -2 DF  1 DF  1       
 L_Clark         33  7/27/16 | MF E :  42   2 :  44 |  -3  0.2   2 ||  43 || MF  2 MF  1 MF  1 MF  2 MF  2 AM -2 AM -3       
 A_Pirlo         23 12/25/ 7 | MF C :  33  -1 :  32 |   0  1.3   7 ||  39 || MF -1 MF -1 DM -4 MF -3 MF -1 DM -5 MF -5       
-M_Cassetti      23 24/ 8/ 6 | DF D :  32  -2 :  30 |  -1  1.4   7 ||  37 || DF -7 DF -5 DF -4 DF -6 DF -5 DF -2 DF -2     r 
-E_Cambiasso     19  6/21/10 | MF P :  25  -6 :  19 |   6  1.3   9 ||  35 || MF -6 MF -7 DM -9 MF -8 MF -6 DM-10 AM-10     r 
+M_Cassetti      23 24/ 8/ 6 | DF D :  32  -2 :  30 |  -1  1.4   7 ||  37 || DF -7 DF -5 DF -4 DF -3 DF -5 DF -2 DF -2     r 
+E_Cambiasso     19  6/21/10 | MF P :  25  -6 :  19 |   7  1.3   9 ||  35 || MF -6 MF -7 DM -9 MF -8 MF -6 DM-10 AM-10     r 
 B_Matuidi       22  6/24/15 | MF P :  29  -2 :  28 |  -1  1.3   7 ||  35 || MF -2 MF -3 MF -3 MF -2 MF -2 AM -5 AM -6     r 
 G_Sigurdsson    29  7/27/14 | MF P :  32   1 :  34 |  -3  0.3   4 ||  34 || MF  1 MF  0 DM -1 MF  1 MF  1 AM -4 AM -4       
 F_Marchetti     25    20    | GK N :  30   0 :  30 |  -6  1.0   7 ||  32 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
-A_Douglas       26  4/ 5/24 | FW L :  33  -4 :  29 |  -5  1.2   5 ||  31 || FW-10 FW -8 FW -6 FW -5 FW -5 FW -4 FW -8     r 
-L_Insigne       19  7/20/ 9 | MF P :  24  -7 :  17 |   4  1.1   9 ||  30 || MF -7 MF -8 DM-10 MF-10 MF -7 DM-10 AM-11     r 
+L_Insigne       19  7/20/ 9 | MF P :  24  -7 :  17 |   5  1.1   9 ||  31 || MF -7 MF -8 DM-10 MF-10 MF -7 DM-10 AM-11     r 
+A_Douglas       26  4/ 5/24 | FW L :  33  -4 :  29 |  -5  1.2   5 ||  31 || FW-10 FW -8 FW -6 FW -4 FW -5 FW -4 FW -8     r 
 Josh_Millwate   22  8/24/ 9 | MF P :  28  -3 :  26 |  -3  0.6   7 ||  30 || MF -3 MF -4 DM -5 MF -4 MF -3 DM -8 AM -8     r 
 D_DeRossi       27 10/26/ 4 | MF P :  30  -1 :  28 |  -5  0.7   5 ||  28 || MF -1 MF -2 DM -5 MF -3 MF -2 DM -8 MF -7       
 R_Stokes        34  8/29/ 9 | MF P :  33   2 :  36 |  -9  0.7   1 ||  28 || MF  2 MF  1 DM -1 MF  2 MF  2 DM -6 AM -4       
 M_Piazza        15    15    | GK N :  23  -7 :  15 | -12  0.8  12 ||  15 || GK -7 GK -7 GK -7 GK -7 GK -7 GK -7 GK -7     r 
-L_Matthaus      31 22/ 5/ 7 | DF L :  28  -5 :  23 | -13  0.5   3 ||  13 || DF-11 DF -8 DF -7 DF -8 DF -9 DF -5 DF -5     r 
+L_Matthaus      31 22/ 5/ 7 | DF L :  28  -5 :  23 | -13  0.5   3 ||  13 || DF-11 DF -8 DF -7 DF -5 DF -9 DF -5 DF -5     r 
 D_Pudil         35  5/26/ 9 | MF P :  30  -1 :  28 | -18  0.5   1 ||  11 || MF -1 MF -3 DM -5 MF -3 MF -2 DM -9 AM -8       
 O_Donati        34 13/22/ 6 | MF C :  30  -4 :  26 | -19  1.3   1 ||  10 || MF -4 MF -4 DM -6 DM -6 MF -5 DM -6 MF -6     r 
 Pedro           23  8/19/ 8 | MF P :  23  -8 :  15 | -16  1.1   7 ||   6 || MF -8 MF -9 DM-10 MF-11 MF -8 DM-10 AM-11     r 
-F_Dimarco       21 17/ 6/ 6 | DM L :  18 -10 :   8 | -12  1.3   8 ||   5 || DF-15 DF-13 DF-12 DF-13 DF-13 DM-10 DF-11     r 
-D_Lobozinski    23  5/ 8/18 | AM L :  21  -9 :  12 | -19  0.7   7 ||   0 || FW-14 FW-12 FW-13 FW -9 FW-10 AM -9 FW-11     r 
-T_Fox           22 17/ 7/ 6 | DM L :  19  -9 :   9 | -19  0.9   8 ||  -2 || DF-14 DF-12 DF-12 DF-12 DF-13 DM -9 DF-11     r 
-M_Aquilla       15  7/15/ 7 | MF P :  19 -12 :   6 | -21  1.0  11 ||  -4 || MF-12 MF-14 DM-15 FW-16 MF-13 DM-13 AM-15     r 
-Aleixo          33 20/ 7/10 | DM L :  23  -5 :  18 | -29  0.7   2 ||  -8 || DF-10 DF -8 DF -7 DF -8 DF -9 DM -5 DF -7     r 
+F_Dimarco       21 17/ 6/ 6 | DM L :  18 -10 :   8 | -12  1.3   8 ||   5 || DF-15 DF-13 DF-12 DF-10 DF-13 DM-10 DF-11     r 
+D_Lobozinski    23  5/ 8/18 | FW E :  20  -8 :  12 | -19  0.6   7 ||   0 || FW-14 FW-12 FW-13 FW -8 FW-10 AM -9 FW-11     r 
+T_Fox           22 17/ 7/ 6 | DM L :  19  -9 :   9 | -19  0.9   8 ||  -1 || DF-14 DF-12 DF-12 DF-10 DF-13 DM -9 DF-11     r 
+M_Aquilla       15  7/15/ 7 | MF P :  19 -12 :   6 | -21  1.0  11 ||  -4 || MF-12 MF-14 DM-15 FW-15 MF-13 DM-13 AM-15     r 
+Aleixo          33 20/ 7/10 | DM L :  23  -5 :  18 | -29  0.7   2 ||  -8 || DF-10 DF -8 DF -7 DF -5 DF -9 DM -5 DF -7     r 
 D_Vance         35  8/22/ 2 | MF P :  25  -6 :  18 | -28  1.1   1 ||  -9 || MF -6 MF -7 DM-11 MF-10 MF -7 DM-12 DM-12     r 
 J_Zimmerman     34  5/21/ 4 | MF P :  23  -8 :  16 | -29  0.4   1 || -12 || MF -8 MF -9 DM-12 MF-11 MF -9 DM-14 AM-14     r 
-S_Zhou          35 19/12/ 6 | DM L :  22  -6 :  16 | -30  1.0   1 || -12 || DF -9 DF -8 DF -7 DF -9 DF -8 DM -6 DM -7     r 
-A_Aquilani      16 13/ 4/ 6 | DM L :  14 -14 :   1 | -26  1.0  11 || -14 || DM-20 DF-18 DF-17 DF-17 DF-18 DM-14 DF-17     r 
-D_Griffiths     35  3/ 5/21 | AM L :  22  -8 :  14 | -32  0.6   1 || -17 || FW-13 FW-12 FW-11 FW -8 FW -8 AM -8 FW-10     r 
-R_Montolivo     15  7/13/ 5 | DM L :  13 -15 :  -2 | -29  1.2  11 || -19 || MF-15 MF-16 DM-18 FW-19 MF-16 DM-15 AM-17     r 
+S_Zhou          35 19/12/ 6 | DM L :  22  -6 :  16 | -30  1.0   1 || -12 || DF -9 DF -8 DF -7 DF -6 DF -8 DM -6 DM -7     r 
+A_Aquilani      16 13/ 4/ 6 | DM L :  14 -14 :   1 | -26  1.0  11 || -14 || DM-20 DF-18 DF-17 DF-14 DF-18 DM-14 DF-17     r 
+D_Griffiths     35  3/ 5/21 | FW E :  22  -7 :  14 | -32  0.6   1 || -17 || FW-13 FW-12 FW-11 FW -7 FW -8 AM -8 FW-10     r 
+R_Montolivo     15  7/13/ 5 | DM L :  13 -15 :  -2 | -29  1.2  11 || -19 || MF-15 MF-16 DM-18 DF-17 MF-16 DM-15 AM-17     r 
 
 Forced:Valdano/R_Sharp/Hugo_Sanchez/Janssen/W_Morgan/
 ** Selection **
@@ -509,24 +509,24 @@ R_Ceni          34    35    | GK N :  53  23 :  75 |  30  0.1   2 || 108 || GK 2
 A_Wisdom        34 26/21/ 7 | DM D :  43   7 :  50 |   6  1.1   2 ||  59 || DF  6 DM  5 DF  5 DM  4 DM  4 MF  6 DM  7       
 Doriva          24 20/21/ 9 | MF D :  39   1 :  40 |   3  1.2   6 ||  51 || DF  1 DM  1 DF  0 DM  0 DM  1 DM  1 MF  1     r 
 A_R_Essien      34 24/21/ 1 | DM D :  39   4 :  43 |  -2  0.6   2 ||  44 || DF  1 DM  0 DF -1 DM  0 DM -1 DM -2 DM  4     r 
-S_Howey         34 23/19/ 5 | DM D :  38   2 :  40 |  -4  1.0   2 ||  38 || DF  0 DM  0 DF  0 DM -1 DM -1 DM -1 DM  2     r 
-Hugo_Sanchez    34  9/16/24 | FW A :  46   1 :  48 |   3  0.7   1 ||  52 || FW -1 FW  0 FW  1 FW  0 FW  0 AM  1 FW -2     r 
+S_Howey         34 23/19/ 5 | DM D :  38   2 :  40 |  -4  1.0   2 ||  38 || DF  0 DM  0 DF  0 DF -1 DM -1 DM -1 DM  2     r 
+Hugo_Sanchez    34  9/16/24 | FW A :  46   1 :  48 |   3  0.7   1 ||  52 || FW -1 FW  0 FW  1 FW  1 FW  0 AM  1 FW -2     r 
 A_Johnson       35  6/25/18 | AM A :  43   0 :  43 |  -3  0.8   1 ||  42 || MF  0 AM  0 AM  0 MF  0 MF  0 AM -2 AM -4       
 R_Pires         30  9/25/17 | MF N :  33   1 :  34 |  -3  0.8   3 ||  35 || MF  1 MF  0 DM  0 MF  1 MF  1 AM -2 AM -2       
 P_Henrique      32 18/24/ 7 | MF C :  34   0 :  35 |  -2  0.4   2 ||  36 || DM  0 MF  0 DM -2 DM  0 DM  0 DM -2 DM  0     r 
 D_McHale        29 16/24/12 | MF C :  35   1 :  36 |  -1  0.7   4 ||  40 || DM  0 MF  1 DM  0 DM  0 DM  1 DM  0 MF  0     r 
 T_Manniman      35 18/24/ 5 | MF C :  34   0 :  35 | -12  0.9   1 ||  24 || DM  0 MF  0 DM -2 DM  0 DM  0 DM -2 DM  0     r 
 E_Gabor         33 17/25/ 5 | MF C :  34   0 :  35 | -12  0.6   2 ||  25 || DM  0 MF  0 DM -2 DM  0 DM  0 DM -3 DM  0       
-Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW -1 FW  0 AM  0 FW -3       
+Valdano         29  8/12/25 | FW A :  45   0 :  45 |   9  0.9   4 ||  58 || FW -3 FW -2 FW  0 FW  0 FW  0 AM  0 FW -3       
 J_P_Veron       30  9/25/15 | MF N :  32   0 :  32 |  -5  0.3   3 ||  31 || MF  0 MF -1 DM -1 MF  0 MF  0 AM -3 AM -3       
-A_Hinkel        35 25/11/10 | DF L :  33   0 :  33 | -13  0.8   1 ||  22 || DF -3 DF -2 DF -1 DF -3 DF -2 DF  0 DF -1       
-W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -4 DF -3 DF  0 DF  0       
+A_Hinkel        35 25/11/10 | DF L :  33   0 :  33 | -13  0.8   1 ||  22 || DF -3 DF -2 DF -1 DF  0 DF -2 DF  0 DF -1       
+W_Morgan        22 25/11/ 7 | DF D :  34   0 :  34 |   6  1.0   8 ||  48 || DF -3 DF -2 DF -1 DF -1 DF -3 DF  0 DF  0       
 C_McGregor      26 14/25/ 8 | MF C :  34   0 :  34 |   0  0.7   5 ||  40 || MF  0 MF  0 DM -2 DM -2 MF -1 DM -3 MF -3       
-R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -2 FW -1 AM -1 FW -4       
-B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
-G_Pique         32 25/ 9/ 6 | DF D :  34   0 :  33 |  -4  0.3   3 ||  32 || DF -5 DF -3 DF -3 DF -5 DF -4 DF -1 DF  0       
-G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -2 FW -1 FW  0 FW -3       
-Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -4 FW -4 FW -3 FW -6       
+R_Sharp         28  6/11/25 | FW A :  45  -1 :  44 |   7  1.3   4 ||  56 || FW -4 FW -3 FW -1 FW -1 FW -1 AM -1 FW -4       
+B_Draghici      29 25/10/ 5 | DF D :  34   0 :  34 |  -3  0.6   4 ||  35 || DF -4 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
+G_Pique         32 25/ 9/ 6 | DF D :  34   0 :  33 |  -4  0.3   3 ||  32 || DF -5 DF -3 DF -3 DF -2 DF -4 DF -1 DF  0       
+G_Weah          30  9/ 7/26 | FW L :  38   0 :  38 |   1  0.7   3 ||  42 || FW -5 FW -3 FW -2 FW -1 FW -1 FW  0 FW -3       
+Janssen         21  7/ 6/24 | FW L :  34  -3 :  31 |  10  0.5   8 ||  49 || FW -9 FW -6 FW -5 FW -3 FW -4 FW -3 FW -6       
 K_Shand         26    20    | GK N :  30   0 :  30 |  -4  0.9   6 ||  33 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
 
 PASSING
@@ -559,20 +559,20 @@ FW Janssen
 
 GK K_Shand
 DF P_Henrique
-DF C_McGregor
 DF D_McHale
 FW R_Pires
+FW A_Johnson
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF P_Henrique DF IF INJURED DF
 SUB DM R_Pires DM IF INJURED DM
 SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
-SUB FW R_Pires FW IF INJURED FW
+SUB FW A_Johnson FW IF INJURED FW
 
-SUB R_Sharp C_McGregor DM IF MIN = 45
-SUB W_Morgan P_Henrique DM IF MIN = 50
-SUB Janssen D_McHale DF IF MIN = 55
+SUB Janssen D_McHale DM IF MIN = 45
+SUB R_Sharp P_Henrique DM IF MIN = 50
+SUB Hugo_Sanchez A_Johnson FW IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -585,25 +585,25 @@ SUB A_Wisdom P_Henrique DF IF SCORE >= 3
 Forced:V_Yonescu/
 ** Reserves Selection **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
-M_Twaddle       36 23/13/19 | MF L :  53   5 :  58 |   0  1.8   1 ||  60 || DF  0 FW  0 DF  4 DF  0 DF  0 MF  5 MF  0     r 
-D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -11  1.2   1 ||  27 || DF -2 DF -2 DF -1 DM -4 DF -3 DM -1 DM  0     r 
-D_Mario         22  6/20/20 | AM L :  28  -2 :  26 |  -3  0.6   7 ||  31 || FW -2 AM -3 AM -2 FW -3 AM -3 AM -2 AM -6     r 
-T_Hurlock       34  7/22/18 | MF N :  30  -2 :  28 | -17  1.1   1 ||  13 || MF -2 AM -3 AM -3 AM -3 MF -2 AM -3 AM -5     r 
-E_Plummer       25 24/11/11 | DM L :  27  -1 :  27 |  -9  1.3   6 ||  25 || DF -4 DF -3 DF -1 DF -3 DF -3 DM -1 DF -2     r 
+M_Twaddle       36 23/13/19 | MF L :  53   5 :  58 |   0  1.8   1 ||  60 || DF  0 FW  0 DF  4 DF  3 DF  0 MF  5 MF  0     r 
+D_Barr          35 22/17/ 7 | DM D :  36   0 :  36 | -11  1.2   1 ||  27 || DF -2 DF -2 DF -1 DF -2 DF -3 DM -1 DM  0     r 
+D_Mario         22  6/20/20 | FW E :  27  -2 :  26 |  -3  0.5   7 ||  30 || FW -2 AM -3 AM -2 FW -2 AM -3 AM -2 AM -6     r 
+T_Hurlock       34  7/22/18 | MF N :  30  -2 :  28 | -17  1.1   1 ||  13 || MF -2 AM -3 AM -3 FW -3 MF -2 AM -3 AM -5     r 
+E_Plummer       25 24/11/11 | DM L :  27  -1 :  27 |  -9  1.3   6 ||  25 || DF -4 DF -3 DF -1 DF -1 DF -3 DM -1 DF -2     r 
 M_Oezil         35 16/20/10 | DM L :  25  -3 :  22 | -24  0.6   1 ||  -1 || DM -3 MF -4 DF -5 DM -5 DM -3 DM -3 MF -4     r 
 Moreto          23 16/20/ 7 | DM P :  29  -4 :  26 |  -6  0.8   7 ||  27 || DM -4 MF -4 DM -6 DM -5 DM -4 DM -4 DM -4     r 
 Ridoutkha       25 15/21/ 7 | MF C :  30  -4 :  26 |  -9  1.1   6 ||  24 || DM -4 MF -4 DM -6 DM -5 DM -4 DM -5 MF -5     r 
 J_Cadette       28 15/21/ 6 | MF C :  29  -5 :  25 | -12  1.0   4 ||  18 || DM -5 MF -5 DM -7 DM -6 DM -5 DM -6 DM -6     r 
-I_Hack          30 23/ 8/10 | DF L :  30  -3 :  28 |  -9  0.4   4 ||  22 || DF -7 DF -5 DF -4 DF -6 DF -6 DF -3 DF -4     r 
+I_Hack          30 23/ 8/10 | DF L :  30  -3 :  28 |  -9  0.4   4 ||  22 || DF -7 DF -5 DF -4 DF -3 DF -6 DF -3 DF -4     r 
 M_Antonio       25 13/22/ 6 | MF C :  29  -5 :  25 | -11  0.9   6 ||  20 || MF -5 MF -5 DM -7 DM -6 MF -5 DM -7 MF -7     r 
-J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DM -8 DM -7 DM -6 DM -7     r 
+J_Milburn       22 15/18/ 7 | DM L :  22  -6 :  16 | -12  0.8   7 ||  11 || DM -6 DM -7 DF -8 DF -8 DM -7 DM -6 DM -7     r 
 D_Gogean        17    20    | GK N :  30   0 :  30 |   3  0.2  11 ||  44 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
 A_Ghita         17    18    | GK N :  27  -3 :  24 |  -3  0.5  11 ||  32 || GK -3 GK -3 GK -3 GK -3 GK -3 GK -3 GK -3     r 
-C_Robinson      20  4/ 6/21 | AM L :  23  -7 :  15 |  -1  1.0   8 ||  23 || FW-12 FW-11 FW-10 FW -8 FW -7 AM -7 FW-10     r 
-C_Sandulescu    20  6/ 8/18 | AM L :  21  -8 :  13 |  -4  1.0   8 ||  18 || FW-13 FW-12 FW-13 FW -9 FW -9 AM -8 FW-10     r 
-I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -6  1.2   9 ||  15 || DF-13 DF-11 DF-11 DF-11 DF-12 DM -9 DF-10     r 
-V_Yonescu       19 20/ 4/ 6 | DF L :  25  -8 :  17 |   4  1.1   9 ||  31 || DF-14 DF-11 DF-10 DF-11 DF-11 DF -8 DF -8     r 
-I_Chirila       19  6/ 5/18 | AM L :  20 -10 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW-10 FW-10 AM-10 FW-11     r 
+C_Robinson      20  4/ 6/21 | FW E :  22  -7 :  15 |   0  1.0   8 ||  24 || FW-12 FW-11 FW-10 FW -7 FW -7 AM -7 FW-10     r 
+C_Sandulescu    20  6/ 8/18 | FW E :  21  -8 :  12 |  -3  0.9   8 ||  18 || FW-13 FW-12 FW-13 FW -8 FW -9 AM -8 FW-10     r 
+I_Muresanu      20 18/ 7/ 6 | DM L :  19  -9 :  11 |  -5  1.2   9 ||  16 || DF-13 DF-11 DF-11 DF -9 DF-12 DM -9 DF-10     r 
+V_Yonescu       19 20/ 4/ 6 | DF E :  22  -8 :  14 |   1  1.0   9 ||  25 || DF-14 DF-11 DF-10 DF -8 DF-11 DF -8 DF -8     r 
+I_Chirila       19  6/ 5/18 | FW E :  19  -9 :  10 |  -3  0.8   9 ||  17 || FW-16 FW-13 FW-15 FW -9 FW-10 AM-10 FW-11     r 
 
 PASSING
 GK D_Gogean
@@ -646,14 +646,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Robinson FW IF INJURED FW
 
-SUB Ridoutkha M_Antonio DM IF MIN = 60
-SUB V_Yonescu C_Robinson FW IF MIN = 70
-SUB J_Cadette I_Hack DF IF MIN = 75
-TACTIC A IF MIN >= 70 SCORE <= -2
+SUB V_Yonescu I_Hack DF IF MIN = 45
+SUB J_Cadette M_Antonio DM IF MIN = 60
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 53 SCORE >= 2
+TACTIC D IF MIN >= 54 SCORE >= 2
 
 SUB Moreto M_Antonio DM IF SCORE <= -3
 SUB Moreto M_Antonio DM IF SCORE >= 3
