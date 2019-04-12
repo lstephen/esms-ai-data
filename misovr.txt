@@ -503,7 +503,7 @@ FW C_Owen
 GK A_Kapustov
 GK O_Devers
 DF X_Cullie
-FW I_Drover
+MF I_Drover
 FW G_Mordino
 
 SUB GK A_Kapustov GK IF INJURED GK
@@ -514,13 +514,11 @@ SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
 SUB P_Druery X_Cullie DF IF MIN = 45
-SUB O_Burgin I_Drover MF IF MIN = 55
-CHANGEPOS I_Drover DM IF MIN = 60
-SUB M_Tensfeldt G_Mordino FW IF MIN = 70
-CHANGEPOS C_Owen AM IF MIN = 75
-CHANGEPOS C_Owen MF IF MIN = 78
-CHANGEPOS Alan_Michael DM IF MIN = 81
-TACTIC A IF MIN >= 60 SCORE <= -2
+SUB D_Van_Ry G_Mordino MF IF MIN = 60
+SUB M_Tensfeldt I_Drover DM IF MIN = 65
+CHANGEPOS I_Drover MF IF MIN = 70
+CHANGEPOS Alan_Michael DM IF MIN = 75
+TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
 TACTIC L IF MIN >= 46 SCORE = 1
@@ -592,10 +590,8 @@ SUB MF R_Amanar MF IF INJURED MF
 SUB AM R_Amanar AM IF INJURED AM
 SUB FW R_Amanar FW IF INJURED FW
 
-SUB L_Gabor P_Lazar DF IF MIN = 70
-SUB E_Silivasi R_Amanar DF IF MIN = 81
-SUB M_Parvulescu R_Georghiou DF IF MIN = 87
-CHANGEPOS R_Amanar MF IF MIN = 90
+SUB E_Silivasi R_Georghiou DF IF MIN = 60
+SUB M_Parvulescu R_Amanar MF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
