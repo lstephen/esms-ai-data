@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     8     1     6 
+                       Count     5    18     2     9     1     6 
                          Max    38    42    38    37    39    40 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    14    26          16    22 
                    LONG_BALL    23    18          13          23 
                      PASSING    23    14                      16 
-                    EUROPEAN    23    14    22    18    19    19 
+                    EUROPEAN    23    14    22    18    19       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -499,27 +499,29 @@ FW D_Van_Ry
    Overall     265     215     285     268     261     288     252 
 
 GK O_Devers
-DF S_Baratheon
 DF X_Cullie
 DF O_Bucsa
+DF A_Briden
 FW G_Mordino
 
 SUB GK O_Devers GK IF INJURED GK
-SUB DF S_Baratheon DF IF INJURED DF
-SUB DM G_Mordino DM IF INJURED DM
-SUB MF G_Mordino MF IF INJURED MF
-SUB AM G_Mordino AM IF INJURED AM
+SUB DF X_Cullie DF IF INJURED DF
+SUB DM A_Briden DM IF INJURED DM
+SUB MF A_Briden MF IF INJURED MF
+SUB AM A_Briden AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB P_Druery X_Cullie DF IF MIN = 45
-SUB C_Stirbei S_Baratheon DF IF MIN = 55
-SUB X_Cullie G_Mordino DM IF MIN = 87
-CHANGEPOS Alan_Michael DF IF MIN = 90
+SUB C_Owen G_Mordino DM IF MIN = 65
+CHANGEPOS I_Drover FW IF MIN = 70
+SUB I_Drover X_Cullie DM IF MIN = 75
+CHANGEPOS G_Mordino FW IF MIN = 78
+SUB P_Druery A_Briden DM IF MIN = 81
+CHANGEPOS Alan_Michael DF IF MIN = 84
 TACTIC A IF MIN >= 12 SCORE <= -2
-TACTIC A IF MIN >= 80 SCORE = -1
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 58 SCORE >= 2
+TACTIC C IF MIN >= 88 SCORE = 1
+TACTIC C IF MIN >= 54 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/I_Kazaku/E_Petrescu/N_Morariu/
