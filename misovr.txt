@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     8     1     7 
+                       Count     5    18     2     8     1     6 
                          Max    38    42    38    37    39    40 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    14    26          16    22 
                    LONG_BALL    23    18          13          23 
                      PASSING    23    14                      16 
-                    EUROPEAN    23    14    22    18    19    19 
+                    EUROPEAN    23    14    22    18    21       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -511,17 +511,15 @@ SUB MF A_Briden MF IF INJURED MF
 SUB AM A_Briden AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Owen G_Mordino DM IF MIN = 65
-CHANGEPOS I_Drover FW IF MIN = 70
-SUB I_Drover X_Cullie DM IF MIN = 75
-CHANGEPOS G_Mordino FW IF MIN = 78
-SUB P_Druery A_Briden DM IF MIN = 81
-CHANGEPOS Alan_Michael DF IF MIN = 84
-TACTIC A IF MIN >= 12 SCORE <= -2
+SUB C_Stirbei X_Cullie DF IF MIN = 50
+SUB C_Owen G_Mordino FW IF MIN = 70
+SUB P_Druery A_Briden DM IF MIN = 75
+CHANGEPOS I_Drover DF IF MIN = 78
+TACTIC A IF MIN >= 81 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 88 SCORE = 1
-TACTIC C IF MIN >= 54 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 59 SCORE >= 2
 
 
 Forced:I_Tatarescu/D_Lungu/I_Kazaku/E_Petrescu/N_Morariu/
@@ -589,8 +587,8 @@ SUB MF R_Amanar MF IF INJURED MF
 SUB AM R_Amanar AM IF INJURED AM
 SUB FW R_Amanar FW IF INJURED FW
 
-SUB M_Parvulescu R_Amanar FW IF MIN = 55
 SUB E_Silivasi R_Georghiou DF IF MIN = 60
+SUB M_Parvulescu R_Amanar FW IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
