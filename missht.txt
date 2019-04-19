@@ -1,33 +1,32 @@
 mis
-P
+D
 
-GK A_Kapustov
+GK Q_Bonnette
 DF R_Figueiredo
-DF M_Tensfeldt
-DF O_Burgin
 DF C_Stirbei
 DF P_Druery
-DM Alan_Michael
-DM I_Drover
-FW R_Gelman
+MF G_C_Moore
+MF M_Tensfeldt
+MF O_Burgin
+MF Alan_Michael
+AM R_Gelman
+AM D_Van_Ry
 FW C_Owen
-FW D_Van_Ry
 
+GK A_Kapustov
 GK O_Devers
-DF X_Cullie
-DF O_Bucsa
-DF A_Briden
-FW G_Mordino
+DF S_Baratheon
+MF X_Cullie
+AM G_Mordino
 
 PK: R_Gelman
 AGG 20
 
-SUB 5 13 DF IF MIN = 50
-SUB 10 16 FW IF MIN = 70
-SUB 6 15 DM IF MIN = 75
-CHANGEPOS 8 DF IF MIN = 78
-TACTIC A IF MIN >= 81 SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 59 SCORE >= 2
+SUB 4 14 DF IF MIN = 50
+SUB 10 15 MF IF MIN = 55
+SUB 11 16 FW IF MIN = 70
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC D IF SCORE = 0
+TACTIC D IF SCORE = 1
+TACTIC D IF SCORE >= 2
