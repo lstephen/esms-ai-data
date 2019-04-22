@@ -17,13 +17,13 @@ GK C_Ionita
 DF R_Georghiou
 DF P_Lazar
 MF J_Hogue
-FW F_Pacuraru
+AM F_Pacuraru
 
 PK: V_Dobre
 AGG 20
 
+SUB 11 16 FW IF MIN = 50
 SUB 3 13 DF IF MIN = 55
-SUB 11 16 FW IF MIN = 60
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
