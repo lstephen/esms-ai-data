@@ -1,32 +1,31 @@
 tthr
-C
+A
 
 GK D_Gogean
 DF E_Plummer
+DF I_Hack
 DF D_Barr
-DF V_Yonescu
-DM Moreto
+DF R_Da_Silva
+DF Moreto
 DM Ridoutkha
-DM J_Cadette
-MF T_Hurlock
-MF M_Antonio
-MF D_Mario
+AM T_Hurlock
+AM D_Mario
+FW Hugo_Sanchez
 FW Janssen
 
 GK A_Ghita
-DF I_Hack
-DM J_Milburn
+DM M_Antonio
+DM J_Cadette
 FW C_Robinson
-FW C_Sandulescu
+FW L_A_Suarez
 
-PK: Janssen
+PK: Hugo_Sanchez
 AGG 20
 
-SUB 10 14 MF IF MIN = 45
-SUB 4 13 DF IF MIN = 50
-SUB 11 15 FW IF MIN = 81
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 36 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
+SUB 11 13 DM IF MIN = 45
+SUB 7 14 DM IF MIN = 65
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
