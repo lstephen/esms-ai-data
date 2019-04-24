@@ -368,7 +368,7 @@ DEFENSIVE        30  34  36  37  31  27
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                34          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    25 
+                    EUROPEAN    27    22    21    33    22    19 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
@@ -583,7 +583,7 @@ SUB MF J_P_Veron MF IF INJURED MF
 SUB AM J_P_Veron AM IF INJURED AM
 SUB FW Valdano FW IF INJURED FW
 
-SUB S_Artenie Valdano FW IF MIN = 50
+SUB S_Artenie Valdano FW IF MIN = 55
 SUB C_McGregor J_P_Veron MF IF MIN = 60
 SUB S_Howey W_Morgan DF IF MIN = 75
 TACTIC P IF SCORE <= -2
@@ -656,9 +656,9 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW C_Robinson FW IF INJURED FW
 
+SUB D_Mario J_Milburn MF IF MIN = 45
 SUB V_Yonescu I_Hack DF IF MIN = 50
-SUB D_Mario J_Milburn MF IF MIN = 55
-SUB Janssen C_Robinson FW IF MIN = 70
+SUB Janssen C_Robinson FW IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
