@@ -362,7 +362,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  29  31  30  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2     8     1     7 
+                       Count     5    18     2     8     1     6 
                          Max    38    42    38    37    38    39 
                   1st XI (N)    38    35    34                33 
                   1st XI (P)    38    38    30                37 
@@ -375,7 +375,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    23    15    26    17    17    22 
                    LONG_BALL    23    19          13          23 
                      PASSING    23    15                      17 
-                    EUROPEAN    23    15    22    19    19    19 
+                    EUROPEAN    23    15    22    19    21       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -509,13 +509,15 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Stirbei S_Baratheon DF IF MIN = 45
-SUB C_Owen G_Mordino FW IF MIN = 60
+SUB C_Stirbei G_Mordino DF IF MIN = 50
+CHANGEPOS G_Mordino FW IF MIN = 75
+CHANGEPOS D_Van_Ry DF IF MIN = 78
+SUB D_Van_Ry S_Baratheon DF IF MIN = 81
 TACTIC A IF MIN >= 28 SCORE <= -2
-TACTIC P IF SCORE = -1
+TACTIC A IF MIN >= 90 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 65 SCORE >= 2
+TACTIC L IF MIN >= 57 SCORE >= 2
 
 
 Forced:I_Tatarescu/I_Kazaku/E_Petrescu/N_Morariu/M_Parvulescu/
@@ -582,13 +584,13 @@ SUB MF F_Owen MF IF INJURED MF
 SUB AM F_Owen AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 45
-SUB E_Silivasi P_Lazar DF IF MIN = 70
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
+SUB E_Silivasi P_Lazar DF IF MIN = 65
 SUB L_Gabor R_Georghiou DF IF MIN = 87
-TACTIC A IF MIN >= 70 SCORE <= -2
+TACTIC A IF MIN >= 65 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 68 SCORE >= 2
+TACTIC D IF MIN >= 67 SCORE >= 2
 
 
