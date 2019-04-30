@@ -11,22 +11,21 @@ DM N_Parasca
 DM M_Parvulescu
 DM I_Kazaku
 FW V_Dobre
-FW R_Amanar
+FW D_Lungu
 
 GK C_Ionita
 DF R_Georghiou
 DF P_Lazar
-DF F_Owen
-FW F_Pacuraru
+DF T_Gheorghiu
+FW R_Amanar
 
-PK: V_Dobre
+PK: D_Lungu
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 4 14 DF IF MIN = 70
-SUB 5 13 DF IF MIN = 87
-TACTIC A IF MIN >= 70 SCORE <= -2
+SUB 8 16 FW IF MIN = 60
+SUB 4 13 DF IF MIN = 65
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 68 SCORE >= 2
+TACTIC D IF MIN >= 78 SCORE >= 2
