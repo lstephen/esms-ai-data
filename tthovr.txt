@@ -376,7 +376,7 @@ DEFENSIVE        30  34  36  37  31  27
               COUNTER_ATTACK    27    23    28    30    34    24 
                    LONG_BALL    27                34          26 
                      PASSING    27    25                      23 
-                    EUROPEAN    27    22    21    33    19    19 
+                    EUROPEAN    27    22    21    33    22    25 
 
 ** /for_auction.txt **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
@@ -597,24 +597,24 @@ FW S_Artenie
 
 GK K_Shand
 DF A_Hinkel
-DF W_Morgan
 FW J_P_Veron
 FW Valdano
+FW R_Sharp
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF W_Morgan DF IF INJURED DF
+SUB DF A_Hinkel DF IF INJURED DF
 SUB DM J_P_Veron DM IF INJURED DM
 SUB MF J_P_Veron MF IF INJURED MF
 SUB AM J_P_Veron AM IF INJURED AM
-SUB FW Valdano FW IF INJURED FW
+SUB FW R_Sharp FW IF INJURED FW
 
 SUB S_Artenie Valdano FW IF MIN = 45
-SUB C_McGregor J_P_Veron MF IF MIN = 60
-SUB S_Howey W_Morgan DF IF MIN = 84
+SUB R_Pires J_P_Veron MF IF MIN = 60
+SUB Valdano R_Sharp FW IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 89 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 51 SCORE >= 2
 
 
@@ -672,10 +672,10 @@ FW Janssen
    Overall     259     227     282     265     227     282     246 
 
 GK A_Ghita
-DF J_Milburn
 DM M_Antonio
 DM J_Cadette
 FW C_Robinson
+FW L_A_Suarez
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF J_Cadette DF IF INJURED DF
@@ -684,13 +684,12 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Robinson FW IF INJURED FW
 
-SUB Janssen J_Milburn DM IF MIN = 50
-SUB Ridoutkha M_Antonio DM IF MIN = 60
-SUB D_Mario J_Cadette DM IF MIN = 75
-TACTIC P IF MIN >= 75 SCORE <= -2
-TACTIC P IF MIN >= 75 SCORE = -1
+SUB Janssen M_Antonio DM IF MIN = 45
+SUB Ridoutkha J_Cadette DM IF MIN = 65
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 70 SCORE = 1
-TACTIC D IF MIN >= 46 SCORE >= 2
+TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
 
 
