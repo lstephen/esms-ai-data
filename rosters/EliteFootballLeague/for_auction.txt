@@ -1,3 +1,4 @@
+Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
 P_A_Kluivert  35 hol  2  8  8 18 27 300  24  61 694
 Forward06    35  por 2  6  12 25 33 400 400 400 400
 Keeper03     33  srb 23 3  3  2  41 800 800 800 800
@@ -96,7 +97,6 @@ J_E_Maurice   33 hti  2  5  5 18 23 700 810 895 581
 G_Southward   27 eng  1 15 11  6 31 400 354  88 629
 F_Yeda        23 arg  3  9  6 18 32 300 300 324 730
 Midfielder02 31  bos 3  11 26 10 21 300 300 300 300
-P_Dummett     27 wal  3 23  9 11 13 800 826 812  12
 P_Kennedy     30 sco  2  7 25  7 21 400 400 400 400
 Defender03   24  slo 1  21 6  6  31 800 800 800 800
 Defender01   29  cam 2  26 9  8  41 600 600 600 600
@@ -107,14 +107,18 @@ M_Amini       28 aus  1 20 10 10 22 800 133 445 168
 K_Zuma        30 fra  3 24  7  7 33 400 919  32 689
 P_Gualtieri   33 ita  2 26  6  8 44 300 255 578 257
 Guilherme     32 bra  1 25  3  8 17 500 359 566 634
-Papakoli_Diop 36 nig  2 28 16  8 24 290 595 846 887
 Defender03   20  ice 2  20 10 9  21 500 500 500 500
 G_Taggert     26 ire  2 24  7  8 32 500 677 421 294
 W_Reed        28 eng  1 22  8  7 42 400 816 402  23
-F_Ousama      22 mex  2  6  7 23 30 400 680 501 167
-M_Lopez       25 arg  2  7 24  9 32 500  13 609 310
 R_Descamps    31 fra 21  6  6  6 11 928 520 500 500
-D_Bunting     35 sco  1  2  8 26 31 300 508 630 910
-Defender02   17  cze 2  17 5  9  41 300 300 300 300
-T_A_Flo       34 nor  2  9  7 26 41 500 556 566 676
 E_Stranger    27 nig  2  9  8 28 20 674 631 262 341
+Pepe_Reina    37 spa 27  2  1  1 32 630 500 500 500
+R_Pedro       22 por  2  6  8 22 21 500 626 211 129
+M_Mandzukic   27 cro  1  8  8 25 10 500 245 295  61
+A_Gunnarsson  35 ice  2  8 31 18 34 300 955 602 562
+W_Zhao        23 chi  2  6  6 21 21 600 690 719 897
+I_Hume        21 eng  1  6  8 18 21 800 780 862 885
+G_Hutopila    26 rom  2  9 18 13 40 300 492 743 893
+G_Loovens     33 hol  3 22 10  6 30 300 374  80 148
+T_A_Adams     32 eng  2 20  8  7 33 300 353 931 216
+M_Rose        17 eng  1 20  7  7 31 500 500 500 500
