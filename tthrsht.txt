@@ -9,26 +9,26 @@ DM D_Barr
 DM Moreto
 DM Ridoutkha
 MF T_Hurlock
-MF M_Antonio
 MF D_Mario
+MF Hugo_Sanchez
 FW Janssen
 
 GK A_Ghita
 DM R_Da_Silva
 DM J_Cadette
-DM J_Milburn
-AM Hugo_Sanchez
+MF M_Antonio
+AM M_Truk
 
-PK: Janssen
+PK: Hugo_Sanchez
 AGG 20
 
+SUB 10 15 MF IF MIN = 45
 SUB 4 13 DF IF MIN = 50
-SUB 10 14 MF IF MIN = 55
-SUB 11 16 FW IF MIN = 60
+SUB 9 14 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 35 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
-SUB 6 14 DM IF SCORE <= -3
-SUB 6 14 DM IF SCORE >= 3
+TACTIC D IF MIN >= 40 SCORE = 1
+TACTIC D IF MIN >= 20 SCORE >= 2
+SUB 6 15 DM IF SCORE <= -3
+SUB 6 15 DM IF SCORE >= 3
