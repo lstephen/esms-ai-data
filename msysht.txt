@@ -1,5 +1,5 @@
 msy
-A
+P
 
 GK S_Manescu
 DF E_Petrescu
@@ -9,8 +9,8 @@ DF I_Tatarescu
 DF I_Kazaku
 DM N_Parasca
 DM M_Parvulescu
-AM V_Dobre
-AM D_Lungu
+FW V_Dobre
+FW D_Lungu
 FW R_Amanar
 
 GK C_Ionita
@@ -22,11 +22,10 @@ FW F_Pacuraru
 PK: D_Lungu
 AGG 20
 
-SUB 6 14 DF IF MIN = 65
-SUB 4 15 DF IF MIN = 70
-SUB 2 13 DF IF MIN = 90
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC C IF MIN >= 8 SCORE = 1
-TACTIC D IF MIN >= 34 SCORE >= 2
+SUB 6 13 DF IF MIN = 50
+SUB 4 14 DF IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 78 SCORE >= 2
