@@ -2,10 +2,10 @@ tthr
 P
 
 GK D_Gogean
+DF I_Hack
 DF D_Barr
 DF R_Da_Silva
 DF V_Yonescu
-DF Moreto
 DF Ridoutkha
 DM M_Antonio
 DM J_Cadette
@@ -14,21 +14,20 @@ FW D_Mario
 FW Janssen
 
 GK A_Ghita
-DF I_Hack
 DF J_Milburn
 FW Hugo_Sanchez
 FW M_Truk
+FW L_A_Suarez
 
 PK: Janssen
 AGG 20
 
-SUB 4 14 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 60
-SUB 6 13 DF IF MIN = 70
+SUB 11 15 FW IF MIN = 45
+SUB 5 13 DF IF MIN = 50
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 73 SCORE >= 2
-SUB 5 13 DF IF SCORE <= -3
-SUB 5 13 DF IF SCORE >= 3
+TACTIC D IF MIN >= 74 SCORE >= 2
+SUB 9 14 FW IF SCORE <= -3
+SUB 9 14 FW IF SCORE >= 3

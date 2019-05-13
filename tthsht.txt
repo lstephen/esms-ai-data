@@ -1,34 +1,34 @@
 tth
-P
+E
 
 GK R_Ceni
-DF A_Wisdom
 DF A_Hinkel
 DF W_Morgan
-DF A_R_Essien
-DF P_Henrique
+DF E_Plummer
+DM A_Wisdom
 DM E_Gabor
-DM C_McGregor
-DM D_McHale
+DM P_Henrique
 MF R_Pires
+MF C_McGregor
+MF D_McHale
 FW Valdano
 
 GK K_Shand
-DF B_Draghici
-DF S_Howey
-FW J_P_Veron
-FW S_Artenie
+DM G_Pique
+DM A_R_Essien
+MF J_P_Veron
+AM S_Artenie
 
 PK: Valdano
 AGG 20
 
 SUB 11 16 FW IF MIN = 45
-SUB 4 15 MF IF MIN = 60
-SUB 8 13 DF IF MIN = 70
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 83 SCORE = 1
-TACTIC D IF MIN >= 46 SCORE >= 2
-SUB 2 13 DF IF SCORE <= -3
-SUB 2 13 DF IF SCORE >= 3
+SUB 4 14 DF IF MIN = 50
+SUB 10 15 MF IF MIN = 70
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 30 SCORE = 1
+TACTIC D IF MIN >= 15 SCORE >= 2
+SUB 5 15 DM IF SCORE <= -3
+SUB 5 15 DM IF SCORE >= 3
