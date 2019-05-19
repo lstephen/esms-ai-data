@@ -14,17 +14,17 @@ MF D_McHale
 FW Valdano
 
 GK K_Shand
+DM G_Pique
 DM A_R_Essien
-DM Moreto
 MF J_P_Veron
 AM S_Artenie
 
 PK: Valdano
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 7 13 DM IF MIN = 55
-SUB 10 14 MF IF MIN = 75
+SUB 8 15 MF IF MIN = 50
+SUB 11 16 FW IF MIN = 55
+SUB 7 14 DM IF MIN = 60
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
