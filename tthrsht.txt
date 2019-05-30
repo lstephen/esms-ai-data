@@ -1,33 +1,33 @@
 tthr
-L
+P
 
-GK D_Gogean
+GK C_Freamon
+DF E_Plummer
 DF I_Hack
+DF D_Barr
 DF R_Da_Silva
-DF K_Layvin
-MF E_Plummer
-MF D_Barr
-MF T_Hurlock
-MF Ridoutkha
-MF D_Mario
-MF Hugo_Sanchez
+DF Ridoutkha
+DM J_Cadette
+AM T_Hurlock
+FW D_Mario
+FW Hugo_Sanchez
 FW Janssen
 
-GK A_Ghita
-MF V_Yonescu
-MF M_Antonio
-MF J_Milburn
+GK D_Gogean
+DF K_Layvin
+DF M_Antonio
+DF J_Milburn
 FW L_A_Suarez
 
 PK: Janssen
 AGG 20
 
-SUB 9 14 MF IF MIN = 45
-SUB 8 15 MF IF MIN = 55
-TACTIC E IF MIN >= 18 SCORE <= -2
-TACTIC E IF MIN >= 35 SCORE = -1
-TACTIC L IF SCORE = 0
-TACTIC L IF SCORE = 1
-TACTIC L IF SCORE >= 2
-SUB 8 14 MF IF SCORE <= -3
-SUB 8 14 MF IF SCORE >= 3
+SUB 11 14 DM IF MIN = 45
+SUB 3 13 DF IF MIN = 60
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 61 SCORE >= 2
+SUB 6 13 DF IF SCORE <= -3
+SUB 6 13 DF IF SCORE >= 3
