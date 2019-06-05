@@ -1,34 +1,34 @@
 tth
-P
+E
 
 GK R_Ceni
-DF A_Wisdom
-DF W_Morgan
-DF A_R_Essien
-DF S_Howey
-DF Doriva
-DM P_Henrique
-MF J_P_Veron
-FW S_Artenie
-FW Valdano
+DF A_Hinkel
+DF S_M_Cretin
+DF E_Plummer
+DM A_Wisdom
+DM E_Gabor
+DM Doriva
+MF R_Pires
+MF C_McGregor
+MF D_McHale
 FW R_Sharp
 
 GK K_Shand
-DF A_Hinkel
-DF C_McGregor
-DF D_McHale
-DF Moreto
+DM S_Howey
+DM P_Henrique
+MF J_P_Veron
+AM S_Artenie
 
-PK: S_Artenie
+PK: R_Sharp
 AGG 20
 
-SUB 11 16 DM IF MIN = 45
-SUB 10 14 DM IF MIN = 50
-SUB 3 13 DF IF MIN = 65
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 86 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
-SUB 2 13 DF IF SCORE <= -3
-SUB 2 13 DF IF SCORE >= 3
+SUB 11 16 FW IF MIN = 50
+SUB 10 14 MF IF MIN = 60
+SUB 3 13 DF IF MIN = 75
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 30 SCORE = 1
+TACTIC D IF MIN >= 15 SCORE >= 2
+SUB 7 15 DM IF SCORE <= -3
+SUB 7 15 DM IF SCORE >= 3
