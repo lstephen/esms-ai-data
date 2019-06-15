@@ -376,7 +376,7 @@ LONG_BALL        29  38  31  33  30  31
 DEFENSIVE        29  27  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2    13     2     8 
+                       Count     5    18     2    13     2     9 
                          Max    38    40    38    37    37    38 
                   1st XI (N)    38    32    30                34 
                   1st XI (P)    38    36    28                37 
@@ -389,7 +389,7 @@ DEFENSIVE        29  27  29  31  30  27
               COUNTER_ATTACK    24    15    22    17    17    22 
                    LONG_BALL    24    19          13          23 
                      PASSING    24    15                      17 
-                    EUROPEAN    24    15    22    19    22       
+                    EUROPEAN    24    15    22    19    19       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
