@@ -376,7 +376,7 @@ LONG_BALL        29  38  31  33  30  31
 DEFENSIVE        29  27  29  31  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    18     2    13     2     9 
+                       Count     5    18     2    13     2     8 
                          Max    38    40    38    37    37    38 
                   1st XI (N)    38    32    30                34 
                   1st XI (P)    38    36    28                37 
@@ -389,7 +389,7 @@ DEFENSIVE        29  27  29  31  30  27
               COUNTER_ATTACK    24    15    22    17    17    22 
                    LONG_BALL    24    19          13          23 
                      PASSING    24    15                      17 
-                    EUROPEAN    24    15    22    19    19       
+                    EUROPEAN    24    15    22    19    19    19 
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -535,17 +535,16 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-CHANGEPOS Alan_Michael DM IF MIN = 45
-SUB C_Stirbei D_Van_Ry DF IF MIN = 50
-SUB I_Drover G_Mordino MF IF MIN = 55
-CHANGEPOS G_C_Moore DF IF MIN = 60
-CHANGEPOS D_Van_Ry MF IF MIN = 65
-CHANGEPOS O_Bravo DM IF MIN = 70
-SUB P_Deusner C_Owen MF IF MIN = 78
-TACTIC A IF MIN >= 70 SCORE <= -2
+CHANGEPOS O_Bravo DM IF MIN = 45
+CHANGEPOS G_C_Moore DF IF MIN = 50
+SUB C_Stirbei G_Mordino MF IF MIN = 55
+CHANGEPOS Alan_Michael DM IF MIN = 60
+SUB I_Drover D_Van_Ry MF IF MIN = 65
+SUB R_Gelman C_Owen FW IF MIN = 81
+TACTIC A IF MIN >= 60 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC L IF MIN >= 60 SCORE = 1
+TACTIC L IF MIN >= 66 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
@@ -617,14 +616,13 @@ SUB MF Y_Tutas MF IF INJURED MF
 SUB AM Y_Tutas AM IF INJURED AM
 SUB FW L_Puype FW IF INJURED FW
 
-SUB R_Amanar L_Puype FW IF MIN = 60
-SUB V_Cubine E_Silivasi DF IF MIN = 65
-CHANGEPOS E_Petrescu MF IF MIN = 70
-SUB L_Gabor R_Georghiou DF IF MIN = 84
+SUB R_Amanar L_Puype FW IF MIN = 45
+SUB L_Gabor R_Georghiou DF IF MIN = 70
+SUB E_Petrescu E_Silivasi DF IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 70 SCORE = 1
+TACTIC D IF MIN >= 67 SCORE = 1
 TACTIC D IF MIN >= 31 SCORE >= 2
 
 
