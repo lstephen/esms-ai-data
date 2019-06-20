@@ -389,7 +389,7 @@ DEFENSIVE        29  27  29  31  30  27
               COUNTER_ATTACK    24    15    22    17    17    22 
                    LONG_BALL    24    19          13          23 
                      PASSING    24    15                      17 
-                    EUROPEAN    24    15    22    19    22       
+                    EUROPEAN    24    15    22    19    19    19 
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -535,17 +535,17 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-CHANGEPOS Alan_Michael DM IF MIN = 45
-SUB I_Drover G_Mordino MF IF MIN = 50
-SUB O_Burgin D_Van_Ry MF IF MIN = 60
-CHANGEPOS O_Bravo DM IF MIN = 65
+SUB P_Deusner G_Mordino MF IF MIN = 50
+CHANGEPOS Alan_Michael DM IF MIN = 55
+SUB O_Burgin C_Owen MF IF MIN = 65
+CHANGEPOS I_Drover DM IF MIN = 70
 CHANGEPOS G_C_Moore DF IF MIN = 75
-SUB C_Stirbei C_Owen MF IF MIN = 78
-CHANGEPOS P_Deusner DM IF MIN = 81
-TACTIC A IF MIN >= 65 SCORE <= -2
+CHANGEPOS O_Bravo DM IF MIN = 78
+SUB C_Stirbei D_Van_Ry MF IF MIN = 81
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC L IF MIN >= 60 SCORE = 1
+TACTIC L IF MIN >= 50 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
@@ -607,8 +607,8 @@ FW R_Amanar
 GK C_Ionita
 DM E_Silivasi
 MF Y_Tutas
+FW F_Pacuraru
 AM L_Puype
-AM F_Pacuraru
 
 SUB GK C_Ionita GK IF INJURED GK
 SUB DF E_Silivasi DF IF INJURED DF
@@ -617,10 +617,9 @@ SUB MF Y_Tutas MF IF INJURED MF
 SUB AM Y_Tutas AM IF INJURED AM
 SUB FW L_Puype FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 50
-SUB V_Cubine E_Silivasi DF IF MIN = 70
-CHANGEPOS E_Petrescu MF IF MIN = 75
-SUB E_Petrescu L_Puype MF IF MIN = 78
+SUB L_Gabor E_Silivasi DF IF MIN = 50
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
+SUB V_Cubine L_Puype MF IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
