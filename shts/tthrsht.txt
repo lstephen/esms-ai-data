@@ -15,16 +15,16 @@ FW M_Truk
 
 GK D_Gogean
 DF I_Hack
+DF T_XGhiuri
 DF K_Layvin
 FW D_Mario
-FW Janssen
 
 PK: Hugo_Sanchez
 AGG 20
 
 SUB 4 13 DF IF MIN = 45
-SUB 11 16 FW IF MIN = 55
-SUB 10 15 FW IF MIN = 75
+SUB 11 16 FW IF MIN = 50
+SUB 3 14 DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0

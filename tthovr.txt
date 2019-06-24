@@ -625,9 +625,9 @@ FW S_Artenie
    Overall     314     276     323     318     262     340     303 
 
 GK K_Shand
-DF A_Hinkel
 DF W_Morgan
 DF C_McGregor
+FW R_Sharp
 FW Valdano
 
 SUB GK K_Shand GK IF INJURED GK
@@ -635,10 +635,10 @@ SUB DF W_Morgan DF IF INJURED DF
 SUB DM C_McGregor DM IF INJURED DM
 SUB MF C_McGregor MF IF INJURED MF
 SUB AM C_McGregor AM IF INJURED AM
-SUB FW Valdano FW IF INJURED FW
+SUB FW R_Sharp FW IF INJURED FW
 
-SUB R_Pires Valdano FW IF MIN = 65
-SUB S_Artenie C_McGregor DM IF MIN = 70
+SUB R_Pires C_McGregor DM IF MIN = 55
+SUB S_Artenie R_Sharp FW IF MIN = 60
 SUB S_Howey W_Morgan DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
@@ -704,26 +704,26 @@ FW M_Truk
 
 GK D_Gogean
 DF I_Hack
+DF T_XGhiuri
 DF K_Layvin
 FW D_Mario
-FW Janssen
 
 SUB GK D_Gogean GK IF INJURED GK
 SUB DF I_Hack DF IF INJURED DF
 SUB DM D_Mario DM IF INJURED DM
 SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
-SUB FW Janssen FW IF INJURED FW
+SUB FW D_Mario FW IF INJURED FW
 
 SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB M_Truk Janssen FW IF MIN = 55
-SUB Hugo_Sanchez D_Mario FW IF MIN = 75
+SUB M_Truk D_Mario FW IF MIN = 50
+SUB R_Da_Silva T_XGhiuri DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 77 SCORE >= 2
 
-SUB T_Hurlock Janssen FW IF SCORE <= -3
-SUB T_Hurlock Janssen FW IF SCORE >= 3
+SUB T_Hurlock D_Mario FW IF SCORE <= -3
+SUB T_Hurlock D_Mario FW IF SCORE >= 3
 
