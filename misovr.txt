@@ -258,29 +258,29 @@ PASSING
 GK S_Manescu
 DF E_Petrescu
 DF N_Morariu
-DF E_Silivasi
 DF L_Gabor
+DF N_Parasca
 DF I_Kazaku
-DM N_Parasca
 DM M_Parvulescu
 DM D_Balitiu
-MF C_Boroi
+DM C_Boroi
+FW R_Amanar
 FW H_Ghita
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING     115     144      89     119     136     106     113 
-   PASSING      90      62      98      94      46     114      92 
-  SHOOTING      45      16      78      34      74      35      40 
-   SH Mean      12      13      11      12      11      12      12 
- SH Median      12      15      12      14      12      14      14 
+  TACKLING     109     134      85     113     125     101     107 
+   PASSING      80      53      91      85      41     110      77 
+  SHOOTING      58      25      97      48      91      50      53 
+   SH Mean      13      14      12      13      12      13      13 
+ SH Median      15      15      14      15      14      15      15 
     SH Max      15      15      15      15      15      15      15 
-  SH Bonus      11       7      14      11       8      13      11 
+  SH Bonus      12       7      15      12       9      14      12 
    GK Qual      18      18      18      18      18      18      18 
-  GK Bonus      15      12      18      15      13      16      15 
-       Agg      21      21      21      21      21      21      21 
-   Scoring      75      47      91      74      55      87      75 
- Defending     115     144      89     119     136     106     113 
-   Overall     208     177     212     209     187     221     207 
+  GK Bonus      15      12      19      15      13      17      15 
+       Agg      22      22      22      22      22      22      22 
+   Scoring      73      44      93      73      58      90      69 
+ Defending     109     134      85     113     125     101     107 
+   Overall     203     167     212     205     187     221     196 
 
 ** First XI **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -377,8 +377,8 @@ DEFENSIVE        29  27  29  31  30  26
                          Max    38    40    38    37    37    38 
                   1st XI (N)    38    32    30                34 
                   1st XI (P)    38    36    28                37 
-                Reserves (N)    27    23    24    22          22 
-                Reserves (P)    27    25    22    20          25 
+                Reserves (N)    27    24    22                22 
+                Reserves (P)    27    27    20                25 
                          Min
                       NORMAL    24    16    25    17    29    21 
                    DEFENSIVE    24    16          14    17       
@@ -386,7 +386,7 @@ DEFENSIVE        29  27  29  31  30  26
               COUNTER_ATTACK    24    15    22    17    17    22 
                    LONG_BALL    24    19          13          23 
                      PASSING    24    15                      17 
-                    EUROPEAN    24    15    22    19    19    19 
+                    EUROPEAN    24    15    22    19    19       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -541,18 +541,17 @@ SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB G_Mordino D_Van_Ry AM IF MIN = 45
-CHANGEPOS O_Bravo MF IF MIN = 50
-CHANGEPOS O_Bravo DM IF MIN = 55
-SUB O_Burgin P_Deusner MF IF MIN = 60
-CHANGEPOS Alan_Michael DM IF MIN = 65
-SUB R_Gelman C_Owen FW IF MIN = 75
-CHANGEPOS O_Bravo AM IF MIN = 78
-TACTIC A IF MIN >= 65 SCORE <= -2
-TACTIC C IF SCORE = -1
+SUB I_Drover D_Van_Ry AM IF MIN = 50
+CHANGEPOS Alan_Michael DM IF MIN = 55
+SUB G_Mordino C_Owen FW IF MIN = 60
+CHANGEPOS R_Gelman MF IF MIN = 65
+CHANGEPOS R_Gelman AM IF MIN = 70
+SUB C_Stirbei P_Deusner DF IF MIN = 75
+TACTIC A IF MIN >= 55 SCORE <= -2
+TACTIC P IF MIN >= 75 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE >= 2
 
 
 Forced:N_Morariu/R_Amanar/H_Ghita/E_Petrescu/I_Kazaku/
