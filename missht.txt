@@ -1,33 +1,32 @@
 mis
-C
+P
 
 GK Q_Bonnette
 DF G_C_Moore
 DF M_Tensfeldt
 DF V_Barbieri
-DM O_Burgin
+DF O_Burgin
+DF I_Drover
 DM Alan_Michael
-MF P_Deusner
-AM O_Bravo
-AM I_Drover
-AM G_Mordino
+DM O_Bravo
+DM P_Deusner
 FW R_Gelman
+FW G_Mordino
 
 GK A_Kapustov
-AM X_Cullie
-AM D_Lungu
+DF X_Cullie
+DF O_Bucsa
 FW C_Owen
 FW D_Van_Ry
 
 PK: R_Gelman
 AGG 20
 
-SUB 7 16 MF IF MIN = 45
-SUB 9 15 AM IF MIN = 65
-CHANGEPOS 16 DM IF MIN = 70
-SUB 10 14 AM IF MIN = 90
-TACTIC A IF MIN >= 55 SCORE <= -2
-TACTIC P IF MIN >= 70 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 84 SCORE >= 2
+SUB 6 13 DF IF MIN = 50
+SUB 11 15 FW IF MIN = 55
+SUB 9 16 FW IF MIN = 70
+TACTIC A IF MIN >= 58 SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 57 SCORE >= 2
