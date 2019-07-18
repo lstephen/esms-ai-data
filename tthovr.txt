@@ -62,7 +62,7 @@ FW Hugo_Sanchez
   STOPPING      53      53      53      53      53      53      53 
   TACKLING     158     218     144     166     184     156     149 
    PASSING     150      99     158     152      74     183     145 
-  SHOOTING      47      24      78      43      67      43      45 
+  SHOOTING      46      24      78      43      67      43      45 
    SH Mean      18      22      17      18      17      18      17 
  SH Median      24      24      18      24      18      24      18 
     SH Max      24      24      24      24      24      24      24 
@@ -70,7 +70,7 @@ FW Hugo_Sanchez
    GK Qual      35      35      35      35      35      35      35 
   GK Bonus      30      23      33      30      24      33      31 
        Agg      26      26      26      26      26      26      26 
-   Scoring     115      74     131     115      72     137     112 
+   Scoring     115      74     131     115      71     137     112 
  Defending     158     218     144     166     184     156     149 
    Overall     317     279     328     322     257     346     305 
 
@@ -566,79 +566,79 @@ D_Griffiths     35  3/ 5/21 | FW D :  19  -8 :  11 | -35  0.6   1 || -24 || FW-1
 Forced:E_Plummer/A_Hinkel/P_Henrique/W_Morgan/R_Sharp/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
+A_Wisdom        35 26/20/ 8 | MF D :  43   7 :  49 |   4  0.8   1 ||  55 || DF  5 DF  4 DF  2 DF  4 DF  4 MF  4 MF  7       
 R_Ceni          35    35    | GK N :  53  12 :  65 |  19  0.8   2 ||  86 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12       
 Doriva          25 22/23/10 | MF D :  41   5 :  47 |  11  1.6   6 ||  64 || DF  4 DM  3 DM  2 DF  2 DM  3 DM  2 MF  5     r 
-A_Wisdom        35 26/20/ 8 | MF D :  43   7 :  49 |   4  0.8   1 ||  55 || DF  5 DF  4 DF  2 DF  4 DF  4 MF  4 MF  7       
-P_Henrique      33 19/25/ 7 | MF D :  40   4 :  43 |   5  0.8   2 ||  50 || DM  3 MF  2 DM  2 DM -1 DM  2 DM -1 MF  4       
-J_P_Veron       31  9/25/15 | MF A :  36   0 :  36 |   2  0.7   3 ||  41 || MF  0 MF -1 MF  0 MF  0 MF  0 DM -4 AM -2       
-R_Pires         31  8/24/17 | MF A :  37   1 :  38 |   3  0.7   3 ||  44 || MF  0 MF -1 MF -1 MF  1 MF  0 AM -3 AM -2     r 
-D_McHale        30 17/24/12 | MF D :  38   2 :  39 |   5  0.6   3 ||  47 || DM  2 MF  1 DM  0 DM  0 DM  1 DM  0 MF  2     r 
-E_Gabor         34 17/25/ 5 | DM P :  33   1 :  34 | -13  1.1   1 ||  23 || DM  1 MF  0 DM  0 DM -3 DM  0 DM -3 MF  1       
-C_McGregor      27 14/25/ 8 | MF C :  34   0 :  34 |   2  1.0   5 ||  42 || DM  0 MF  0 DM -2 DM -3 MF -1 DM -4 MF -1       
-A_R_Essien      35 23/20/ 1 | DM D :  38   3 :  41 |  -5  1.2   1 ||  38 || DF  0 DF  0 DM -1 DF -3 DF -1 DM -3 DM  3     r 
-S_Howey         35 23/19/ 5 | DM D :  38   3 :  41 |  -5  1.4   1 ||  38 || DF  1 DF  1 DF -1 DF -1 DF  0 DM -1 DM  3     r 
-Valdano         30  8/12/25 | FW N :  31   0 :  31 |  -4  0.9   3 ||  30 || FW -4 FW -1 FW -1 FW -1 FW  0 FW -1 FW -1       
 E_Plummer       26 25/11/11 | MF L :  50   1 :  51 |  18  1.0   6 ||  76 || DF -1 DF  0 DF  0 DF  0 DF  0 MF  1 MF  0       
-R_Sharp         29  6/11/26 | FW L :  38   0 :  38 |   3  0.3   4 ||  45 || FW -4 FW -2 FW -1 FW  0 FW  0 FW  0 FW -1       
 A_Hinkel        36 25/11/10 | MF L :  50   0 :  50 |   9  1.7   1 ||  61 || DF -2 DF  0 DF  0 DF  0 DF  0 MF  0 DF  0       
-S_Artenie       29  5/10/27 | FW L :  38   0 :  39 |   4  1.3   4 ||  48 || FW -5 FW -2 FW -1 FW  0 FW  0 FW  0 FW -2       
+S_Howey         35 23/19/ 5 | DM D :  38   3 :  41 |  -5  1.4   1 ||  38 || DF  1 DF  1 DF -1 DF -1 DF  0 DM -1 DM  3     r 
 W_Morgan        23 25/11/ 6 | DF D :  34   0 :  34 |   4  1.2   7 ||  46 || DF -3 DF -1 DF -2 DF -2 DF -1 DF -1 DF  0       
 S_M_Cretin      32 25/11/ 5 | DF D :  34   0 :  34 |  -2  0.2   3 ||  34 || DF -3 DF -1 DF -2 DF -3 DF -2 DF -2 DF  0       
-K_Shand         27    20    | GK N :  30 -10 :  20 | -12  0.9   6 ||  14 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
 B_Draghici      30 25/10/ 5 | DF D :  34   0 :  34 |  -1  0.6   4 ||  36 || DF -4 DF -2 DF -2 DF -3 DF -2 DF -2 DF  0       
+P_Henrique      33 19/25/ 7 | MF D :  40   4 :  43 |   5  0.8   2 ||  50 || DM  3 MF  2 DM  2 DM -1 DM  2 DM -1 MF  4       
+D_McHale        30 17/24/12 | MF D :  38   2 :  39 |   5  0.6   3 ||  47 || DM  2 MF  1 DM  0 DM  0 DM  1 DM  0 MF  2     r 
+A_R_Essien      35 23/20/ 1 | DM D :  38   3 :  41 |  -5  1.2   1 ||  38 || DF  0 DF  0 DM -1 DF -3 DF -1 DM -3 DM  3     r 
+E_Gabor         34 17/25/ 5 | DM P :  33   1 :  34 | -13  1.1   1 ||  23 || DM  1 MF  0 DM  0 DM -3 DM  0 DM -3 MF  1       
+C_McGregor      27 14/25/ 8 | MF C :  34   0 :  34 |   2  1.0   5 ||  42 || DM  0 MF  0 DM -2 DM -3 MF -1 DM -4 MF -1       
+S_Artenie       29  5/10/27 | FW L :  38   0 :  39 |   4  1.3   4 ||  48 || FW -5 FW -2 FW -1 FW  0 FW  0 FW  0 FW -2       
+R_Sharp         29  6/11/26 | FW L :  38   0 :  38 |   3  0.3   4 ||  45 || FW -4 FW -2 FW -1 FW  0 FW  0 FW  0 FW -1       
+Valdano         30  8/12/25 | FW N :  31   0 :  31 |  -4  0.9   3 ||  30 || FW -4 FW -1 FW -1 FW -1 FW  0 FW -1 FW -1       
+R_Pires         31  8/24/17 | MF A :  37   1 :  38 |   3  0.7   3 ||  44 || MF  0 MF -1 MF -1 MF  1 MF  0 AM -3 AM -2     r 
+J_P_Veron       31  9/25/15 | MF A :  36   0 :  36 |   2  0.7   3 ||  41 || MF  0 MF -1 MF  0 MF  0 MF  0 DM -4 AM -2       
+K_Shand         27    20    | GK N :  30 -10 :  20 | -12  0.9   6 ||  14 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
 
-EUROPEAN
+LONG_BALL
 GK R_Ceni
 DF A_Hinkel
 DF W_Morgan
 DF E_Plummer
-DM A_Wisdom
-DM P_Henrique
-DM Doriva
-MF R_Pires
-MF J_P_Veron
-MF C_McGregor
+MF A_Wisdom
+MF S_Howey
+MF E_Gabor
+MF P_Henrique
+MF D_McHale
+MF Doriva
 FW R_Sharp
                  N       D       A       C       L       P       E 
   STOPPING      53      53      53      53      53      53      53 
-  TACKLING     131     201     108     143     181     127     126 
-   PASSING     153     111     159     154      75     165     175 
-  SHOOTING      54      31      95      49      82      49      54 
-   SH Mean      18      21      18      19      18      19      18 
- SH Median      17      26      17      26      17      26      17 
+  TACKLING     114     220      75     140     269     107     100 
+   PASSING     155     113     159     157      79     168     184 
+  SHOOTING      48      31      87      44      73      46      53 
+   SH Mean      18      19      16      19      17      19      16 
+ SH Median      26      26      12      26      12      26      12 
     SH Max      26      26      26      26      26      26      26 
-  SH Bonus      22      15      25      23      13      25      23 
+  SH Bonus      26      14      27      23       9      27      24 
    GK Qual      35      35      35      35      35      35      35 
-  GK Bonus      34      25      40      32      25      35      36 
-       Agg      24      24      24      24      24      24      24 
-   Scoring     120      84     138     119      77     127     135 
- Defending     131     201     108     143     181     127     126 
-   Overall     305     291     307     315     267     314     320 
+  GK Bonus      36      24      49      33      23      38      42 
+       Agg      26      26      26      26      26      26      26 
+   Scoring     120      85     135     120      77     128     140 
+ Defending     114     220      75     140     269     107     100 
+   Overall     295     303     263     314     309     299     298 
 
 GK K_Shand
-DM A_R_Essien
-DM S_Howey
-MF D_McHale
-AM S_Artenie
+MF S_M_Cretin
+MF A_R_Essien
+MF C_McGregor
+FW S_Artenie
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF S_Howey DF IF INJURED DF
-SUB DM D_McHale DM IF INJURED DM
-SUB MF D_McHale MF IF INJURED MF
-SUB AM D_McHale AM IF INJURED AM
+SUB DF S_M_Cretin DF IF INJURED DF
+SUB DM C_McGregor DM IF INJURED DM
+SUB MF C_McGregor MF IF INJURED MF
+SUB AM C_McGregor AM IF INJURED AM
 SUB FW S_Artenie FW IF INJURED FW
 
-SUB Doriva D_McHale MF IF MIN = 60
-SUB R_Sharp S_Artenie FW IF MIN = 65
-SUB J_P_Veron S_Howey DM IF MIN = 70
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 36 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
+SUB E_Gabor A_R_Essien MF IF MIN = 45
+SUB R_Sharp S_Artenie FW IF MIN = 50
+SUB S_Howey C_McGregor MF IF MIN = 75
+TACTIC E IF MIN >= 8 SCORE <= -2
+TACTIC E IF MIN >= 16 SCORE = -1
+TACTIC L IF SCORE = 0
+TACTIC L IF SCORE = 1
+TACTIC L IF SCORE >= 2
 
-SUB A_Wisdom D_McHale DM IF SCORE <= -3
-SUB A_Wisdom D_McHale DM IF SCORE >= 3
+SUB A_Wisdom C_McGregor MF IF SCORE <= -3
+SUB A_Wisdom C_McGregor MF IF SCORE >= 3
 
 Forced:M_Truk/V_Yonescu/
 ** Reserves Selection **
@@ -706,7 +706,7 @@ SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB V_Yonescu T_XGhiuri DF IF MIN = 45
+SUB V_Yonescu T_XGhiuri DF IF MIN = 50
 SUB M_Truk Janssen FW IF MIN = 55
 SUB J_Cadette D_Mario MF IF MIN = 81
 TACTIC A IF MIN >= 86 SCORE <= -2
