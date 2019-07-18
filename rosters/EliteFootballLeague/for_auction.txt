@@ -4,7 +4,6 @@ Keeper03     33  srb 23 3  3  2  41 800 800 800 800
 Keeper02     33  fin 23 1  3  3  22 500 500 500 500
 Midfielder11 26  cam 3  9  24 6  23 500 500 500 500
 Midfielder10 28  nzl 2  5  25 4  13 600 600 600 600
-Midfielder06 26  nor 1  5  25 9  33 700 700 700 700
 Defender02   26  uga 1  24 6  8  32 300 300 300 300
 Forward02    28  rus 1  9  7  26 41 300 300 300 300
 Midfielder09 30  nor 1  8  25 7  31 300 300 300 300
@@ -96,7 +95,6 @@ S_De_Ridder   30 bel  2  6 17  6 29 300 541  73 497
 D_Lobozinski  27 aus  1  5  8 18 21 700 848  43 571
 K_Zuma        30 fra  3 24  7  7 33 400 919  32 689
 Guilherme     32 bra  1 25  3  8 17 500 359 566 634
-Defender03   20  ice 2  20 10 9  21 500 500 500 500
 G_Taggert     26 ire  2 24  7  8 32 500 677 421 294
 W_Reed        28 eng  1 22  8  7 42 400 816 402  23
 R_Descamps    31 fra 21  6  6  6 11 928 520 500 500
@@ -129,11 +127,9 @@ S_Stanfield   35 fra  1  9 15 19 31 300 194 764 357
 A_Scout       31 ger  2  6 16 18 25 300 636 213 630
 S_Trike       30 jam  2  9  7 18 41 300 386 404 596
 De_Bruyne     22 bel  1  5  8 15 32 300 596 659 242
-S_Given       37 ire 31  2  1  1 31 665 400 400 400
 Midfielder01 29  bul 2  4  24 10 21 800 800 800 800
 Midfielder24 29  cro 3  4  24 7  31 400 400 400 400
 Midfielder26 30  nor 2  9  25 7  31 600 600 600 600
-Midfielder27 27  can 1  10 26 8  20 300 300 300 300
 D_Harvie      20 sco  3 17  6  5 30 800 800 800 800
 I_Hume        21 eng  1  6  8 18 21 800 780 862 885
 D_Dangana     20 nig  2  7  7 17 21 500 520 520 530
@@ -148,3 +144,14 @@ R_Bird        31 eng  3  8  8 25 21 800 770 790   1
 J_Rodriguez   33 col  2  4  7 25 23 300 751 990  18
 A_Nielsen     32 den  1  7 25  6 20 600 636  57 645
 H_Mkhitaryan  31 arm  3  9 25 12 29 600 327  40 489
+J_Kelly       27 eng  2  4  7 25 21 800 840 830  26
+O_Ardiles     32 arg  3  9 25  7 42 300 498  19 503
+L_Ling        21 chi  2  6 10 18 21 300 354 478 995
+Ransom        25 sco  2  8 17  8 21 300 845 506 228
+P_Gulacsi     34 hun 23  2  3  3 33 603 300 300 300
+Bob_Wilson    29 eng 24  3  2  2 32 679 400 400 400
+S_Stallbaum   30 ger  3 25  7  9 42 600 125 754 858
+Ajer          30 nor  1 25  7  7 22 800 397 976 942
+M_Hornschuh   33 ger  1 25  4  5 42 600 704 905 915
+H_Mkhitaryan  31 arm  3  9 25 12 29 600 325  68 487
+B_McBride     34 eng  2 10  9 25 17 300 402 537   3
