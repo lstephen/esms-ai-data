@@ -11,22 +11,22 @@ DM Alan_Michael
 DM O_Bravo
 DM P_Deusner
 FW R_Gelman
-FW G_Mordino
+FW C_Owen
 
 GK A_Kapustov
 DF I_Drover
 FW D_Lungu
-FW C_Owen
 FW D_Van_Ry
+FW G_Mordino
 
 PK: R_Gelman
 AGG 20
 
-SUB 9 16 FW IF MIN = 55
-SUB 6 13 DF IF MIN = 60
-SUB 11 15 FW IF MIN = 65
+SUB 11 15 FW IF MIN = 50
+SUB 9 16 FW IF MIN = 60
+SUB 6 13 DF IF MIN = 70
 TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC L IF MIN >= 65 SCORE >= 2
