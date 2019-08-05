@@ -62,7 +62,7 @@ FW Hugo_Sanchez
   STOPPING      53      53      53      53      53      53      53 
   TACKLING     158     218     144     166     184     156     149 
    PASSING     150      99     158     152      74     183     145 
-  SHOOTING      47      24      78      43      67      43      45 
+  SHOOTING      46      24      78      43      67      43      45 
    SH Mean      18      22      17      18      17      18      17 
  SH Median      24      24      18      24      18      24      18 
     SH Max      24      24      24      24      24      24      24 
@@ -70,7 +70,7 @@ FW Hugo_Sanchez
    GK Qual      35      35      35      35      35      35      35 
   GK Bonus      30      23      33      30      24      33      31 
        Agg      26      26      26      26      26      26      26 
-   Scoring     115      74     131     115      72     137     112 
+   Scoring     115      74     131     115      71     137     112 
  Defending     158     218     144     166     184     156     149 
    Overall     317     279     328     322     257     346     305 
 
@@ -626,29 +626,29 @@ FW S_Artenie
    Overall     306     285     310     313     263     316     314 
 
 GK K_Shand
-DM S_M_Cretin
-DM B_Draghici
+DM A_Hinkel
+DM P_Henrique
 MF D_McHale
 AM Valdano
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF B_Draghici DF IF INJURED DF
-SUB DM D_McHale DM IF INJURED DM
-SUB MF D_McHale MF IF INJURED MF
-SUB AM D_McHale AM IF INJURED AM
+SUB DF A_Hinkel DF IF INJURED DF
+SUB DM P_Henrique DM IF INJURED DM
+SUB MF P_Henrique MF IF INJURED MF
+SUB AM P_Henrique AM IF INJURED AM
 SUB FW Valdano FW IF INJURED FW
 
-SUB R_Sharp Valdano FW IF MIN = 70
-SUB S_Artenie S_M_Cretin DF IF MIN = 75
-SUB S_Howey D_McHale MF IF MIN = 78
+SUB R_Sharp P_Henrique MF IF MIN = 45
+SUB S_Artenie Valdano FW IF MIN = 60
+SUB E_Gabor D_McHale DM IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 37 SCORE = 1
 TACTIC D IF MIN >= 19 SCORE >= 2
 
-SUB E_Gabor D_McHale DM IF SCORE <= -3
-SUB E_Gabor D_McHale DM IF SCORE >= 3
+SUB E_Gabor P_Henrique DM IF SCORE <= -3
+SUB E_Gabor P_Henrique DM IF SCORE >= 3
 
 Forced:Hugo_Sanchez/V_Yonescu/M_Truk/
 ** Reserves Selection **
@@ -716,10 +716,10 @@ SUB MF D_Mario MF IF INJURED MF
 SUB AM D_Mario AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB Hugo_Sanchez D_Mario MF IF MIN = 50
-SUB V_Yonescu T_XGhiuri DF IF MIN = 55
-SUB M_Truk Janssen FW IF MIN = 60
-TACTIC A IF MIN >= 69 SCORE <= -2
+SUB V_Yonescu T_XGhiuri DF IF MIN = 45
+SUB M_Truk Janssen FW IF MIN = 55
+SUB Hugo_Sanchez D_Mario MF IF MIN = 60
+TACTIC A IF MIN >= 76 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 36 SCORE = 1
