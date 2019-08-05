@@ -366,7 +366,7 @@ LONG_BALL        29  38  31  34  29  29
 DEFENSIVE        29  27  28  29  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    11     2     7 
+                       Count     5    17     2    11     2     6 
                          Max    38    40    38    37    37    38 
                   1st XI (N)    38    33    31                34 
                   1st XI (P)    38    36    28                37 
@@ -379,7 +379,7 @@ DEFENSIVE        29  27  28  29  30  27
               COUNTER_ATTACK    24    15    22    17    17    22 
                    LONG_BALL    24    19          13          23 
                      PASSING    24    15                      17 
-                    EUROPEAN    24    15    22    19    19    19 
+                    EUROPEAN    24    15    22    19    19       
 
 ** /free_agents.txt **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
@@ -535,16 +535,16 @@ TACTIC D IF MIN >= 30 SCORE >= 2
 Forced:I_Kazaku/N_Morariu/N_Parasca/R_Amanar/E_Petrescu/
 ** Reserves Selection **
                             |                      | vAg Abs      || OVR ||  P     A     C     E     N     L     D   
-E_Petrescu      20 18/15/ 8 | DM D :  27  -1 :  26 |   3  0.4   7 ||  36 || DM -4 DF -8 DF -1 DM -1 DM -5 DM -5 DM -1     r 
 N_Morariu       20 18/12/15 | DF E :  28   0 :  27 |   4  1.0   7 ||  39 || DF -4 DF -4 DF -1 DF  0 DF -3 FW -2 MF -2     r 
-N_Parasca       20 14/18/ 6 | DM E :  29  -1 :  27 |   4  0.8   7 ||  39 || MF -4 DM -9 DM -3 DM -1 DM -5 DM -9 MF -3     r 
-I_Kazaku        17 14/15/10 | DM E :  26  -4 :  23 |   9  1.5   7 ||  40 || MF -6 DM -9 DM -4 DM -4 DM -7 DM -8 MF -4     r 
-L_Gabor         20 17/ 9/12 | DF E :  25  -3 :  21 |  -2  0.9   7 ||  27 || DF -9 DF -9 DF -4 DF -3 DF -7 DM -6 DF -4     r 
+E_Petrescu      20 18/15/ 8 | DM D :  27  -1 :  26 |   3  0.4   7 ||  36 || DM -4 DF -8 DF -1 DM -1 DM -5 DM -5 DM -1     r 
 S_Manescu       21    18    | GK N :  27  -1 :  26 |   0  0.9   7 ||  33 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1     r 
-H_Ghita         17  4/14/15 | FW L :  24  -5 :  19 |   6  1.0   7 ||  34 || AM -8 MF -8 MF-10 AM -9 AM-10 FW -5 FW-10     r 
+N_Parasca       20 14/18/ 6 | DM E :  29  -1 :  27 |   4  0.8   7 ||  39 || MF -4 DM -9 DM -3 DM -1 DM -5 DM -9 MF -3     r 
+L_Gabor         20 17/ 9/12 | DF E :  25  -3 :  21 |  -2  0.9   7 ||  27 || DF -9 DF -9 DF -4 DF -3 DF -7 DM -6 DF -4     r 
+I_Kazaku        17 14/15/10 | DM E :  26  -4 :  23 |   9  1.5   7 ||  40 || MF -6 DM -9 DM -4 DM -4 DM -7 DM -8 MF -4     r 
 R_Amanar        17 10/12/15 | FW L :  25  -4 :  21 |   8  0.8   7 ||  38 || AM -8 DM -9 DM -9 DF -8 FW -9 FW -4 FW -7     r 
-E_Silivasi      21 17/ 9/ 4 | DF D :  23  -4 :  19 |  -7  0.8   7 ||  20 || DM-11 DF-15 DF -6 DF -7 DF-10 DM-10 DF -4     r 
 C_Ionita        19    16    | GK N :  24  -4 :  20 |  -2  0.5   7 ||  25 || GK -4 GK -4 GK -4 GK -4 GK -4 GK -4 GK -4     r 
+H_Ghita         17  4/14/15 | FW L :  24  -5 :  19 |   6  1.0   7 ||  34 || AM -8 MF -8 MF-10 AM -9 AM-10 FW -5 FW-10     r 
+E_Silivasi      21 17/ 9/ 4 | DF D :  23  -4 :  19 |  -7  0.8   7 ||  20 || DM-11 DF-15 DF -6 DF -7 DF-10 DM-10 DF -4     r 
 C_Boroi         18 10/16/ 4 | DM E :  24  -6 :  17 |   2  1.0   7 ||  27 || MF -7 DM-13 MF -7 DM -6 MF-10 DM-14 MF -8     r 
 R_Georghiou     19 17/ 7/ 3 | DF D :  22  -4 :  18 |  -3  0.7   7 ||  22 || DF-13 DF-17 DF -7 DF -8 DF-11 DM-12 DF -4     r 
 F_Pacuraru      17  6/ 8/15 | FW L :  23  -6 :  17 |   4  1.5   7 ||  30 || AM-13 MF-14 FW-14 FW-12 FW-13 FW -6 FW-10     r 
@@ -555,53 +555,53 @@ J_Hogue         17  4/13/ 6 | MF P :  16 -11 :   4 |  -9  0.9   7 ||   3 || MF-1
 F_Owen          17  5/13/ 4 | MF P :  15 -11 :   4 |  -9  0.9   7 ||   2 || MF-11 DM-17 MF-13 DM-13 MF-15 AM-18 MF-14     r 
 U_Harkins       17 13/ 1/ 5 | DF D :  16 -11 :   5 |  -8  0.8   7 ||   5 || DM-20 DF-22 DF-14 DF-13 DF-17 DM-17 DF-11     r 
 
-PASSING
+NORMAL
 GK S_Manescu
-DF E_Petrescu
 DF N_Morariu
 DF E_Silivasi
 DF L_Gabor
 DF R_Georghiou
-DM N_Parasca
-DM C_Boroi
-DM I_Kazaku
-FW H_Ghita
+DM E_Petrescu
+MF N_Parasca
+MF C_Boroi
+MF I_Kazaku
+MF H_Ghita
 FW R_Amanar
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING     118     146      92     123     136     110     116 
-   PASSING      76      51      87      81      39     103      75 
-  SHOOTING      54      25      90      46      83      47      50 
-   SH Mean      13      14      12      13      12      13      13 
+  TACKLING     103     138      70     109     126      91      94 
+   PASSING      97      69     103     100      50     113     110 
+  SHOOTING      47      21      79      34      79      36      44 
+   SH Mean      12      13      12      13      12      13      12 
  SH Median      15      15      15      15      15      15      15 
     SH Max      15      15      15      15      15      15      15 
-  SH Bonus      11       7      14      11       8      13      11 
+  SH Bonus      13       8      17      12       9      14      14 
    GK Qual      18      18      18      18      18      18      18 
-  GK Bonus      14      12      18      14      13      16      14 
+  GK Bonus      16      12      21      15      13      18      17 
        Agg      22      22      22      22      22      22      22 
-   Scoring      69      43      88      69      54      84      67 
- Defending     118     146      92     123     136     110     116 
-   Overall     202     170     212     204     185     219     197 
+   Scoring      80      53      95      78      59      87      88 
+ Defending     103     138      70     109     126      91      94 
+   Overall     210     185     199     210     190     210     213 
 
 GK C_Ionita
 DF P_Lazar
-DF T_Gheorghiu
-DF F_Owen
+DF L_Roman
+MF J_Hogue
 FW F_Pacuraru
 
 SUB GK C_Ionita GK IF INJURED GK
 SUB DF P_Lazar DF IF INJURED DF
-SUB DM F_Owen DM IF INJURED DM
-SUB MF F_Owen MF IF INJURED MF
-SUB AM F_Owen AM IF INJURED AM
+SUB DM J_Hogue DM IF INJURED DM
+SUB MF J_Hogue MF IF INJURED MF
+SUB AM J_Hogue AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Georghiou P_Lazar DF IF MIN = 60
-SUB C_Boroi F_Pacuraru FW IF MIN = 70
-TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC A IF MIN >= 70 SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 58 SCORE >= 2
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
+SUB R_Georghiou P_Lazar DF IF MIN = 65
+TACTIC A IF MIN >= 34 SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC N IF SCORE = 0
+TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 33 SCORE >= 2
 
 
