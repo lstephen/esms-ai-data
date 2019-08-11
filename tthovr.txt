@@ -642,7 +642,7 @@ SUB FW Valdano FW IF INJURED FW
 
 SUB R_Sharp E_Plummer DF IF MIN = 45
 SUB S_Howey C_McGregor MF IF MIN = 50
-SUB W_Morgan A_Hinkel DF IF MIN = 55
+SUB W_Morgan A_Hinkel DF IF MIN = 60
 TACTIC E IF MIN >= 18 SCORE <= -2
 TACTIC E IF MIN >= 36 SCORE = -1
 TACTIC C IF SCORE = 0
@@ -717,9 +717,9 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB V_Yonescu T_XGhiuri DF IF MIN = 45
+SUB Moreto T_XGhiuri DF IF MIN = 45
+SUB V_Yonescu M_Antonio DM IF MIN = 50
 SUB M_Truk Janssen FW IF MIN = 60
-SUB J_Cadette M_Antonio DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
