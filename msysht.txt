@@ -1,32 +1,35 @@
 msy
-P
+N
 
 GK S_Manescu
-DF E_Petrescu
 DF N_Morariu
 DF E_Silivasi
 DF L_Gabor
-DF R_Georghiou
+DM E_Petrescu
 DM N_Parasca
-DM C_Boroi
 DM I_Kazaku
-FW H_Ghita
+MF D_Balitiu
+MF C_Boroi
+MF H_Ghita
 FW R_Amanar
 
 GK C_Ionita
+DF R_Georghiou
 DF P_Lazar
 DF L_Roman
-DF F_Owen
 FW F_Pacuraru
 
 PK: N_Morariu
 AGG 20
 
-SUB 11 16 FW IF MIN = 70
-SUB 4 13 DF IF MIN = 75
-SUB 6 14 DF IF MIN = 90
-TACTIC A IF MIN >= 70 SCORE <= -2
-TACTIC A IF MIN >= 75 SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 58 SCORE >= 2
+CHANGEPOS 6 MF IF MIN = 65
+SUB 3 14 DF IF MIN = 70
+SUB 10 16 FW IF MIN = 75
+CHANGEPOS 11 DM IF MIN = 78
+CHANGEPOS 11 MF IF MIN = 81
+SUB 4 13 DF IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC N IF SCORE = 0
+TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 37 SCORE >= 2
