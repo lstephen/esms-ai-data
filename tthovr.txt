@@ -63,7 +63,7 @@ FW Hugo_Sanchez
   STOPPING      53      53      53      53      53      53      53 
   TACKLING     159     219     145     167     185     157     150 
    PASSING     151      99     159     153      74     185     146 
-  SHOOTING      46      24      78      43      67      43      45 
+  SHOOTING      47      24      78      43      67      43      45 
    SH Mean      18      22      17      18      17      18      17 
  SH Median      24      24      18      24      18      24      18 
     SH Max      24      24      24      24      24      24      24 
@@ -644,9 +644,9 @@ SUB MF P_Henrique MF IF INJURED MF
 SUB AM P_Henrique AM IF INJURED AM
 SUB FW Valdano FW IF INJURED FW
 
-SUB R_Sharp Doriva MF IF MIN = 45
-SUB E_Gabor P_Henrique DM IF MIN = 60
-SUB D_McHale A_R_Essien DM IF MIN = 70
+SUB R_Sharp P_Henrique MF IF MIN = 45
+SUB E_Gabor A_R_Essien DM IF MIN = 55
+SUB D_McHale Doriva DM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
@@ -721,13 +721,13 @@ SUB MF J_Cadette MF IF INJURED MF
 SUB AM J_Cadette AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB Ridoutkha T_XGhiuri DF IF MIN = 60
-SUB M_Truk J_Cadette DM IF MIN = 65
-SUB V_Yonescu Janssen FW IF MIN = 70
+SUB M_Truk Janssen FW IF MIN = 45
+SUB V_Yonescu T_XGhiuri DF IF MIN = 50
+SUB Ridoutkha J_Cadette DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 69 SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
 
 SUB D_Barr T_XGhiuri DF IF SCORE <= -3
