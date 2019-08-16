@@ -365,7 +365,7 @@ LONG_BALL        29  38  31  34  29  29
 DEFENSIVE        29  27  28  29  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    10     2     6 
+                       Count     5    17     2    11     2     7 
                          Max    38    41    39    37    37    38 
                   1st XI (N)    38    33    31                34 
                   1st XI (P)    38    36    28                37 
@@ -374,7 +374,7 @@ DEFENSIVE        29  27  28  29  30  27
                          Min
                       NORMAL    24    16    25    17    23    22 
                    DEFENSIVE    24    16          14    18       
-                   ATTACKING    24    17          16    18    29 
+                   ATTACKING    24    17          16    18    28 
               COUNTER_ATTACK    24    15    22    17    17    24 
                    LONG_BALL    24    19          13          24 
                      PASSING    24    15                      17 
