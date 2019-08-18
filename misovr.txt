@@ -365,7 +365,7 @@ LONG_BALL        29  38  31  34  29  29
 DEFENSIVE        29  27  28  29  30  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    11     2     7 
+                       Count     5    17     2    10     2     6 
                          Max    38    41    39    37    37    38 
                   1st XI (N)    38    33    31                34 
                   1st XI (P)    38    36    28                37 
@@ -374,7 +374,7 @@ DEFENSIVE        29  27  28  29  30  27
                          Min
                       NORMAL    24    16    25    17    23    22 
                    DEFENSIVE    24    16          14    18       
-                   ATTACKING    24    17          16    18    28 
+                   ATTACKING    24    17          16    18    29 
               COUNTER_ATTACK    24    15    22    17    17    24 
                    LONG_BALL    24    19          13          24 
                      PASSING    24    15                      17 
@@ -513,19 +513,18 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB I_Drover D_Van_Ry AM IF MIN = 55
-SUB P_Deusner C_Owen FW IF MIN = 60
-CHANGEPOS R_Gelman MF IF MIN = 65
-CHANGEPOS O_Bravo DM IF MIN = 78
-CHANGEPOS R_Gelman AM IF MIN = 81
-CHANGEPOS R_Gelman MF IF MIN = 84
-SUB X_Cullie G_Mordino AM IF MIN = 87
-CHANGEPOS O_Burgin DM IF MIN = 90
-TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC P IF MIN >= 90 SCORE = -1
+SUB I_Drover G_Mordino AM IF MIN = 55
+SUB R_Gelman C_Owen FW IF MIN = 60
+CHANGEPOS O_Burgin DF IF MIN = 75
+CHANGEPOS V_Barbieri AM IF MIN = 78
+SUB X_Cullie D_Van_Ry FW IF MIN = 81
+CHANGEPOS V_Barbieri DM IF MIN = 84
+CHANGEPOS C_Owen AM IF MIN = 87
+TACTIC A IF MIN >= 67 SCORE <= -2
+TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE >= 2
 
 
 Forced:N_Morariu/I_Kazaku/N_Parasca/R_Amanar/E_Petrescu/
@@ -593,16 +592,12 @@ SUB MF F_Pacuraru MF IF INJURED MF
 SUB AM F_Pacuraru AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-CHANGEPOS N_Parasca MF IF MIN = 65
-SUB E_Silivasi P_Lazar DF IF MIN = 70
-SUB H_Ghita F_Pacuraru FW IF MIN = 75
-CHANGEPOS R_Amanar DM IF MIN = 78
-CHANGEPOS R_Amanar MF IF MIN = 81
-SUB L_Gabor R_Georghiou DF IF MIN = 90
+SUB E_Silivasi R_Georghiou DF IF MIN = 50
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC C IF SCORE = 1
 TACTIC D IF MIN >= 37 SCORE >= 2
 
 
