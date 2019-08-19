@@ -6,29 +6,29 @@ DF I_Hack
 DF D_Barr
 DF R_Da_Silva
 DF V_Yonescu
-DM Moreto
+DF Moreto
 DM Ridoutkha
-DM M_Antonio
+AM T_Hurlock
 AM D_Mario
 FW Hugo_Sanchez
 FW M_Truk
 
 GK D_Gogean
 DF T_XGhiuri
-DM J_Cadette
+DM M_Antonio
 FW Janssen
 FW C_Sandulescu
 
 PK: M_Truk
 AGG 20
 
-SUB 11 15 FW IF MIN = 45
-SUB 5 13 DF IF MIN = 50
-SUB 7 14 DM IF MIN = 70
+SUB 5 14 DM IF MIN = 60
+SUB 10 13 DF IF MIN = 65
+SUB 11 15 FW IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 69 SCORE = 1
-TACTIC D IF MIN >= 33 SCORE >= 2
+TACTIC D IF MIN >= 74 SCORE = 1
+TACTIC D IF MIN >= 47 SCORE >= 2
 SUB 3 13 DF IF SCORE <= -3
 SUB 3 13 DF IF SCORE >= 3
