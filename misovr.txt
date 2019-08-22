@@ -365,7 +365,7 @@ LONG_BALL        29  38  31  34  29  29
 DEFENSIVE        29  27  30  32  31  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    10     2     7 
+                       Count     5    17     2    11     2     6 
                          Max    38    41    39    37    38    38 
                   1st XI (N)    38    33    31                34 
                   1st XI (P)    38    36    28                37 
@@ -374,7 +374,7 @@ DEFENSIVE        29  27  30  32  31  26
                          Min
                       NORMAL    24    16    26    17    23    22 
                    DEFENSIVE    24    16          14    18       
-                   ATTACKING    24    17          16    18    28 
+                   ATTACKING    24    17          16    18    29 
               COUNTER_ATTACK    24    15    22    17    17    24 
                    LONG_BALL    24    19          13          24 
                      PASSING    24    15                      17 
@@ -452,79 +452,75 @@ Forced:V_Barbieri/O_Burgin/G_C_Moore/O_Bravo/G_Mordino/
 G_C_Moore       30 26/19/16 | DF N :  41  11 :  52 |   1  0.8  -1 ||  54 || DF  9 DF  8 DF 11 DF  9 DF 11 DF  9 DF  9       
 R_Gelman        31 12/21/24 | FW L :  39  11 :  50 |   1  0.4  -1 ||  51 || FW  6 FW  8 FW  5 AM  6 AM  5 FW 11 FW  3       
 V_Barbieri      26 23/18/18 | DF N :  38   9 :  47 |   8  1.2   3 ||  59 || DF  6 DF  6 DF  8 DF  6 DF  9 DF  7 DF  5       
+M_Tensfeldt     32 24/16/15 | DF N :  37   8 :  45 |   0  0.9  -1 ||  45 || DF  5 DF  3 DF  7 DF  5 DF  8 DF  5 DF  6       
 O_Burgin        25 21/19/17 | DF N :  36   7 :  43 |   8  0.1   4 ||  56 || DF  4 DF  4 DF  6 DF  4 DF  7 DF  4 AM  4       
 O_Bravo         24 17/22/15 | DM C :  35   5 :  40 |   7  0.6   5 ||  53 || MF  3 DM  1 DM  5 MF  4 DM  5 AM  1 MF  2       
 Q_Bonnette      27    25    | GK N :  38   9 :  47 |   6  1.4   2 ||  56 || GK  9 GK  9 GK  9 GK  9 GK  9 GK  9 GK  9       
-M_Tensfeldt     32 24/16/15 | DF N :  37   8 :  45 |   0  0.9  -1 ||  45 || DF  5 DF  3 DF  7 DF  5 DF  8 DF  5 DF  6       
-I_Drover        25 17/18/18 | FW L :  32   4 :  36 |   0  1.3   4 ||  41 || DF  0 DF  0 DM  2 MF  0 DF  3 FW  4 AM  1       
-D_Van_Ry        26 13/17/21 | FW L :  35   6 :  41 |   1  1.5   3 ||  47 || FW  0 FW  1 FW  0 AM  0 FW  0 FW  6 FW  1       
-Alan_Michael    24 17/21/13 | DM C :  34   4 :  38 |   5  1.5   5 ||  49 || MF  2 DM -1 DM  4 DM  2 DM  3 MF -1 MF  1       
-G_Mordino       24 13/18/20 | FW L :  34   5 :  39 |   6  1.0   5 ||  51 || AM  0 FW  0 AM  0 AM  0 AM  0 FW  5 FW  0       
 C_Owen          28  9/16/23 | FW L :  36   8 :  44 |   2  1.0   1 ||  47 || FW  0 FW  3 FW  0 FW  0 FW  0 FW  8 FW  0       
+D_Van_Ry        26 13/17/21 | FW L :  35   6 :  41 |   1  1.5   3 ||  47 || FW  0 FW  1 FW  0 AM  0 FW  0 FW  6 FW  1       
+G_Mordino       24 13/18/20 | FW L :  34   5 :  39 |   6  1.0   5 ||  51 || AM  0 FW  0 AM  0 AM  0 AM  0 FW  5 FW  0       
+Alan_Michael    24 17/21/13 | DM C :  34   4 :  38 |   5  1.5   5 ||  49 || MF  2 DM -1 DM  4 DM  2 DM  3 MF -1 MF  1       
 X_Cullie        27 19/17/15 | DF N :  33   3 :  36 |  -5  0.8   2 ||  34 || DF  0 DF -1 DF  3 DF  1 DF  3 DF  0 MF  0       
+I_Drover        25 17/18/18 | FW L :  32   4 :  36 |   0  1.3   4 ||  41 || DF  0 DF  0 DM  2 MF  0 DF  3 FW  4 AM  1       
 P_Deusner       22 15/21/ 9 | DM C :  31   1 :  33 |   7  1.5   7 ||  48 || MF  0 DM -4 DM  1 DM  0 DM  1 DM -5 MF -2       
 D_Lungu         22  9/17/17 | FW L :  29   0 :  29 |   3  0.7   7 ||  39 || AM -3 MF -3 MF -4 MF -4 MF -4 FW  0 FW -4       
-P_Druery        24 19/ 7/17 | FW L :  29   0 :  29 |  -4  0.9   5 ||  30 || DF -7 DF -4 DF -2 DF -2 DF  0 FW  0 FW -2       
 V_Dobre         22  7/19/14 | MF P :  24  -2 :  22 |  -4  1.1   7 ||  26 || MF -2 MF -3 MF -3 MF -3 MF -4 AM -4 AM -7       
+P_Druery        24 19/ 7/17 | FW L :  29   0 :  29 |  -4  0.9   5 ||  30 || DF -7 DF -4 DF -2 DF -2 DF  0 FW  0 FW -2       
 A_Briden        24 12/19/ 9 | MF C :  27  -2 :  25 |  -8  1.0   5 ||  23 || MF -2 DM -6 MF -2 MF -4 DM -3 AM -8 MF -6       
 A_Kapustov      26    19    | GK N :  29   0 :  29 | -11  0.2   3 ||  20 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-O_Devers        23    18    | GK N :  27  -1 :  26 |  -5  1.3   6 ||  28 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 O_Bucsa         24 18/10/ 9 | DF D :  24  -3 :  21 | -12  1.4   5 ||  16 || DF -8 DF-10 DF -3 DF -5 DF -3 DM -7 DF -3       
+O_Devers        23    18    | GK N :  27  -1 :  26 |  -5  1.3   6 ||  28 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 T_Ris           20 17/ 5/14 | DF N :  25  -4 :  21 |  -3  1.1   7 ||  26 || DF-11 DF -9 DF -5 DF -5 DF -4 FW -5 DF -5     r 
 
-COUNTER_ATTACK
+PASSING
 GK Q_Bonnette
 DF G_C_Moore
 DF M_Tensfeldt
 DF V_Barbieri
-DM O_Burgin
+DF O_Burgin
+DF X_Cullie
+DM O_Bravo
 DM Alan_Michael
-MF P_Deusner
-AM O_Bravo
-AM I_Drover
-AM R_Gelman
+DM P_Deusner
+FW R_Gelman
 FW G_Mordino
                  N       D       A       C       L       P       E 
   STOPPING      38      38      38      38      38      38      38 
-  TACKLING     124     170      79     143     144     108     113 
-   PASSING     139      99     147     142      69     165     150 
-  SHOOTING      92      50     159      76     150      71      88 
-   SH Mean      18      19      18      19      18      18      18 
- SH Median      18      20      18      18      18      18      18 
+  TACKLING     157     192     120     162     178     144     152 
+   PASSING     111      74     127     118      58     154     106 
+  SHOOTING      90      38     151      74     141      76      82 
+   SH Mean      19      21      18      19      18      19      19 
+ SH Median      18      20      18      20      18      20      20 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      22      15      28      20      17      24      23 
+  SH Bonus      17      11      23      17      14      21      17 
    GK Qual      25      25      25      25      25      25      25 
-  GK Bonus      25      19      36      23      21      28      27 
+  GK Bonus      21      17      27      20      18      24      21 
        Agg      23      23      23      23      23      23      23 
-   Scoring     124      83     151     120      96     134     129 
- Defending     124     170      79     143     144     108     113 
-   Overall     294     263     263     304     270     291     291 
+   Scoring     104      62     135     103      85     128      98 
+ Defending     157     192     120     162     178     144     152 
+   Overall     289     237     304     293     271     315     279 
 
 GK A_Kapustov
-AM X_Cullie
-FW P_Druery
+DF I_Drover
+FW D_Lungu
 FW C_Owen
 FW D_Van_Ry
 
 SUB GK A_Kapustov GK IF INJURED GK
-SUB DF X_Cullie DF IF INJURED DF
-SUB DM D_Van_Ry DM IF INJURED DM
-SUB MF D_Van_Ry MF IF INJURED MF
-SUB AM D_Van_Ry AM IF INJURED AM
+SUB DF I_Drover DF IF INJURED DF
+SUB DM I_Drover DM IF INJURED DM
+SUB MF I_Drover MF IF INJURED MF
+SUB AM I_Drover AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB P_Deusner X_Cullie DM IF MIN = 60
-SUB I_Drover D_Van_Ry FW IF MIN = 70
-CHANGEPOS G_Mordino AM IF MIN = 75
-SUB G_Mordino C_Owen FW IF MIN = 78
-CHANGEPOS O_Burgin AM IF MIN = 81
-CHANGEPOS O_Bravo DM IF MIN = 87
-CHANGEPOS C_Owen AM IF MIN = 90
+SUB P_Deusner D_Van_Ry FW IF MIN = 50
+SUB X_Cullie I_Drover DF IF MIN = 55
+SUB G_Mordino C_Owen FW IF MIN = 70
 TACTIC A IF MIN >= 60 SCORE <= -2
-TACTIC P IF MIN >= 70 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 90 SCORE >= 2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 66 SCORE >= 2
 
 
 Forced:N_Morariu/R_Amanar/I_Kazaku/E_Petrescu/F_Pacuraru/
@@ -581,7 +577,7 @@ FW R_Amanar
 GK C_Ionita
 DF R_Georghiou
 DF P_Lazar
-DF T_Gheorghiu
+DF L_Roman
 DF U_Harkins
 
 SUB GK C_Ionita GK IF INJURED GK
@@ -591,12 +587,12 @@ SUB MF R_Georghiou MF IF INJURED MF
 SUB AM R_Georghiou AM IF INJURED AM
 SUB FW P_Lazar FW IF INJURED FW
 
-SUB E_Silivasi R_Georghiou DF IF MIN = 50
-SUB L_Gabor P_Lazar DF IF MIN = 70
-TACTIC A IF MIN >= 68 SCORE <= -2
+SUB E_Silivasi P_Lazar DF IF MIN = 45
+SUB P_Lazar R_Georghiou DF IF MIN = 70
+TACTIC A IF MIN >= 45 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 68 SCORE >= 2
+TACTIC L IF MIN >= 63 SCORE >= 2
 
 
