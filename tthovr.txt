@@ -631,25 +631,25 @@ FW Valdano
 
 GK K_Shand
 DF S_Vagini
+DF E_Plummer
 DF S_Howey
 DF D_McHale
-FW T_Hurlock
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF S_Vagini DF IF INJURED DF
 SUB DM D_McHale DM IF INJURED DM
 SUB MF D_McHale MF IF INJURED MF
 SUB AM D_McHale AM IF INJURED AM
-SUB FW T_Hurlock FW IF INJURED FW
+SUB FW D_McHale FW IF INJURED FW
 
-SUB Valdano D_McHale DM IF MIN = 45
-SUB A_Hinkel S_Howey DF IF MIN = 50
-SUB W_Morgan S_Vagini DF IF MIN = 60
+SUB A_Hinkel D_McHale DF IF MIN = 50
+SUB W_Morgan S_Howey DM IF MIN = 55
+SUB Valdano S_Vagini DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC D IF MIN >= 80 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC D IF MIN >= 53 SCORE >= 2
 
 SUB A_Wisdom S_Vagini DF IF SCORE <= -3
 SUB A_Wisdom S_Vagini DF IF SCORE >= 3
@@ -719,13 +719,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB Janssen T_XGhiuri DF IF MIN = 45
-SUB V_Yonescu M_Antonio MF IF MIN = 50
-SUB K_Layvin I_Hack DF IF MIN = 65
+SUB V_Yonescu T_XGhiuri DF IF MIN = 45
+SUB J_Cadette M_Antonio DM IF MIN = 60
+SUB Janssen I_Hack DF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 50 SCORE = 1
+TACTIC D IF MIN >= 64 SCORE = 1
 TACTIC D IF MIN >= 32 SCORE >= 2
 
 SUB D_Mario M_Antonio AM IF SCORE <= -3
