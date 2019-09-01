@@ -365,7 +365,7 @@ LONG_BALL        29  38  31  34  29  29
 DEFENSIVE        29  27  30  32  31  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    11     2     6 
+                       Count     5    17     2    10     2     6 
                          Max    38    41    39    37    38    38 
                   1st XI (N)    38    33    31                34 
                   1st XI (P)    38    36    28                37 
@@ -374,7 +374,7 @@ DEFENSIVE        29  27  30  32  31  26
                          Min
                       NORMAL    24    16    27    17    23    22 
                    DEFENSIVE    24    16          14    18       
-                   ATTACKING    24    17          16    18    28 
+                   ATTACKING    24    17          16    18    29 
               COUNTER_ATTACK    24    15    22    17    17    24 
                    LONG_BALL    24    19          13          24 
                      PASSING    24    15                      17 
@@ -499,25 +499,24 @@ FW C_Owen
    Overall     288     235     305     291     273     313     277 
 
 GK A_Kapustov
-DF P_Druery
 DF P_Deusner
+FW V_Dobre
 FW I_Drover
 FW D_Lungu
 
 SUB GK A_Kapustov GK IF INJURED GK
-SUB DF P_Druery DF IF INJURED DF
+SUB DF I_Drover DF IF INJURED DF
 SUB DM P_Deusner DM IF INJURED DM
 SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW I_Drover FW IF INJURED FW
 
-SUB G_Mordino P_Deusner DM IF MIN = 45
-SUB Alan_Michael I_Drover DM IF MIN = 60
-SUB X_Cullie P_Druery DF IF MIN = 84
+SUB X_Cullie I_Drover DF IF MIN = 50
+SUB G_Mordino P_Deusner DM IF MIN = 60
 TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
+TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC L IF MIN >= 49 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC L IF MIN >= 26 SCORE >= 2
 
 
@@ -586,14 +585,12 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW H_Ghita FW IF INJURED FW
 
-SUB F_Pacuraru H_Ghita FW IF MIN = 45
-SUB E_Silivasi P_Lazar DF IF MIN = 70
-CHANGEPOS I_Kazaku AM IF MIN = 84
-SUB L_Gabor R_Georghiou DF IF MIN = 87
+SUB F_Pacuraru H_Ghita FW IF MIN = 50
+SUB E_Silivasi R_Georghiou DF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF MIN >= 2 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 89 SCORE = 1
+TACTIC D IF MIN >= 88 SCORE = 1
 TACTIC D IF MIN >= 42 SCORE >= 2
 
 
