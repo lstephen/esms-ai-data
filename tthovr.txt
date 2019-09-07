@@ -629,7 +629,7 @@ FW S_Artenie
 
 GK K_Shand
 DM A_Hinkel
-DM S_Vagini
+DM A_R_Essien
 MF J_P_Veron
 AM R_Sharp
 
@@ -640,10 +640,10 @@ SUB MF J_P_Veron MF IF INJURED MF
 SUB AM J_P_Veron AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
-SUB Valdano S_Vagini DF IF MIN = 45
-SUB D_McHale J_P_Veron MF IF MIN = 55
-SUB W_Morgan A_Hinkel DF IF MIN = 70
-TACTIC A IF MIN >= 90 SCORE <= -2
+SUB Valdano A_Hinkel DF IF MIN = 45
+SUB S_Howey A_R_Essien DM IF MIN = 60
+SUB D_McHale J_P_Veron MF IF MIN = 65
+TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 40 SCORE = 1
@@ -717,11 +717,11 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW M_Truk FW IF INJURED FW
 
-SUB Janssen J_Milburn DF IF MIN = 50
-SUB V_Yonescu M_Antonio DF IF MIN = 55
-SUB J_Cadette M_Truk FW IF MIN = 70
-TACTIC P IF MIN >= 50 SCORE <= -2
-TACTIC P IF MIN >= 50 SCORE = -1
+SUB Janssen M_Truk FW IF MIN = 45
+SUB J_Cadette M_Antonio DM IF MIN = 50
+SUB V_Yonescu J_Milburn DF IF MIN = 78
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF MIN >= 11 SCORE = 1
 TACTIC D IF MIN >= 32 SCORE >= 2
