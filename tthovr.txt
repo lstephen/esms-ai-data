@@ -641,8 +641,8 @@ SUB AM J_P_Veron AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
 SUB Valdano A_Hinkel DF IF MIN = 45
-SUB S_Howey A_R_Essien DM IF MIN = 60
-SUB D_McHale J_P_Veron MF IF MIN = 65
+SUB D_McHale J_P_Veron MF IF MIN = 60
+SUB S_Howey A_R_Essien DM IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
@@ -717,8 +717,8 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW M_Truk FW IF INJURED FW
 
-SUB Janssen M_Truk FW IF MIN = 45
-SUB J_Cadette M_Antonio DM IF MIN = 50
+SUB Janssen M_Truk FW IF MIN = 50
+SUB J_Cadette M_Antonio DM IF MIN = 55
 SUB V_Yonescu J_Milburn DF IF MIN = 78
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
