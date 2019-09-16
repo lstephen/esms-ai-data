@@ -640,9 +640,9 @@ SUB MF J_P_Veron MF IF INJURED MF
 SUB AM J_P_Veron AM IF INJURED AM
 SUB FW S_Artenie FW IF INJURED FW
 
-SUB R_Sharp S_Artenie FW IF MIN = 45
-SUB W_Morgan E_Plummer DF IF MIN = 60
-SUB R_Pires J_P_Veron MF IF MIN = 70
+SUB R_Sharp S_Artenie FW IF MIN = 55
+SUB R_Pires J_P_Veron MF IF MIN = 60
+SUB W_Morgan E_Plummer DF IF MIN = 75
 TACTIC E IF MIN >= 10 SCORE <= -2
 TACTIC E IF MIN >= 18 SCORE = -1
 TACTIC C IF SCORE = 0
@@ -716,13 +716,13 @@ SUB MF Ridoutkha MF IF INJURED MF
 SUB AM Ridoutkha AM IF INJURED AM
 SUB FW Hugo_Sanchez FW IF INJURED FW
 
-SUB R_Da_Silva Ridoutkha DF IF MIN = 60
-SUB J_Cadette K_Layvin DF IF MIN = 65
-SUB Janssen J_Milburn DM IF MIN = 70
+SUB J_Cadette Ridoutkha DM IF MIN = 55
+SUB R_Da_Silva K_Layvin DF IF MIN = 60
+SUB Janssen J_Milburn DF IF MIN = 78
 TACTIC A IF SCORE <= -2
-TACTIC P IF MIN >= 70 SCORE = -1
+TACTIC P IF MIN >= 78 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 70 SCORE = 1
+TACTIC D IF MIN >= 66 SCORE = 1
 TACTIC D IF MIN >= 34 SCORE >= 2
 
 SUB Moreto Ridoutkha DM IF SCORE <= -3
