@@ -628,29 +628,29 @@ FW R_Sharp
    Overall     284     245     314     295     250     323     266 
 
 GK K_Shand
-DF A_Hinkel
 DF P_Henrique
 FW R_Pires
+FW J_P_Veron
 FW Valdano
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF A_Hinkel DF IF INJURED DF
+SUB DF P_Henrique DF IF INJURED DF
 SUB DM R_Pires DM IF INJURED DM
 SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW Valdano FW IF INJURED FW
 
-SUB R_Sharp Valdano FW IF MIN = 45
-SUB W_Morgan R_Pires FW IF MIN = 55
-SUB S_Artenie A_Hinkel DF IF MIN = 60
+SUB R_Sharp J_P_Veron MF IF MIN = 45
+SUB T_Hurlock R_Pires MF IF MIN = 55
+SUB S_Artenie Valdano FW IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 79 SCORE >= 2
+TACTIC D IF MIN >= 87 SCORE = 1
+TACTIC D IF MIN >= 55 SCORE >= 2
 
-SUB Doriva A_Hinkel DF IF SCORE <= -3
-SUB Doriva A_Hinkel DF IF SCORE >= 3
+SUB Doriva P_Henrique DF IF SCORE <= -3
+SUB Doriva P_Henrique DF IF SCORE >= 3
 
 Forced:Hugo_Sanchez/Janssen/V_Yonescu/
 ** Reserves Selection **
@@ -718,7 +718,7 @@ SUB FW M_Truk FW IF INJURED FW
 
 SUB V_Yonescu J_Milburn DF IF MIN = 45
 SUB K_Layvin I_Hack DF IF MIN = 50
-SUB Janssen M_Truk FW IF MIN = 65
+SUB Janssen M_Truk FW IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
