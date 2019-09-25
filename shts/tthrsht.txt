@@ -5,30 +5,30 @@ GK C_Freamon
 DF D_Barr
 DF R_Da_Silva
 DF V_Yonescu
-DF K_Layvin
 DF Ridoutkha
+DF J_Milburn
 DM M_Antonio
 DM J_Cadette
 FW D_Mario
 FW Hugo_Sanchez
-FW Janssen
+FW M_Truk
 
 GK D_Gogean
 DF I_Hack
 DF T_XGhiuri
-DF J_Milburn
-FW M_Truk
+DF K_Layvin
+FW Janssen
 
-PK: Hugo_Sanchez
+PK: M_Truk
 AGG 20
 
-SUB 4 15 DF IF MIN = 45
-SUB 5 13 DF IF MIN = 50
-SUB 11 16 FW IF MIN = 55
+SUB 4 13 DF IF MIN = 45
+SUB 11 16 FW IF MIN = 50
+SUB 6 15 DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 73 SCORE >= 2
-SUB 2 13 DF IF SCORE <= -3
-SUB 2 13 DF IF SCORE >= 3
+TACTIC D IF MIN >= 70 SCORE >= 2
+SUB 9 16 FW IF SCORE <= -3
+SUB 9 16 FW IF SCORE >= 3
