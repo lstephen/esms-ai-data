@@ -374,7 +374,7 @@ DEFENSIVE        29  27  30  32  31  26
                          Min
                       NORMAL    24    16    22    18    23    22 
                    DEFENSIVE    24    16          16    18       
-                   ATTACKING    24    18                17    28 
+                   ATTACKING    24    18                17    29 
               COUNTER_ATTACK    24    16    23          18    24 
                    LONG_BALL    24    20          15          24 
                      PASSING    24    16                      18 
@@ -511,16 +511,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB G_Mordino D_Van_Ry FW IF MIN = 50
-SUB X_Cullie I_Drover DF IF MIN = 60
-CHANGEPOS I_Drover FW IF MIN = 84
-CHANGEPOS Alan_Michael DF IF MIN = 87
-SUB C_Owen D_Lungu FW IF MIN = 90
-TACTIC P IF SCORE <= -2
+SUB X_Cullie I_Drover DF IF MIN = 55
+SUB G_Mordino D_Van_Ry FW IF MIN = 60
+SUB C_Owen D_Lungu FW IF MIN = 87
+TACTIC A IF MIN >= 56 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 54 SCORE >= 2
+TACTIC L IF MIN >= 55 SCORE >= 2
 
 
 Forced:I_Kazaku/N_Morariu/E_Petrescu/M_Parvulescu/N_Parasca/
@@ -589,13 +587,13 @@ SUB MF E_Silivasi MF IF INJURED MF
 SUB AM E_Silivasi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Gabor E_Silivasi DF IF MIN = 60
-SUB I_Kazaku R_Georghiou DF IF MIN = 78
-CHANGEPOS M_Parvulescu FW IF MIN = 81
+SUB L_Gabor R_Georghiou DF IF MIN = 65
+SUB I_Kazaku E_Silivasi DF IF MIN = 75
+CHANGEPOS M_Parvulescu FW IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC D IF MIN >= 81 SCORE >= 2
 
 
