@@ -16,14 +16,14 @@ FW R_Amanar
 GK C_Ionita
 DF R_Georghiou
 DF P_Lazar
-DF U_Harkins
+DF L_Roman
 FW F_Pacuraru
 
 PK: H_Ghita
 AGG 20
 
-SUB 3 14 DF IF MIN = 55
-SUB 4 13 DF IF MIN = 65
+SUB 3 14 DF IF MIN = 50
+SUB 4 13 DF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
