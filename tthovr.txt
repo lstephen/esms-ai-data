@@ -135,31 +135,31 @@ FW S_Artenie
 ** 1st XI **
 EUROPEAN
 GK R_Ceni
-DF A_Wisdom
 DF A_Hinkel
+DF A_R_Essien
 DF S_Howey
-DM A_R_Essien
+DM A_Wisdom
 DM P_Henrique
 DM Doriva
 MF E_Gabor
 MF R_Pires
-MF C_McGregor
+MF D_McHale
 FW S_Artenie
                  N       D       A       C       L       P       E 
   STOPPING      53      53      53      53      53      53      53 
-  TACKLING     138     217     113     153     201     134     133 
-   PASSING     168     119     174     169      83     185     186 
-  SHOOTING      50      30      86      46      74      47      50 
-   SH Mean      20      24      19      21      19      21      19 
+  TACKLING     138     219     111     153     205     134     133 
+   PASSING     168     119     173     168      82     184     187 
+  SHOOTING      51      31      89      47      78      47      49 
+   SH Mean      20      23      19      21      19      21      20 
  SH Median      28      28      18      28      18      28      28 
     SH Max      28      28      28      28      28      28      28 
   SH Bonus      26      16      27      25      14      28      28 
    GK Qual      35      35      35      35      35      35      35 
-  GK Bonus      34      25      40      32      24      36      36 
-       Agg      28      28      28      28      28      28      28 
-   Scoring     129      89     144     128      80     139     141 
- Defending     138     217     113     153     201     134     133 
-   Overall     326     309     320     335     282     336     338 
+  GK Bonus      34      25      41      32      24      36      36 
+       Agg      29      29      29      29      29      29      29 
+   Scoring     129      90     145     128      81     138     141 
+ Defending     138     219     111     153     205     134     133 
+   Overall     326     312     319     336     286     335     338 
 
 ** 1st XI **
 NORMAL
@@ -641,14 +641,14 @@ SUB MF J_P_Veron MF IF INJURED MF
 SUB AM J_P_Veron AM IF INJURED AM
 SUB FW T_Hurlock FW IF INJURED FW
 
-SUB E_Plummer W_Morgan DF IF MIN = 50
-SUB S_Artenie T_Hurlock FW IF MIN = 55
-SUB R_Pires J_P_Veron MF IF MIN = 78
+SUB E_Plummer W_Morgan DF IF MIN = 45
+SUB R_Pires T_Hurlock FW IF MIN = 55
+SUB S_Artenie J_P_Veron MF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 47 SCORE >= 2
+TACTIC D IF MIN >= 60 SCORE >= 2
 
 SUB Doriva W_Morgan DF IF SCORE <= -3
 SUB Doriva W_Morgan DF IF SCORE >= 3
@@ -717,14 +717,14 @@ SUB MF K_Layvin MF IF INJURED MF
 SUB AM K_Layvin AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB V_Yonescu I_Hack DF IF MIN = 45
-SUB M_Truk Janssen FW IF MIN = 55
 SUB J_Milburn T_XGhiuri DF IF MIN = 60
+SUB V_Yonescu Janssen FW IF MIN = 65
+SUB M_Truk I_Hack DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 67 SCORE >= 2
+TACTIC D IF MIN >= 69 SCORE >= 2
 
 SUB D_Mario Janssen FW IF SCORE <= -3
 SUB D_Mario Janssen FW IF SCORE >= 3
