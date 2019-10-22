@@ -578,77 +578,77 @@ Forced:A_Wisdom/E_Plummer/S_Artenie/A_Hinkel/R_Pires/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 R_Ceni          35    35    | GK N :  53  12 :  65 |  18  1.5   2 ||  85 || GK 12 GK 12 GK 12 GK 12 GK 12 GK 12 GK 12       
-S_Artenie       29  5/10/28 | FW A :  49   2 :  51 |  14  0.5   4 ||  69 || FW -4 FW -1 FW  2 FW  0 FW  1 FW  2 FW -1       
-R_Sharp         29  6/11/26 | FW L :  38   0 :  38 |   1  0.9   4 ||  44 || FW -5 FW -2 FW  0 FW -1 FW -1 FW  0 FW -2       
-T_Hurlock       35  8/25/20 | MF A :  39   3 :  42 |  -5  0.3   1 ||  38 || MF -1 MF -1 MF  3 AM -1 AM  2 AM -1 AM -1       
-Valdano         30  8/12/25 | FW L :  38  -1 :  37 |   0  1.1   3 ||  41 || FW -5 FW -2 FW -1 FW -1 FW -1 FW -1 FW -1       
 A_Wisdom        35 29/23/ 9 | DF P :  49  11 :  60 |  13  1.2   1 ||  76 || DF 11 DM 10 DF  9 DM  7 DF  9 MF 11 MF 11       
-R_Pires         31  9/26/18 | MF A :  40   3 :  43 |   7  0.9   3 ||  53 || MF  1 MF  1 MF  3 MF  1 AM  3 AM -2 AM  0       
-J_P_Veron       31  9/25/15 | MF A :  36   0 :  36 |   0  1.0   3 ||  40 || MF -1 MF -1 MF  0 MF -2 AM  0 DM -4 AM -2       
-A_Hinkel        36 26/11/10 | MF L :  51   1 :  52 |  11  0.6   1 ||  64 || DF -1 DF  0 DF  1 DF  0 DF  0 MF  1 DF  0       
-E_Plummer       26 25/11/11 | MF L :  50   0 :  50 |  18  1.4   6 ||  75 || DF -1 DF -1 DF  0 DF  0 DF -1 MF  0 DF -1       
-Doriva          25 20/21/ 9 | DM C :  36   2 :  38 |   1  0.5   6 ||  45 || DF  1 DM  2 DF  0 DM -1 DM  0 DM  0 MF  1     r 
+T_Hurlock       35  8/25/20 | MF A :  39   3 :  42 |  -5  0.3   1 ||  38 || MF -1 MF -1 MF  3 AM -1 AM  2 AM -1 AM -1       
 P_Henrique      33 19/25/ 7 | DM C :  37   4 :  41 |   0  1.1   2 ||  43 || DM  3 DM  4 DM -1 DM  2 DM  1 DM -1 MF  2       
-D_McHale        30 17/24/12 | DM C :  35   2 :  37 |   0  0.7   3 ||  41 || DM  1 DM  2 DM -1 DM -1 MF  0 DM -1 AM  0     r 
+R_Pires         31  9/26/18 | MF A :  40   3 :  43 |   7  0.9   3 ||  53 || MF  1 MF  1 MF  3 MF  1 AM  3 AM -2 AM  0       
+Doriva          25 20/21/ 9 | DM C :  36   2 :  38 |   1  0.5   6 ||  45 || DF  1 DM  2 DF  0 DM -1 DM  0 DM  0 MF  1     r 
 S_Howey         35 23/19/ 5 | DM D :  38   1 :  39 |  -7  0.2   1 ||  33 || DF  1 DM  1 DF -1 DM -1 DF  0 DM -1 DM  1     r 
-W_Morgan        23 26/11/ 7 | DF D :  35   0 :  35 |   3  0.2   7 ||  45 || DF -1 DF -1 DF -1 DF -1 DF -1 DF  0 DF  0       
-Moreto          24 18/24/ 8 | DM C :  36   2 :  38 |   5  0.8   6 ||  50 || DM  2 DM  2 DM -1 DM  0 DM  0 DM -2 MF  1     r 
 A_R_Essien      35 24/20/ 1 | DM D :  39   2 :  41 |  -6  0.6   1 ||  36 || DF  1 DM  1 DF -2 DM -1 DF -1 DM -3 DM  2     r 
-S_Vagini        28 25/11/ 6 | DF D :  34  -1 :  33 |  -1  0.2   5 ||  36 || DF -3 DF -2 DF -2 DF -2 DF -2 DF -2 DF -1       
+Moreto          24 18/24/ 8 | DM C :  36   2 :  38 |   5  0.8   6 ||  50 || DM  2 DM  2 DM -1 DM  0 DM  0 DM -2 MF  1     r 
+D_McHale        30 17/24/12 | DM C :  35   2 :  37 |   0  0.7   3 ||  41 || DM  1 DM  2 DM -1 DM -1 MF  0 DM -1 AM  0     r 
 E_Gabor         34 18/24/ 5 | DM C :  35   2 :  37 | -11  0.8   1 ||  28 || DM  1 DM  2 DM -3 DM  0 DM -1 DM -3 MF  0     r 
+A_Hinkel        36 26/11/10 | MF L :  51   1 :  52 |  11  0.6   1 ||  64 || DF -1 DF  0 DF  1 DF  0 DF  0 MF  1 DF  0       
+S_Artenie       29  5/10/28 | FW A :  49   2 :  51 |  14  0.5   4 ||  69 || FW -4 FW -1 FW  2 FW  0 FW  1 FW  2 FW -1       
+E_Plummer       26 25/11/11 | MF L :  50   0 :  50 |  18  1.4   6 ||  75 || DF -1 DF -1 DF  0 DF  0 DF -1 MF  0 DF -1       
+W_Morgan        23 26/11/ 7 | DF D :  35   0 :  35 |   3  0.2   7 ||  45 || DF -1 DF -1 DF -1 DF -1 DF -1 DF  0 DF  0       
+Valdano         30  8/12/25 | FW L :  38  -1 :  37 |   0  1.1   3 ||  41 || FW -5 FW -2 FW -1 FW -1 FW -1 FW -1 FW -1       
+J_P_Veron       31  9/25/15 | MF A :  36   0 :  36 |   0  1.0   3 ||  40 || MF -1 MF -1 MF  0 MF -2 AM  0 DM -4 AM -2       
+R_Sharp         29  6/11/26 | FW L :  38   0 :  38 |   1  0.9   4 ||  44 || FW -5 FW -2 FW  0 FW -1 FW -1 FW  0 FW -2       
+S_Vagini        28 25/11/ 6 | DF D :  34  -1 :  33 |  -1  0.2   5 ||  36 || DF -3 DF -2 DF -2 DF -2 DF -2 DF -2 DF -1       
 C_McGregor      27 14/25/ 8 | DM P :  31  -1 :  31 |  -2  1.2   5 ||  35 || DM -1 DM -1 DM -3 DM -3 MF -1 DM -5 AM -3       
 B_Draghici      30 25/10/ 5 | DF D :  34  -1 :  32 |  -5  0.6   4 ||  32 || DF -4 DF -3 DF -3 DF -3 DF -3 DF -2 DF -1       
 K_Shand         27    20    | GK N :  30 -10 :  20 | -13  0.9   6 ||  13 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
 
-ATTACKING
+PASSING
 GK R_Ceni
 DF A_Wisdom
 DF A_Hinkel
 DF E_Plummer
-DF S_Howey
+DF P_Henrique
 DF Doriva
-DM P_Henrique
+DM E_Gabor
 DM Moreto
-AM R_Pires
-AM T_Hurlock
+DM D_McHale
+MF R_Pires
 FW S_Artenie
                  N       D       A       C       L       P       E 
   STOPPING      53      53      53      53      53      53      53 
-  TACKLING     155     209     142     158     170     153     142 
-   PASSING     132      89     139     132      64     156     129 
-  SHOOTING      71      41     115      71      93      69      73 
-   SH Mean      20      23      20      20      20      20      19 
- SH Median      20      28      20      20      20      20      20 
+  TACKLING     159     219     146     166     186     157     150 
+   PASSING     137      92     143     138      67     163     136 
+  SHOOTING      55      27      91      50      76      51      54 
+   SH Mean      20      25      19      21      20      20      19 
+ SH Median      28      28      18      28      18      28      18 
     SH Max      28      28      28      28      28      28      28 
-  SH Bonus      21      14      24      20      15      22      22 
+  SH Bonus      22      13      22      22      13      24      20 
    GK Qual      35      35      35      35      35      35      35 
-  GK Bonus      30      24      34      30      25      32      31 
-       Agg      29      29      29      29      29      29      29 
-   Scoring     112      73     131     112      73     127     110 
- Defending     155     209     142     158     170     153     142 
-   Overall     311     274     329     313     256     332     302 
+  GK Bonus      30      23      33      29      24      32      30 
+       Agg      27      27      27      27      27      27      27 
+   Scoring     110      70     126     109      70     126     109 
+ Defending     159     219     146     166     186     157     150 
+   Overall     313     275     325     315     257     335     303 
 
 GK K_Shand
 DF W_Morgan
-DM D_McHale
-AM J_P_Veron
+DF S_Howey
+FW T_Hurlock
 FW R_Sharp
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF W_Morgan DF IF INJURED DF
-SUB DM J_P_Veron DM IF INJURED DM
-SUB MF J_P_Veron MF IF INJURED MF
-SUB AM J_P_Veron AM IF INJURED AM
+SUB DM T_Hurlock DM IF INJURED DM
+SUB MF T_Hurlock MF IF INJURED MF
+SUB AM T_Hurlock AM IF INJURED AM
 SUB FW R_Sharp FW IF INJURED FW
 
-SUB E_Plummer W_Morgan DF IF MIN = 50
-SUB Moreto R_Sharp FW IF MIN = 60
-SUB S_Artenie D_McHale DM IF MIN = 70
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 38 SCORE >= 2
+SUB S_Artenie R_Sharp FW IF MIN = 50
+SUB D_McHale T_Hurlock MF IF MIN = 60
+SUB E_Plummer W_Morgan DF IF MIN = 70
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC D IF MIN >= 87 SCORE = 1
+TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB Doriva W_Morgan DF IF SCORE <= -3
 SUB Doriva W_Morgan DF IF SCORE >= 3
@@ -717,14 +717,14 @@ SUB MF K_Layvin MF IF INJURED MF
 SUB AM K_Layvin AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB V_Yonescu Janssen FW IF MIN = 55
-SUB M_Truk I_Hack DM IF MIN = 60
-SUB M_Antonio K_Layvin DF IF MIN = 70
+SUB M_Truk K_Layvin DM IF MIN = 45
+SUB V_Yonescu I_Hack DF IF MIN = 50
+SUB M_Antonio Janssen FW IF MIN = 81
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 54 SCORE >= 2
 
 SUB D_Mario Janssen FW IF SCORE <= -3
 SUB D_Mario Janssen FW IF SCORE >= 3
