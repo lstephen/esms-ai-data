@@ -101,31 +101,31 @@ FW S_Artenie
 ** 1st XI **
 EUROPEAN
 GK R_Ceni
+DF A_Wisdom
 DF W_Morgan
-DF A_R_Essien
 DF S_Howey
-DM A_Wisdom
+DM A_R_Essien
 DM P_Henrique
 DM Doriva
 MF E_Gabor
 MF R_Pires
-MF D_McHale
+MF C_McGregor
 FW S_Artenie
                  N       D       A       C       L       P       E 
   STOPPING      54      54      54      54      54      54      54 
-  TACKLING     138     219     111     153     205     134     133 
-   PASSING     168     119     173     168      82     184     187 
-  SHOOTING      50      31      88      47      77      46      48 
-   SH Mean      20      23      19      21      19      21      20 
+  TACKLING     138     217     113     153     201     134     133 
+   PASSING     168     119     174     169      83     185     186 
+  SHOOTING      49      30      85      46      73      46      49 
+   SH Mean      20      24      19      21      19      21      20 
  SH Median      28      28      18      28      18      28      28 
     SH Max      28      28      28      28      28      28      28 
   SH Bonus      26      16      27      25      14      28      28 
    GK Qual      36      36      36      36      36      36      36 
-  GK Bonus      35      25      42      33      25      37      37 
-       Agg      26      26      26      26      26      26      26 
-   Scoring     128      90     145     128      80     138     141 
- Defending     138     219     111     153     205     134     133 
-   Overall     327     312     319     336     286     336     338 
+  GK Bonus      35      25      41      33      25      37      37 
+       Agg      25      25      25      25      25      25      25 
+   Scoring     128      89     144     128      79     138     141 
+ Defending     138     217     113     153     201     134     133 
+   Overall     327     310     320     336     282     337     338 
 
 ** 1st XI **
 ATTACKING
@@ -614,26 +614,26 @@ FW R_Sharp
    Overall     298     260     331     310     262     341     280 
 
 GK K_Shand
+DF C_McGregor
 DF Moreto
 DF D_McHale
-FW J_P_Veron
 FW Valdano
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF Moreto DF IF INJURED DF
-SUB DM J_P_Veron DM IF INJURED DM
-SUB MF J_P_Veron MF IF INJURED MF
-SUB AM J_P_Veron AM IF INJURED AM
+SUB DM C_McGregor DM IF INJURED DM
+SUB MF C_McGregor MF IF INJURED MF
+SUB AM C_McGregor AM IF INJURED AM
 SUB FW Valdano FW IF INJURED FW
 
-SUB R_Sharp Moreto DM IF MIN = 45
-SUB R_Pires J_P_Veron MF IF MIN = 55
-SUB E_Plummer D_McHale DF IF MIN = 60
+SUB E_Plummer D_McHale DF IF MIN = 45
+SUB S_Howey C_McGregor DM IF MIN = 70
+SUB S_Artenie Moreto DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 53 SCORE >= 2
+TACTIC D IF MIN >= 70 SCORE >= 2
 
 
 Forced:D_Mario/V_Yonescu/
@@ -697,8 +697,8 @@ SUB MF C_Sandulescu MF IF INJURED MF
 SUB AM C_Sandulescu AM IF INJURED AM
 SUB FW Janssen FW IF INJURED FW
 
-SUB M_Truk Janssen FW IF MIN = 55
-SUB V_Yonescu I_Muresanu DF IF MIN = 60
+SUB M_Truk Janssen FW IF MIN = 45
+SUB V_Yonescu I_Muresanu DF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
