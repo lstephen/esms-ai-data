@@ -518,7 +518,7 @@ SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB G_Mordino P_Deusner DM IF MIN = 50
+SUB G_Mordino P_Deusner DM IF MIN = 55
 SUB X_Cullie P_Druery DF IF MIN = 65
 SUB O_Burgin I_Drover DF IF MIN = 81
 TACTIC A IF SCORE <= -2
@@ -594,9 +594,9 @@ SUB MF E_Silivasi MF IF INJURED MF
 SUB AM E_Silivasi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Gabor R_Georghiou DF IF MIN = 60
-SUB N_Morariu P_Lazar DF IF MIN = 90
-TACTIC P IF SCORE <= -2
+SUB L_Gabor R_Georghiou DF IF MIN = 55
+SUB N_Parasca P_Lazar DF IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
