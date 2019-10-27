@@ -4,29 +4,29 @@ P
 GK R_Ceni
 DF A_Wisdom
 DF A_R_Essien
-DF E_Plummer
 DF S_Howey
+DF P_Henrique
 DF Doriva
 DM E_Gabor
-DM P_Henrique
+DM Moreto
 FW R_Pires
 FW S_Artenie
 FW R_Sharp
 
 GK K_Shand
 DF C_McGregor
-DF Moreto
 DF D_McHale
+FW J_P_Veron
 FW Valdano
 
 PK: S_Artenie
 AGG 20
 
-SUB 11 14 MF IF MIN = 50
-SUB 4 15 DF IF MIN = 55
-SUB 9 13 DM IF MIN = 65
+SUB 11 15 MF IF MIN = 45
+SUB 9 14 DM IF MIN = 50
+SUB 8 13 DM IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 81 SCORE = 1
+TACTIC D IF MIN >= 90 SCORE = 1
 TACTIC D IF MIN >= 50 SCORE >= 2
