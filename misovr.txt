@@ -506,24 +506,25 @@ FW C_Owen
    Overall     289     236     306     292     275     315     278 
 
 GK A_Kapustov
+DF P_Druery
 DF P_Deusner
 FW I_Drover
-FW D_Lungu
 FW D_Van_Ry
 
 SUB GK A_Kapustov GK IF INJURED GK
-SUB DF I_Drover DF IF INJURED DF
+SUB DF P_Druery DF IF INJURED DF
 SUB DM P_Deusner DM IF INJURED DM
 SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB G_Mordino P_Deusner DM IF MIN = 50
-SUB X_Cullie I_Drover DF IF MIN = 55
+SUB G_Mordino I_Drover DM IF MIN = 50
+SUB Alan_Michael P_Deusner DM IF MIN = 65
+SUB X_Cullie P_Druery DF IF MIN = 81
 TACTIC A IF SCORE <= -2
-TACTIC P IF SCORE = -1
+TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 50 SCORE = 1
 TACTIC L IF MIN >= 26 SCORE >= 2
 
 
