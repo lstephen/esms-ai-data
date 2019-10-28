@@ -4,12 +4,12 @@ E
 GK C_Freamon
 DF I_Hack
 DF T_XGhiuri
-DF V_Yonescu
-DM K_Layvin
+DF K_Layvin
 DM Ridoutkha
+DM J_Cadette
 DM J_Milburn
+MF R_Morrison
 MF M_Antonio
-MF J_Cadette
 MF D_Mario
 FW M_Truk
 
@@ -22,10 +22,10 @@ FW Janssen
 PK: M_Truk
 AGG 20
 
-SUB 11 16 FW IF MIN = 55
-SUB 4 14 DF IF MIN = 65
+SUB 11 16 FW IF MIN = 70
+SUB 4 14 DF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 31 SCORE = 1
-TACTIC D IF MIN >= 16 SCORE >= 2
+TACTIC D IF MIN >= 30 SCORE = 1
+TACTIC D IF MIN >= 15 SCORE >= 2
