@@ -15,15 +15,15 @@ FW S_Artenie
 
 GK K_Shand
 DM S_Howey
-MF C_McGregor
 MF D_McHale
+DM R_Morrison
 AM Ricardinho
 
 PK: S_Artenie
 AGG 20
 
-SUB 7 15 DM IF MIN = 55
-SUB 11 16 FW IF MIN = 60
+SUB 11 16 FW IF MIN = 50
+SUB 7 14 DM IF MIN = 55
 SUB 10 14 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
