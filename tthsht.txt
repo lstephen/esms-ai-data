@@ -1,32 +1,32 @@
 tth
-N
+E
 
 GK R_Ceni
-DF A_Wisdom
-DF A_R_Essien
+DF W_Morgan
+DF P_Tonosko
 DF E_Plummer
-DM E_Gabor
-DM P_Henrique
+DM A_R_Essien
 DM Doriva
+DM Moreto
+MF E_Gabor
 MF R_Pires
-MF D_McHale
-AM Ricardinho
+MF P_Henrique
 FW S_Artenie
 
 GK K_Shand
-DF W_Morgan
-DM Moreto
-AM J_P_Veron
-FW R_Sharp
+DM S_Howey
+MF C_McGregor
+MF D_McHale
+AM Ricardinho
 
-PK: Ricardinho
+PK: S_Artenie
 AGG 20
 
-SUB 10 15 MF IF MIN = 45
-SUB 4 13 DF IF MIN = 50
-SUB 9 14 MF IF MIN = 75
+SUB 7 15 DM IF MIN = 55
+SUB 11 16 FW IF MIN = 60
+SUB 10 14 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC N IF SCORE = 0
+TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 30 SCORE = 1
 TACTIC D IF MIN >= 15 SCORE >= 2
