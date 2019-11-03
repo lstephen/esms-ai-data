@@ -387,7 +387,6 @@ Y_Tobergta      22    18    | GK N :  27  -1 :  26 |   0  0.8   7 ||  33 || GK -
 L_Horvat        23 19/ 9/12 | DF N :  28  -2 :  26 |  -3  1.3   6 ||  31 || DF -7 DF -2 DF -7 DF -3 DF -2 DF -4 DF -2       
 O_Aslinger      23    18    | GK N :  27  -1 :  26 |  -4  0.3   6 ||  28 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 S_Westwell      23    18    | GK N :  27  -1 :  26 |  -4  0.5   6 ||  28 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
-S_Dijkstra      24 19/12/ 9 | DF C :  27  -1 :  26 |  -6  1.0   5 ||  26 || DF -5 DF -1 DF -8 DF -3 DF -2 DM -5 DF -1       
 M_Studstill     23 19/ 8/ 5 | DF D :  25  -2 :  23 |  -7  1.1   6 ||  23 || DF -9 DF -4 DF-13 DF -6 DF -5 DM -9 DF -2       
 E_Mordrake      25    18    | GK N :  27  -1 :  26 |  -8  1.4   4 ||  23 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 W_Toland        22 10/20/ 4 | MF P :  24  -3 :  20 |  -6  0.5   7 ||  22 || MF -3 MF -3 DM -9 MF -5 DM -5 DM-12 DM -8       
@@ -397,11 +396,12 @@ K_McGhie        23 19/ 6/11 | DF D :  24  -3 :  22 |  -8  0.2   6 ||  20 || DF -
 R_Gripton       24 19/10/10 | DF D :  25  -2 :  24 |  -9  0.8   5 ||  20 || DF -6 DF -2 DF -8 DF -4 DF -2 DM -5 DF -2       
 E_Elting        22  9/19/ 6 | MF P :  23  -4 :  19 |  -7  0.6   7 ||  19 || MF -4 MF -4 DM -9 MF -6 DM -6 DM-13 MF -9       
 U_Pineault      24 19/ 9/ 7 | DF D :  25  -2 :  23 |  -9  0.3   5 ||  19 || DF -8 DF -3 DF-11 DF -5 DF -4 DM -7 DF -2       
-P_Saurbaugh     26 19/12/10 | DF C :  28  -1 :  27 | -11  1.1   3 ||  19 || DF -5 DF -1 DF -7 DF -3 DF -1 DM -4 DF -1       
 B_Lelonek       23  4/ 8/19 | FW L :  28  -7 :  21 |  -9  0.3   6 ||  18 || FW-11 FW-11 FW -9 FW -8 FW-10 FW -7 FW -8       
 E_Portis        26    18    | GK N :  27  -1 :  26 | -12  1.4   3 ||  18 || GK -1 GK -1 GK -1 GK -1 GK -1 GK -1 GK -1       
 O_Coutre        26 11/20/ 9 | MF C :  28  -2 :  26 | -12  1.1   3 ||  18 || MF -2 MF -2 DM -6 MF -3 DM -3 DM -9 MF -6       
+M_Yewd          21  7/19/ 5 | MF P :  22  -5 :  17 |  -8  0.8   7 ||  17 || MF -5 MF -6 MF-10 MF -6 DM -8 DM-15 MF-11     r 
 X_Tripkovic     24  5/10/19 | FW L :  28  -6 :  22 | -10  0.5   5 ||  17 || FW -9 FW -9 FW -8 FW -7 FW -8 FW -6 FW -7       
+P_Banuet        28    19    | GK N :  29   0 :  29 | -15  1.2   1 ||  16 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 G_Anderson      22  8/19/ 3 | MF P :  22  -5 :  17 |  -9  0.7   7 ||  15 || MF -5 MF -6 DM-11 MF -7 DM -8 DM-15 DM-10       
 K_Booe          23  5/19/10 | MF P :  23  -4 :  19 | -11  0.7   6 ||  15 || MF -4 MF -5 MF -6 MF -5 MF -7 MF-13 AM-10       
 Le_Tex          27 20/ 9/ 5 | DF D :  26  -1 :  25 | -13  0.4   2 ||  15 || DF -8 DF -3 DF-11 DF -5 DF -4 DM -7 DF -1       
@@ -521,14 +521,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
+SUB P_Deusner G_Mordino FW IF MIN = 55
 SUB X_Cullie I_Drover DF IF MIN = 60
-SUB P_Deusner G_Mordino FW IF MIN = 65
 SUB C_Owen D_Lungu FW IF MIN = 87
-TACTIC A IF MIN >= 60 SCORE <= -2
+TACTIC A IF MIN >= 55 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 57 SCORE >= 2
+TACTIC L IF MIN >= 64 SCORE >= 2
 
 
 Forced:I_Kazaku/N_Morariu/M_Parvulescu/E_Petrescu/H_Ghita/
@@ -597,12 +597,14 @@ SUB MF C_Boroi MF IF INJURED MF
 SUB AM C_Boroi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB P_Lazar R_Georghiou DF IF MIN = 50
-SUB D_Balitiu C_Boroi MF IF MIN = 70
+SUB P_Lazar L_Roman DF IF MIN = 60
+SUB D_Balitiu R_Georghiou DF IF MIN = 65
+CHANGEPOS E_Petrescu MF IF MIN = 70
+SUB N_Parasca C_Boroi MF IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
-TACTIC D IF MIN >= 64 SCORE = 1
+TACTIC D IF MIN >= 71 SCORE = 1
 TACTIC D IF MIN >= 40 SCORE >= 2
 
 
