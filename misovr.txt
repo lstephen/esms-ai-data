@@ -364,7 +364,7 @@ LONG_BALL        29  38  31  34  34  35
 DEFENSIVE        29  27  30  32  31  26 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    10     2     6 
+                       Count     5    17     2    11     2     7 
                          Max    38    41    39    37    38    38 
                   1st XI (N)    38    33    32                34 
                   1st XI (P)    38    36    29                37 
@@ -598,13 +598,13 @@ SUB AM C_Boroi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
 SUB P_Lazar L_Roman DF IF MIN = 60
-SUB D_Balitiu R_Georghiou DF IF MIN = 65
-CHANGEPOS E_Petrescu MF IF MIN = 70
-SUB N_Parasca C_Boroi MF IF MIN = 87
+SUB N_Parasca C_Boroi MF IF MIN = 70
+SUB D_Balitiu R_Georghiou DF IF MIN = 87
+CHANGEPOS E_Petrescu MF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
-TACTIC D IF MIN >= 71 SCORE = 1
+TACTIC D IF MIN >= 90 SCORE = 1
 TACTIC D IF MIN >= 40 SCORE >= 2
 
 
