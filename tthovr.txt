@@ -629,25 +629,25 @@ FW Ricardinho
    Overall     314     278     331     316     255     335     304 
 
 GK K_Shand
-DF P_Tonosko
 DM P_Henrique
+DM Moreto
 DM D_McHale
 AM J_P_Veron
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF P_Tonosko DF IF INJURED DF
+SUB DF P_Henrique DF IF INJURED DF
 SUB DM P_Henrique DM IF INJURED DM
 SUB MF P_Henrique MF IF INJURED MF
 SUB AM P_Henrique AM IF INJURED AM
 SUB FW J_P_Veron FW IF INJURED FW
 
-SUB E_Plummer P_Henrique DM IF MIN = 55
-SUB E_Gabor P_Tonosko DF IF MIN = 65
-SUB W_Morgan D_McHale DM IF MIN = 70
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
+SUB E_Plummer P_Henrique DF IF MIN = 55
+SUB P_Coutinho D_McHale DM IF MIN = 60
+SUB W_Morgan Moreto DF IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 67 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 35 SCORE >= 2
 
 
