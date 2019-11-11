@@ -641,13 +641,13 @@ SUB MF P_Henrique MF IF INJURED MF
 SUB AM P_Henrique AM IF INJURED AM
 SUB FW J_P_Veron FW IF INJURED FW
 
-SUB W_Morgan P_Henrique DM IF MIN = 55
-SUB P_Coutinho D_McHale DF IF MIN = 60
-SUB E_Plummer Moreto DF IF MIN = 70
-TACTIC P IF MIN >= 60 SCORE <= -2
+SUB R_Pires P_Henrique DM IF MIN = 50
+SUB P_Coutinho D_McHale MF IF MIN = 60
+SUB E_Plummer Moreto DF IF MIN = 65
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 58 SCORE = 1
 TACTIC D IF MIN >= 35 SCORE >= 2
 
 
@@ -705,20 +705,21 @@ FW Janssen
    Overall     263     243     266     270     231     271     265 
 
 GK D_Gogean
-DF T_XGhiuri
+DF A_Stefanov
 DM J_Milburn
 DM N_Barbulescu
 FW C_Sandulescu
 
 SUB GK D_Gogean GK IF INJURED GK
-SUB DF T_XGhiuri DF IF INJURED DF
+SUB DF A_Stefanov DF IF INJURED DF
 SUB DM J_Milburn DM IF INJURED DM
 SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
 SUB Janssen J_Milburn MF IF MIN = 45
-SUB D_Mario N_Barbulescu MF IF MIN = 65
+SUB K_Layvin A_Stefanov DF IF MIN = 70
+SUB D_Mario N_Barbulescu MF IF MIN = 81
 TACTIC E IF MIN >= 42 SCORE <= -2
 TACTIC E IF MIN >= 45 SCORE = -1
 TACTIC C IF SCORE = 0
