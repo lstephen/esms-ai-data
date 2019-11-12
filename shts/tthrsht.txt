@@ -14,7 +14,7 @@ FW M_Truk
 FW Janssen
 
 GK D_Gogean
-DF A_Stefanov
+DF T_XGhiuri
 DM J_Milburn
 DM N_Barbulescu
 FW C_Sandulescu
@@ -23,7 +23,7 @@ PK: M_Truk
 AGG 20
 
 SUB 11 14 MF IF MIN = 45
-SUB 3 13 DF IF MIN = 70
+SUB 3 13 DF IF MIN = 60
 SUB 9 15 MF IF MIN = 81
 TACTIC E IF MIN >= 42 SCORE <= -2
 TACTIC E IF MIN >= 45 SCORE = -1
