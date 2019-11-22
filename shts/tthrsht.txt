@@ -1,33 +1,34 @@
 tthr
-C
+A
 
 GK C_Freamon
 DF I_Hack
 DF T_XGhiuri
 DF K_Layvin
+DF G_Best
+DM R_Morrison
 DM Ridoutkha
-DM G_Best
-MF R_Morrison
-MF M_Antonio
-MF J_Cadette
-MF D_Mario
+DM M_Antonio
+AM D_Mario
+FW M_Truk
 FW Janssen
 
 GK D_Gogean
-GK A_Ghita
-DM J_Milburn
-DM J_Bent
-FW M_Truk
+DF A_Stefanov
+DF J_Milburn
+DM N_Barbulescu
+FW C_Sandulescu
 
-PK: Janssen
+PK: M_Truk
 AGG 20
 
-SUB 10 14 DM IF MIN = 50
-SUB 11 16 FW IF MIN = 60
-TACTIC E IF MIN >= 2 SCORE <= -2
-TACTIC E IF MIN >= 4 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 31 SCORE = 1
-TACTIC D IF MIN >= 16 SCORE >= 2
-SUB 6 14 DM IF SCORE <= -3
-SUB 6 14 DM IF SCORE >= 3
+SUB 8 13 DF IF MIN = 45
+SUB 3 14 DF IF MIN = 55
+SUB 11 15 DM IF MIN = 81
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 81 SCORE = 1
+TACTIC D IF MIN >= 35 SCORE >= 2
+SUB 5 13 DF IF SCORE <= -3
+SUB 5 13 DF IF SCORE >= 3
