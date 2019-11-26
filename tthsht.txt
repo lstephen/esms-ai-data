@@ -3,32 +3,32 @@ P
 
 GK R_Ceni
 DF A_R_Essien
-DF S_Howey
-DF S_Winzor
-DF P_Henrique
+DF E_Plummer
+DF John_McNamara
+DF E_Typutryi
 DF Doriva
 DM E_Gabor
-DM Moreto
-DM D_McHale
-MF P_Coutinho
+DM S_Winzor
+DM P_Henrique
+MF R_Pires
 FW Ricardinho
 
 GK K_Shand
 DF W_Morgan
-DF P_Tonosko
-FW R_Pires
-FW J_P_Veron
+DF S_Vagini
+DF Moreto
+FW P_Coutinho
 
 PK: Ricardinho
 AGG 20
 
-SUB 10 16 MF IF MIN = 50
-SUB 11 15 FW IF MIN = 60
-SUB 5 13 DF IF MIN = 87
+SUB 5 15 DF IF MIN = 45
+SUB 4 16 FW IF MIN = 65
+SUB 11 14 DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
-SUB 11 15 FW IF SCORE <= -3
-SUB 11 15 FW IF SCORE >= 3
+TACTIC D IF MIN >= 37 SCORE >= 2
+SUB 6 13 DF IF SCORE <= -3
+SUB 6 13 DF IF SCORE >= 3
