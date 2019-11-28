@@ -15,16 +15,16 @@ FW Ricardinho
 
 GK K_Shand
 DF W_Morgan
-DF S_Vagini
 DF Moreto
-FW P_Coutinho
+DF D_McHale
+FW J_P_Veron
 
 PK: Ricardinho
 AGG 20
 
-SUB 5 15 DF IF MIN = 45
-SUB 4 16 FW IF MIN = 65
-SUB 11 14 DF IF MIN = 70
+SUB 5 14 DF IF MIN = 45
+SUB 4 15 DF IF MIN = 50
+SUB 3 13 DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
