@@ -630,28 +630,28 @@ FW Ricardinho
 
 GK K_Shand
 DF S_Vagini
-DF E_Plummer
 DF S_Howey
 DM D_McHale
+AM J_P_Veron
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF S_Vagini DF IF INJURED DF
-SUB DM D_McHale DM IF INJURED DM
-SUB MF D_McHale MF IF INJURED MF
-SUB AM D_McHale AM IF INJURED AM
-SUB FW D_McHale FW IF INJURED FW
+SUB DM J_P_Veron DM IF INJURED DM
+SUB MF J_P_Veron MF IF INJURED MF
+SUB AM J_P_Veron AM IF INJURED AM
+SUB FW J_P_Veron FW IF INJURED FW
 
-SUB S_Winzor D_McHale DM IF MIN = 55
-SUB E_Typutryi S_Vagini DF IF MIN = 60
-SUB John_McNamara E_Plummer DF IF MIN = 70
+SUB E_Typutryi S_Vagini DF IF MIN = 55
+SUB John_McNamara D_McHale DF IF MIN = 60
+SUB R_Pires J_P_Veron MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
 TACTIC D IF MIN >= 17 SCORE = 1
 TACTIC D IF MIN >= 9 SCORE >= 2
 
-SUB Doriva D_McHale DM IF SCORE <= -3
-SUB Doriva D_McHale DM IF SCORE >= 3
+SUB Doriva J_P_Veron DM IF SCORE <= -3
+SUB Doriva J_P_Veron DM IF SCORE >= 3
 
 Forced:Janssen/
 ** Reserves Selection **
@@ -717,13 +717,13 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW M_Truk FW IF INJURED FW
 
-SUB J_Bent M_Truk FW IF MIN = 55
-SUB K_Layvin N_Barbulescu DM IF MIN = 75
-SUB Janssen A_Stefanov DF IF MIN = 78
+SUB I_Hack M_Truk FW IF MIN = 60
+SUB Janssen N_Barbulescu DF IF MIN = 65
+SUB K_Layvin A_Stefanov DF IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 75 SCORE = 1
+TACTIC D IF MIN >= 88 SCORE = 1
 TACTIC D IF MIN >= 37 SCORE >= 2
 
 SUB G_Best A_Stefanov DF IF SCORE <= -3
