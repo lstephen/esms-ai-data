@@ -8,27 +8,26 @@ DF K_Layvin
 DF G_Best
 DF J_Milburn
 DM R_Morrison
-DM Ridoutkha
+DM M_Antonio
 DM J_Bent
-MF M_Antonio
-FW Janssen
+FW D_Mario
+FW M_Truk
 
 GK D_Gogean
 GK A_Ghita
 DF A_Stefanov
 DF N_Barbulescu
-FW M_Truk
+FW C_Sandulescu
 
-PK: Janssen
+PK: M_Truk
 AGG 20
 
-SUB 2 16 FW IF MIN = 60
-SUB 11 15 DF IF MIN = 65
-SUB 4 14 DF IF MIN = 84
+SUB 2 15 MF IF MIN = 75
+SUB 11 14 DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 88 SCORE = 1
-TACTIC D IF MIN >= 37 SCORE >= 2
+TACTIC D IF MIN >= 81 SCORE = 1
+TACTIC D IF MIN >= 56 SCORE >= 2
 SUB 5 14 DF IF SCORE <= -3
 SUB 5 14 DF IF SCORE >= 3
