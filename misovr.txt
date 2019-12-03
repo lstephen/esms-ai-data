@@ -367,7 +367,7 @@ LONG_BALL        29  37  29  34  34  36
 DEFENSIVE        29  27  29  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    17     2    11     2     6 
+                       Count     5    17     2    10     2     6 
                          Max    38    41    39    37    38    38 
                   1st XI (N)    38    33    32                35 
                   1st XI (P)    38    37    29                38 
@@ -522,8 +522,8 @@ FW C_Owen
 GK A_Kapustov
 GK O_Devers
 DF X_Cullie
-AM D_Lungu
 MF I_Drover
+AM D_Lungu
 
 SUB GK A_Kapustov GK IF INJURED GK
 SUB DF X_Cullie DF IF INJURED DF
