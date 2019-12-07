@@ -638,9 +638,9 @@ SUB MF P_Coutinho MF IF INJURED MF
 SUB AM P_Coutinho AM IF INJURED AM
 SUB FW P_Coutinho FW IF INJURED FW
 
-SUB E_Typutryi S_Vagini DF IF MIN = 45
-SUB John_McNamara P_Coutinho MF IF MIN = 55
-SUB E_Plummer W_Morgan DF IF MIN = 70
+SUB John_McNamara W_Morgan DF IF MIN = 45
+SUB E_Typutryi P_Coutinho MF IF MIN = 55
+SUB E_Plummer S_Vagini DF IF MIN = 75
 TACTIC A IF MIN >= 55 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -714,7 +714,7 @@ SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
 SUB J_Bent N_Barbulescu DM IF MIN = 65
-SUB I_Hack I_Muresanu DF IF MIN = 70
+SUB I_Hack I_Muresanu DF IF MIN = 75
 SUB T_XGhiuri A_Stefanov DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
