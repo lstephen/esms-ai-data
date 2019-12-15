@@ -637,9 +637,9 @@ SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB E_Typutryi Moreto MF IF MIN = 45
+SUB John_McNamara Moreto MF IF MIN = 45
 SUB Janssen Ricardinho FW IF MIN = 50
-SUB John_McNamara A_R_Essien DF IF MIN = 60
+SUB E_Typutryi A_R_Essien DF IF MIN = 60
 TACTIC E IF MIN >= 16 SCORE <= -2
 TACTIC E IF MIN >= 66 SCORE = -1
 TACTIC C IF SCORE = 0
@@ -715,12 +715,12 @@ SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW M_Truk FW IF INJURED FW
 
 SUB D_Mario M_Truk FW IF MIN = 60
-SUB T_XGhiuri A_Stefanov DF IF MIN = 70
-SUB J_Milburn N_Barbulescu DM IF MIN = 81
+SUB J_Milburn N_Barbulescu DM IF MIN = 65
+SUB T_XGhiuri A_Stefanov DF IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 88 SCORE = 1
+TACTIC D IF MIN >= 89 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB G_Best K_Layvin DF IF SCORE <= -3
