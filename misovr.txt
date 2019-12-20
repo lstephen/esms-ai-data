@@ -364,7 +364,7 @@ LONG_BALL        29  37  29  34  33  34
 DEFENSIVE        29  27  29  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     2     7     3     8 
+                       Count     5    16     2     8     3     8 
                          Max    39    40    38    37    38    38 
                   1st XI (N)    39    31    32                35 
                   1st XI (P)    39    36    29                38 
@@ -523,28 +523,24 @@ FW G_Mordino
 
 GK S_Manescu
 DF P_Deusner
-FW H_Kewell
+DF I_Drover
 FW D_Van_Ry
 FW R_Silano
 
 SUB GK S_Manescu GK IF INJURED GK
-SUB DF P_Deusner DF IF INJURED DF
+SUB DF I_Drover DF IF INJURED DF
 SUB DM P_Deusner DM IF INJURED DM
 SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB C_Owen H_Kewell FW IF MIN = 50
-SUB I_Tatarescu P_Deusner DM IF MIN = 60
-CHANGEPOS O_Bravo DF IF MIN = 65
-CHANGEPOS G_Mordino DM IF MIN = 84
-SUB X_Cullie R_Silano FW IF MIN = 87
-CHANGEPOS G_Mordino DF IF MIN = 90
-TACTIC A IF MIN >= 84 SCORE <= -2
+SUB C_Owen P_Deusner DM IF MIN = 50
+SUB G_Mordino R_Silano FW IF MIN = 60
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 74 SCORE >= 2
+TACTIC L IF MIN >= 62 SCORE >= 2
 
 
 Forced:N_Morariu/I_Kazaku/M_Parvulescu/J_Moculescu/
@@ -613,13 +609,13 @@ SUB MF C_Boroi MF IF INJURED MF
 SUB AM C_Boroi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar D_Balitiu MF IF MIN = 60
+SUB R_Amanar D_Balitiu MF IF MIN = 55
 SUB L_Gabor P_Lazar DF IF MIN = 70
 SUB N_Parasca C_Boroi MF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
 TACTIC D IF MIN >= 81 SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 55 SCORE >= 2
 
 
