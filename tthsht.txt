@@ -1,34 +1,34 @@
 tth
-A
+E
 
 GK R_Ceni
-DF A_R_Essien
+DF E_Plummer
 DF John_McNamara
 DF E_Typutryi
-DF S_Howey
-DM E_Gabor
-DM S_Winzor
-DM Moreto
-AM R_Pires
-FW Ricardinho
+DM A_R_Essien
+DM P_Henrique
+DM Doriva
+MF R_Pires
+MF J_P_Veron
+MF D_McHale
 FW Janssen
 
 GK K_Shand
-DF S_Vagini
-DF Doriva
-AM P_Coutinho
-AM J_P_Veron
+DM W_Morgan
+DM S_Winzor
+MF P_Coutinho
+AM Ricardinho
 
-PK: Ricardinho
+PK: Janssen
 AGG 20
 
-SUB 11 16 AM IF MIN = 45
-SUB 4 14 DF IF MIN = 55
-SUB 3 13 DF IF MIN = 70
-TACTIC A IF SCORE <= -2
-TACTIC P IF MIN >= 55 SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 50 SCORE = 1
-TACTIC D IF MIN >= 32 SCORE >= 2
-SUB 7 15 DM IF SCORE <= -3
-SUB 7 15 DM IF SCORE >= 3
+SUB 11 16 FW IF MIN = 45
+SUB 9 15 MF IF MIN = 60
+SUB 5 14 DM IF MIN = 65
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 34 SCORE = 1
+TACTIC D IF MIN >= 17 SCORE >= 2
+SUB 8 15 MF IF SCORE <= -3
+SUB 8 15 MF IF SCORE >= 3
