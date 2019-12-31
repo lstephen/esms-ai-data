@@ -1,36 +1,33 @@
 mis
-P
+E
 
 GK Q_Bonnette
 DF G_C_Moore
 DF V_Barbieri
 DF O_Burgin
-DF X_Cullie
-DF I_Tatarescu
-DM O_Bravo
+DM X_Cullie
 DM Alan_Michael
-DM P_Deusner
-FW R_Gelman
+DM I_Tatarescu
+MF O_Bravo
+MF P_Deusner
+MF R_Gelman
 FW D_Van_Ry
 
 GK S_Manescu
-DF I_Drover
-FW H_Kewell
-FW C_Owen
-FW G_Mordino
+GK O_Devers
+MF H_Kewell
+MF I_Drover
+AM C_Owen
 
 PK: R_Gelman
 AGG 20
 
-SUB 9 16 FW IF MIN = 50
-SUB 11 14 FW IF MIN = 65
-SUB 6 15 DF IF MIN = 75
-CHANGEPOS 15 FW IF MIN = 78
-CHANGEPOS 16 DF IF MIN = 81
-CHANGEPOS 16 FW IF MIN = 87
-CHANGEPOS 15 DF IF MIN = 90
-TACTIC A IF MIN >= 80 SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 74 SCORE >= 2
+SUB 5 14 MF IF MIN = 45
+CHANGEPOS 8 DM IF MIN = 50
+SUB 11 16 FW IF MIN = 60
+SUB 7 15 DM IF MIN = 70
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 3 SCORE = 1
+TACTIC D IF MIN >= 33 SCORE >= 2
