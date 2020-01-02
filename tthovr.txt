@@ -639,7 +639,7 @@ SUB AM P_Coutinho AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
 SUB Janssen Ricardinho FW IF MIN = 45
-SUB J_P_Veron P_Coutinho MF IF MIN = 60
+SUB R_Pires P_Coutinho MF IF MIN = 60
 SUB A_R_Essien S_Winzor DM IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
