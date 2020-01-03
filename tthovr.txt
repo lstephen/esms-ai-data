@@ -627,7 +627,7 @@ FW Janssen
 
 GK K_Shand
 DM W_Morgan
-DM S_Winzor
+DM Moreto
 MF P_Coutinho
 AM Ricardinho
 
@@ -638,9 +638,9 @@ SUB MF P_Coutinho MF IF INJURED MF
 SUB AM P_Coutinho AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB Janssen Ricardinho FW IF MIN = 45
-SUB R_Pires P_Coutinho MF IF MIN = 60
-SUB A_R_Essien S_Winzor DM IF MIN = 65
+SUB R_Pires P_Coutinho MF IF MIN = 50
+SUB J_P_Veron Moreto MF IF MIN = 55
+SUB Janssen Ricardinho FW IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
