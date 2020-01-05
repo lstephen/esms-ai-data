@@ -625,29 +625,29 @@ FW Janssen
    Overall     290     252     319     301     254     331     271 
 
 GK K_Shand
+DF S_Vagini
 DF E_Plummer
-DF H_Onderlei
 DF D_McHale
 FW P_Coutinho
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF H_Onderlei DF IF INJURED DF
+SUB DF S_Vagini DF IF INJURED DF
 SUB DM P_Coutinho DM IF INJURED DM
 SUB MF P_Coutinho MF IF INJURED MF
 SUB AM P_Coutinho AM IF INJURED AM
 SUB FW P_Coutinho FW IF INJURED FW
 
-SUB R_Pires P_Coutinho MF IF MIN = 50
-SUB W_Morgan D_McHale DM IF MIN = 55
-SUB Janssen H_Onderlei DF IF MIN = 60
+SUB Janssen P_Coutinho MF IF MIN = 45
+SUB W_Morgan S_Vagini DF IF MIN = 55
+SUB R_Pires D_McHale DM IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 55 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 58 SCORE >= 2
 
-SUB P_Henrique H_Onderlei DF IF SCORE <= -3
-SUB P_Henrique H_Onderlei DF IF SCORE >= 3
+SUB P_Henrique S_Vagini DF IF SCORE <= -3
+SUB P_Henrique S_Vagini DF IF SCORE >= 3
 
 Forced:M_Truk/
 ** Reserves Selection **
