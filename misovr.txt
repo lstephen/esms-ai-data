@@ -510,27 +510,26 @@ FW R_Gelman
    Overall     287     234     301     291     268     314     277 
 
 GK S_Manescu
-DF P_Druery
 DF I_Drover
 FW C_Owen
 FW D_Van_Ry
+FW P_Giordese
 
 SUB GK S_Manescu GK IF INJURED GK
-SUB DF P_Druery DF IF INJURED DF
+SUB DF I_Drover DF IF INJURED DF
 SUB DM I_Drover DM IF INJURED DM
 SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB H_Kewell D_Van_Ry FW IF MIN = 55
-SUB I_Tatarescu C_Owen FW IF MIN = 78
-CHANGEPOS R_Gelman DF IF MIN = 81
-SUB R_Gelman P_Druery DF IF MIN = 90
-TACTIC A IF MIN >= 78 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB I_Tatarescu C_Owen FW IF MIN = 45
+CHANGEPOS O_Bravo DF IF MIN = 50
+SUB H_Kewell D_Van_Ry FW IF MIN = 60
+TACTIC A IF MIN >= 81 SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 63 SCORE >= 2
+TACTIC C IF MIN >= 62 SCORE >= 2
 
 
 Forced:W_Westfall/N_Morariu/J_Moculescu/I_Kazaku/R_Amanar/
@@ -588,8 +587,8 @@ FW R_Amanar
 
 GK C_Ionita
 DF P_Lazar
+DF L_Roman
 FW T_Ris
-FW F_Pacuraru
 FW H_Ghita
 
 SUB GK C_Ionita GK IF INJURED GK
@@ -597,17 +596,18 @@ SUB DF T_Ris DF IF INJURED DF
 SUB DM H_Ghita DM IF INJURED DM
 SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
-SUB FW F_Pacuraru FW IF INJURED FW
+SUB FW H_Ghita FW IF INJURED FW
 
 CHANGEPOS D_Balitiu MF IF MIN = 45
 CHANGEPOS C_Boroi DM IF MIN = 50
-SUB L_Gabor P_Lazar DF IF MIN = 65
-SUB J_Moculescu H_Ghita AM IF MIN = 70
-SUB R_Amanar F_Pacuraru FW IF MIN = 81
-TACTIC P IF MIN >= 62 SCORE <= -2
+SUB C_Boroi P_Lazar DF IF MIN = 70
+CHANGEPOS N_Morariu DM IF MIN = 75
+SUB M_Parvulescu H_Ghita FW IF MIN = 78
+CHANGEPOS R_Amanar AM IF MIN = 81
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 68 SCORE >= 2
+TACTIC D IF MIN >= 70 SCORE >= 2
 
 
