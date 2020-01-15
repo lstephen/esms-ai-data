@@ -615,7 +615,7 @@ SUB AM P_Coutinho AM IF INJURED AM
 SUB FW P_Coutinho FW IF INJURED FW
 
 SUB Janssen P_Coutinho AM IF MIN = 45
-SUB E_Typutryi E_Plummer DF IF MIN = 50
+SUB E_Typutryi E_Plummer DF IF MIN = 55
 SUB Moreto D_McHale DM IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
@@ -678,8 +678,8 @@ FW M_Truk
    Overall     246     214     265     252     208     274     234 
 
 GK D_Gogean
+DF K_Layvin
 DF A_Stefanov
-DF I_Muresanu
 DF N_Barbulescu
 FW C_Sandulescu
 
@@ -690,14 +690,13 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Bent N_Barbulescu DM IF MIN = 50
-SUB I_Hack I_Muresanu DF IF MIN = 78
-SUB T_XGhiuri A_Stefanov DF IF MIN = 90
+SUB J_Bent N_Barbulescu DM IF MIN = 60
+SUB I_Hack A_Stefanov DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 62 SCORE >= 2
+TACTIC D IF MIN >= 61 SCORE >= 2
 
 SUB R_Morrison N_Barbulescu DM IF SCORE <= -3
 SUB R_Morrison N_Barbulescu DM IF SCORE >= 3
