@@ -17,13 +17,13 @@ GK K_Shand
 DM W_Morgan
 MF R_Pires
 MF P_Coutinho
-MF J_P_Veron
+MF D_McHale
 
 PK: Ricardinho
 AGG 20
 
-SUB 3 13 DF IF MIN = 55
-SUB 9 16 MF IF MIN = 60
+SUB 3 13 DF IF MIN = 60
+SUB 9 16 MF IF MIN = 65
 SUB 10 15 MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
