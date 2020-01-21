@@ -156,7 +156,7 @@ FW C_Owen
    GK Qual      26      26      26      26      26      26      26 
   GK Bonus      22      17      29      22      20      25      22 
        Agg      23      23      23      23      23      23      23 
-   Scoring     105      62     139     104      89     128      98 
+   Scoring     105      62     139     104      89     129      98 
  Defending     147     181     113     153     168     135     144 
    Overall     287     233     303     290     273     312     276 
 
@@ -358,7 +358,7 @@ LONG_BALL        29  38  30  33  29  30
 DEFENSIVE        29  26  29  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    15     2     8     3     6 
+                       Count     5    15     2     9     3     6 
                          Max    39    40    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -518,16 +518,15 @@ SUB MF P_Deusner MF IF INJURED MF
 SUB AM P_Deusner AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-CHANGEPOS I_Drover DF IF MIN = 50
-SUB I_Tatarescu C_Owen AM IF MIN = 60
-SUB I_Drover P_Druery DF IF MIN = 65
-SUB D_Van_Ry P_Deusner MF IF MIN = 81
-CHANGEPOS C_Owen MF IF MIN = 84
+SUB I_Drover P_Druery DF IF MIN = 60
+SUB I_Tatarescu C_Owen FW IF MIN = 65
+CHANGEPOS H_Kewell MF IF MIN = 70
+SUB H_Kewell P_Deusner MF IF MIN = 75
 TACTIC A IF MIN >= 38 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC L IF SCORE = 0
 TACTIC L IF SCORE = 1
-TACTIC D IF MIN >= 79 SCORE >= 2
+TACTIC D IF MIN >= 75 SCORE >= 2
 
 
 Forced:W_Westfall/N_Morariu/J_Moculescu/I_Kazaku/R_Amanar/
@@ -596,13 +595,13 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB C_Boroi H_Ghita FW IF MIN = 60
-SUB R_Amanar F_Pacuraru FW IF MIN = 70
-SUB L_Gabor P_Lazar DF IF MIN = 87
+SUB C_Boroi H_Ghita FW IF MIN = 55
+SUB L_Gabor P_Lazar DF IF MIN = 70
+SUB R_Amanar F_Pacuraru FW IF MIN = 87
 TACTIC A IF MIN >= 87 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 77 SCORE >= 2
+TACTIC L IF MIN >= 78 SCORE >= 2
 
 
