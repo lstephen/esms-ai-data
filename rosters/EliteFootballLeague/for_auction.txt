@@ -1,6 +1,11 @@
-Fabinho       22 bra  1  6  7 17 22 300 300 300 346
+Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
+G_Neutral     26 nzl  1  7  8 25 31 300 734 103  73
+S_Walsh       26 eng  2 25  8  5 32 300 595 891 459
+C_Donaldson   28 sco  1 25 12  8 41 300  15 361 265
+A_Oldridge    33 eng  1  8 25 18 17 300 495  88 315
+P_Hankey      37 eng 29  3  3  5 19  15 300 300 300
+Defender15   30  mor 1  26 9  6  30 300 300 300 300
 D_Murphy      35 sco  2 11  8 28 37 300 150 462 335
-L_Marchegiani 30 ita 24  3  2  3 31 499 800 800 800
 R_McGlinchy   37 sco 20  4  2  3 17 805 280 280 280
 Mo_Diame      30 sen  2 14 25  7 42 800 109 555 404
 Josh_Millwate 27 eng  1  8 25  9 23 600 193 463 777
@@ -12,11 +17,8 @@ D_John        29 wal  3 25  5  7 22 570  66 754 829
 Lamb          30 arg  1 25  8  6 21 500  24 366 117
 S_Garcia      32 arg  2 25  8  5 11 500  69 746  55
 S_Bytyqi      34 aut  2  8 25  9 16 300  73   7 110
-K_Strootman   25 hol  3 13 25  6 20 600 811   6 908
-Mo_Diame      30 sen  2 14 25  7 42 800 109 555 404
 L_Mckeon      33 eng 28  1  7  5 33 400 400 400 400
 L_Barns       32 arg  2 25  6  6 31 300 480 320 291
-P_Check       35 aus 31  2  3  2 22 548 300 300 300
 M_Elliott     28 eng  1 25  7  5 21 300  39 949 797
 L_Gasparotto  27 can  3 25  8  7 23 300 553 349 118
 Keeper03     27  col 24 5  3  2  21 300 300 300 300
