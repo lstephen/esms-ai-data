@@ -16,14 +16,14 @@ FW Janssen
 GK K_Shand
 DF W_Morgan
 DM Moreto
-AM P_Coutinho
+DM D_McHale
 AM J_P_Veron
 
 PK: Ricardinho
 AGG 20
 
-SUB 10 13 DF IF MIN = 55
-SUB 4 16 MF IF MIN = 60
+SUB 10 16 MF IF MIN = 45
+SUB 4 13 DF IF MIN = 55
 SUB 3 14 DF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
