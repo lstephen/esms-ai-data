@@ -253,29 +253,29 @@ PASSING
 GK C_Freamon
 DF I_Hack
 DF K_Layvin
-DF T_XGhiuri
 DF R_Morrison
+DF Ridoutkha
 DF G_Best
-DM Ridoutkha
+DM M_Antonio
 DM J_Cadette
 DM J_Milburn
-MF M_Antonio
 FW D_Mario
+FW M_Truk
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     138     194     124     146     167     136     130 
-   PASSING     121      82     130     124      60     148     122 
-  SHOOTING      42      18      68      38      57      39      42 
-   SH Mean      14      18      13      14      14      14      13 
- SH Median      10      20      10      20      10      20      10 
-    SH Max      20      20      20      20      20      20      20 
-  SH Bonus      13       9      15      15       9      18      14 
+  TACKLING     129     175     118     136     142     128     122 
+   PASSING     106      69     118     111      54     140     100 
+  SHOOTING      64      34      99      61      83      62      61 
+   SH Mean      18      22      18      18      18      18      18 
+ SH Median      20      24      20      20      20      20      20 
+    SH Max      24      24      24      24      24      24      24 
+  SH Bonus      18      12      22      18      14      21      18 
    GK Qual      27      27      27      27      27      27      27 
-  GK Bonus      23      18      25      22      18      25      23 
-       Agg      24      24      24      24      24      24      24 
-   Scoring      95      60     109      95      59     112      95 
- Defending     138     194     124     146     167     136     130 
-   Overall     262     235     273     270     218     287     258 
+  GK Bonus      23      18      26      23      20      26      23 
+       Agg      23      23      23      23      23      23      23 
+   Scoring      92      58     112      94      64     114      87 
+ Defending     129     175     118     136     142     128     122 
+   Overall     258     223     277     264     217     287     245 
 
 ** First XI **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
@@ -366,8 +366,8 @@ DEFENSIVE        41  34  35  38  32  25
                          Max    54    38    40    36    38    33 
                   1st XI (N)    54    34    35    35          33 
                   1st XI (P)    54    40    34    34          38 
-                Reserves (N)    41    29    28    29          28 
-                Reserves (P)    41    31    27    28          37 
+                Reserves (N)    41    30    28                28 
+                Reserves (P)    41    33    27                32 
                          Min
                       NORMAL    27    23    24          22    22 
                    DEFENSIVE    27          34    21    27    19 
@@ -609,8 +609,8 @@ FW Janssen
 GK K_Shand
 DF A_R_Essien
 DF Doriva
+DM Moreto
 AM P_Coutinho
-AM J_P_Veron
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF A_R_Essien DF IF INJURED DF
@@ -619,13 +619,13 @@ SUB MF P_Coutinho MF IF INJURED MF
 SUB AM P_Coutinho AM IF INJURED AM
 SUB FW P_Coutinho FW IF INJURED FW
 
-SUB Janssen P_Coutinho AM IF MIN = 45
+SUB Janssen Moreto DF IF MIN = 45
+SUB E_Typutryi A_R_Essien DF IF MIN = 50
 SUB John_McNamara Doriva DF IF MIN = 55
-SUB E_Typutryi A_R_Essien DF IF MIN = 60
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
+TACTIC P IF MIN >= 50 SCORE <= -2
+TACTIC P IF MIN >= 50 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 58 SCORE = 1
+TACTIC P IF MIN >= 45 SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
 
 SUB S_Winzor P_Coutinho DM IF SCORE <= -3
@@ -696,8 +696,8 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Milburn A_Stefanov MF IF MIN = 60
-SUB M_Truk C_Sandulescu FW IF MIN = 70
+SUB M_Truk C_Sandulescu FW IF MIN = 65
+SUB D_Mario A_Stefanov MF IF MIN = 70
 TACTIC E IF MIN >= 3 SCORE <= -2
 TACTIC E IF MIN >= 5 SCORE = -1
 TACTIC L IF SCORE = 0
