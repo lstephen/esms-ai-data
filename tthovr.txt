@@ -559,7 +559,7 @@ D_Vance         35  8/22/ 2 | MF P :  25  -6 :  18 | -30  1.1   1 || -10 || MF -
 R_Montolivo     15  7/13/ 5 | FW D :  11 -15 :  -4 | -21  1.1  11 || -13 || MF-15 MF-17 FW-17 DM-17 MF-16 DM-15 FW-15     r 
 D_Griffiths     35  3/ 5/21 | FW E :  22  -7 :  15 | -33  0.6   1 || -17 || FW-11 FW -9 FW -7 FW -9 FW -7 FW -8 FW -7     r 
 
-Forced:Ricardinho/John_McNamara/R_Pires/M_Truk/Janssen/
+Forced:Ricardinho/John_McNamara/R_Pires/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
 R_Ceni          36    36    | GK N :  54  14 :  68 |  15  0.8   1 ||  84 || GK 14 GK 14 GK 14 GK 14 GK 14 GK 14 GK 14       
@@ -592,50 +592,50 @@ DF S_Howey
 DF S_Winzor
 DF Doriva
 DM E_Gabor
+DM P_Henrique
+DM D_McHale
 MF R_Pires
 FW Ricardinho
-FW M_Truk
-FW Janssen
                  N       D       A       C       L       P       E 
   STOPPING      54      54      54      54      54      54      54 
-  TACKLING     136     184     125     144     159     135     124 
-   PASSING     106      68     115     110      54     141      99 
-  SHOOTING      96      63     151      93     128      94      93 
-   SH Mean      23      25      23      24      23      23      23 
- SH Median      25      25      25      25      25      25      25 
+  TACKLING     156     215     142     163     182     154     148 
+   PASSING     143      95     149     144      70     171     141 
+  SHOOTING      51      27      85      47      72      48      50 
+   SH Mean      20      25      20      21      20      21      20 
+ SH Median      28      28      18      28      28      28      18 
     SH Max      28      28      28      28      28      28      28 
-  SH Bonus      23      14      27      22      18      26      23 
+  SH Bonus      23      14      23      22      15      25      21 
    GK Qual      36      36      36      36      36      36      36 
-  GK Bonus      31      24      36      31      27      35      32 
+  GK Bonus      31      24      34      30      25      33      32 
        Agg      27      27      27      27      27      27      27 
-   Scoring     102      66     127     104      79     125      97 
- Defending     136     184     125     144     159     135     124 
-   Overall     289     251     315     296     263     320     273 
+   Scoring     112      72     128     112      71     130     111 
+ Defending     156     215     142     163     182     154     148 
+   Overall     316     278     327     319     259     340     306 
 
 GK K_Shand
 DF E_Plummer
 DF Moreto
-DF D_McHale
-FW P_Coutinho
+FW E_Enyanku
+FW M_Truk
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF E_Plummer DF IF INJURED DF
-SUB DM P_Coutinho DM IF INJURED DM
-SUB MF P_Coutinho MF IF INJURED MF
-SUB AM P_Coutinho AM IF INJURED AM
-SUB FW P_Coutinho FW IF INJURED FW
+SUB DM Moreto DM IF INJURED DM
+SUB MF Moreto MF IF INJURED MF
+SUB AM Moreto AM IF INJURED AM
+SUB FW M_Truk FW IF INJURED FW
 
-SUB Janssen P_Coutinho MF IF MIN = 45
-SUB M_Truk Moreto DM IF MIN = 50
-SUB John_McNamara E_Plummer DF IF MIN = 70
+SUB John_McNamara E_Plummer DF IF MIN = 45
+SUB Ricardinho E_Enyanku FW IF MIN = 50
+SUB E_Enyanku M_Truk FW IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 89 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 47 SCORE >= 2
 
-SUB S_Winzor E_Plummer DF IF SCORE <= -3
-SUB S_Winzor E_Plummer DF IF SCORE >= 3
+SUB P_Henrique Moreto DM IF SCORE <= -3
+SUB P_Henrique Moreto DM IF SCORE >= 3
 
 Forced:D_Mario/
 ** Reserves Selection **
