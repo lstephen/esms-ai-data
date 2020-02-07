@@ -1,11 +1,23 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
 D_Ginola      28 fra  1 10 26  8 20 300 376 601 368
+A_Oldridge    33 eng  1  8 25 18 17 300 495  98 315
+B_Reid        30 eng  2  6  7 25 32 300 380 340   1
+D_Murphy      35 sco  2 11  8 28 37 300 150 462 335
+A_Zabarte     23 pol  1 15 25  7 21 800 106 161 992
+Midfielder02 17  lat 3  6  20 7  42 400 400 400 400
+Z_Socrates    26 bra  3  8 24 12 11 700 306 813 485
+J_Cooper      27 can  3 10 25  9 22 300 343  47 306
+A_Silva       29 por  1  6 26  7 20 800 874 620 764
+Rodrigo       28 spa  1  8  7 25 20 500  46 814 205
+Filipe_Luis   25 bra  2 25  4  8 41 400  47 772 249
+Midfielder01 25  nor 3  8  24 8  41 800 800 800 800
+J_Harris      19 gha 19  2  2  3 31 424 300 300 300
+Ely           29 cze  2  4  8 25 22 500 652 632 188
 G_Neutral     26 nzl  1  7  8 25 31 300 734 103  73
-L_Mckeon      33 eng 28  1  7  5 33 400 400 400 400
+S_Walsh       26 eng  2 25  8  5 32 300 595 891 459
+E_Typutryi    29 arg  1 25  9 10 12 400 247 122 544
+H_Onderlei    27 mex  1 25  9  5 13 400 420 400 400
 D_Hart        32 eng  2  8 26  8 17 300 692 260 940
-Forward15    19  ukr 1  5  6  18 23 700 700 700 700
-M_Lopez       26 arg  2  7 25  9 32 500 125  22 504
-C_Dopolpoppod 26 gre  3  9 25 11 32 800 490 113 859
 Charlie_Adam  30 sco  1  8 25  9 40 600 211 220 497
 Y_Freedom     30 sco  2 25  9  8 22 500  33 602 534
 C_Henson      33 ire  3  7 25 11 23 400 514 629 436
@@ -27,15 +39,12 @@ Bagof_Shit    28 arg  2  8  5 25 20 400 780 730   4
 M_Elliott     28 eng  1 25  7  5 21 300  99 959 797
 P_Podga       35 eng  2 15 25  9 36 300 150  11 134
 A_Mitrovic    33 srb  3  5 11 25 42 300 342 327 505
-S_Walsh       26 eng  2 25  8  5 32 300 595 891 459
-A_Oldridge    33 eng  1  8 25 18 17 300 495  88 315
 P_Hankey      37 eng 29  3  3  5 19  15 300 300 300
 Defender15   30  mor 1  26 9  6  30 300 300 300 300
 R_McGlinchy   37 sco 20  4  2  3 17 805 280 280 280
 Christinoa    30 por  3  9  7 26 42 500 206 239 625
 G_Weah        32 sen  1  9  7 26 22 400 586 596 842
 D_Harry       33 eng  2  9  8 26 33 600 756 706  35
-B_Bambinino   31 ita  2 26  8  5 22 300 358 298 299
 D_John        29 wal  3 25  5  7 22 570  66 754 829
 Lamb          30 arg  1 25  8  6 21 500  24 366 117
 S_Garcia      32 arg  2 25  8  5 11 500  69 746  55
@@ -65,7 +74,6 @@ Forward01    20  gha 1  9  9  17 32 500 500 500 500
 Midfielder08 20  isr 2  7  21 7  11 400 400 400 400
 M_Dembele     34 bel  1 11 25  6 42 300 479 928 916
 M_Mandzukic   28 cro  1  8  8 25 10 500 245 295  61
-Rodrigo       28 spa  1  8  7 25 20 500  46 814 205
 Forward02    25  rsa 1  8  10 23 22 300 300 300 300
 Forward01    23  aut 1  6  10 20 32 300 300 300 300
 Valdano       31 arg  2  8 12 25 42 300 380 420 719
@@ -103,7 +111,6 @@ Midfielder18 28  slo 3  14 24 8  30 800 800 800 800
 Midfielder19 28  wal 2  14 24 6  32 400 400 400 400
 Midfielder22 27  sen 1  8  24 8  11 500 500 500 500
 Midfielder21 27  gre 2  7  24 4  21 500 500 500 500
-P_Wright      23 eng  3  7  8 15 33 300 518 855 669
 D_Bainbridge  30 eng  2 11 25  8 11 500 500 500 500
 Midfielder15 26  col 3  5  23 13 31 500 500 500 500
 Midfielder14 30  spa 3  6  24 16 42 300 300 300 300
@@ -123,7 +130,6 @@ Defender08   28  ukr 1  25 8  10 32 400 400 400 400
 Forward04    30  lat 2  5  5  26 21 300 300 300 300
 Forward01    34  fra 1  5  11 25 22 600 600 600 600
 I_Ndanetskov  36 lat 24  1  1  5 31 400 400 400 400
-E_Enyanku     30 nig  2  8 10 25 31 300 300 300 300
 Jimmy_Jones   30 wal  2  9  8 25 20 600 600 600 600
 J_Ustino      29 arg  1  9  8 25 21 400 400 400 400
 W_Vialli      28 ita  1  6  8 25 40 300 300 300 300
