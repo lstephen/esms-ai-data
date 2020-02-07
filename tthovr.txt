@@ -91,7 +91,7 @@ FW Ricardinho
   STOPPING      54      54      54      54      54      54      54 
   TACKLING     126     201     101     141     191     122     121 
    PASSING     178     126     185     179      88     199     196 
-  SHOOTING      51      31      89      47      78      47      50 
+  SHOOTING      51      31      89      47      78      47      49 
    SH Mean      20      23      19      21      19      21      20 
  SH Median      28      28      18      28      18      28      28 
     SH Max      28      28      28      28      28      28      28 
@@ -625,14 +625,14 @@ SUB MF Moreto MF IF INJURED MF
 SUB AM Moreto AM IF INJURED AM
 SUB FW M_Truk FW IF INJURED FW
 
-SUB John_McNamara E_Plummer DF IF MIN = 45
-SUB Ricardinho E_Enyanku FW IF MIN = 50
-SUB E_Enyanku M_Truk FW IF MIN = 90
+SUB Ricardinho E_Enyanku FW IF MIN = 55
+SUB John_McNamara M_Truk FW IF MIN = 75
+SUB E_Enyanku E_Plummer DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 47 SCORE >= 2
+TACTIC D IF MIN >= 46 SCORE >= 2
 
 SUB P_Henrique Moreto DM IF SCORE <= -3
 SUB P_Henrique Moreto DM IF SCORE >= 3
@@ -702,12 +702,12 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Bent N_Barbulescu DM IF MIN = 65
-SUB T_XGhiuri A_Stefanov DF IF MIN = 70
+SUB J_Bent N_Barbulescu DM IF MIN = 60
+SUB T_XGhiuri A_Stefanov DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 88 SCORE = 1
+TACTIC D IF MIN >= 89 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB R_Morrison N_Barbulescu DM IF SCORE <= -3
