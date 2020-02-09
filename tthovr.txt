@@ -91,7 +91,7 @@ FW Ricardinho
   STOPPING      54      54      54      54      54      54      54 
   TACKLING     126     201     101     141     191     122     121 
    PASSING     178     126     185     179      88     199     196 
-  SHOOTING      51      31      89      47      78      47      49 
+  SHOOTING      51      31      89      47      78      47      50 
    SH Mean      20      23      19      21      19      21      20 
  SH Median      28      28      18      28      18      28      28 
     SH Max      28      28      28      28      28      28      28 
@@ -616,25 +616,25 @@ FW Ricardinho
    Overall     316     278     327     319     259     340     306 
 
 GK K_Shand
+DF W_Morgan
 DF E_Plummer
 DF Moreto
 FW E_Enyanku
-FW M_Truk
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF E_Plummer DF IF INJURED DF
 SUB DM Moreto DM IF INJURED DM
 SUB MF Moreto MF IF INJURED MF
 SUB AM Moreto AM IF INJURED AM
-SUB FW M_Truk FW IF INJURED FW
+SUB FW E_Enyanku FW IF INJURED FW
 
-SUB Ricardinho E_Enyanku FW IF MIN = 55
-SUB John_McNamara M_Truk FW IF MIN = 75
-SUB E_Enyanku E_Plummer DF IF MIN = 78
+SUB John_McNamara W_Morgan DF IF MIN = 45
+SUB Ricardinho E_Enyanku FW IF MIN = 60
+SUB S_Howey E_Plummer DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 89 SCORE = 1
 TACTIC D IF MIN >= 46 SCORE >= 2
 
 SUB P_Henrique Moreto DM IF SCORE <= -3
