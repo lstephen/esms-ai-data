@@ -356,7 +356,7 @@ LONG_BALL        29  38  30  33  29  30
 DEFENSIVE        29  26  29  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    15     2     9     3     7 
+                       Count     5    15     2     8     3     7 
                          Max    39    40    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -494,26 +494,27 @@ FW P_Giordese
    Overall     282     229     294     284     264     306     271 
 
 GK S_Manescu
-DF P_Druery
-DF W_Emmerling
+GK O_Devers
+FW H_Kewell
 FW C_Owen
 FW D_Van_Ry
 
 SUB GK S_Manescu GK IF INJURED GK
-SUB DF P_Druery DF IF INJURED DF
-SUB DM D_Van_Ry DM IF INJURED DM
-SUB MF D_Van_Ry MF IF INJURED MF
-SUB AM D_Van_Ry AM IF INJURED AM
+SUB DF D_Van_Ry DF IF INJURED DF
+SUB DM H_Kewell DM IF INJURED DM
+SUB MF H_Kewell MF IF INJURED MF
+SUB AM H_Kewell AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB P_Giordese D_Van_Ry FW IF MIN = 45
-SUB I_Drover P_Druery DF IF MIN = 55
-SUB P_Deusner C_Owen FW IF MIN = 70
-CHANGEPOS D_Van_Ry DM IF MIN = 75
+SUB P_Deusner H_Kewell AM IF MIN = 50
+SUB P_Giordese D_Van_Ry FW IF MIN = 55
+CHANGEPOS R_Gelman DM IF MIN = 60
+SUB I_Tatarescu C_Owen FW IF MIN = 81
+CHANGEPOS D_Van_Ry DM IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 22 SCORE = 1
 TACTIC L IF MIN >= 25 SCORE >= 2
 
 
@@ -582,8 +583,8 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 55
-SUB T_Ris P_Lazar DF IF MIN = 60
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
+SUB T_Ris P_Lazar DF IF MIN = 65
 SUB C_Boroi H_Ghita MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
