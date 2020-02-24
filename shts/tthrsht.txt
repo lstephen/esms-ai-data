@@ -4,30 +4,30 @@ P
 GK C_Freamon
 DF P_Dummett
 DF A_Salto
+DF K_Layvin
 DF R_Morrison
-DF Ridoutkha
 DF G_Best
+DM Ridoutkha
 DM J_Cadette
 DM J_Milburn
-DM J_Bent
 MF M_Antonio
 FW D_Mario
 
 GK D_Gogean
-DF K_Layvin
+DF Anufer_Ubbish
 DF T_XGhiuri
-DF N_Barbulescu
+DF J_Bent
 FW C_Sandulescu
 
 PK: D_Mario
 AGG 20
 
-SUB 9 15 DM IF MIN = 50
-SUB 3 14 DF IF MIN = 60
+SUB 4 14 DF IF MIN = 60
+SUB 3 13 DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 47 SCORE >= 2
-SUB 7 15 DM IF SCORE <= -3
-SUB 7 15 DM IF SCORE >= 3
+TACTIC D IF MIN >= 79 SCORE = 1
+TACTIC D IF MIN >= 41 SCORE >= 2
+SUB 8 15 DM IF SCORE <= -3
+SUB 8 15 DM IF SCORE >= 3
