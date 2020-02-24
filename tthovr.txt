@@ -92,7 +92,7 @@ FW Ricardinho
   STOPPING      54      54      54      54      54      54      54 
   TACKLING     126     201     101     141     191     122     121 
    PASSING     178     126     185     179      88     199     196 
-  SHOOTING      51      31      89      47      78      47      50 
+  SHOOTING      51      31      89      47      78      47      49 
    SH Mean      20      23      19      21      19      21      20 
  SH Median      28      28      18      28      18      28      28 
     SH Max      28      28      28      28      28      28      28 
@@ -642,7 +642,7 @@ SUB FW E_Enyanku FW IF INJURED FW
 
 SUB M_Truk W_Morgan DM IF MIN = 45
 SUB S_Vagini Moreto DF IF MIN = 50
-SUB Ricardinho E_Enyanku FW IF MIN = 65
+SUB Ricardinho E_Enyanku FW IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -718,8 +718,8 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Bent N_Barbulescu DM IF MIN = 60
-SUB P_Dummett T_XGhiuri DF IF MIN = 65
+SUB J_Bent N_Barbulescu DM IF MIN = 50
+SUB A_Salto T_XGhiuri DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
