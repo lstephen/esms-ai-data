@@ -1,15 +1,22 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-R_Savage      35 wal  2  8 28  6 15 400  57 258 384
-W_A_Glen      35 eng  2 30  7  8 31 600 741 863 797
+H_Vulcan      24 rom  1  7 17 14 33 800 395 990 224
+S_Alakouch    30 fra  3 25  8  6 22 400  19 518 507
+Conchobar     18 ire  2  9 15  6 21 600 992  95 736
+R_Quaresma    34 spa  2 10 10 17 26 300  63 137 433
+P_Ince        35 eng  2  9 16  8 21 300 708  41 660
+R_Keen        27 eng  2  5 25 12 31 300 724   6 408
+C_Alena       27 spa  3  9 25  6 23 500 564   5 539
+L_Palomino    19 per  2  4  6 18 31 800 770 883 445
+L_Coca        29 bra  2 11 25 14 22 300  23   9 993
+R_Bertrand    31 eng  1 24  9  5 33 400 944  65 961
+Sven_Bender   31 ger  2 11 25 12 43 600 139  99 448
+R_Escobar     18 col  2  8 11 14 23 600 773 247 790
+J_P_Veron     32 arg  1  9 25 15 11 800 478 534 777
 A_Doucoure    30 fra  2  6 25  9 21 600 712   3 826
 Edouard       32 fra  3  7  5 25 23 600 658 678 800
 M_Izzet       32 tur  3  7 25  9 33 700 738  49 802
-R_Escobar     18 col  2  8 11 14 23 600 773 247 790
 J_Beattie     29 eng  1  4  6 24 33 300 764 454 718
-M_Gorgon      27 gre  2 23  9  7 32 300 434 960 192
 M_Lopes       33 spa  1 13 25 10 25 800 379 222 409
-L_Palomino    19 per  2  4  6 18 31 800 770 883 445
-Kommper       36 ger  1 28  9  8 32 400 233 920 677
 Juninho       31 bra  2 11 25 11 21 800 209  30 806
 Rodrigo       28 spa  1  8  7 25 20 500  66 834 225
 E_Silva       33 bra  2 25  8  7 29 800 474 186 975
@@ -22,7 +29,6 @@ A_Oldridge    33 eng  1  8 25 18 17 300 495  98 315
 B_Reid        30 eng  2  6  7 25 32 300 380 340   1
 Midfielder01 25  nor 3  8  24 8  41 800 800 800 800
 E_Typutryi    29 arg  1 25  9 10 12 400 247 122 544
-H_Onderlei    27 mex  1 25  9  5 13 400 420 400 400
 D_Hart        32 eng  2  8 26  8 17 300 692 260 940
 Charlie_Adam  30 sco  1  8 25  9 40 600 211 220 497
 Y_Freedom     30 sco  2 25  9  8 22 500  33 602 534
@@ -42,7 +48,6 @@ J_Garcia      30 spa  2 10 25 10 28 600 280 164 124
 I_Black       32 sco  1 25  9  7 38 300  60  28 453
 McCann        35 ire 22  4  7  3 21 595 600 600 600
 Bagof_Shit    28 arg  2  8  5 25 20 400 780 730   4
-M_Elliott     28 eng  1 25  7  5 21 300  99 959 797
 P_Podga       35 eng  2 15 25  9 36 300 150  11 134
 A_Mitrovic    33 srb  3  5 11 25 42 300 342 327 505
 P_Hankey      37 eng 29  3  3  5 19  15 300 300 300
@@ -57,7 +62,6 @@ S_Garcia      32 arg  2 25  8  5 11 500  69 746  55
 S_Bytyqi      34 aut  2  8 25  9 16 300  73   7 110
 L_Barns       32 arg  2 25  6  6 31 300 480 320 291
 M_Elliott     28 eng  1 25  7  5 21 300  39 949 797
-L_Gasparotto  27 can  3 25  8  7 23 300 553 349 118
 Keeper03     27  col 24 5  3  2  21 300 300 300 300
 Keeper04     30  ger 21 1  3  3  10 500 500 500 500
 Keeper05     29  jam 24 3  5  1  12 600 600 600 600
