@@ -6,27 +6,27 @@ DF G_C_Moore
 DF V_Barbieri
 DF X_Cullie
 DF O_Bravo
-DF Alan_Michael
+DF I_Drover
+DM Alan_Michael
 DM P_Deusner
 DM I_Tatarescu
-FW H_Kewell
 FW R_Gelman
-FW P_Giordese
+FW C_Owen
 
 GK S_Manescu
+DF P_Druery
 DF W_Emmerling
-DF I_Drover
-FW C_Owen
+FW H_Kewell
 FW D_Van_Ry
 
 PK: R_Gelman
 AGG 20
 
-SUB 11 15 FW IF MIN = 45
-SUB 9 16 FW IF MIN = 50
-SUB 4 13 DF IF MIN = 87
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB 11 16 FW IF MIN = 45
+SUB 9 15 FW IF MIN = 70
+SUB 6 13 DF IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
+TACTIC A IF MIN >= 90 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 63 SCORE >= 2
+TACTIC L IF MIN >= 74 SCORE >= 2
