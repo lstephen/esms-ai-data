@@ -263,7 +263,7 @@ FW H_Ghita
                  N       D       A       C       L       P       E 
   STOPPING      26      26      26      26      26      26      26 
   TACKLING     110     136      85     114     126     102     108 
-   PASSING      91      61     105      98      47     126      87 
+   PASSING      91      61     105      98      47     126      88 
   SHOOTING      66      28     111      54     103      56      61 
    SH Mean      14      16      14      15      14      15      15 
  SH Median      16      16      16      16      16      16      16 
@@ -272,7 +272,7 @@ FW H_Ghita
    GK Qual      17      17      17      17      17      17      17 
   GK Bonus      15      12      19      15      13      17      15 
        Agg      31      31      31      31      31      31      31 
-   Scoring      83      50     107      83      66     103      78 
+   Scoring      83      50     107      83      66     103      79 
  Defending     110     136      85     114     126     102     108 
    Overall     219     179     226     221     202     238     211 
 
@@ -502,26 +502,26 @@ FW C_Owen
    Overall     288     234     298     291     270     313     277 
 
 GK S_Manescu
-DF P_Druery
-DF W_Emmerling
+GK O_Devers
 FW H_Kewell
 FW D_Van_Ry
+FW P_Giordese
 
 SUB GK S_Manescu GK IF INJURED GK
-SUB DF P_Druery DF IF INJURED DF
+SUB DF D_Van_Ry DF IF INJURED DF
 SUB DM H_Kewell DM IF INJURED DM
 SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB C_Owen D_Van_Ry FW IF MIN = 45
-SUB I_Tatarescu H_Kewell FW IF MIN = 70
-SUB I_Drover P_Druery DF IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB C_Owen H_Kewell FW IF MIN = 55
+SUB I_Drover D_Van_Ry FW IF MIN = 60
+CHANGEPOS I_Tatarescu DF IF MIN = 65
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 74 SCORE >= 2
+TACTIC C IF MIN >= 69 SCORE >= 2
 
 
 Forced:W_Westfall/N_Morariu/J_Moculescu/R_Amanar/
@@ -589,10 +589,11 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Gabor P_Lazar DF IF MIN = 55
-SUB R_Amanar F_Pacuraru FW IF MIN = 60
-SUB J_Moculescu H_Ghita MF IF MIN = 78
-TACTIC E IF SCORE <= -2
+SUB C_Boroi H_Ghita MF IF MIN = 60
+SUB R_Amanar F_Pacuraru FW IF MIN = 65
+CHANGEPOS H_Ghita AM IF MIN = 70
+SUB L_Gabor P_Lazar DF IF MIN = 78
+TACTIC A IF MIN >= 84 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC C IF MIN >= 23 SCORE = 1
