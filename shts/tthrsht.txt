@@ -1,34 +1,33 @@
 tthr
-E
+C
 
 GK C_Freamon
 DF P_Dummett
 DF Anufer_Ubbish
 DF A_Salto
-DM Moreto
-DM G_Best
-DM J_Milburn
-MF D_McHale
+DM K_Layvin
 MF Ridoutkha
 MF M_Antonio
+MF G_Best
+MF J_Milburn
+MF J_Bent
 FW D_Mario
 
 GK D_Gogean
-DM K_Layvin
-DM A_Stefanov
-DM J_Bent
-MF N_Barbulescu
+GK A_Ghita
+DF T_XGhiuri
+DM N_Barbulescu
+FW C_Sandulescu
 
 PK: D_Mario
 AGG 20
 
-SUB 7 16 DM IF MIN = 65
-SUB 6 13 DF IF MIN = 78
-SUB 2 14 DM IF MIN = 84
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 22 SCORE = 1
-TACTIC D IF MIN >= 11 SCORE >= 2
-SUB 10 15 MF IF SCORE <= -3
-SUB 10 15 MF IF SCORE >= 3
+SUB 3 14 DF IF MIN = 60
+SUB 10 15 MF IF MIN = 65
+TACTIC E IF MIN >= 16 SCORE <= -2
+TACTIC E IF MIN >= 30 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC L IF MIN >= 22 SCORE = 1
+TACTIC L IF MIN >= 11 SCORE >= 2
+SUB 7 15 MF IF SCORE <= -3
+SUB 7 15 MF IF SCORE >= 3
