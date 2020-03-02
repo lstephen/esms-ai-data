@@ -1,34 +1,34 @@
 tth
-P
+A
 
 GK R_Ceni
 DF John_McNamara
 DF A_R_Essien
+DF E_Plummer
 DF S_Howey
-DF S_Winzor
 DF Doriva
-DM E_Gabor
-DM P_Henrique
-MF R_Pires
-FW Ricardinho
-FW M_Truk
+DM S_Winzor
+AM R_Pires
+AM P_Coutinho
+FW E_Enyanku
+FW Ely
 
 GK K_Shand
 DF W_Morgan
-DF E_Plummer
-DF R_Morrison
-FW E_Enyanku
+DM R_Morrison
+FW Ricardinho
+FW M_Truk
 
-PK: Ricardinho
+PK: E_Enyanku
 AGG 20
 
-SUB 11 15 DM IF MIN = 45
+SUB 11 15 FW IF MIN = 50
 SUB 2 13 DF IF MIN = 55
-SUB 10 16 FW IF MIN = 75
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
-SUB 5 13 DF IF SCORE <= -3
-SUB 5 13 DF IF SCORE >= 3
+SUB 10 14 DM IF MIN = 65
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 71 SCORE = 1
+TACTIC D IF MIN >= 47 SCORE >= 2
+SUB 6 13 DF IF SCORE <= -3
+SUB 6 13 DF IF SCORE >= 3
