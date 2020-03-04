@@ -61,7 +61,7 @@ FW Ricardinho
   STOPPING      54      54      54      54      54      54      54 
   TACKLING     152     210     139     159     178     150     144 
    PASSING     151      99     158     152      74     184     145 
-  SHOOTING      53      27      88      49      75      49      50 
+  SHOOTING      53      27      88      49      75      49      51 
    SH Mean      20      25      20      21      20      21      20 
  SH Median      28      28      18      28      18      28      18 
     SH Max      28      28      28      28      28      28      28 
@@ -640,14 +640,14 @@ SUB MF Moreto MF IF INJURED MF
 SUB AM Moreto AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB E_Enyanku Ricardinho FW IF MIN = 45
 SUB Ely Moreto DM IF MIN = 50
+SUB E_Enyanku Ricardinho FW IF MIN = 55
 SUB John_McNamara W_Morgan DF IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC D IF MIN >= 71 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 47 SCORE >= 2
 
 SUB Doriva W_Morgan DF IF SCORE <= -3
 SUB Doriva W_Morgan DF IF SCORE >= 3
@@ -716,9 +716,9 @@ SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
 SUB Anufer_Ubbish T_XGhiuri DF IF MIN = 60
-SUB J_Bent N_Barbulescu MF IF MIN = 65
+SUB K_Layvin N_Barbulescu MF IF MIN = 65
 TACTIC E IF MIN >= 16 SCORE <= -2
-TACTIC E IF MIN >= 30 SCORE = -1
+TACTIC E IF MIN >= 69 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC L IF MIN >= 22 SCORE = 1
 TACTIC L IF MIN >= 11 SCORE >= 2
