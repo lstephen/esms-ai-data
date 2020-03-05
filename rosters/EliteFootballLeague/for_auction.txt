@@ -1,4 +1,8 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
+A_Oldridge    33 eng  1  8 25 18 17 300 495 168 342
+Jumbalia      28 usa  2 25  8 10 33 300 247 516 502
+R_Bertrand    31 eng  1 25  9  5 33 400   5  65 972
+L_Matthaus    36 ger  1 24  5  8 21 700 790 493 638
 B_B_Beddoe    28 jam  3 25  7  8 20 700  99 539 227
 A_Lithgow     31 sco  3 25 11  8 22 400  32  61 657
 A_Little      31 sco  2  7  7 25 21 400 980 228 684
@@ -14,9 +18,7 @@ R_Quaresma    34 spa  2 10 10 17 26 300  63 137 433
 P_Ince        35 eng  2  9 16  8 21 300 708  41 660
 C_Alena       27 spa  3  9 25  6 23 500 564   5 539
 L_Coca        29 bra  2 11 25 14 22 300  23   9 993
-R_Bertrand    31 eng  1 24  9  5 33 400 944  65 961
 Sven_Bender   31 ger  2 11 25 12 43 600 139  99 448
-R_Escobar     18 col  2  8 11 14 23 600 773 247 790
 J_P_Veron     32 arg  1  9 25 15 11 800 478 534 777
 A_Doucoure    30 fra  2  6 25  9 21 600 712   3 826
 Edouard       32 fra  3  7  5 25 23 600 658 678 800
@@ -31,7 +33,6 @@ S_Howey       36 enf  2 24 20  5 36 300 343 252 113
 T_Meibner     32 ger  2 25 10  8 38 300  54 744 203
 D_Mason       32 eng  3 25  8  8 21 400   1 590 525
 P_Foden       20 eng  3  8 23  9 23 500 652 415 195
-A_Oldridge    33 eng  1  8 25 18 17 300 495  98 315
 B_Reid        30 eng  2  6  7 25 32 300 380 340   1
 Midfielder01 25  nor 3  8  24 8  41 800 800 800 800
 E_Typutryi    29 arg  1 25  9 10 12 400 247 122 544
