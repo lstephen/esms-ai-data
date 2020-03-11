@@ -627,29 +627,29 @@ FW E_Enyanku
    Overall     302     270     320     307     255     320     298 
 
 GK K_Shand
+DF S_Vagini
 DM R_Morrison
 DM D_McHale
 AM P_Coutinho
-FW M_Truk
 
 SUB GK K_Shand GK IF INJURED GK
-SUB DF R_Morrison DF IF INJURED DF
+SUB DF S_Vagini DF IF INJURED DF
 SUB DM P_Coutinho DM IF INJURED DM
 SUB MF P_Coutinho MF IF INJURED MF
 SUB AM P_Coutinho AM IF INJURED AM
-SUB FW M_Truk FW IF INJURED FW
+SUB FW P_Coutinho FW IF INJURED FW
 
-SUB E_Enyanku D_McHale DF IF MIN = 45
-SUB Moreto R_Morrison DM IF MIN = 55
-SUB Doriva M_Truk FW IF MIN = 78
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
+SUB E_Enyanku D_McHale DF IF MIN = 55
+SUB Moreto R_Morrison DM IF MIN = 60
+SUB John_McNamara S_Vagini DF IF MIN = 75
+TACTIC P IF MIN >= 55 SCORE <= -2
+TACTIC P IF MIN >= 55 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 64 SCORE = 1
+TACTIC D IF MIN >= 63 SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
 
-SUB Doriva R_Morrison DF IF SCORE <= -3
-SUB Doriva R_Morrison DF IF SCORE >= 3
+SUB Doriva S_Vagini DF IF SCORE <= -3
+SUB Doriva S_Vagini DF IF SCORE >= 3
 
 Forced:
 ** Reserves Selection **
@@ -715,8 +715,8 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Bent N_Barbulescu MF IF MIN = 55
-SUB K_Layvin A_Stefanov DF IF MIN = 65
+SUB J_Bent N_Barbulescu MF IF MIN = 60
+SUB K_Layvin A_Stefanov DF IF MIN = 75
 TACTIC E IF MIN >= 2 SCORE <= -2
 TACTIC E IF MIN >= 4 SCORE = -1
 TACTIC D IF SCORE = 0
