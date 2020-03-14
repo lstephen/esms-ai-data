@@ -358,7 +358,7 @@ LONG_BALL        29  38  30  33  30  30
 DEFENSIVE        29  26  29  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    15     2     9     3     7 
+                       Count     5    15     2     9     3     6 
                          Max    39    41    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -514,10 +514,11 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB P_Giordese C_Owen FW IF MIN = 45
-SUB P_Deusner H_Kewell MF IF MIN = 60
-SUB R_Gelman D_Van_Ry MF IF MIN = 81
-TACTIC E IF SCORE <= -2
+SUB I_Tatarescu H_Kewell MF IF MIN = 45
+SUB P_Giordese D_Van_Ry FW IF MIN = 50
+CHANGEPOS O_Bravo DM IF MIN = 55
+SUB R_Gelman C_Owen MF IF MIN = 78
+TACTIC A IF MIN >= 90 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC C IF MIN >= 15 SCORE = 1
@@ -589,15 +590,15 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB T_Ris P_Lazar DF IF MIN = 55
-SUB J_Moculescu H_Ghita FW IF MIN = 60
-CHANGEPOS R_Amanar AM IF MIN = 65
-SUB R_Amanar F_Pacuraru FW IF MIN = 70
-CHANGEPOS H_Ghita AM IF MIN = 75
-TACTIC E IF MIN >= 25 SCORE <= -2
-TACTIC E IF MIN >= 75 SCORE = -1
+SUB T_Ris P_Lazar DF IF MIN = 60
+SUB C_Boroi H_Ghita FW IF MIN = 65
+CHANGEPOS R_Amanar DM IF MIN = 70
+CHANGEPOS R_Amanar AM IF MIN = 75
+SUB R_Amanar F_Pacuraru AM IF MIN = 90
+TACTIC A IF MIN >= 65 SCORE <= -2
+TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 64 SCORE >= 2
+TACTIC D IF MIN >= 70 SCORE >= 2
 
 
