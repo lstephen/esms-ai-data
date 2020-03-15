@@ -646,8 +646,8 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW A_Oldridge FW IF INJURED FW
 
-SUB Moreto R_Morrison DM IF MIN = 45
-SUB M_Truk P_Coutinho AM IF MIN = 50
+SUB M_Truk P_Coutinho AM IF MIN = 45
+SUB Moreto R_Morrison DM IF MIN = 50
 SUB S_Howey S_Vagini DF IF MIN = 75
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
@@ -723,7 +723,7 @@ SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
 SUB J_Bent N_Barbulescu MF IF MIN = 60
-SUB K_Layvin A_Stefanov DF IF MIN = 70
+SUB K_Layvin A_Stefanov DF IF MIN = 65
 TACTIC E IF MIN >= 2 SCORE <= -2
 TACTIC E IF MIN >= 4 SCORE = -1
 TACTIC D IF SCORE = 0
