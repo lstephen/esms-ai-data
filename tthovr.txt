@@ -636,23 +636,23 @@ FW M_Truk
 GK K_Shand
 DF S_Vagini
 DM R_Morrison
+AM P_Coutinho
 FW A_Oldridge
-FW E_Enyanku
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF S_Vagini DF IF INJURED DF
 SUB DM A_Oldridge DM IF INJURED DM
 SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
-SUB FW E_Enyanku FW IF INJURED FW
+SUB FW A_Oldridge FW IF INJURED FW
 
-SUB M_Truk E_Enyanku FW IF MIN = 45
-SUB Moreto R_Morrison DM IF MIN = 50
-SUB John_McNamara S_Vagini DF IF MIN = 70
+SUB M_Truk P_Coutinho AM IF MIN = 45
+SUB Moreto R_Morrison DM IF MIN = 60
+SUB S_Howey S_Vagini DF IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 64 SCORE = 1
+TACTIC D IF MIN >= 53 SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
 
 SUB Doriva S_Vagini DF IF SCORE <= -3
@@ -722,8 +722,8 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Bent N_Barbulescu MF IF MIN = 50
-SUB K_Layvin A_Stefanov DF IF MIN = 65
+SUB J_Bent N_Barbulescu MF IF MIN = 60
+SUB K_Layvin A_Stefanov DF IF MIN = 75
 TACTIC E IF MIN >= 2 SCORE <= -2
 TACTIC E IF MIN >= 4 SCORE = -1
 TACTIC D IF SCORE = 0
