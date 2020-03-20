@@ -648,13 +648,13 @@ SUB AM R_Pires AM IF INJURED AM
 SUB FW E_Enyanku FW IF INJURED FW
 
 SUB S_Vagini W_Morgan DF IF MIN = 50
-SUB M_Truk P_Coutinho MF IF MIN = 55
-SUB Ricardinho E_Enyanku FW IF MIN = 70
+SUB M_Truk E_Enyanku FW IF MIN = 55
+SUB Ricardinho P_Coutinho MF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 63 SCORE >= 2
+TACTIC D IF MIN >= 62 SCORE >= 2
 
 SUB Doriva W_Morgan DF IF SCORE <= -3
 SUB Doriva W_Morgan DF IF SCORE >= 3
@@ -724,7 +724,7 @@ SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
 SUB J_Bent N_Barbulescu DM IF MIN = 50
-SUB P_Dummett A_Stefanov DF IF MIN = 75
+SUB P_Dummett A_Stefanov DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
