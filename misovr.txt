@@ -358,7 +358,7 @@ LONG_BALL        29  38  30  33  30  30
 DEFENSIVE        29  26  29  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    15     1    10     3     6 
+                       Count     5    15     1     9     3     6 
                          Max    39    41    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -515,13 +515,15 @@ SUB AM H_Kewell AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
 SUB P_Giordese C_Owen FW IF MIN = 45
-SUB R_Gelman D_Van_Ry AM IF MIN = 60
+SUB R_Gelman D_Van_Ry AM IF MIN = 70
+CHANGEPOS O_Bravo DM IF MIN = 81
+CHANGEPOS I_Tatarescu AM IF MIN = 84
 SUB P_Deusner H_Kewell MF IF MIN = 90
-TACTIC A IF MIN >= 79 SCORE <= -2
+TACTIC A IF MIN >= 80 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC D IF MIN >= 76 SCORE >= 2
 
 
 Forced:W_Westfall/N_Morariu/R_Amanar/J_Moculescu/
@@ -588,8 +590,8 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB J_Moculescu H_Ghita AM IF MIN = 60
-SUB R_Amanar F_Pacuraru FW IF MIN = 70
+SUB R_Amanar F_Pacuraru FW IF MIN = 55
+SUB J_Moculescu H_Ghita AM IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
