@@ -648,13 +648,13 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW E_Enyanku FW IF INJURED FW
 
-SUB R_Morrison Doriva DF IF MIN = 55
-SUB P_Coutinho E_Enyanku FW IF MIN = 65
-SUB P_Dummett Moreto DM IF MIN = 70
+SUB R_Morrison Moreto DM IF MIN = 60
+SUB P_Dummett Doriva DF IF MIN = 65
+SUB P_Coutinho E_Enyanku FW IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 70 SCORE = 1
+TACTIC D IF MIN >= 57 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 SUB S_Winzor A_Oldridge DM IF SCORE <= -3
@@ -685,53 +685,53 @@ R_Escobar       18  8/11/14 | FW D :  17  -8 :   9 |   0  1.0   9 ||  19 || DM-1
 PASSING
 GK C_Freamon
 DF Anufer_Ubbish
+DF A_Salto
 DF K_Layvin
-DF T_XGhiuri
-DF Ridoutkha
 DF G_Best
+DF J_Milburn
+DM Ridoutkha
 DM J_Cadette
-DM J_Milburn
 DM J_Bent
 MF M_Antonio
 FW C_Sandulescu
                  N       D       A       C       L       P       E 
   STOPPING      42      42      42      42      42      42      42 
-  TACKLING     130     183     117     137     158     128     123 
-   PASSING     108      72     112     108      53     128     107 
-  SHOOTING      38      16      62      35      51      36      38 
+  TACKLING     131     184     118     138     159     129     124 
+   PASSING     108      73     113     109      53     127     109 
+  SHOOTING      37      16      61      34      50      35      37 
    SH Mean      13      16      12      13      12      13      12 
  SH Median      11      18      11      18      11      18      11 
     SH Max      18      18      18      18      18      18      18 
-  SH Bonus      12       8      14      13       8      15      12 
+  SH Bonus      12       8      14      13       8      15      13 
    GK Qual      28      28      28      28      28      28      28 
-  GK Bonus      23      18      25      23      19      25      24 
-       Agg      24      24      24      24      24      24      24 
-   Scoring      84      53      95      84      52      97      84 
- Defending     130     183     117     137     158     128     123 
-   Overall     241     216     250     246     201     261     236 
+  GK Bonus      23      18      25      22      19      24      24 
+       Agg      22      22      22      22      22      22      22 
+   Scoring      85      54      96      84      52      97      85 
+ Defending     131     184     118     138     159     129     124 
+   Overall     242     218     250     247     201     261     239 
 
 GK D_Gogean
-DF A_Salto
+DF T_XGhiuri
 DF A_Stefanov
 DF N_Barbulescu
 FW R_Escobar
 
 SUB GK D_Gogean GK IF INJURED GK
-SUB DF A_Salto DF IF INJURED DF
+SUB DF T_XGhiuri DF IF INJURED DF
 SUB DM N_Barbulescu DM IF INJURED DM
 SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW R_Escobar FW IF INJURED FW
 
-SUB C_Sandulescu R_Escobar FW IF MIN = 55
-SUB K_Layvin A_Salto DF IF MIN = 60
+SUB K_Layvin T_XGhiuri DF IF MIN = 55
+SUB C_Sandulescu R_Escobar FW IF MIN = 65
 SUB Anufer_Ubbish A_Stefanov DF IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 74 SCORE = 1
-TACTIC D IF MIN >= 38 SCORE >= 2
+TACTIC D IF MIN >= 73 SCORE = 1
+TACTIC D IF MIN >= 36 SCORE >= 2
 
-SUB G_Best A_Salto DF IF SCORE <= -3
-SUB G_Best A_Salto DF IF SCORE >= 3
+SUB G_Best T_XGhiuri DF IF SCORE <= -3
+SUB G_Best T_XGhiuri DF IF SCORE >= 3
 
