@@ -558,18 +558,18 @@ GK K_Shand
 DM P_Dummett
 DM R_Morrison
 DM Moreto
-AM M_Truk
+MF P_Coutinho
 
 SUB GK K_Shand GK IF INJURED GK
 SUB DF P_Dummett DF IF INJURED DF
-SUB DM R_Morrison DM IF INJURED DM
-SUB MF R_Morrison MF IF INJURED MF
-SUB AM R_Morrison AM IF INJURED AM
-SUB FW M_Truk FW IF INJURED FW
+SUB DM P_Coutinho DM IF INJURED DM
+SUB MF P_Coutinho MF IF INJURED MF
+SUB AM P_Coutinho AM IF INJURED AM
+SUB FW P_Coutinho FW IF INJURED FW
 
 SUB A_Oldridge R_Morrison MF IF MIN = 55
-SUB R_Pires Moreto MF IF MIN = 65
-SUB Ricardinho M_Truk FW IF MIN = 70
+SUB D_McHale Moreto MF IF MIN = 60
+SUB R_Pires P_Coutinho MF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
@@ -641,12 +641,12 @@ SUB MF N_Barbulescu MF IF INJURED MF
 SUB AM N_Barbulescu AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Bent N_Barbulescu DM IF MIN = 50
-SUB Anufer_Ubbish A_Stefanov DF IF MIN = 70
+SUB Anufer_Ubbish A_Stefanov DF IF MIN = 60
+SUB J_Bent N_Barbulescu DM IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 83 SCORE = 1
+TACTIC D IF MIN >= 82 SCORE = 1
 TACTIC D IF MIN >= 41 SCORE >= 2
 
 
