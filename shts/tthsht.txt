@@ -1,32 +1,32 @@
 tth
-C
+A
 
 GK R_Ceni
 DF D_Epureanu
 DF W_Morgan
+DF E_Plummer
 DF Doriva
 DM S_Winzor
-DM Moreto
-MF R_Pires
-MF P_Henrique
-MF R_Morrison
-MF D_McHale
+DM P_Henrique
+DM R_Morrison
+AM R_Pires
+AM S_McMahon
 FW Ricardinho
 
-GK J_Ashcroft
-DF E_Plummer
-AM A_Oldridge
+GK E_Manuel
+DM M_Laudrup
+DM Moreto
 AM P_Coutinho
-FW E_Enyanku
+FW D_Byrne
 
 PK: Ricardinho
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 10 14 MF IF MIN = 60
-SUB 7 15 MF IF MIN = 81
-TACTIC E IF MIN >= 13 SCORE <= -2
-TACTIC E IF MIN >= 25 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 32 SCORE = 1
-TACTIC D IF MIN >= 16 SCORE >= 2
+SUB 8 13 DM IF MIN = 60
+SUB 10 16 FW IF MIN = 65
+SUB 7 14 DM IF MIN = 78
+TACTIC A IF SCORE <= -2
+TACTIC A IF SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 28 SCORE >= 2
