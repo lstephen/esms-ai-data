@@ -659,25 +659,25 @@ FW Ricardinho
    Overall     316     286     330     319     258     328     317 
 
 GK E_Manuel
-DM M_Laudrup
 DM Moreto
-AM P_Coutinho
+FW A_Oldridge
 FW D_Byrne
+FW M_Truk
 
 SUB GK E_Manuel GK IF INJURED GK
 SUB DF Moreto DF IF INJURED DF
-SUB DM P_Coutinho DM IF INJURED DM
-SUB MF P_Coutinho MF IF INJURED MF
-SUB AM P_Coutinho AM IF INJURED AM
-SUB FW D_Byrne FW IF INJURED FW
+SUB DM A_Oldridge DM IF INJURED DM
+SUB MF A_Oldridge MF IF INJURED MF
+SUB AM A_Oldridge AM IF INJURED AM
+SUB FW M_Truk FW IF INJURED FW
 
-SUB R_Morrison M_Laudrup DM IF MIN = 60
-SUB S_McMahon D_Byrne FW IF MIN = 65
-SUB P_Henrique Moreto DM IF MIN = 78
+SUB R_Morrison D_Byrne FW IF MIN = 60
+SUB S_McMahon Moreto DM IF MIN = 65
+SUB Ricardinho M_Truk FW IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 66 SCORE = 1
 TACTIC D IF MIN >= 28 SCORE >= 2
 
 
@@ -747,7 +747,7 @@ SUB MF J_Bent MF IF INJURED MF
 SUB AM J_Bent AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB K_Layvin A_Stefanov DF IF MIN = 65
+SUB K_Layvin A_Stefanov DF IF MIN = 60
 TACTIC E IF MIN >= 18 SCORE <= -2
 TACTIC E IF MIN >= 35 SCORE = -1
 TACTIC C IF SCORE = 0
