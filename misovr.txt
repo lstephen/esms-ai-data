@@ -368,7 +368,7 @@ DEFENSIVE        29  26  28  30  31  27
                       NORMAL    26    19    28    25    26    24 
                    DEFENSIVE    26    19          23    19       
                    ATTACKING    26    20                      31 
-              COUNTER_ATTACK    26    18                25    25 
+              COUNTER_ATTACK    26    18    28          25    25 
                    LONG_BALL    26    21                      26 
                      PASSING    26    19                      26 
                     EUROPEAN    26    18    18    27    25    22 
@@ -513,13 +513,11 @@ SUB AM D_Van_Ry AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
 SUB I_Drover P_Druery DF IF MIN = 45
-SUB I_Tatarescu D_Van_Ry DM IF MIN = 65
-CHANGEPOS D_Van_Ry MF IF MIN = 87
-SUB H_Kewell W_Emmerling DM IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
+SUB H_Kewell D_Van_Ry MF IF MIN = 60
+TACTIC A IF MIN >= 86 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC L IF MIN >= 75 SCORE = 1
+TACTIC L IF MIN >= 60 SCORE = 1
 TACTIC D IF MIN >= 40 SCORE >= 2
 
 
@@ -588,14 +586,13 @@ SUB MF C_Boroi MF IF INJURED MF
 SUB AM C_Boroi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 50
-SUB J_Moculescu C_Boroi MF IF MIN = 55
-SUB N_Parasca H_Ghita MF IF MIN = 78
-CHANGEPOS M_Parvulescu DM IF MIN = 81
+SUB J_Moculescu H_Ghita MF IF MIN = 55
+SUB R_Amanar F_Pacuraru FW IF MIN = 65
+SUB D_Balitiu C_Boroi MF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 59 SCORE = 1
+TACTIC D IF MIN >= 74 SCORE = 1
 TACTIC D IF MIN >= 31 SCORE >= 2
 
 
