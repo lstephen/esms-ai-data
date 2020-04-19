@@ -358,7 +358,7 @@ LONG_BALL        29  38  30  33  30  30
 DEFENSIVE        29  26  28  30  31  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     2     8     3     6 
+                       Count     5    15     2     9     2     8 
                          Max    39    41    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -368,7 +368,7 @@ DEFENSIVE        29  26  28  30  31  27
                       NORMAL    26    19    28    25    26    24 
                    DEFENSIVE    26    19          23    19       
                    ATTACKING    26    20                      31 
-              COUNTER_ATTACK    26    18    28          25    25 
+              COUNTER_ATTACK    26    18                25    25 
                    LONG_BALL    26    21                      26 
                      PASSING    26    19                      26 
                     EUROPEAN    26    18    18    27    25    22 
@@ -513,11 +513,11 @@ SUB AM D_Van_Ry AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
 SUB I_Drover P_Druery DF IF MIN = 45
-SUB H_Kewell D_Van_Ry MF IF MIN = 60
-TACTIC A IF MIN >= 86 SCORE <= -2
+SUB H_Kewell D_Van_Ry MF IF MIN = 55
+TACTIC A IF MIN >= 85 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC L IF MIN >= 60 SCORE = 1
+TACTIC L IF MIN >= 59 SCORE = 1
 TACTIC D IF MIN >= 40 SCORE >= 2
 
 
@@ -574,25 +574,24 @@ FW R_Amanar
    Overall     228     204     198     229     208     219     233 
 
 GK C_Ionita
+DF T_Gheorghiu
 DF L_Roman
 MF C_Boroi
 AM H_Ghita
-FW F_Pacuraru
 
 SUB GK C_Ionita GK IF INJURED GK
 SUB DF L_Roman DF IF INJURED DF
 SUB DM C_Boroi DM IF INJURED DM
 SUB MF C_Boroi MF IF INJURED MF
 SUB AM C_Boroi AM IF INJURED AM
-SUB FW F_Pacuraru FW IF INJURED FW
+SUB FW H_Ghita FW IF INJURED FW
 
-SUB J_Moculescu H_Ghita MF IF MIN = 55
-SUB R_Amanar F_Pacuraru FW IF MIN = 65
-SUB D_Balitiu C_Boroi MF IF MIN = 75
+SUB R_Amanar H_Ghita FW IF MIN = 60
+SUB D_Balitiu C_Boroi MF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 74 SCORE = 1
+TACTIC D IF MIN >= 65 SCORE = 1
 TACTIC D IF MIN >= 31 SCORE >= 2
 
 
