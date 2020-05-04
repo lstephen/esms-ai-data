@@ -358,7 +358,7 @@ LONG_BALL        29  38  30  33  30  30
 DEFENSIVE        29  26  30  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    15     2     8     3     7 
+                       Count     5    15     2     8     3     6 
                          Max    39    41    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -368,7 +368,7 @@ DEFENSIVE        29  26  30  32  32  27
                       NORMAL    26    19    28    25    26    24 
                    DEFENSIVE    26    19          23    19       
                    ATTACKING    26    21                      31 
-              COUNTER_ATTACK    26    18    28          25    25 
+              COUNTER_ATTACK    26    18                25    25 
                    LONG_BALL    26    21                      26 
                      PASSING    26    19                      26 
                     EUROPEAN    26    19    19    27    25    22 
@@ -512,16 +512,15 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB H_Kewell I_Drover FW IF MIN = 45
-CHANGEPOS I_Drover DM IF MIN = 50
-SUB P_Giordese D_Van_Ry FW IF MIN = 55
-SUB Alan_Michael C_Owen FW IF MIN = 84
-CHANGEPOS I_Drover DF IF MIN = 87
-TACTIC A IF MIN >= 84 SCORE <= -2
+SUB P_Giordese I_Drover DM IF MIN = 45
+SUB H_Kewell D_Van_Ry FW IF MIN = 55
+SUB O_Bravo C_Owen FW IF MIN = 78
+CHANGEPOS I_Tatarescu DF IF MIN = 81
+TACTIC A IF MIN >= 78 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 59 SCORE >= 2
+TACTIC C IF MIN >= 55 SCORE >= 2
 
 
 Forced:W_Westfall/N_Morariu/R_Amanar/H_Ghita/
@@ -589,13 +588,13 @@ SUB MF C_Boroi MF IF INJURED MF
 SUB AM C_Boroi AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
+SUB R_Amanar F_Pacuraru FW IF MIN = 55
 SUB L_Gabor P_Lazar DF IF MIN = 60
-SUB R_Amanar F_Pacuraru FW IF MIN = 70
 SUB T_Ris L_Roman DF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 73 SCORE = 1
+TACTIC D IF MIN >= 74 SCORE = 1
 TACTIC D IF MIN >= 36 SCORE >= 2
 
 
