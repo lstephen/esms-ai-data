@@ -78,29 +78,29 @@ COUNTER_ATTACK
 GK Q_Bonnette
 DF G_C_Moore
 DF V_Barbieri
-DF X_Cullie
-DM O_Bravo
+DF O_Burgin
+DM X_Cullie
 DM Alan_Michael
 DM I_Tatarescu
 MF P_Deusner
-AM O_Burgin
+AM O_Bravo
 AM R_Gelman
 FW D_Van_Ry
                  N       D       A       C       L       P       E 
   STOPPING      39      39      39      39      39      39      39 
-  TACKLING     127     171      79     143     150     109     118 
-   PASSING     144     103     153     147      71     171     156 
-  SHOOTING      87      45     151      72     141      68      80 
+  TACKLING     129     172      81     144     152     111     120 
+   PASSING     144     102     153     147      71     170     155 
+  SHOOTING      87      44     150      71     141      67      80 
    SH Mean      19      20      18      19      18      19      19 
- SH Median      18      22      17      22      17      18      18 
+ SH Median      18      22      17      22      17      22      18 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      22      15      28      21      17      24      23 
+  SH Bonus      21      15      28      21      16      25      23 
    GK Qual      26      26      26      26      26      26      26 
-  GK Bonus      26      19      38      24      21      29      27 
+  GK Bonus      26      19      37      24      21      29      27 
        Agg      24      24      24      24      24      24      24 
-   Scoring     125      83     152     122      94     136     131 
- Defending     127     171      79     143     150     109     118 
-   Overall     299     266     265     309     271     296     298 
+   Scoring     125      83     152     122      94     136     130 
+ Defending     129     172      81     144     152     111     120 
+   Overall     300     266     268     309     272     299     299 
 
 ** 1st XI **
 ATTACKING
@@ -358,7 +358,7 @@ LONG_BALL        29  38  32  34  30  30
 DEFENSIVE        29  26  30  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     2     8     2     7 
+                       Count     5    15     2     8     3     7 
                          Max    39    41    38    37    38    38 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -509,13 +509,13 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB P_Deusner D_Van_Ry FW IF MIN = 55
-SUB C_Owen H_Kewell FW IF MIN = 60
-TACTIC A IF MIN >= 78 SCORE <= -2
+SUB C_Owen H_Kewell FW IF MIN = 45
+SUB P_Deusner D_Van_Ry FW IF MIN = 65
+TACTIC A IF MIN >= 81 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 70 SCORE >= 2
+TACTIC L IF MIN >= 71 SCORE >= 2
 
 
 Forced:J_Moculescu/W_Westfall/R_Amanar/
@@ -584,14 +584,13 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar H_Ghita FW IF MIN = 55
-SUB N_Parasca P_Lazar DF IF MIN = 65
-SUB L_Gabor F_Pacuraru FW IF MIN = 84
-CHANGEPOS C_Boroi DF IF MIN = 87
-TACTIC A IF MIN >= 65 SCORE <= -2
+SUB L_Gabor P_Lazar DF IF MIN = 45
+SUB C_Boroi H_Ghita FW IF MIN = 60
+SUB R_Amanar F_Pacuraru FW IF MIN = 87
+TACTIC A IF MIN >= 87 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 65 SCORE >= 2
+TACTIC L IF MIN >= 77 SCORE >= 2
 
 
