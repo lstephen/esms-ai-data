@@ -322,6 +322,7 @@ J_Milburn       25 15/19/ 8 | DM P :  28  -4 :  24 |  -7  0.2   6 ||  22 || DM -
 A_Stefanov      23 20/ 8/ 8 | DM L :  22  -5 :  17 |  -5  0.3   7 ||  19 || DF -8 DF -7 DF -7 DF -7 DM -5 DF -7 FW -7   R r 
 K_Layvin        27 21/12/11 | DM L :  26  -1 :  25 | -12  0.2   5 ||  18 || DF -3 DF -3 DF -3 DF -2 DM -1 DF -3 FW -3   R r 
 T_XGhiuri       25 21/11/ 7 | DM L :  24  -4 :  20 | -11  0.8   6 ||  15 || DF -5 DF -5 DF -5 DF -5 DM -4 DF -5 DM -5   R r 
+C_Sandulescu    23  6/ 8/18 | FW D :  19  -6 :  12 | -10  0.9   7 ||  10 || FW-13 FW -8 FW -9 FW-13 AM -8 FW -8 FW -6   R r 
 
 ** Reserves Squad (21) **
                             |                      | vAg Abs      || OVR ||  P     E     C     A     L     N     D   
@@ -331,7 +332,6 @@ L_Bains         19 17/ 7/ 6 | DM L :  19  -9 :  10 |   2  1.1   9 ||  21 || DF-1
 R_Escobar       19  8/11/14 | FW D :  17  -7 :  10 |   2  1.1   9 ||  21 || DM-14 FW-10 FW-11 DF-14 DM-10 FW-11 FW -7   R r 
 N_Barbulescu    23 11/17/ 7 | DM P :  23  -8 :  15 |  -7  0.9   7 ||  15 || DM -8 DM-12 MF -9 DM-11 DM -9 DM -9 FW-10   R r 
 T_Dibble        19 13/10/ 5 | DM L :  16 -11 :   5 |  -3  1.0   9 ||  12 || DM-13 DF-14 DF-14 DF-14 DM-11 DF-14 FW-12   R r 
-C_Sandulescu    23  6/ 8/18 | FW D :  19  -6 :  12 | -10  0.9   7 ||  10 || FW-13 FW -8 FW -9 FW-13 AM -8 FW -8 FW -6   R r 
 J_Bent          26 13/18/ 6 | DM P :  25  -6 :  19 | -15  1.6   5 ||  10 || DM -6 DM-10 DM -7 DM-10 DM -7 DM -7 MF -8   R r 
 
 ** Training Squad **
@@ -350,7 +350,6 @@ L_Bains         19 17/ 7/ 6 | DM L :  19  -9 :  10 |   2  1.1   9 ||  21 || DF-1
 R_Escobar       19  8/11/14 | FW D :  17  -7 :  10 |   2  1.1   9 ||  21 || DM-14 FW-10 FW-11 DF-14 DM-10 FW-11 FW -7   R r 
 N_Barbulescu    23 11/17/ 7 | DM P :  23  -8 :  15 |  -7  0.9   7 ||  15 || DM -8 DM-12 MF -9 DM-11 DM -9 DM -9 FW-10   R r 
 T_Dibble        19 13/10/ 5 | DM L :  16 -11 :   5 |  -3  1.0   9 ||  12 || DM-13 DF-14 DF-14 DF-14 DM-11 DF-14 FW-12   R r 
-C_Sandulescu    23  6/ 8/18 | FW D :  19  -6 :  12 | -10  0.9   7 ||  10 || FW-13 FW -8 FW -9 FW-13 AM -8 FW -8 FW -6   R r 
 J_Bent          26 13/18/ 6 | DM P :  25  -6 :  19 | -15  1.6   5 ||  10 || DM -6 DM-10 DM -7 DM-10 DM -7 DM -7 MF -8   R r 
 
 ** Remaining **
@@ -645,9 +644,9 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW M_Truk FW IF INJURED FW
 
-SUB R_Pires A_Oldridge MF IF MIN = 55
-SUB D_Byrne M_Truk FW IF MIN = 60
-SUB E_Donk D_Epureanu DF IF MIN = 75
+SUB D_Byrne A_Oldridge FW IF MIN = 60
+SUB E_Donk D_Epureanu DF IF MIN = 65
+SUB R_Pires M_Truk FW IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -711,23 +710,23 @@ FW D_Mario
    Overall     246     244     229     261     225     253     256 
 
 GK A_Ghita
-DF T_XGhiuri
 DF A_Stefanov
 DM G_Best
 DM Zico_Jnr
+DM J_Milburn
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF T_XGhiuri DF IF INJURED DF
+SUB DF A_Stefanov DF IF INJURED DF
 SUB DM Zico_Jnr DM IF INJURED DM
 SUB MF Zico_Jnr MF IF INJURED MF
 SUB AM Zico_Jnr AM IF INJURED AM
 SUB FW Zico_Jnr FW IF INJURED FW
 
-SUB L_Bains A_Stefanov DF IF MIN = 45
-SUB R_Escobar Zico_Jnr DF IF MIN = 50
-SUB D_Dragan G_Best MF IF MIN = 65
-TACTIC E IF MIN >= 18 SCORE <= -2
-TACTIC E IF MIN >= 35 SCORE = -1
+SUB R_Escobar A_Stefanov DF IF MIN = 45
+SUB D_Dragan G_Best DF IF MIN = 55
+SUB L_Bains J_Milburn MF IF MIN = 60
+TACTIC P IF MIN >= 41 SCORE <= -2
+TACTIC P IF MIN >= 50 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 30 SCORE = 1
 TACTIC D IF MIN >= 15 SCORE >= 2
