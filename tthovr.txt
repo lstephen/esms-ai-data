@@ -624,21 +624,21 @@ FW D_Byrne
    Overall     299     293     291     313     277     307     311 
 
 GK E_Manuel
-DF D_Epureanu
-DM D_McHale
+DF John_McNamara
+DF A_Salto
 AM A_Oldridge
 FW Ricardinho
 
 SUB GK E_Manuel GK IF INJURED GK
-SUB DF D_Epureanu DF IF INJURED DF
+SUB DF John_McNamara DF IF INJURED DF
 SUB DM A_Oldridge DM IF INJURED DM
 SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB D_Byrne Ricardinho FW IF MIN = 50
-SUB R_Morrison A_Oldridge MF IF MIN = 60
-SUB E_Plummer D_Epureanu DF IF MIN = 75
+SUB D_Byrne Ricardinho FW IF MIN = 55
+SUB E_Plummer A_Salto DF IF MIN = 60
+SUB R_Morrison A_Oldridge MF IF MIN = 70
 TACTIC E IF MIN >= 4 SCORE <= -2
 TACTIC E IF MIN >= 8 SCORE = -1
 TACTIC C IF SCORE = 0
@@ -713,14 +713,14 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB L_Bains K_Layvin DF IF MIN = 45
-SUB R_Escobar J_Milburn MF IF MIN = 50
-SUB D_Dragan N_Barbulescu DM IF MIN = 90
+SUB R_Escobar N_Barbulescu MF IF MIN = 45
+SUB L_Bains K_Layvin DF IF MIN = 50
+SUB D_Dragan J_Milburn DM IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 86 SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 89 SCORE = 1
+TACTIC D IF MIN >= 47 SCORE >= 2
 
 SUB Ridoutkha K_Layvin DF IF SCORE <= -3
 SUB Ridoutkha K_Layvin DF IF SCORE >= 3
