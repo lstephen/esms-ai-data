@@ -637,9 +637,9 @@ SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW A_Oldridge FW IF INJURED FW
 
-SUB D_Byrne E_Donk DM IF MIN = 50
-SUB S_McMahon A_Oldridge MF IF MIN = 55
-SUB D_Epureanu W_Morgan DF IF MIN = 70
+SUB S_McMahon A_Oldridge MF IF MIN = 50
+SUB D_Byrne E_Donk DM IF MIN = 55
+SUB D_Epureanu W_Morgan DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -702,26 +702,26 @@ FW R_Escobar
    Overall     238     208     255     246     198     267     228 
 
 GK A_Ghita
-DF T_XGhiuri
+DF A_Stefanov
 DF J_Milburn
 DF D_Dragan
-DF J_Bent
+FW C_Sandulescu
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF T_XGhiuri DF IF INJURED DF
+SUB DF A_Stefanov DF IF INJURED DF
 SUB DM J_Milburn DM IF INJURED DM
 SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
-SUB FW J_Milburn FW IF INJURED FW
+SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB L_Bains T_XGhiuri DF IF MIN = 45
-SUB R_Escobar D_Dragan MF IF MIN = 50
-SUB K_Layvin J_Milburn DF IF MIN = 70
+SUB R_Escobar D_Dragan MF IF MIN = 45
+SUB L_Bains A_Stefanov DF IF MIN = 50
+SUB K_Layvin J_Milburn DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB Ridoutkha J_Milburn DM IF SCORE <= -3
 SUB Ridoutkha J_Milburn DM IF SCORE >= 3
