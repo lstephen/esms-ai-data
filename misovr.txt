@@ -356,7 +356,7 @@ LONG_BALL        29  38  32  34  30  30
 DEFENSIVE        29  26  30  32  32  27 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     2     9     2     8 
+                       Count     5    16     2     8     2     7 
                          Max    39    41    38    37    39    39 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -366,7 +366,7 @@ DEFENSIVE        29  26  30  32  32  27
                       NORMAL    26    20    28    25    26    25 
                    DEFENSIVE    26    20          24    20       
                    ATTACKING    26    21                      32 
-              COUNTER_ATTACK    26    20                25    27 
+              COUNTER_ATTACK    26    20    28          25    27 
                    LONG_BALL    26    21                      27 
                      PASSING    26    21                      27 
                     EUROPEAN    26    19    19    27    25    23 
@@ -589,15 +589,13 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW H_Ghita FW IF INJURED FW
 
-SUB N_Parasca R_Amanar MF IF MIN = 55
-CHANGEPOS D_Balitiu DM IF MIN = 60
-SUB D_Balitiu P_Lazar DF IF MIN = 65
-SUB L_Gabor H_Ghita MF IF MIN = 70
-CHANGEPOS M_Parvulescu DM IF MIN = 75
+SUB C_Boroi R_Amanar MF IF MIN = 55
+SUB L_Gabor P_Lazar DF IF MIN = 60
+SUB J_Moculescu H_Ghita FW IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 13 SCORE = 1
+TACTIC D IF MIN >= 64 SCORE = 1
 TACTIC D IF MIN >= 32 SCORE >= 2
 
 
