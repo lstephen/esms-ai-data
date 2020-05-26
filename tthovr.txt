@@ -631,23 +631,23 @@ DM D_McHale
 FW Ricardinho
 
 SUB GK E_Manuel GK IF INJURED GK
-SUB DF E_Donk DF IF INJURED DF
+SUB DF A_Salto DF IF INJURED DF
 SUB DM D_McHale DM IF INJURED DM
 SUB MF D_McHale MF IF INJURED MF
 SUB AM D_McHale AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB D_Byrne Ricardinho FW IF MIN = 45
-SUB D_Epureanu E_Donk DF IF MIN = 55
-SUB W_Morgan A_Salto DF IF MIN = 75
+SUB S_Winzor Ricardinho FW IF MIN = 45
+SUB D_Byrne A_Salto DF IF MIN = 50
+SUB D_Epureanu E_Donk DF IF MIN = 65
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF MIN >= 5 SCORE = 1
 TACTIC D IF MIN >= 42 SCORE >= 2
 
-SUB S_Winzor E_Donk DF IF SCORE <= -3
-SUB S_Winzor E_Donk DF IF SCORE >= 3
+SUB S_Winzor A_Salto DF IF SCORE <= -3
+SUB S_Winzor A_Salto DF IF SCORE >= 3
 
 Forced:D_Mario/L_Bains/R_Escobar/
 ** Reserves Selection **
@@ -703,9 +703,9 @@ FW R_Escobar
 
 GK A_Ghita
 DF T_XGhiuri
+DF A_Stefanov
 DF J_Milburn
 DF D_Dragan
-DF J_Bent
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF T_XGhiuri DF IF INJURED DF
@@ -714,14 +714,14 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW J_Milburn FW IF INJURED FW
 
-SUB R_Escobar D_Dragan MF IF MIN = 45
-SUB L_Bains T_XGhiuri DF IF MIN = 50
-SUB K_Layvin J_Milburn DF IF MIN = 65
+SUB L_Bains T_XGhiuri DF IF MIN = 45
+SUB R_Escobar D_Dragan MF IF MIN = 50
+SUB K_Layvin J_Milburn DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
 
 SUB Ridoutkha J_Milburn DM IF SCORE <= -3
 SUB Ridoutkha J_Milburn DM IF SCORE >= 3
