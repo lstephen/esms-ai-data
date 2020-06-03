@@ -634,8 +634,8 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
+SUB D_Byrne Ricardinho FW IF MIN = 45
 SUB S_McMahon M_Laudrup MF IF MIN = 50
-SUB D_Byrne Ricardinho FW IF MIN = 55
 SUB P_Henrique Doriva DM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -711,13 +711,13 @@ SUB MF M_Antonio MF IF INJURED MF
 SUB AM M_Antonio AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB L_Bains D_Dragan DF IF MIN = 45
-SUB J_Milburn A_Stefanov DF IF MIN = 60
-SUB Zico_Jnr M_Antonio DM IF MIN = 70
+SUB L_Bains M_Antonio DF IF MIN = 45
+SUB T_XGhiuri A_Stefanov DF IF MIN = 60
+SUB J_Milburn D_Dragan DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 64 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 31 SCORE >= 2
 
 SUB G_Best A_Stefanov DF IF SCORE <= -3
