@@ -1,34 +1,34 @@
 tth
-D
+E
 
 GK Carlos_Bravo
 DF D_Epureanu
 DF W_Morgan
-DF E_Donk
-MF S_Winzor
-MF P_Henrique
+DF John_McNamara
+DM S_Winzor
+DM P_Henrique
+DM Moreto
+MF R_Pires
 MF R_Morrison
 MF S_McMahon
-MF Doriva
-MF Moreto
 FW D_Byrne
 
 GK E_Manuel
-MF John_McNamara
+DM Doriva
 MF A_Oldridge
 MF M_Laudrup
-FW Ricardinho
+AM Ricardinho
 
 PK: D_Byrne
 AGG 20
 
 SUB 11 16 FW IF MIN = 45
-SUB 8 14 MF IF MIN = 50
-SUB 9 15 MF IF MIN = 75
-TACTIC E IF MIN >= 3 SCORE <= -2
-TACTIC E IF MIN >= 5 SCORE = -1
-TACTIC D IF SCORE = 0
-TACTIC L IF SCORE = 1
-TACTIC L IF SCORE >= 2
-SUB 9 14 MF IF SCORE <= -3
-SUB 9 14 MF IF SCORE >= 3
+SUB 10 15 MF IF MIN = 50
+SUB 6 13 DM IF MIN = 70
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 33 SCORE = 1
+TACTIC D IF MIN >= 17 SCORE >= 2
+SUB 5 14 DM IF SCORE <= -3
+SUB 5 14 DM IF SCORE >= 3
