@@ -378,7 +378,7 @@ DEFENSIVE        29  26  29  31  31  28
                          Min
                       NORMAL    26    19    30    18    26    20 
                    DEFENSIVE    26    19          15    20    16 
-                   ATTACKING    26    20          17    21    21 
+                   ATTACKING    26    20          17          21 
               COUNTER_ATTACK    26    19          18    17    21 
                    LONG_BALL    26    21          13          23 
                      PASSING    26    21          17          17 
@@ -438,6 +438,7 @@ V_Nobel         16  3/ 5/12 | FW L :  18 -15 :   3 |  -6  0.5   7 ||   4 || MF-1
 O_Segura        16  1/ 4/12 | FW L :  17 -15 :   1 |  -8  0.5   7 ||   1 || AM-20 FW-22 MF-21 FW-18 FW-21 FW-15 FW-17     r 
 S_Taddeo        16  3/12/ 6 | MF P :  14 -13 :   2 |  -7  0.5   7 ||   1 || MF-13 MF-15 MF-17 MF-17 MF-17 AM-19 DM-18     r 
 T_Lisciandro    16  3/ 2/12 | FW L :  17 -15 :   1 |  -8  0.5   7 ||   1 || AM-21 FW-22 MF-23 FW-18 FW-21 FW-15 FW-17     r 
+F_Buttrell      29 11/20/ 7 | MF P :  25  -2 :  22 | -22  0.4   0 ||   0 || MF -2 MF -3 DM -8 DM -4 DM -5 DM-10 DM -5       
 F_Bayes         16  4/12/ 3 | MF P :  14 -13 :   1 |  -8  0.5   7 ||  -1 || MF-13 MF-16 MF-19 DM-17 DM-18 AM-22 DM-17     r 
 I_Zenga         16  1/12/ 4 | MF P :  13 -14 :   0 |  -9  0.5   7 ||  -3 || MF-14 MF-17 MF-19 MF-18 MF-19 AM-22 DM-20     r 
 W_Winkler       16  1/12/ 1 | MF P :  13 -14 :  -2 | -11  0.5   7 ||  -6 || MF-14 MF-18 MF-21 MF-19 MF-20 AM-25 DM-20     r 
@@ -531,14 +532,14 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB G_Mordino D_Van_Ry FW IF MIN = 60
-SUB C_Owen H_Kewell FW IF MIN = 65
+SUB C_Owen D_Van_Ry FW IF MIN = 55
+SUB G_Mordino H_Kewell FW IF MIN = 65
 SUB X_Cullie N_Morariu DF IF MIN = 81
 TACTIC A IF MIN >= 81 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 59 SCORE >= 2
+TACTIC L IF MIN >= 61 SCORE >= 2
 
 
 Forced:W_Westfall/I_Kazaku/J_Moculescu/L_Kukacka/
@@ -608,15 +609,13 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Kukacka T_Gheorghiu DF IF MIN = 45
-SUB R_Amanar H_Ghita FW IF MIN = 50
-CHANGEPOS M_Parvulescu MF IF MIN = 65
-CHANGEPOS C_Boroi DM IF MIN = 70
-SUB H_Ghita F_Pacuraru FW IF MIN = 90
+SUB L_Kukacka T_Gheorghiu DF IF MIN = 50
+SUB C_Boroi H_Ghita MF IF MIN = 60
+SUB R_Amanar F_Pacuraru FW IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 71 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
