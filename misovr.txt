@@ -369,7 +369,7 @@ LONG_BALL        29  38  32  34  31  32
 DEFENSIVE        29  26  29  31  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     1    11     2     9 
+                       Count     5    17     1    12     2     8 
                          Max    39    41    39    37    36    36 
                   1st XI (N)    39    33    32                35 
                   1st XI (P)    39    37    29                38 
@@ -378,7 +378,7 @@ DEFENSIVE        29  26  29  31  31  28
                          Min
                       NORMAL    26    19    30    18    26    20 
                    DEFENSIVE    26    19          15    20    16 
-                   ATTACKING    26    20          17          27 
+                   ATTACKING    26    20          17    21    21 
               COUNTER_ATTACK    26    19          18    17    21 
                    LONG_BALL    26    21          13          23 
                      PASSING    26    21          17          17 
@@ -531,14 +531,14 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB G_Mordino H_Kewell FW IF MIN = 55
-SUB C_Owen D_Van_Ry FW IF MIN = 60
-SUB X_Cullie N_Morariu DF IF MIN = 78
-TACTIC A IF MIN >= 78 SCORE <= -2
+SUB G_Mordino D_Van_Ry FW IF MIN = 60
+SUB C_Owen H_Kewell FW IF MIN = 65
+SUB X_Cullie N_Morariu DF IF MIN = 81
+TACTIC A IF MIN >= 81 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 65 SCORE >= 2
+TACTIC L IF MIN >= 59 SCORE >= 2
 
 
 Forced:W_Westfall/I_Kazaku/J_Moculescu/L_Kukacka/
@@ -609,14 +609,14 @@ SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
 SUB L_Kukacka T_Gheorghiu DF IF MIN = 45
-SUB R_Amanar F_Pacuraru FW IF MIN = 60
+SUB R_Amanar H_Ghita FW IF MIN = 50
 CHANGEPOS M_Parvulescu MF IF MIN = 65
-CHANGEPOS D_Balitiu DM IF MIN = 70
-SUB C_Boroi H_Ghita MF IF MIN = 78
+CHANGEPOS C_Boroi DM IF MIN = 70
+SUB H_Ghita F_Pacuraru FW IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 62 SCORE = 1
+TACTIC D IF MIN >= 65 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
