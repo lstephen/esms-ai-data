@@ -634,13 +634,13 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB D_Byrne Ricardinho FW IF MIN = 45
-SUB S_McMahon M_Laudrup MF IF MIN = 55
-SUB E_Donk D_Epureanu DF IF MIN = 70
+SUB S_McMahon M_Laudrup MF IF MIN = 45
+SUB D_Byrne Ricardinho FW IF MIN = 55
+SUB E_Donk D_Epureanu DF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF MIN >= 2 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 46 SCORE = 1
+TACTIC D IF MIN >= 41 SCORE = 1
 TACTIC D IF MIN >= 21 SCORE >= 2
 
 SUB P_Henrique M_Laudrup DM IF SCORE <= -3
@@ -711,8 +711,8 @@ SUB MF J_Bent MF IF INJURED MF
 SUB AM J_Bent AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB D_Dragan A_Stefanov DF IF MIN = 70
-SUB K_Layvin N_Barbulescu MF IF MIN = 75
+SUB T_XGhiuri A_Stefanov DF IF MIN = 50
+SUB D_Dragan N_Barbulescu MF IF MIN = 60
 TACTIC P IF MIN >= 14 SCORE <= -2
 TACTIC P IF MIN >= 27 SCORE = -1
 TACTIC C IF SCORE = 0
