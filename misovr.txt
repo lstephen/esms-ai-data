@@ -371,7 +371,7 @@ LONG_BALL        39  38  32  34  31  32
 DEFENSIVE        39  26  29  31  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     6    16     1    11     2     8 
+                       Count     6    16     1    12     2     8 
                          Max    41    41    39    37    36    36 
                   1st XI (N)    41    33    32                35 
                   1st XI (P)    41    37    29                38 
@@ -380,7 +380,7 @@ DEFENSIVE        39  26  29  31  31  28
                          Min
                       NORMAL    26    19    30    18    26    20 
                    DEFENSIVE    26    19          15    20    16 
-                   ATTACKING    26    20          17    21    21 
+                   ATTACKING    26    20          17    21    27 
               COUNTER_ATTACK    26    19          18    17    21 
                    LONG_BALL    26    21          13          23 
                      PASSING    26    21          17          17 
@@ -500,29 +500,29 @@ COUNTER_ATTACK
 GK N_Kent
 DF G_C_Moore
 DF V_Barbieri
-DF X_Cullie
-DM O_Bravo
+DF O_Burgin
+DM X_Cullie
 DM Alan_Michael
 MF P_Deusner
-AM O_Burgin
 AM I_Drover
+AM O_Bravo
 AM I_Tatarescu
 FW C_Owen
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     120     168      75     142     140     104     108 
-   PASSING     142     101     149     145      70     168     153 
-  SHOOTING      91      49     155      76     147      72      86 
-   SH Mean      18      19      18      19      18      19      18 
+  TACKLING     122     169      77     143     142     106     110 
+   PASSING     141     100     149     144      70     168     152 
+  SHOOTING      90      48     154      75     146      71      86 
+   SH Mean      18      19      18      18      18      19      18 
  SH Median      17      18      17      18      17      18      18 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      22      14      28      20      17      25      24 
+  SH Bonus      21      14      28      20      17      24      23 
    GK Qual      27      27      27      27      27      27      27 
-  GK Bonus      28      20      41      25      23      31      30 
+  GK Bonus      27      20      40      25      23      31      29 
        Agg      20      20      20      20      20      20      20 
-   Scoring     125      83     151     122      95     136     131 
- Defending     120     168      75     142     140     104     108 
-   Overall     294     265     258     307     268     291     290 
+   Scoring     124      83     151     121      95     135     130 
+ Defending     122     169      77     143     142     106     110 
+   Overall     295     264     262     307     269     293     292 
 
 GK Q_Bonnette
 AM N_Morariu
@@ -537,77 +537,76 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-CHANGEPOS I_Tatarescu MF IF MIN = 45
-SUB I_Drover G_Mordino AM IF MIN = 50
-CHANGEPOS I_Tatarescu DM IF MIN = 55
-SUB P_Deusner D_Van_Ry AM IF MIN = 60
+SUB I_Drover G_Mordino AM IF MIN = 45
+CHANGEPOS O_Bravo DM IF MIN = 50
+SUB X_Cullie D_Van_Ry AM IF MIN = 55
 SUB C_Owen N_Morariu FW IF MIN = 84
-TACTIC A IF MIN >= 60 SCORE <= -2
+TACTIC P IF MIN >= 48 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 87 SCORE >= 2
+TACTIC D IF MIN >= 73 SCORE >= 2
 
 
 Forced:W_Westfall/I_Kazaku/J_Moculescu/L_Kukacka/
 ** Reserves Selection **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
 W_Westfall      19 17/18/16 | DM E :  32   0 :  32 |  13  0.7   7 ||  53 || MF -1 DM  0 DF -1 DM  0 DM  0 MF -1 MF  0     r 
+M_Parvulescu    20 13/18/13 | MF P :  25  -2 :  22 |   1  0.2   7 ||  30 || MF -2 MF -3 DM -5 DM -3 DM -4 AM -6 MF -4     r 
 I_Kazaku        19 16/18/11 | DM E :  31  -1 :  29 |  10  0.3   7 ||  46 || MF -2 MF -2 DF -6 DM -1 DM -2 DM -5 DM -2     r 
 J_Moculescu     19 12/16/17 | AM L :  29  -2 :  26 |   7  1.0   7 ||  41 || MF -4 MF -4 DM -5 MF -5 MF -5 AM -2 AM -5     r 
-M_Parvulescu    20 13/18/13 | MF P :  25  -2 :  22 |   1  0.2   7 ||  30 || MF -2 MF -3 DM -5 DM -3 DM -4 AM -6 MF -4     r 
-R_Amanar        19 11/14/17 | AM L :  28  -4 :  24 |   4  1.1   7 ||  36 || MF -6 MF -7 DM -7 FW -7 MF -7 AM -4 FW -6     r 
 D_Balitiu       20 12/18/ 9 | MF P :  23  -4 :  20 |  -1  1.3   7 ||  26 || MF -4 MF -4 DM -8 DM -5 DM -5 DM -9 DM -5     r 
 H_Ghita         19  5/15/17 | AM L :  26  -5 :  21 |   2  1.2   7 ||  31 || AM -6 MF -9 MF -6 AM -7 AM -8 AM -5 FW -9     r 
-F_Pacuraru      19  8/ 9/18 | FW L :  28  -5 :  23 |   3  0.4   7 ||  34 || AM-11 FW-10 FW-11 FW -8 FW-10 FW -5 FW -8     r 
+R_Amanar        19 11/14/17 | AM L :  28  -4 :  24 |   4  1.1   7 ||  36 || MF -6 MF -7 DM -7 FW -7 MF -7 AM -4 FW -6     r 
+C_Boroi         20 11/18/ 5 | MF P :  22  -5 :  17 |  -4  1.0   7 ||  21 || MF -5 MF -6 DM-11 DM -6 DM -7 DM-12 DM -7     r 
 C_Ionita        21    17    | GK N :  26 -13 :  12 |  -9  0.4   7 ||  10 || GK-13 GK-13 GK-13 GK-13 GK-13 GK-13 GK-13     r 
 Y_Hopfinger     21    17    | GK N :  26 -13 :  12 |  -9  1.2   7 ||  11 || GK-13 GK-13 GK-13 GK-13 GK-13 GK-13 GK-13     r 
-C_Boroi         20 11/18/ 5 | MF P :  22  -5 :  17 |  -4  1.0   7 ||  21 || MF -5 MF -6 DM-11 DM -6 DM -7 DM-12 DM -7     r 
 P_Lazar         20 18/ 7/ 9 | DF D :  23  -3 :  21 |   0  0.1   7 ||  28 || DF-11 DF -6 DF-11 DF -5 DF -7 DM -8 DF -3     r 
-L_Roman         19 17/ 6/ 9 | DF D :  22  -4 :  18 |  -2  0.5   7 ||  23 || DF-13 DF -8 DF-12 DF -6 DF -8 DM-10 DF -4     r 
+F_Pacuraru      19  8/ 9/18 | FW L :  28  -5 :  23 |   3  0.4   7 ||  34 || AM-11 FW-10 FW-11 FW -8 FW-10 FW -5 FW -8     r 
 L_Cyriaks       16  8/14/ 8 | MF P :  18  -9 :   9 |   0  0.6   7 ||  17 || MF -9 MF-10 DM-14 DM-11 DM-12 AM-14 DM-12     r 
-P_Evory         18  5/ 5/16 | FW L :  23  -9 :  14 |  -4  0.9   7 ||  18 || AM-16 FW-16 MF-17 FW-13 FW-15 FW -9 FW-12     r 
-T_Gheorghiu     19 17/ 5/ 6 | DF D :  22  -4 :  17 |  -3  0.5   7 ||  22 || DF-14 DF -9 DF-15 DF -8 DF-10 DM-11 DF -4     r 
-T_Cozma         18 15/ 8/ 4 | DF D :  20  -6 :  14 |  -4  0.6   7 ||  17 || DM-13 DF-10 DF-17 DF-10 DF-11 DM-13 DF -6     r 
-C_Cinca         19 16/ 6/ 4 | DF D :  21  -5 :  15 |  -4  0.3   7 ||  18 || DM-15 DF-10 DF-17 DF -9 DF-11 DM-13 DF -5     r 
-S_Zamfir        18 16/ 3/ 8 | DF D :  20  -6 :  14 |  -4  0.5   7 ||  17 || DF-16 DF-10 DF-16 DF -9 DF-11 DM-12 DF -6     r 
-L_Kukacka       17 14/ 8/ 4 | DF D :  19  -7 :  12 |   1  0.8   7 ||  20 || DM-14 DF-11 DF-18 DF-11 DF-12 DM-14 DF -7     r 
+L_Roman         19 17/ 6/ 9 | DF D :  22  -4 :  18 |  -2  0.5   7 ||  23 || DF-13 DF -8 DF-12 DF -6 DF -8 DM-10 DF -4     r 
 V_Gwin          18  4/15/ 3 | MF P :  17 -10 :   7 | -12  0.4   7 ||   2 || MF-10 MF-13 MF-16 MF-14 MF-15 AM-21 DM-15     r 
+T_Gheorghiu     19 17/ 5/ 6 | DF D :  22  -4 :  17 |  -3  0.5   7 ||  22 || DF-14 DF -9 DF-15 DF -8 DF-10 DM-11 DF -4     r 
 K_Durrill       17  4/14/ 5 | MF P :  16 -11 :   6 |  -5  0.3   7 ||   8 || MF-11 MF-13 MF-16 MF-14 MF-15 AM-19 DM-16     r 
+S_Zamfir        18 16/ 3/ 8 | DF D :  20  -6 :  14 |  -4  0.5   7 ||  17 || DF-16 DF-10 DF-16 DF -9 DF-11 DM-12 DF -6     r 
+C_Cinca         19 16/ 6/ 4 | DF D :  21  -5 :  15 |  -4  0.3   7 ||  18 || DM-15 DF-10 DF-17 DF -9 DF-11 DM-13 DF -5     r 
+T_Cozma         18 15/ 8/ 4 | DF D :  20  -6 :  14 |  -4  0.6   7 ||  17 || DM-13 DF-10 DF-17 DF-10 DF-11 DM-13 DF -6     r 
+P_Evory         18  5/ 5/16 | FW L :  23  -9 :  14 |  -4  0.9   7 ||  18 || AM-16 FW-16 MF-17 FW-13 FW-15 FW -9 FW-12     r 
+L_Kukacka       17 14/ 8/ 4 | DF D :  19  -7 :  12 |   1  0.8   7 ||  20 || DM-14 DF-11 DF-18 DF-11 DF-12 DM-14 DF -7     r 
 
-COUNTER_ATTACK
+EUROPEAN
 GK Y_Hopfinger
 DF P_Lazar
 DF L_Roman
 DF L_Kukacka
+DM M_Parvulescu
+DM W_Westfall
 DM I_Kazaku
 MF D_Balitiu
 MF C_Boroi
-AM M_Parvulescu
-AM W_Westfall
-AM J_Moculescu
+MF J_Moculescu
 FW R_Amanar
                  N       D       A       C       L       P       E 
   STOPPING      26      26      26      26      26      26      26 
-  TACKLING      87     124      51     103     101      74      74 
-   PASSING     112      81     116     113      55     125     127 
-  SHOOTING      67      41     113      56     107      52      65 
-   SH Mean      14      15      14      15      14      14      14 
- SH Median      16      17      16      16      16      16      16 
+  TACKLING     100     134      58     107     124      84      92 
+   PASSING     114      83     120     115      56     127     131 
+  SHOOTING      52      26      91      40      85      39      44 
+   SH Mean      13      15      13      14      13      14      14 
+ SH Median      16      17      16      17      16      17      17 
     SH Max      17      17      17      17      17      17      17 
-  SH Bonus      17      12      23      16      14      19      19 
+  SH Bonus      16      11      21      15      11      18      18 
    GK Qual      17      17      17      17      17      17      17 
-  GK Bonus      18      13      28      16      15      20      21 
+  GK Bonus      16      13      25      16      13      18      18 
        Agg      28      28      28      28      28      28      28 
-   Scoring      97      68     115      94      72     101     106 
- Defending      87     124      51     103     101      74      74 
-   Overall     219     204     178     229     197     209     214 
+   Scoring      93      64     111      90      66      98     102 
+ Defending     100     134      58     107     124      84      92 
+   Overall     225     202     193     227     200     217     229 
 
 GK C_Ionita
 DF T_Gheorghiu
-AM L_Cyriaks
+MF L_Cyriaks
+AM H_Ghita
 FW F_Pacuraru
-FW H_Ghita
 
 SUB GK C_Ionita GK IF INJURED GK
 SUB DF T_Gheorghiu DF IF INJURED DF
@@ -616,13 +615,13 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 45
-SUB L_Kukacka T_Gheorghiu DF IF MIN = 55
-SUB J_Moculescu H_Ghita AM IF MIN = 81
-TACTIC E IF MIN >= 50 SCORE <= -2
-TACTIC E IF MIN >= 72 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 54 SCORE >= 2
+SUB L_Kukacka T_Gheorghiu DF IF MIN = 50
+SUB C_Boroi H_Ghita MF IF MIN = 60
+SUB R_Amanar F_Pacuraru FW IF MIN = 75
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 71 SCORE = 1
+TACTIC D IF MIN >= 29 SCORE >= 2
 
 
