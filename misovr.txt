@@ -371,7 +371,7 @@ LONG_BALL        39  38  32  34  31  32
 DEFENSIVE        39  26  29  31  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     6    16     1    12     2     8 
+                       Count     6    17     1    11     2     8 
                          Max    41    41    39    37    36    36 
                   1st XI (N)    41    33    32                35 
                   1st XI (P)    41    37    29                38 
@@ -380,7 +380,7 @@ DEFENSIVE        39  26  29  31  31  28
                          Min
                       NORMAL    26    19    30    18    26    20 
                    DEFENSIVE    26    19          15    20    16 
-                   ATTACKING    26    20          17    21    27 
+                   ATTACKING    26    20          17    21    21 
               COUNTER_ATTACK    26    19          18    17    21 
                    LONG_BALL    26    21          13          23 
                      PASSING    26    21          17          17 
@@ -526,26 +526,30 @@ FW C_Owen
 
 GK Q_Bonnette
 AM N_Morariu
+AM H_Kewell
 FW D_Van_Ry
 FW G_Mordino
-FW R_Silano
 
 SUB GK Q_Bonnette GK IF INJURED GK
 SUB DF N_Morariu DF IF INJURED DF
-SUB DM G_Mordino DM IF INJURED DM
-SUB MF G_Mordino MF IF INJURED MF
-SUB AM G_Mordino AM IF INJURED AM
+SUB DM H_Kewell DM IF INJURED DM
+SUB MF H_Kewell MF IF INJURED MF
+SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB I_Drover G_Mordino AM IF MIN = 45
-CHANGEPOS O_Bravo DM IF MIN = 50
-SUB X_Cullie D_Van_Ry AM IF MIN = 55
-SUB C_Owen N_Morariu FW IF MIN = 84
-TACTIC P IF MIN >= 48 SCORE <= -2
-TACTIC C IF SCORE = -1
+SUB I_Drover D_Van_Ry FW IF MIN = 50
+CHANGEPOS X_Cullie AM IF MIN = 55
+SUB X_Cullie H_Kewell MF IF MIN = 60
+CHANGEPOS P_Deusner DM IF MIN = 65
+CHANGEPOS D_Van_Ry AM IF MIN = 70
+CHANGEPOS O_Bravo DM IF MIN = 75
+CHANGEPOS H_Kewell AM IF MIN = 78
+SUB C_Owen G_Mordino FW IF MIN = 81
+TACTIC A IF MIN >= 65 SCORE <= -2
+TACTIC P IF MIN >= 75 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 73 SCORE >= 2
+TACTIC D IF MIN >= 90 SCORE >= 2
 
 
 Forced:W_Westfall/I_Kazaku/J_Moculescu/L_Kukacka/
@@ -615,13 +619,15 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Kukacka T_Gheorghiu DF IF MIN = 50
-SUB C_Boroi H_Ghita MF IF MIN = 60
+SUB L_Kukacka T_Gheorghiu DF IF MIN = 45
+SUB J_Moculescu H_Ghita MF IF MIN = 60
+CHANGEPOS M_Parvulescu MF IF MIN = 65
+CHANGEPOS C_Boroi DM IF MIN = 70
 SUB R_Amanar F_Pacuraru FW IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 71 SCORE = 1
+TACTIC D IF MIN >= 65 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
