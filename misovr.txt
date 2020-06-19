@@ -530,9 +530,9 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Owen H_Kewell FW IF MIN = 55
-SUB D_Van_Ry G_Mordino FW IF MIN = 60
-SUB X_Cullie N_Morariu DF IF MIN = 84
+SUB D_Van_Ry G_Mordino FW IF MIN = 50
+SUB C_Owen H_Kewell FW IF MIN = 60
+SUB X_Cullie N_Morariu DF IF MIN = 81
 TACTIC A IF MIN >= 84 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -595,7 +595,7 @@ FW R_Amanar
 
 GK C_Ionita
 DF C_Cinca
-DF T_Cozma
+DF E_Skutnik
 AM F_Pacuraru
 AM H_Ghita
 
@@ -606,8 +606,9 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 45
-SUB C_Boroi H_Ghita AM IF MIN = 70
+SUB R_Amanar F_Pacuraru FW IF MIN = 55
+SUB T_Gheorghiu E_Skutnik DF IF MIN = 70
+SUB C_Boroi H_Ghita AM IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
