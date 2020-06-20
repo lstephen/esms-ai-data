@@ -365,7 +365,7 @@ LONG_BALL        39  38  32  34  30  30
 DEFENSIVE        39  26  29  31  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     6    15     0    11     2     7 
+                       Count     6    15     0    12     2     7 
                          Max    41    41    39    37    36    36 
                   1st XI (N)    41    33    32                35 
                   1st XI (P)    41    37    29                38 
@@ -374,7 +374,7 @@ DEFENSIVE        39  26  29  31  31  28
                          Min
                       NORMAL    26    19          18    26    20 
                    DEFENSIVE    26    19          15    21    16 
-                   ATTACKING    26    20          18    21    21 
+                   ATTACKING    26    20          18    21    27 
               COUNTER_ATTACK    26    19                17    21 
                    LONG_BALL    26    21          14          23 
                      PASSING    26    21                      17 
@@ -532,7 +532,7 @@ SUB FW G_Mordino FW IF INJURED FW
 
 SUB D_Van_Ry G_Mordino FW IF MIN = 50
 SUB C_Owen H_Kewell FW IF MIN = 60
-SUB X_Cullie N_Morariu DF IF MIN = 81
+SUB X_Cullie N_Morariu DF IF MIN = 84
 TACTIC A IF MIN >= 84 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -595,7 +595,7 @@ FW R_Amanar
 
 GK C_Ionita
 DF C_Cinca
-DF E_Skutnik
+DF T_Cozma
 AM F_Pacuraru
 AM H_Ghita
 
@@ -606,9 +606,8 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB R_Amanar F_Pacuraru FW IF MIN = 55
-SUB T_Gheorghiu E_Skutnik DF IF MIN = 70
-SUB C_Boroi H_Ghita AM IF MIN = 81
+SUB R_Amanar F_Pacuraru FW IF MIN = 50
+SUB C_Boroi H_Ghita AM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
