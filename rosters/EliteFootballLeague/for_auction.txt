@@ -1,15 +1,20 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-Aldair        32 bra  2 30  8  4 11 400 131 863 585
 Zico          32 bra  3  8 30  8 30 290 748 510 620
-S_Pearce      33 eng  1 29  8 11 18 300  64  74 113
-KPressman     18 eng 19  3  3  2 13 300 300 300 300
-J_Kluivert    21 hol  3  6  8 19 11 300 495 665 715
-M_Piazza      21 ita 15  2  1  2 12 651 500 500 500
-M_Quinn       20 eng  1  9  6 18 30 400 400 400 400
+Defender02   20  rom 1  20 9  6  12 500 500 500 500
+E_Shikari     30 eng  1  6 26  9 32 600 600 620 602
+G_Carey       27 ire  1  4 25 16 30 300 716 265 844
+S_Cooper      24 usa  3 25  8  9 32 300  51 400 327
+T_Blackett    29 eng  2 25 11  8 21 400  60  77 187
+P_McCloy      34 sco 28  3  1  1 10 300 300 300 300
+F_Voiculescu  21 rom  1 11 13  6 41 300 513 885 489
+A_Song        20 cam  2  7 14  7 21 600 658 833 626
 C_Wickham     20 eng  2  6  4 18 32 500 518 518 537
+M_Quinn       20 eng  1  9  6 18 30 400 400 400 400
+M_Piazza      21 ita 15  2  1  2 12 651 500 500 500
+J_Kluivert    21 hol  3  6  8 19 11 300 495 665 715
+P_Henrique    35 spa  1 19 26  7 18 300 969 202 970
 F_O_Hanlon    20 ire  1  6  7 19 11 800 800 800 800
 J_Hoogma      31 hol  3  4 25  7 31 400 414  35 411
-K_Paterson    28 sco  2  6 24  9 11 300 504 898  29
 Y_Van_Der_Vu  29 hol  3  8  7 26 32 800 898 818 133
 P_Tonosko     32 cze  2 25 12  7 21 300 498 368 324
 J_Valdano     26 spa  2  7  7 25 30 800 248 371  55
@@ -42,7 +47,6 @@ Pa_Dybala     23 arg  2  5  9 14 12 600 727 918  88
 Forward03    32  gha 2  6  8  25 22 400 400 400 400
 L_Coca        30 bra  2 11 25 14 22 300  23  19 993
 I_Ndanetskov  37 lat 24  1  1  5 31 400 400 400 400
-Defender02   20  rom 1  20 9  6  12 500 500 500 500
 Midfielder01 28  rus 1  6  24 16 10 500 500 500 500
 Midfielder02 29  jpn 2  6  24 17 33 400 400 400 400
 Barbosa       37 bra 20  4  2  4 19 421 300 300 300
