@@ -15,15 +15,16 @@ FW R_Amanar
 
 GK C_Ionita
 DF C_Cinca
-DF T_Cozma
+DF E_Skutnik
 AM F_Pacuraru
 AM H_Ghita
 
 PK: R_Amanar
 AGG 20
 
-SUB 11 15 FW IF MIN = 45
-SUB 7 16 AM IF MIN = 70
+SUB 11 15 FW IF MIN = 55
+SUB 3 14 DF IF MIN = 65
+SUB 7 16 AM IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
