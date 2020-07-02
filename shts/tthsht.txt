@@ -1,34 +1,34 @@
 tth
-C
+E
 
 GK Carlos_Bravo
+DF W_Morgan
 DF E_Plummer
 DF John_McNamara
-DF Doriva
 DM S_Winzor
-DM P_Henrique
+DM Doriva
 DM Moreto
 MF R_Pires
-MF R_Morrison
+MF P_Henrique
 MF D_McHale
 FW D_Byrne
 
 GK E_Manuel
-DF W_Morgan
+DM A_Salto
+MF A_Oldridge
 MF M_Laudrup
-AM A_Oldridge
-FW Ricardinho
+AM Ricardinho
 
 PK: D_Byrne
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 3 13 DF IF MIN = 60
-SUB 9 14 MF IF MIN = 70
-TACTIC E IF MIN >= 2 SCORE <= -2
-TACTIC E IF MIN >= 3 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 35 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
-SUB 4 13 DF IF SCORE <= -3
-SUB 4 13 DF IF SCORE >= 3
+SUB 11 16 FW IF MIN = 45
+SUB 10 15 MF IF MIN = 50
+SUB 2 13 DF IF MIN = 78
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 26 SCORE = 1
+TACTIC D IF MIN >= 13 SCORE >= 2
+SUB 6 15 DM IF SCORE <= -3
+SUB 6 15 DM IF SCORE >= 3
