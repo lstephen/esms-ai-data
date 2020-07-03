@@ -363,7 +363,7 @@ LONG_BALL        39  38  32  34  30  30
 DEFENSIVE        39  26  29  31  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     0    11     2     7 
+                       Count     5    15     0    11     2     8 
                          Max    41    41    39    37    36    36 
                   1st XI (N)    41    33    32                35 
                   1st XI (P)    41    37    29                38 
@@ -421,7 +421,6 @@ F_Oneill        16 12/ 2/ 5 | DF D :  15 -11 :   4 |  -5  0.4   7 ||   6 || DM-2
 O_Segura        16  1/ 4/12 | FW L :  17 -13 :   4 |  -5  0.5   7 ||   6 || AM-20 FW-22 MF-21 FW-18 FW-21 FW-13 FW-17     r 
 T_Lisciandro    16  3/ 2/12 | FW L :  17 -13 :   4 |  -5  0.5   7 ||   6 || AM-21 FW-22 MF-23 FW-18 FW-21 FW-13 FW-17     r 
 E_Connolly      16 12/ 1/ 2 | DF D :  15 -11 :   3 |  -6  0.4   7 ||   5 || DM-21 DF-17 DF-25 DF-16 DF-18 DM-20 DF-11     r 
-S_Taddeo        16  3/12/ 6 | MF P :  14 -13 :   2 |  -7  0.5   7 ||   1 || MF-13 MF-15 MF-17 MF-17 MF-17 AM-18 DM-18     r 
 W_O'Pella       26    19    | GK N :  29 -10 :  18 | -21  1.4   3 ||   1 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
 Y_Muirfoot      26    19    | GK N :  29 -10 :  18 | -21  0.2   3 ||   0 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
 F_Bayes         16  4/12/ 3 | MF P :  14 -13 :   1 |  -8  0.5   7 ||  -1 || MF-13 MF-16 MF-19 DM-17 DM-18 AM-21 DM-17     r 
