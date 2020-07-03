@@ -6,29 +6,29 @@ DF W_Morgan
 DF E_Plummer
 DF John_McNamara
 DM S_Winzor
+DM P_Henrique
 DM Doriva
-DM Moreto
 MF R_Pires
-MF P_Henrique
-MF D_McHale
-FW D_Byrne
+MF R_Morrison
+MF S_McMahon
+FW Ricardinho
 
 GK E_Manuel
-DM A_Salto
-MF A_Oldridge
+DM E_Donk
+DM Moreto
 MF M_Laudrup
-AM Ricardinho
+AM D_Byrne
 
-PK: D_Byrne
+PK: Ricardinho
 AGG 20
 
-SUB 11 16 FW IF MIN = 45
-SUB 10 15 MF IF MIN = 50
-SUB 2 13 DF IF MIN = 78
+SUB 10 15 MF IF MIN = 45
+SUB 8 14 MF IF MIN = 65
+SUB 11 16 FW IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 26 SCORE = 1
-TACTIC D IF MIN >= 13 SCORE >= 2
-SUB 6 15 DM IF SCORE <= -3
-SUB 6 15 DM IF SCORE >= 3
+TACTIC D IF MIN >= 33 SCORE = 1
+TACTIC D IF MIN >= 17 SCORE >= 2
+SUB 3 13 DF IF SCORE <= -3
+SUB 3 13 DF IF SCORE >= 3
