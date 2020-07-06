@@ -638,9 +638,9 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB S_McMahon M_Laudrup MF IF MIN = 45
-SUB R_Pires Moreto MF IF MIN = 65
-SUB Ricardinho D_Byrne FW IF MIN = 70
+SUB S_McMahon M_Laudrup MF IF MIN = 50
+SUB R_Pires Moreto MF IF MIN = 60
+SUB Ricardinho D_Byrne FW IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
