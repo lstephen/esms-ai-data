@@ -10,4 +10,10 @@ curl -L http://www.ssl2001.ukhome.net/free_agents.txt -o rosters/Ssl/free_agents
 
 echo "MIS Done."
 
+echo "Downloading WBA roster..."
+
+curl -L http://eslmanager.co.uk/rosters/wba.txt -o rosters/Efl/wba.txt
+
+echo "WBA Done."
+
 
