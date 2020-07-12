@@ -617,28 +617,28 @@ FW D_Byrne
 
 GK E_Manuel
 DF W_Morgan
-DF A_Salto
 DM R_Morrison
+DM M_Laudrup
 FW A_Oldridge
 
 SUB GK E_Manuel GK IF INJURED GK
-SUB DF A_Salto DF IF INJURED DF
-SUB DM A_Oldridge DM IF INJURED DM
-SUB MF A_Oldridge MF IF INJURED MF
-SUB AM A_Oldridge AM IF INJURED AM
+SUB DF W_Morgan DF IF INJURED DF
+SUB DM M_Laudrup DM IF INJURED DM
+SUB MF M_Laudrup MF IF INJURED MF
+SUB AM M_Laudrup AM IF INJURED AM
 SUB FW A_Oldridge FW IF INJURED FW
 
-SUB D_Byrne A_Oldridge AM IF MIN = 55
-SUB Moreto W_Morgan DF IF MIN = 60
-SUB E_Donk A_Salto DF IF MIN = 70
+SUB S_McMahon A_Oldridge AM IF MIN = 45
+SUB D_Byrne M_Laudrup DM IF MIN = 50
+SUB E_Donk W_Morgan DF IF MIN = 70
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 53 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
 
-SUB S_Winzor A_Salto DF IF SCORE <= -3
-SUB S_Winzor A_Salto DF IF SCORE >= 3
+SUB S_Winzor W_Morgan DF IF SCORE <= -3
+SUB S_Winzor W_Morgan DF IF SCORE >= 3
 
 Forced:G_Best/R_Escobar/L_Bains/
 ** Reserves Selection **
@@ -703,14 +703,14 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB R_Escobar D_Dragan MF IF MIN = 45
-SUB L_Bains A_Stefanov DF IF MIN = 50
-SUB J_Bent N_Barbulescu DM IF MIN = 81
+SUB J_Bent D_Dragan MF IF MIN = 60
+SUB L_Bains N_Barbulescu DM IF MIN = 65
+SUB R_Escobar A_Stefanov DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 77 SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC D IF MIN >= 75 SCORE = 1
+TACTIC D IF MIN >= 56 SCORE >= 2
 
 SUB Zico_Jnr D_Dragan DM IF SCORE <= -3
 SUB Zico_Jnr D_Dragan DM IF SCORE >= 3
