@@ -36,31 +36,31 @@ H_Robson-Kanu   31  3/ 9/13 | FW D :  14   0 :  14 | -12  0.7  -1 ||   1 || FW -
 ** 1st XI **
 PASSING
 GK S_Johnstone
-DF A_Hegazy
 DF K_Gibbs
 DF C_Townsend
+DF D_Furlong
 DF J_Livermore
 DF G_Barry
 DM C_Brunt
 DM S_Field
-FW F_Krovinovic
-FW K_Grosicki
-FW M_Pereira
+MF F_Krovinovic
+MF M_Pereira
+FW C_Austin
                  N       D       A       C       L       P       E 
   STOPPING      24      24      24      24      24      24      24 
-  TACKLING      85     114      79      89      93      84      79 
-   PASSING      65      43      82      73      36      99      62 
-  SHOOTING      42      25      65      41      55      41      39 
-   SH Mean      10      11      10      10      10      10       9 
- SH Median      11      11      11      11      11      11      11 
-    SH Max      11      11      11      11      11      11      11 
-  SH Bonus       9       5      11       9       7      11       9 
+  TACKLING      83     115      77      87     101      82      78 
+   PASSING      85      57      89      86      42     102      85 
+  SHOOTING      30      17      55      29      47      29      33 
+   SH Mean      11      14      11      11      11      11      11 
+ SH Median      11      15      11      15      11      15      11 
+    SH Max      15      15      15      15      15      15      15 
+  SH Bonus      12       8      13      13       8      14      12 
    GK Qual      16      16      16      16      16      16      16 
-  GK Bonus      13      11      16      14      12      16      13 
-       Agg      31      31      31      31      31      31      31 
-   Scoring      57      37      76      62      42      79      54 
- Defending      85     114      79      89      93      84      79 
-   Overall     160     140     181     170     140     190     152 
+  GK Bonus      14      11      16      14      11      16      15 
+       Agg      30      30      30      30      30      30      30 
+   Scoring      67      43      77      67      44      78      68 
+ Defending      83     115      77      87     101      82      78 
+   Overall     174     155     183     178     148     190     172 
 
 ** 1st XI **
 ATTACKING
@@ -242,6 +242,7 @@ K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |  11  0.7  -1 ||  47 || DF  
 C_Townsend      27 14/10/ 4 | MF L :  29   3 :  31 |   6  0.3   2 ||  39 || DF  2 DF  2 DF  1 DF  2 DF  2 MF  3 MF  2       
 G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |   0  0.8  10 ||  38 || DF  3 DF  2 DM  3 DM  3 DM  3 MF  2 MF  3       
 M_Pereira       24  3/15/11 | FW A :  26   0 :  26 |   2  1.5   5 ||  35 || FW  0 FW  0 MF  0 AM  0 AM  0 AM  0 AM  0       
+D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   2  1.4   5 ||  34 || DF  0 DF  0 DF -1 DF  0 DF  0 MF  0 MF  0       
 S_Field         22 10/13/ 4 | DM C :  20   1 :  20 |   5  1.2   7 ||  33 || DM  1 DF -1 DM  0 DM  1 DM  0 DM  0 MF  0       
 J_Livermore     30 12/14/ 5 | DF P :  24   3 :  27 |   2  1.1  -1 ||  29 || DF  3 DF  2 DM  3 DM  3 DM  3 MF  2 MF  3       
 S_Johnstone     27    16    | GK N :  24   2 :  26 |   0  0.3   2 ||  28 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
@@ -254,7 +255,6 @@ A_Hegazy        29 15/ 7/ 1 | DF D :  21   1 :  22 |  -4  0.3   0 ||  18 || DF  
 ** First Squad (21) **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   3  1.2   3 ||  35 || DF  0 DF  0 DF  0 DF  0 DF  0 MF  1 DF  0       
-D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   2  1.4   5 ||  34 || DF  0 DF  0 DF -1 DF  0 DF  0 MF  0 MF  0       
 R_Harper        20  8/13/ 7 | DM C :  19   0 :  19 |   4  1.3   7 ||  31 || DM  0 DM -1 DM -1 DM  0 DM  0 DM  0 AM  0       
 K_Grosicki      32  3/15/11 | FW A :  26   0 :  26 |   1  1.0  -1 ||  27 || FW  0 FW  0 MF  0 AM  0 AM  0 AM  0 AM  0       
 L_Peltier       33 13/ 9/ 3 | MF L :  26   0 :  26 |   0  1.6  -1 ||  27 || DF  0 DF  0 DF -1 DF  0 DF  0 MF  0 MF  0       
@@ -266,7 +266,6 @@ J_Bond          27    15    | GK N :  23   0 :  23 |  -3  0.2   2 ||  22 || GK  
 ** Training Squad **
                             |                      | vAg Abs      || OVR ||  P     A     E     C     N     L     D   
 S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   3  1.2   3 ||  35 || DF  0 DF  0 DF  0 DF  0 DF  0 MF  1 DF  0       
-D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   2  1.4   5 ||  34 || DF  0 DF  0 DF -1 DF  0 DF  0 MF  0 MF  0       
 R_Harper        20  8/13/ 7 | DM C :  19   0 :  19 |   4  1.3   7 ||  31 || DM  0 DM -1 DM -1 DM  0 DM  0 DM  0 AM  0       
 K_Grosicki      32  3/15/11 | FW A :  26   0 :  26 |   1  1.0  -1 ||  27 || FW  0 FW  0 MF  0 AM  0 AM  0 AM  0 AM  0       
 L_Peltier       33 13/ 9/ 3 | MF L :  26   0 :  26 |   0  1.6  -1 ||  27 || DF  0 DF  0 DF -1 DF  0 DF  0 MF  0 MF  0       
@@ -297,8 +296,8 @@ DEFENSIVE        23  19  20  21  17  14
                                 GK    DF    DM    MF    AM    FW 
                        Count     2    11     5     0     8     2 
                          Max    24    22    22    19    22    18 
-                  1st XI (N)    24    19    19                16 
-                  1st XI (P)    24    21    18                23 
+                  1st XI (N)    24    18    19    19          18 
+                  1st XI (P)    24    21    18    19          22 
                          Min
                       NORMAL    23    17    19          17    17 
                    DEFENSIVE    23          18    17    14    13 
@@ -406,7 +405,7 @@ FW C_Austin
 
 GK J_Bond
 DM S_Ajayi
-DM D_Furlong
+DM S_Field
 MF K_Grosicki
 MF R_Sawyers
 
@@ -417,10 +416,11 @@ SUB MF K_Grosicki MF IF INJURED MF
 SUB AM K_Grosicki AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
-SUB C_Brunt K_Grosicki MF IF MIN = 60
-SUB M_Pereira D_Furlong DM IF MIN = 65
-SUB A_Hegazy S_Ajayi DF IF MIN = 70
-TACTIC A IF MIN >= 70 SCORE <= -2
+SUB A_Hegazy S_Ajayi DF IF MIN = 60
+SUB M_Pereira S_Field MF IF MIN = 65
+SUB C_Brunt K_Grosicki MF IF MIN = 70
+CHANGEPOS S_Field DM IF MIN = 75
+TACTIC A IF MIN >= 77 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 42 SCORE = 1
