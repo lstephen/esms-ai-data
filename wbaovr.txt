@@ -408,7 +408,7 @@ FW C_Austin
 
 GK J_Bond
 DF S_Ajayi
-DF D_Furlong
+DM R_Harper
 AM K_Grosicki
 AM M_Phillips
 
@@ -419,14 +419,11 @@ SUB MF K_Grosicki MF IF INJURED MF
 SUB AM K_Grosicki AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
-SUB C_Brunt M_Phillips MF IF MIN = 55
-CHANGEPOS S_Field DM IF MIN = 60
-SUB M_Pereira D_Furlong DF IF MIN = 65
-CHANGEPOS S_Field MF IF MIN = 70
-CHANGEPOS C_Townsend DM IF MIN = 75
-SUB C_Austin K_Grosicki FW IF MIN = 78
+SUB M_Pereira K_Grosicki MF IF MIN = 50
+SUB C_Austin M_Phillips FW IF MIN = 65
+SUB S_Field R_Harper MF IF MIN = 78
 TACTIC A IF MIN >= 26 SCORE <= -2
-TACTIC P IF SCORE = -1
+TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 42 SCORE = 1
 TACTIC D IF MIN >= 21 SCORE >= 2
