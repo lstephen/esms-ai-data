@@ -303,7 +303,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          17    17 
                    DEFENSIVE    23          18    17    14    13 
-                   ATTACKING    23    17    19          20    25 
+                   ATTACKING    23    17    19          20    24 
               COUNTER_ATTACK    23    17    19          18    19 
                    LONG_BALL    23                18          15 
                      PASSING    23    18                      18 
@@ -408,7 +408,7 @@ FW C_Austin
 
 GK J_Bond
 DF S_Ajayi
-DM R_Harper
+DF D_Furlong
 AM K_Grosicki
 AM M_Phillips
 
@@ -420,10 +420,10 @@ SUB AM K_Grosicki AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
 SUB M_Pereira K_Grosicki MF IF MIN = 50
-SUB C_Austin M_Phillips FW IF MIN = 65
-SUB S_Field R_Harper MF IF MIN = 78
-TACTIC A IF MIN >= 26 SCORE <= -2
-TACTIC E IF SCORE = -1
+SUB A_Hegazy D_Furlong DF IF MIN = 60
+SUB C_Austin M_Phillips FW IF MIN = 75
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 42 SCORE = 1
 TACTIC D IF MIN >= 21 SCORE >= 2
