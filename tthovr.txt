@@ -195,29 +195,29 @@ NORMAL
 GK Carlos_Bravo
 DF W_Morgan
 DF E_Plummer
-DF Doriva
+DF E_Donk
 DM S_Winzor
-DM R_Morrison
+DM Doriva
 DM Moreto
 MF R_Pires
-MF M_Laudrup
+MF R_Morrison
 MF D_McHale
 FW Ricardinho
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
-  TACKLING     128     201     105     142     188     125     123 
-   PASSING     168     120     174     169      83     183     189 
-  SHOOTING      58      33     100      53      87      53      57 
+  TACKLING     135     213     109     150     200     131     129 
+   PASSING     161     117     167     162      79     173     184 
+  SHOOTING      58      33     101      53      87      53      57 
    SH Mean      20      24      19      21      19      21      20 
  SH Median      29      29      18      29      18      29      18 
     SH Max      29      29      29      29      29      29      29 
-  SH Bonus      28      18      29      27      15      30      27 
+  SH Bonus      27      17      28      26      14      28      26 
    GK Qual      30      30      30      30      30      30      30 
-  GK Bonus      30      22      36      29      22      32      33 
-       Agg      22      22      22      22      22      22      22 
-   Scoring     131      91     150     130      84     140     145 
- Defending     128     201     105     142     188     125     123 
-   Overall     318     301     311     327     280     325     325 
+  GK Bonus      29      21      35      28      21      30      31 
+       Agg      24      24      24      24      24      24      24 
+   Scoring     126      89     145     126      82     133     142 
+ Defending     135     213     109     150     200     131     129 
+   Overall     317     304     312     326     282     323     328 
 
 ** 1st XI **
 DEFENSIVE
@@ -628,9 +628,9 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB John_McNamara W_Morgan DF IF MIN = 45
+SUB John_McNamara W_Morgan DF IF MIN = 50
 SUB Ricardinho D_Byrne FW IF MIN = 65
-SUB M_Laudrup S_McMahon MF IF MIN = 75
+SUB M_Laudrup S_McMahon MF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -704,8 +704,8 @@ SUB MF J_Milburn MF IF INJURED MF
 SUB AM J_Milburn AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB L_Bains A_Stefanov DF IF MIN = 50
-SUB G_Best J_Milburn DM IF MIN = 60
+SUB L_Bains A_Stefanov DF IF MIN = 55
+SUB G_Best J_Milburn DM IF MIN = 65
 SUB D_Dragan N_Barbulescu MF IF MIN = 84
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
