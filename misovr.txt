@@ -372,7 +372,7 @@ DEFENSIVE        39  26  29  31  31  28
                          Min
                       NORMAL    26    19          18    26    20 
                    DEFENSIVE    26    19          15    21    16 
-                   ATTACKING    26    20          18          21 
+                   ATTACKING    26    20          18          27 
               COUNTER_ATTACK    26    19                17    21 
                    LONG_BALL    26    21          14          23 
                      PASSING    26    21                      17 
@@ -511,15 +511,15 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB N_Morariu W_Emmerling DF IF MIN = 45
-SUB C_Owen H_Kewell FW IF MIN = 60
-SUB X_Cullie G_Mordino FW IF MIN = 81
-CHANGEPOS I_Tatarescu DF IF MIN = 84
+SUB N_Morariu G_Mordino FW IF MIN = 50
+CHANGEPOS O_Bravo DF IF MIN = 55
+SUB I_Drover W_Emmerling DF IF MIN = 60
+SUB C_Owen H_Kewell FW IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 52 SCORE >= 2
+TACTIC C IF MIN >= 62 SCORE >= 2
 
 
 Forced:W_Westfall/J_Moculescu/R_Amanar/
@@ -588,7 +588,7 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW P_Chivu FW IF INJURED FW
 
-SUB P_Lazar L_Roman DF IF MIN = 50
+SUB P_Lazar L_Roman DF IF MIN = 60
 SUB F_Pacuraru S_Kazaku DM IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
