@@ -1,6 +1,6 @@
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
 C_Connolly      22 12/16/ 6 | DF P :  26   5 :  31 |  10  0.6   7 ||  48 || DF  5 DM  5 DF  4 DM  5 MF  4 DM  5 MF  5       
-K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  0.7  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
+K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  1.5  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
 A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.0   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
 C_Townsend      27 14/10/ 4 | MF L :  29   3 :  31 |   4  0.3   2 ||  38 || DF  2 DF  2 DF  2 DF  1 MF  3 DF  1 MF  2       
 G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.8  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
@@ -52,7 +52,7 @@ FW C_Austin
   SH Bonus      13       8      13      12       8      14      12 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      14      11      16      14      11      15      14 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      68      43      78      68      43      80      66 
  Defending      89     124      82      94     105      88      85 
    Overall     181     159     187     184     148     197     175 
@@ -81,7 +81,7 @@ FW C_Austin
   SH Bonus      15       9      15      14       8      15      14 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      16      11      19      15      11      17      17 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      75      53      86      75      48      81      84 
  Defending      76     124      62      87     118      75      74 
    Overall     182     176     178     190     163     188     188 
@@ -110,7 +110,7 @@ FW C_Austin
   SH Bonus      12       8      14      12       9      13      13 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      15      11      17      15      12      16      15 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      71      45      83      72      46      83      69 
  Defending      84     113      77      86      92      83      78 
    Overall     181     158     190     183     147     195     173 
@@ -139,7 +139,7 @@ FW C_Austin
   SH Bonus      15       9      15      14       8      15      14 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      16      11      19      15      11      17      17 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      75      53      86      75      48      81      84 
  Defending      76     124      62      87     118      75      74 
    Overall     182     176     178     190     163     188     188 
@@ -168,7 +168,7 @@ FW C_Austin
   SH Bonus      16       9      16      14       5      16      14 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      18      11      24      15      10      18      20 
-       Agg      29      29      29      29      29      29      29 
+       Agg      22      22      22      22      22      22      22 
    Scoring      74      54      84      75      48      81      87 
  Defending      62     129      43      82     159      62      58 
    Overall     169     181     148     186     184     175     172 
@@ -197,7 +197,7 @@ FW C_Austin
   SH Bonus      13       9      15      13       9      14      13 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      16      12      18      15      12      17      16 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      75      49      87      75      48      84      75 
  Defending      80     111      71      83      88      79      76 
    Overall     183     164     188     185     148     193     180 
@@ -226,7 +226,7 @@ FW C_Austin
   SH Bonus      16       9      18      15       7      17      17 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      18      12      24      16      11      19      21 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      79      57      90      80      51      86      92 
  Defending      61     121      44      78     145      61      56 
    Overall     172     182     154     188     184     178     175 
@@ -234,7 +234,7 @@ FW C_Austin
 ** First XI **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
 C_Connolly      22 12/16/ 6 | DF P :  26   5 :  31 |  10  0.6   7 ||  48 || DF  5 DM  5 DF  4 DM  5 MF  4 DM  5 MF  5       
-K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  0.7  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
+K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  1.5  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
 A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.0   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
 C_Townsend      27 14/10/ 4 | MF L :  29   3 :  31 |   4  0.3   2 ||  38 || DF  2 DF  2 DF  2 DF  1 MF  3 DF  1 MF  2       
 G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.8  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          18    19    16    15 
-                   ATTACKING    23    17    19          20    26 
+                   ATTACKING    23    17    19          20    24 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    18                      21 
@@ -347,7 +347,7 @@ K_Grosicki      32  3/15/11 | FW A :  26   0 :  26 |  -3  1.0  -1 ||  23 || FW  
 J_Livermore     30 12/14/ 5 | DF P :  24   3 :  27 |   0  1.1  -1 ||  28 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
 G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.8  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
 C_Brunt         35 11/14/ 6 | DF P :  23   3 :  26 |  -3  0.4   1 ||  25 || DF  3 DM  2 DF  2 DM  2 DM  2 DM  2 MF  2       
-K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  0.7  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
+K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  1.5  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
 J_Bond          27    15    | GK N :  23   0 :  23 |  -4  0.2   2 ||  20 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 B_Kapustka      23  3/14/10 | FW D :  13  -1 :  12 | -12  0.5   6 ||   6 || MF -1 MF -1 DM -1 FW -1 AM -2 MF -1 FW -1       
 S_Field         22 10/13/ 4 | DM P :  18   1 :  19 |  -2  1.1   7 ||  25 || DM  1 DM  0 DF -1 DM  0 DM -1 DM  0 MF  0       
@@ -384,14 +384,14 @@ FW C_Austin
   SH Bonus      15       9      15      14       8      15      14 
    GK Qual      16      16      16      16      16      16      16 
   GK Bonus      16      11      19      15      11      17      17 
-       Agg      30      30      30      30      30      30      30 
+       Agg      23      23      23      23      23      23      23 
    Scoring      75      53      86      75      48      81      84 
  Defending      76     124      62      87     118      75      74 
    Overall     182     176     178     190     163     188     188 
 
 GK J_Bond
 DM S_Ajayi
-MF K_Grosicki
+DM D_Furlong
 MF M_Pereira
 MF M_Phillips
 
@@ -402,14 +402,13 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB F_Krovinovic M_Pereira MF IF MIN = 50
-SUB C_Brunt S_Ajayi DF IF MIN = 75
-CHANGEPOS C_Townsend MF IF MIN = 78
-CHANGEPOS C_Townsend DF IF MIN = 81
-SUB G_Barry M_Phillips MF IF MIN = 84
-CHANGEPOS C_Townsend DM IF MIN = 87
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
+SUB F_Krovinovic M_Phillips MF IF MIN = 60
+SUB G_Barry M_Pereira MF IF MIN = 78
+CHANGEPOS C_Brunt DM IF MIN = 81
+SUB C_Brunt D_Furlong DF IF MIN = 84
+CHANGEPOS C_Connolly DM IF MIN = 87
+TACTIC A IF MIN >= 84 SCORE <= -2
+TACTIC A IF MIN >= 84 SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 22 SCORE = 1
 TACTIC D IF MIN >= 11 SCORE >= 2
