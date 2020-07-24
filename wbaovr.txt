@@ -391,7 +391,7 @@ FW C_Austin
 
 GK J_Bond
 DM S_Ajayi
-DM D_Furlong
+MF K_Grosicki
 MF M_Pereira
 MF M_Phillips
 
@@ -402,13 +402,12 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB F_Krovinovic M_Phillips MF IF MIN = 60
-SUB G_Barry M_Pereira MF IF MIN = 78
-CHANGEPOS C_Brunt DM IF MIN = 81
-SUB C_Brunt D_Furlong DF IF MIN = 84
-CHANGEPOS C_Connolly DM IF MIN = 87
-TACTIC A IF MIN >= 84 SCORE <= -2
-TACTIC A IF MIN >= 84 SCORE = -1
+SUB F_Krovinovic M_Phillips MF IF MIN = 55
+SUB A_Hegazy S_Ajayi DF IF MIN = 60
+SUB J_Livermore M_Pereira MF IF MIN = 75
+CHANGEPOS C_Connolly DM IF MIN = 78
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 22 SCORE = 1
 TACTIC D IF MIN >= 11 SCORE >= 2
