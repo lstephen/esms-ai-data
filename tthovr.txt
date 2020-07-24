@@ -624,8 +624,8 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
+SUB S_McMahon M_Laudrup MF IF MIN = 55
 SUB John_McNamara W_Morgan DF IF MIN = 60
-SUB S_McMahon M_Laudrup MF IF MIN = 65
 SUB Ricardinho D_Byrne FW IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -662,12 +662,12 @@ T_Dibble        19 13/10/ 5 | DM L :  16 -11 :   5 |  -4  1.0   9 ||  11 || DM-1
 
 PASSING
 GK D_Gogean
-DF K_Layvin
+DF T_XGhiuri
 DF L_Bains
-DF Ridoutkha
+DF Zico_Jnr
 DF G_Best
 DF J_Milburn
-DM Zico_Jnr
+DM Ridoutkha
 DM J_Cadette
 DM D_Dragan
 MF M_Antonio
@@ -675,41 +675,40 @@ FW D_Mario
                  N       D       A       C       L       P       E 
   STOPPING      30      30      30      30      30      30      30 
   TACKLING     122     173     108     129     150     120     115 
-   PASSING     123      82     131     125      61     150     122 
-  SHOOTING      40      17      66      37      56      37      39 
+   PASSING     122      82     131     125      61     149     122 
+  SHOOTING      39      17      64      36      54      37      39 
    SH Mean      13      17      13      14      13      14      13 
- SH Median      11      19      11      19      11      19      10 
+ SH Median      11      19      11      19      11      19      11 
     SH Max      19      19      19      19      19      19      19 
   SH Bonus      14      10      16      16       9      18      14 
    GK Qual      20      20      20      20      20      20      20 
   GK Bonus      18      13      20      17      14      19      18 
        Agg      23      23      23      23      23      23      23 
-   Scoring      95      61     109      96      59     112      95 
+   Scoring      95      60     109      95      58     112      94 
  Defending     122     173     108     129     150     120     115 
-   Overall     246     220     254     254     205     269     241 
+   Overall     245     220     252     253     203     268     240 
 
 GK A_Ghita
 DF A_Stefanov
 DF J_Bent
 DF N_Barbulescu
-FW R_Escobar
+FW C_Sandulescu
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF A_Stefanov DF IF INJURED DF
 SUB DM J_Bent DM IF INJURED DM
 SUB MF J_Bent MF IF INJURED MF
 SUB AM J_Bent AM IF INJURED AM
-SUB FW R_Escobar FW IF INJURED FW
+SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB L_Bains A_Stefanov DF IF MIN = 50
-SUB D_Dragan R_Escobar FW IF MIN = 81
-SUB D_Mario N_Barbulescu DM IF MIN = 90
+SUB L_Bains N_Barbulescu DF IF MIN = 50
+SUB T_XGhiuri A_Stefanov DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 42 SCORE >= 2
+TACTIC D IF MIN >= 86 SCORE = 1
+TACTIC D IF MIN >= 41 SCORE >= 2
 
-SUB D_Mario R_Escobar FW IF SCORE <= -3
-SUB D_Mario R_Escobar FW IF SCORE >= 3
+SUB D_Mario C_Sandulescu FW IF SCORE <= -3
+SUB D_Mario C_Sandulescu FW IF SCORE >= 3
 
