@@ -363,7 +363,7 @@ LONG_BALL        39  38  32  34  30  30
 DEFENSIVE        39  26  29  31  31  28 
 
                                 GK    DF    DM    MF    AM    FW 
-                       Count     5    16     0    12     3     6 
+                       Count     5    16     0    12     3     7 
                          Max    41    41    39    37    36    37 
                   1st XI (N)    41    33    32                35 
                   1st XI (P)    41    37    29                38 
@@ -372,7 +372,7 @@ DEFENSIVE        39  26  29  31  31  28
                          Min
                       NORMAL    26    19          18    26    20 
                    DEFENSIVE    26    19          15    21    16 
-                   ATTACKING    26    20          18          27 
+                   ATTACKING    26    20          18          21 
               COUNTER_ATTACK    26    19                17    21 
                    LONG_BALL    26    21          14          23 
                      PASSING    26    21                      17 
@@ -511,9 +511,14 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW H_Kewell FW IF INJURED FW
 
-SUB N_Morariu W_Emmerling DF IF MIN = 55
-SUB D_Van_Ry H_Kewell MF IF MIN = 60
-TACTIC A IF MIN >= 55 SCORE <= -2
+SUB D_Van_Ry H_Kewell MF IF MIN = 55
+CHANGEPOS O_Bravo MF IF MIN = 75
+SUB G_Mordino W_Emmerling DF IF MIN = 78
+CHANGEPOS O_Burgin DM IF MIN = 81
+CHANGEPOS I_Drover MF IF MIN = 84
+CHANGEPOS O_Bravo DM IF MIN = 87
+SUB N_Morariu T_Ris DF IF MIN = 90
+TACTIC A IF MIN >= 76 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
 TACTIC C IF SCORE = 1
@@ -586,10 +591,9 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW P_Chivu FW IF INJURED FW
 
+SUB P_Lazar L_Roman DF IF MIN = 50
 SUB F_Pacuraru S_Kazaku DM IF MIN = 65
-SUB M_Parvulescu L_Roman DF IF MIN = 70
-SUB P_Lazar T_Gheorghiu DF IF MIN = 87
-TACTIC A IF MIN >= 70 SCORE <= -2
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
