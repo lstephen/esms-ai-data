@@ -402,9 +402,9 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB C_Brunt M_Pereira MF IF MIN = 55
-SUB A_Hegazy S_Ajayi DF IF MIN = 60
-SUB F_Krovinovic M_Phillips MF IF MIN = 75
+SUB F_Krovinovic M_Pereira MF IF MIN = 45
+SUB C_Brunt M_Phillips MF IF MIN = 60
+SUB A_Hegazy S_Ajayi DF IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
