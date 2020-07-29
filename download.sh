@@ -12,7 +12,7 @@ echo "MIS Done."
 
 echo "Downloading WBA roster..."
 
-curl -L http://eslmanager.co.uk/rosters/wba.txt -o rosters/Esl/wba.txt
+curl -L http://eslmanager.co.uk/rosters/ECH/wba.txt -o rosters/Esl/wba.txt
 
 echo "WBA Done."
 
