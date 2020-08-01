@@ -631,13 +631,13 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB S_McMahon M_Laudrup DM IF MIN = 60
-SUB Moreto R_Pires AM IF MIN = 65
-SUB A_Oldridge R_Morrison DM IF MIN = 78
+SUB S_McMahon R_Pires AM IF MIN = 55
+SUB A_Oldridge R_Morrison DM IF MIN = 65
+SUB D_McHale M_Laudrup DM IF MIN = 75
 TACTIC A IF SCORE <= -2
-TACTIC P IF MIN >= 78 SCORE = -1
+TACTIC P IF MIN >= 65 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 73 SCORE = 1
+TACTIC D IF MIN >= 65 SCORE = 1
 TACTIC D IF MIN >= 39 SCORE >= 2
 
 SUB Ricardinho D_Byrne FW IF SCORE <= -3
@@ -707,13 +707,13 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB J_Milburn N_Barbulescu MF IF MIN = 65
-SUB L_Bains D_Dragan DM IF MIN = 70
-SUB M_Antonio A_Stefanov DF IF MIN = 75
+SUB L_Bains N_Barbulescu DF IF MIN = 45
+SUB J_Milburn D_Dragan DM IF MIN = 60
+SUB T_XGhiuri A_Stefanov DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 75 SCORE = 1
 TACTIC D IF MIN >= 34 SCORE >= 2
 
 SUB Ridoutkha D_Dragan DM IF SCORE <= -3
