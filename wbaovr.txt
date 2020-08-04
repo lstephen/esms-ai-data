@@ -402,7 +402,7 @@ SUB MF F_Krovinovic MF IF INJURED MF
 SUB AM F_Krovinovic AM IF INJURED AM
 SUB FW F_Krovinovic FW IF INJURED FW
 
-SUB M_Pereira M_Phillips MF IF MIN = 45
+SUB M_Pereira M_Phillips MF IF MIN = 50
 SUB C_Brunt S_Field MF IF MIN = 65
 SUB J_Livermore R_Harper MF IF MIN = 81
 TACTIC E IF MIN >= 10 SCORE <= -2
