@@ -1,7 +1,10 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-Drexler       35 ger  3  9 31  9 12 400 339  28 986
-M_Britos      36 uru  2 31  6  8 22 300 405 880 811
-R_Kopa        35 fra  2 15 35  9 23 300 510 869 333
+A_Cook        28 eng  2 10 25  9 30 500 604  35 507
+K_Uddin       36 eng  2 34 14  7 40 300 547  67 858
+Stefano       35 sco  2 10  8 33 39 300  17 990 599
+J_Hunter      37 eng 29  4  1  1 37 122 320 320 320
+A_Griffin     32 ire  3  7 25 15 22 800 169  81 963
+A_Martinez    33 spa  1  6 25 16 32 300 406 617 644
 S_Corchia     35 fra  1  6  5 27 45 300  41 949 615
 A_Young       28 eng  3 25  8  8 41 500   5 899 288
 S_Brennan     34 eng 27  2  4  1 32 941 500 500 500
@@ -24,7 +27,6 @@ G_Hebling     27 bra  1  5 25  7 22 800 363  85 686
 A_Townsend    26 eng  3 12 25  7 12 400 410   6 904
 F_Voiculescu  21 rom  1 11 13  6 41 300 513 885 489
 A_Song        20 cam  2  7 14  7 21 600 658 833 626
-M_Piazza      21 ita 15  2  1  2 12 651 500 500 500
 F_O_Hanlon    20 ire  1  6  7 19 11 800 800 800 800
 J_Hoogma      31 hol  3  4 25  7 31 400 414  35 411
 P_Tonosko     32 cze  2 25 12  7 21 300 498 368 324
