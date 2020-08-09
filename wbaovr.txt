@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          18    19    16    15 
-                   ATTACKING    23    17    19          20    26 
+                   ATTACKING    23    17    19          20    24 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    18                      21 
@@ -402,14 +402,14 @@ SUB MF K_Grosicki MF IF INJURED MF
 SUB AM K_Grosicki AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
-SUB S_Ajayi S_Field DF IF MIN = 45
 SUB D_Furlong C_Townsend DF IF MIN = 50
-SUB M_Pereira M_Phillips FW IF MIN = 60
+SUB S_Ajayi M_Phillips FW IF MIN = 60
+SUB M_Pereira S_Field DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+TACTIC D IF MIN >= 64 SCORE >= 2
 
 SUB C_Connolly K_Grosicki DM IF SCORE <= -3
 SUB C_Connolly K_Grosicki DM IF SCORE >= 3
