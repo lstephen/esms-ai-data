@@ -402,9 +402,9 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB R_Harper S_Field DM IF MIN = 50
-SUB D_Furlong S_Ajayi DF IF MIN = 55
-SUB C_Townsend A_Anguissa DF IF MIN = 75
+SUB R_Harper S_Field DM IF MIN = 45
+SUB D_Furlong A_Anguissa DF IF MIN = 55
+SUB C_Townsend S_Ajayi DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
