@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          18    19    16    15 
-                   ATTACKING    23    17    19          20    26 
+                   ATTACKING    23    17    19          20    24 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    18                      21 
@@ -389,27 +389,27 @@ FW M_Phillips
    Overall     160     140     180     170     140     189     152 
 
 GK J_Bond
-DF S_Ajayi
 DF D_Furlong
+DF R_Harper
 DF S_Field
 FW K_Grosicki
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF S_Ajayi DF IF INJURED DF
+SUB DF D_Furlong DF IF INJURED DF
 SUB DM K_Grosicki DM IF INJURED DM
 SUB MF K_Grosicki MF IF INJURED MF
 SUB AM K_Grosicki AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
-SUB A_Hegazy D_Furlong DF IF MIN = 45
-SUB K_Gibbs S_Ajayi DF IF MIN = 55
-SUB M_Phillips S_Field DM IF MIN = 75
+SUB A_Hegazy S_Field DF IF MIN = 50
+SUB M_Pereira R_Harper DM IF MIN = 60
+SUB K_Gibbs D_Furlong DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
-SUB K_Gibbs S_Ajayi DF IF SCORE <= -3
-SUB K_Gibbs S_Ajayi DF IF SCORE >= 3
+SUB K_Gibbs D_Furlong DF IF SCORE <= -3
+SUB K_Gibbs D_Furlong DF IF SCORE >= 3
 
