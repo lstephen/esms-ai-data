@@ -1,13 +1,13 @@
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
-C_Connolly      22 12/16/ 6 | DF P :  26   5 :  31 |  10  0.8   7 ||  49 || DF  5 DM  5 DF  4 DM  5 MF  4 DM  5 MF  5       
+C_Connolly      22 12/16/ 6 | DF P :  26   5 :  31 |  10  0.9   7 ||  49 || DF  5 DM  5 DF  4 DM  5 MF  4 DM  5 MF  5       
 K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  1.5  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
-A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.1   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
+A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.2   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
 C_Townsend      27 14/10/ 4 | MF L :  29   3 :  31 |   4  0.6   2 ||  38 || DF  2 DF  2 DF  2 DF  1 MF  3 DF  1 MF  2       
-G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.7  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3  S    
-M_Pereira       24  3/15/11 | FW A :  26   0 :  26 |   3  1.5   5 ||  36 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
-D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.4   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
+G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.7  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
+M_Pereira       24  3/15/11 | FW A :  26   0 :  26 |   3  1.6   5 ||  36 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
+D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.5   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
 S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   1  1.5   3 ||  34 || DF  0 DF  0 DF  0 DF  0 MF  1 DF  0 DF  0       
-J_Livermore     30 12/14/ 5 | DF P :  24   3 :  27 |   0  1.2  -1 ||  28 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
+J_Livermore     30 12/14/ 5 | DF P :  24   3 :  27 |   0  1.3  -1 ||  28 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
 R_Harper        20  8/13/ 7 | DM P :  18   0 :  18 |   1  1.3   7 ||  27 || DM  0 MF  0 DM -1 DM -1 DM -1 DM  0 AM  0       
 S_Johnstone     27    16    | GK N :  24   2 :  26 |  -1  0.4   2 ||  27 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
 K_Wilson        20 13/ 8/ 3 | DF L :  17   0 :  17 |   0  1.2   7 ||  26 || DF -1 DF -1 DF -1 DF -1 DF  0 DF -1 DM -1       
@@ -233,13 +233,13 @@ FW C_Austin
 
 ** First XI **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
-C_Connolly      22 12/16/ 6 | DF P :  26   5 :  31 |  10  0.8   7 ||  49 || DF  5 DM  5 DF  4 DM  5 MF  4 DM  5 MF  5       
+C_Connolly      22 12/16/ 6 | DF P :  26   5 :  31 |  10  0.9   7 ||  49 || DF  5 DM  5 DF  4 DM  5 MF  4 DM  5 MF  5       
 K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  1.5  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
-A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.1   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
+A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.2   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
 C_Townsend      27 14/10/ 4 | MF L :  29   3 :  31 |   4  0.6   2 ||  38 || DF  2 DF  2 DF  2 DF  1 MF  3 DF  1 MF  2       
-G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.7  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3  S    
-M_Pereira       24  3/15/11 | FW A :  26   0 :  26 |   3  1.5   5 ||  36 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
-J_Livermore     30 12/14/ 5 | DF P :  24   3 :  27 |   0  1.2  -1 ||  28 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
+G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.7  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
+M_Pereira       24  3/15/11 | FW A :  26   0 :  26 |   3  1.6   5 ||  36 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
+J_Livermore     30 12/14/ 5 | DF P :  24   3 :  27 |   0  1.3  -1 ||  28 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
 S_Johnstone     27    16    | GK N :  24   2 :  26 |  -1  0.4   2 ||  27 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
 C_Brunt         35 11/14/ 6 | DF P :  23   3 :  26 |  -3  0.4   1 ||  25 || DF  3 DM  2 DF  2 DM  2 DM  2 DM  2 MF  2       
 C_Austin        30  3/ 8/15 | FW L :  22   3 :  25 |  -2  0.6  -1 ||  23 || FW -1 FW  1 FW  1 FW  1 FW  3 FW  2 FW  1       
@@ -248,7 +248,7 @@ A_Hegazy        29 15/ 7/ 1 | DF D :  21   1 :  22 |  -6  0.3   0 ||  16 || DF  
 
 ** First Squad (21) **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
-D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.4   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
+D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.5   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
 S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   1  1.5   3 ||  34 || DF  0 DF  0 DF  0 DF  0 MF  1 DF  0 DF  0       
 R_Harper        20  8/13/ 7 | DM P :  18   0 :  18 |   1  1.3   7 ||  27 || DM  0 MF  0 DM -1 DM -1 DM -1 DM  0 AM  0       
 K_Wilson        20 13/ 8/ 3 | DF L :  17   0 :  17 |   0  1.2   7 ||  26 || DF -1 DF -1 DF -1 DF -1 DF  0 DF -1 DM -1       
@@ -260,7 +260,7 @@ K_Grosicki      32  3/15/11 | FW A :  26   0 :  26 |  -3  0.9  -1 ||  23 || FW  
 
 ** Training Squad **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
-D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.4   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
+D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.5   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
 S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   1  1.5   3 ||  34 || DF  0 DF  0 DF  0 DF  0 MF  1 DF  0 DF  0       
 R_Harper        20  8/13/ 7 | DM P :  18   0 :  18 |   1  1.3   7 ||  27 || DM  0 MF  0 DM -1 DM -1 DM -1 DM  0 AM  0       
 K_Wilson        20 13/ 8/ 3 | DF L :  17   0 :  17 |   0  1.2   7 ||  26 || DF -1 DF -1 DF -1 DF -1 DF  0 DF -1 DM -1       
@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          18    19    16    15 
-                   ATTACKING    23    17    19          20    24 
+                   ATTACKING    23    17    19          20    26 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    18                      21 
@@ -334,82 +334,83 @@ T_Lamptey       19 13/ 8/ 2 | DF L :  17  -1 :  16 |   1  1.4   7 ||  26 || DF -
 S_McCallum      19 13/ 7/ 2 | DF L :  17  -1 :  16 |   1  0.3   7 ||  24 || DF -2 DF -1 DF -2 DF -2 DF -1 DF -2 DF -1       
 L_Rupp          29  6/16/12 | AM D :  20   3 :  23 |  -4  0.7   0 ||  20 || FW  3 FW  3 DM  3 MF  2 FW  2 AM  2 AM  3       
 
-Forced:A_Anguissa/C_Townsend/M_Pereira/
+Forced:K_Gibbs/D_Furlong/R_Harper/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     L     N     D   
-A_Anguissa      24 12/15/ 5 | DF P :  25   4 :  29 |   6  1.1   5 ||  41 || DF  4 DM  3 DF  3 DM  4 MF  3 DM  3 MF  4       
+A_Anguissa      24 12/15/ 5 | DF P :  24   4 :  28 |   5  1.2   5 ||  39 || DF  4 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
 S_Johnstone     27    16    | GK N :  24   2 :  26 |  -1  0.4   2 ||  27 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
-J_Livermore     30 12/14/ 5 | DF P :  24   3 :  26 |  -1  1.2  -1 ||  26 || DF  3 DM  2 DF  2 DM  2 MF  2 DM  2 MF  3       
-F_Krovinovic    24  5/15/11 | AM D :  19   1 :  20 |  -3  0.6   5 ||  22 || DM  1 FW  1 DM  1 MF  1 FW  0 AM  1 AM  1       
-C_Connolly      22 11/14/ 5 | DM P :  20   3 :  23 |   2  0.7   7 ||  33 || DM  3 DM  2 DF  1 DM  2 DM  1 DM  2 MF  2       
-M_Pereira       24  3/15/11 | FW A :  26   0 :  26 |   3  1.5   5 ||  36 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
+F_Krovinovic    24  5/15/11 | AM D :  18   1 :  19 |  -4  0.6   5 ||  21 || DM  0 MF  1 DM  1 FW  0 DM  0 FW  0 AM  1       
 M_Phillips      29  3/15/11 | FW A :  26   0 :  26 |  -1  0.7   0 ||  26 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
-C_Brunt         35 11/14/ 6 | DM P :  20   2 :  22 |  -7  0.3   1 ||  17 || DM  2 DM  2 DF  1 DM  2 DM  1 DM  2 MF  2       
-C_Townsend      27 14/10/ 4 | MF L :  29   3 :  31 |   4  0.6   2 ||  38 || DF  2 DF  2 DF  2 DF  1 MF  3 DF  1 MF  2       
-K_Grosicki      32  3/15/11 | FW D :  13   0 :  13 | -16  0.6  -1 ||  -3 || MF  0 MF  0 DM  0 FW  0 FW -1 FW  0 FW  0       
+K_Grosicki      32  3/15/11 | FW A :  26   0 :  26 |  -3  0.9  -1 ||  23 || FW  0 AM  0 FW  0 MF  0 FW  0 AM  0 AM  0       
+G_Barry         39 12/14/ 5 | DF P :  24   3 :  27 |  -1  0.7  10 ||  37 || DF  3 DM  3 DF  2 DM  3 MF  2 DM  3 MF  3       
+M_Pereira       24  3/15/11 | FW D :  13   0 :  13 | -10  1.0   5 ||   9 || MF  0 MF  0 DM  0 FW  0 FW -1 FW  0 FW  0       
+C_Connolly      22 11/14/ 5 | DM P :  20   2 :  23 |   1  0.7   7 ||  32 || DM  2 DM  2 DF  1 DM  2 DM  1 DM  2 MF  2       
+K_Gibbs         30 15/11/ 5 | MF L :  31   5 :  37 |   9  1.5  -1 ||  46 || DF  4 DF  3 DF  4 DF  3 MF  5 DF  3 MF  4       
+J_Livermore     30 12/13/ 5 | DF P :  23   2 :  25 |  -2  1.3  -1 ||  24 || DF  2 DM  2 DF  1 DM  2 MF  1 DM  2 MF  2       
 J_Bond          27    15    | GK N :  23   0 :  23 |  -4  0.2   2 ||  20 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-K_Gibbs         30 14/10/ 5 | MF L :  28   2 :  30 |   3  1.5  -1 ||  34 || DF  2 DF  1 DF  1 DF  1 MF  2 DF  1 MF  1       
 B_Kapustka      23  3/14/10 | FW D :  13  -1 :  12 | -12  0.5   6 ||   6 || MF -1 MF -1 DM -1 FW -1 AM -2 MF -1 FW -1       
+C_Brunt         35 11/13/ 6 | DM P :  19   2 :  21 |  -8  0.3   1 ||  15 || DM  2 DM  1 DF  1 DM  1 DM  1 DM  1 MF  1       
 S_Field         22 10/13/ 4 | DM P :  18   1 :  19 |  -2  1.1   7 ||  25 || DM  1 DM  0 DF -1 DM  0 DM -1 DM  0 MF  0       
-C_Austin        30  3/ 8/14 | FW L :  21   2 :  23 |  -4  0.6  -1 ||  18 || FW -2 FW -1 FW  0 FW  0 FW  2 FW  1 FW  1       
-D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.4   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
+R_Harper        20  8/13/ 7 | DM P :  18   0 :  18 |   1  1.3   7 ||  27 || DM  0 MF  0 DM -1 DM -1 DM -1 DM  0 AM  0       
+C_Townsend      27 14/10/ 4 | MF L :  28   2 :  30 |   3  0.6   2 ||  36 || DF  2 DF  1 DF  1 DF  1 MF  2 DF  1 DM  1       
+C_Austin        30  3/ 8/15 | FW L :  22   3 :  25 |  -2  0.6  -1 ||  23 || FW -1 FW  1 FW  1 FW  1 FW  3 FW  2 FW  1       
+D_Furlong       24 13/ 9/ 3 | MF L :  26   0 :  26 |   3  1.5   5 ||  35 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
 L_Peltier       33 13/ 9/ 3 | MF L :  26   0 :  26 |  -3  1.4  -1 ||  24 || DF  0 DF  0 DF  0 DF -1 MF  0 DF  0 DM  0       
 A_Hegazy        29 15/ 7/ 1 | DF D :  21   1 :  22 |  -6  0.3   0 ||  16 || DF  0 DF  0 DF  0 DF  0 DF  1 DF  0 DF  1       
-S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   1  1.5   3 ||  34 || DF  0 DF  0 DF  0 DF  0 MF  1 DF  0 DF  0       
 K_Wilson        20 13/ 8/ 3 | DF L :  17   0 :  17 |   0  1.2   7 ||  26 || DF -1 DF -1 DF -1 DF -1 DF  0 DF -1 DM -1       
-R_Harper        20  8/13/ 7 | DM P :  18   0 :  18 |   1  1.3   7 ||  27 || DM  0 MF  0 DM -1 DM -1 DM -1 DM  0 AM  0       
+S_Ajayi         26 14/ 7/ 4 | MF L :  27   1 :  28 |   1  1.5   3 ||  34 || DF  0 DF  0 DF  0 DF  0 MF  1 DF  0 DF  0       
 N_Ferguson      19 13/ 6/ 2 | DF L :  17  -1 :  15 |   0  1.5   7 ||  24 || DF -3 DF -2 DF -2 DF -2 DF -1 DF -2 DF -1       
 
-PASSING
+EUROPEAN
 GK S_Johnstone
 DF K_Gibbs
 DF A_Hegazy
-DF C_Townsend
-DF A_Anguissa
-DF J_Livermore
-DM C_Connolly
-DM C_Brunt
-FW M_Pereira
-FW F_Krovinovic
-FW M_Phillips
+DF D_Furlong
+DM A_Anguissa
+DM J_Livermore
+DM G_Barry
+MF C_Connolly
+MF C_Brunt
+MF R_Harper
+FW C_Austin
                  N       D       A       C       L       P       E 
   STOPPING      24      24      24      24      24      24      24 
-  TACKLING      84     112      77      88      92      83      78 
-   PASSING      66      43      82      74      36      99      63 
-  SHOOTING      42      25      65      41      55      41      39 
-   SH Mean      10      11      10      10      10      10       9 
- SH Median      11      11      11      11      11      11      11 
-    SH Max      11      11      11      11      11      11      11 
-  SH Bonus       9       5      11       9       7      11       9 
+  TACKLING      75     123      61      86     118      74      73 
+   PASSING      93      67      97      94      46     103     104 
+  SHOOTING      27      16      48      25      42      25      27 
+   SH Mean      11      12      10      11      10      11      10 
+ SH Median      15      15       7      15       7      15      15 
+    SH Max      15      15      15      15      15      15      15 
+  SH Bonus      14       8      14      13       7      15      15 
    GK Qual      16      16      16      16      16      16      16 
-  GK Bonus      14      11      16      14      12      16      14 
-       Agg      23      23      23      23      23      23      23 
-   Scoring      58      37      77      63      43      80      55 
- Defending      84     112      77      88      92      83      78 
-   Overall     160     140     180     170     140     189     152 
+  GK Bonus      16      11      19      15      11      16      17 
+       Agg      22      22      22      22      22      22      22 
+   Scoring      71      50      81      71      45      77      78 
+ Defending      75     123      61      86     118      74      73 
+   Overall     176     171     171     183     157     182     183 
 
 GK J_Bond
-DF D_Furlong
-DF R_Harper
-DF S_Field
-FW K_Grosicki
+DM S_Ajayi
+DM C_Townsend
+MF F_Krovinovic
+MF M_Phillips
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF D_Furlong DF IF INJURED DF
-SUB DM K_Grosicki DM IF INJURED DM
-SUB MF K_Grosicki MF IF INJURED MF
-SUB AM K_Grosicki AM IF INJURED AM
-SUB FW K_Grosicki FW IF INJURED FW
+SUB DF S_Ajayi DF IF INJURED DF
+SUB DM M_Phillips DM IF INJURED DM
+SUB MF M_Phillips MF IF INJURED MF
+SUB AM M_Phillips AM IF INJURED AM
+SUB FW M_Phillips FW IF INJURED FW
 
-SUB A_Hegazy S_Field DF IF MIN = 50
-SUB M_Pereira R_Harper DM IF MIN = 60
-SUB K_Gibbs D_Furlong DF IF MIN = 78
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+SUB D_Furlong S_Ajayi DF IF MIN = 45
+SUB R_Harper M_Phillips MF IF MIN = 50
+SUB A_Hegazy C_Townsend DF IF MIN = 70
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 23 SCORE = 1
+TACTIC D IF MIN >= 12 SCORE >= 2
 
-SUB K_Gibbs D_Furlong DF IF SCORE <= -3
-SUB K_Gibbs D_Furlong DF IF SCORE >= 3
+SUB C_Connolly M_Phillips MF IF SCORE <= -3
+SUB C_Connolly M_Phillips MF IF SCORE >= 3
 
