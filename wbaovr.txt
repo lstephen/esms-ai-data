@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          18    19    16    15 
-                   ATTACKING    23    17    19          20    26 
+                   ATTACKING    23    17    19          20    24 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    18                      21 
@@ -390,22 +390,22 @@ FW C_Austin
    Overall     176     171     171     183     157     182     183 
 
 GK J_Bond
+DM S_Ajayi
 DM C_Townsend
-DM S_Field
 MF F_Krovinovic
 MF M_Phillips
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF C_Townsend DF IF INJURED DF
+SUB DF S_Ajayi DF IF INJURED DF
 SUB DM M_Phillips DM IF INJURED DM
 SUB MF M_Phillips MF IF INJURED MF
 SUB AM M_Phillips AM IF INJURED AM
 SUB FW M_Phillips FW IF INJURED FW
 
-SUB R_Harper C_Townsend DF IF MIN = 55
-SUB C_Brunt M_Phillips MF IF MIN = 60
-SUB D_Furlong S_Field MF IF MIN = 65
-TACTIC E IF SCORE <= -2
+SUB R_Harper M_Phillips MF IF MIN = 45
+SUB D_Furlong S_Ajayi DF IF MIN = 55
+SUB A_Hegazy C_Townsend DF IF MIN = 75
+TACTIC A IF MIN >= 89 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 23 SCORE = 1
