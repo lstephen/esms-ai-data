@@ -631,8 +631,8 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW A_Oldridge FW IF INJURED FW
 
-SUB D_Byrne E_Donk DF IF MIN = 50
-SUB W_Morgan A_Oldridge MF IF MIN = 55
+SUB D_Byrne E_Donk DF IF MIN = 45
+SUB E_Plummer A_Oldridge MF IF MIN = 50
 SUB S_McMahon M_Laudrup MF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -707,13 +707,13 @@ SUB MF J_Bent MF IF INJURED MF
 SUB AM J_Bent AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB R_Escobar N_Barbulescu MF IF MIN = 45
-SUB T_XGhiuri A_Stefanov DF IF MIN = 65
+SUB D_Dragan N_Barbulescu MF IF MIN = 75
+SUB R_Escobar A_Stefanov DM IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 49 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE = 1
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 SUB Zico_Jnr A_Stefanov DF IF SCORE <= -3
 SUB Zico_Jnr A_Stefanov DF IF SCORE >= 3
