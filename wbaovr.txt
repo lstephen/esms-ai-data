@@ -402,8 +402,8 @@ SUB MF K_Grosicki MF IF INJURED MF
 SUB AM K_Grosicki AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
-SUB A_Hegazy D_Furlong DF IF MIN = 50
 SUB G_Barry S_Ajayi DF IF MIN = 55
+SUB A_Hegazy D_Furlong DF IF MIN = 60
 SUB A_Anguissa K_Wilson DF IF MIN = 81
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
