@@ -644,9 +644,9 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW Ricardinho FW IF INJURED FW
 
-SUB D_Byrne Ricardinho FW IF MIN = 50
-SUB Moreto S_McMahon MF IF MIN = 60
-SUB John_McNamara D_Epureanu DF IF MIN = 70
+SUB M_Laudrup Ricardinho FW IF MIN = 55
+SUB D_Byrne D_Epureanu DF IF MIN = 60
+SUB John_McNamara S_McMahon MF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
@@ -709,8 +709,8 @@ FW R_Escobar
 
 GK A_Ghita
 DM A_Stefanov
-DM J_Bent
 MF D_Dragan
+MF N_Barbulescu
 AM C_Sandulescu
 
 SUB GK A_Ghita GK IF INJURED GK
@@ -720,8 +720,9 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB L_Bains A_Stefanov DF IF MIN = 45
-SUB J_Milburn D_Dragan DM IF MIN = 50
+SUB J_Cadette D_Dragan DM IF MIN = 70
+SUB J_Milburn A_Stefanov DF IF MIN = 84
+SUB T_XGhiuri N_Barbulescu DM IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
