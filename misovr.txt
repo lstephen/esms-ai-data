@@ -372,7 +372,7 @@ DEFENSIVE        39  26  30  32  31  28
                          Min
                       NORMAL    26    20          18    27    20 
                    DEFENSIVE    26    20          15    21    16 
-                   ATTACKING    26    21          18    21    27 
+                   ATTACKING    26    21          18    21    21 
               COUNTER_ATTACK    26    20                17    21 
                    LONG_BALL    26    21          14          23 
                      PASSING    26    21                      17 
@@ -496,7 +496,7 @@ FW D_Van_Ry
   STOPPING      41      41      41      41      41      41      41 
   TACKLING     149     183     111     155     170     136     145 
    PASSING     109      73     124     116      56     149     105 
-  SHOOTING      95      40     160      78     149      80      86 
+  SHOOTING      95      40     160      78     148      80      86 
    SH Mean      20      22      19      20      19      20      20 
  SH Median      19      22      19      22      19      22      22 
     SH Max      24      24      24      24      24      24      24 
