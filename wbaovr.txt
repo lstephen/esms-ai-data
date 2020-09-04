@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          19    19    16    15 
-                   ATTACKING    23    18    19          20    26 
+                   ATTACKING    23    18    19          20    24 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    19                      21 
@@ -390,27 +390,27 @@ FW F_Krovinovic
    Overall     165     145     179     172     137     188     158 
 
 GK J_Bond
-DF R_Harper
+DF A_Hegazy
+DF S_Ajayi
 DF S_Field
 FW M_Phillips
-FW K_Grosicki
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF S_Field DF IF INJURED DF
-SUB DM K_Grosicki DM IF INJURED DM
-SUB MF K_Grosicki MF IF INJURED MF
-SUB AM K_Grosicki AM IF INJURED AM
-SUB FW K_Grosicki FW IF INJURED FW
+SUB DF A_Hegazy DF IF INJURED DF
+SUB DM M_Phillips DM IF INJURED DM
+SUB MF M_Phillips MF IF INJURED MF
+SUB AM M_Phillips AM IF INJURED AM
+SUB FW M_Phillips FW IF INJURED FW
 
-SUB D_Furlong M_Phillips FW IF MIN = 60
-SUB F_Krovinovic S_Field DF IF MIN = 65
-SUB M_Pereira R_Harper MF IF MIN = 78
+SUB D_Furlong S_Ajayi DF IF MIN = 45
+SUB M_Pereira M_Phillips FW IF MIN = 50
+SUB C_Townsend S_Field DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 67 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 61 SCORE >= 2
 
-SUB A_Anguissa K_Grosicki DM IF SCORE <= -3
-SUB A_Anguissa K_Grosicki DM IF SCORE >= 3
+SUB A_Anguissa M_Phillips DM IF SCORE <= -3
+SUB A_Anguissa M_Phillips DM IF SCORE >= 3
 
