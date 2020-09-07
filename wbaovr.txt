@@ -292,7 +292,7 @@ DEFENSIVE        23  19  20  21  17  14
                          Min
                       NORMAL    23    17    19          20    18 
                    DEFENSIVE    23          19    19    16    15 
-                   ATTACKING    23    18    19          20    24 
+                   ATTACKING    23    18    19          20    26 
               COUNTER_ATTACK    23    17    19          20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    19                      21 
@@ -402,14 +402,14 @@ SUB MF M_Phillips MF IF INJURED MF
 SUB AM M_Phillips AM IF INJURED AM
 SUB FW M_Phillips FW IF INJURED FW
 
-SUB D_Furlong S_Ajayi DF IF MIN = 45
-SUB M_Pereira M_Phillips FW IF MIN = 50
-SUB C_Townsend S_Field DF IF MIN = 75
+SUB A_Anguissa M_Phillips FW IF MIN = 60
+SUB M_Pereira S_Field DM IF MIN = 65
+SUB D_Furlong S_Ajayi DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 SUB A_Anguissa M_Phillips DM IF SCORE <= -3
 SUB A_Anguissa M_Phillips DM IF SCORE >= 3
