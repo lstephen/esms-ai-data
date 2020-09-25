@@ -167,29 +167,29 @@ NORMAL
 GK N_Kent
 DF G_C_Moore
 DF V_Barbieri
-DF O_Burgin
+DF I_Drover
+DM O_Burgin
 DM X_Cullie
-DM O_Bravo
 DM Alan_Michael
+MF O_Bravo
 MF P_Deusner
 MF I_Tatarescu
-MF I_Drover
 FW C_Owen
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     135     181      82     143     168     115     125 
-   PASSING     146     104     156     150      74     172     162 
-  SHOOTING      78      34     135      59     128      59      68 
-   SH Mean      18      20      18      19      18      19      19 
- SH Median      18      24      17      18      17      18      18 
+  TACKLING     134     180      80     143     168     113     124 
+   PASSING     147     105     157     151      74     172     163 
+  SHOOTING      77      34     135      59     128      59      68 
+   SH Mean      18      19      18      19      18      19      19 
+ SH Median      18      24      17      18      17      19      18 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      21      15      27      20      15      23      22 
+  SH Bonus      21      15      28      20      15      24      22 
    GK Qual      27      27      27      27      27      27      27 
-  GK Bonus      26      20      38      25      21      29      28 
+  GK Bonus      26      20      39      25      21      30      28 
        Agg      20      20      20      20      20      20      20 
-   Scoring     123      81     149     120      92     134     131 
- Defending     135     181      82     143     168     115     125 
-   Overall     304     268     271     305     278     300     305 
+   Scoring     124      81     149     120      92     134     132 
+ Defending     134     180      80     143     168     113     124 
+   Overall     304     268     267     306     278     299     306 
 
 ** 1st XI **
 LONG_BALL
@@ -265,7 +265,7 @@ FW H_Ghita
                  N       D       A       C       L       P       E 
   STOPPING      26      26      26      26      26      26      26 
   TACKLING     110     134      83     114     120     101     104 
-   PASSING      80      52      96      87      43     117      74 
+   PASSING      80      52      96      87      43     117      75 
   SHOOTING      84      42     135      73     125      75      80 
    SH Mean      16      18      15      16      15      16      16 
  SH Median      18      18      18      18      18      18      18 
@@ -527,19 +527,14 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-CHANGEPOS X_Cullie AM IF MIN = 45
-CHANGEPOS I_Tatarescu MF IF MIN = 50
-SUB X_Cullie G_Mordino AM IF MIN = 55
-CHANGEPOS I_Tatarescu AM IF MIN = 60
-SUB C_Owen D_Van_Ry FW IF MIN = 65
-SUB N_Morariu W_Emmerling DF IF MIN = 81
-CHANGEPOS I_Tatarescu DM IF MIN = 87
-CHANGEPOS Alan_Michael AM IF MIN = 90
-TACTIC P IF MIN >= 52 SCORE <= -2
+SUB C_Owen G_Mordino FW IF MIN = 50
+SUB X_Cullie D_Van_Ry AM IF MIN = 55
+SUB N_Morariu W_Emmerling DF IF MIN = 75
+TACTIC P IF MIN >= 61 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 78 SCORE >= 2
+TACTIC D IF MIN >= 74 SCORE >= 2
 
 
 Forced:W_Westfall/J_Moculescu/R_Amanar/E_Skutnik/
@@ -597,28 +592,24 @@ FW R_Amanar
 GK C_Ionita
 DF T_Gheorghiu
 DF S_Zamfir
-MF S_Kazaku
 AM H_Ghita
+FW F_Pacuraru
 
 SUB GK C_Ionita GK IF INJURED GK
 SUB DF T_Gheorghiu DF IF INJURED DF
 SUB DM H_Ghita DM IF INJURED DM
 SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
-SUB FW H_Ghita FW IF INJURED FW
+SUB FW F_Pacuraru FW IF INJURED FW
 
-CHANGEPOS C_Boroi DM IF MIN = 55
-SUB L_Roman T_Gheorghiu DF IF MIN = 60
-SUB E_Skutnik S_Kazaku DF IF MIN = 65
-SUB D_Balitiu H_Ghita MF IF MIN = 70
-CHANGEPOS W_Westfall DF IF MIN = 75
-CHANGEPOS S_Kazaku AM IF MIN = 78
-CHANGEPOS S_Kazaku MF IF MIN = 81
-CHANGEPOS M_Parvulescu DM IF MIN = 84
+SUB E_Skutnik T_Gheorghiu DF IF MIN = 45
+SUB C_Boroi H_Ghita MF IF MIN = 60
+CHANGEPOS J_Moculescu DM IF MIN = 75
+SUB R_Amanar F_Pacuraru FW IF MIN = 84
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC C IF SCORE = 1
+TACTIC D IF MIN >= 61 SCORE = 1
 TACTIC D IF MIN >= 26 SCORE >= 2
 
 
