@@ -402,9 +402,9 @@ SUB MF M_Phillips MF IF INJURED MF
 SUB AM M_Phillips AM IF INJURED AM
 SUB FW M_Phillips FW IF INJURED FW
 
-SUB M_Pereira M_Phillips FW IF MIN = 60
+SUB J_Livermore M_Phillips FW IF MIN = 50
+SUB M_Pereira S_Field DF IF MIN = 55
 SUB D_Furlong S_Ajayi DF IF MIN = 65
-SUB C_Townsend S_Field DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
