@@ -644,7 +644,7 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW A_Oldridge FW IF INJURED FW
 
-SUB John_McNamara E_Plummer DF IF MIN = 45
+SUB John_McNamara E_Plummer DF IF MIN = 50
 SUB D_McHale D_Epureanu DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
