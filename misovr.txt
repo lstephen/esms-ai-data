@@ -372,7 +372,7 @@ DEFENSIVE        39  26  30  32  31  28
                          Min
                       NORMAL    26    20          18    27    20 
                    DEFENSIVE    26    20          15    21    16 
-                   ATTACKING    26    21          18    21    27 
+                   ATTACKING    26    21          18          27 
               COUNTER_ATTACK    26    20                17    21 
                    LONG_BALL    26    21          14          23 
                      PASSING    26    21                      17 
@@ -500,7 +500,7 @@ AM I_Drover
 FW C_Owen
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     124     168      76     141     148     107     115 
+  TACKLING     124     168      76     141     148     107     116 
    PASSING     139      99     147     142      68     164     151 
   SHOOTING      85      43     147      70     137      67      78 
    SH Mean      18      19      18      19      18      19      18 
@@ -511,7 +511,7 @@ FW C_Owen
   GK Bonus      27      20      40      25      22      30      28 
        Agg      20      20      20      20      20      20      20 
    Scoring     121      80     147     118      91     132     126 
- Defending     124     168      76     141     148     107     115 
+ Defending     124     168      76     141     148     107     116 
    Overall     293     260     260     301     266     290     292 
 
 GK Q_Bonnette
@@ -527,17 +527,19 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-CHANGEPOS I_Tatarescu MF IF MIN = 45
 SUB X_Cullie G_Mordino AM IF MIN = 50
-CHANGEPOS I_Tatarescu DM IF MIN = 55
-SUB C_Owen D_Van_Ry FW IF MIN = 60
-CHANGEPOS I_Tatarescu AM IF MIN = 65
-SUB N_Morariu W_Emmerling DF IF MIN = 81
-TACTIC P IF MIN >= 53 SCORE <= -2
+CHANGEPOS I_Drover DM IF MIN = 55
+SUB I_Drover D_Van_Ry AM IF MIN = 65
+CHANGEPOS D_Van_Ry FW IF MIN = 70
+CHANGEPOS C_Owen AM IF MIN = 75
+SUB C_Owen W_Emmerling DF IF MIN = 78
+CHANGEPOS O_Burgin MF IF MIN = 81
+CHANGEPOS O_Burgin AM IF MIN = 84
+TACTIC P IF MIN >= 55 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 77 SCORE >= 2
+TACTIC D IF MIN >= 76 SCORE >= 2
 
 
 Forced:W_Westfall/J_Moculescu/R_Amanar/E_Skutnik/
@@ -605,13 +607,11 @@ SUB MF H_Ghita MF IF INJURED MF
 SUB AM H_Ghita AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB E_Skutnik T_Gheorghiu DF IF MIN = 50
-SUB D_Balitiu F_Pacuraru MF IF MIN = 70
-CHANGEPOS F_Pacuraru FW IF MIN = 78
-CHANGEPOS R_Amanar MF IF MIN = 81
-SUB C_Boroi H_Ghita AM IF MIN = 84
-CHANGEPOS J_Moculescu DM IF MIN = 87
-CHANGEPOS J_Moculescu MF IF MIN = 90
+SUB E_Skutnik T_Gheorghiu DF IF MIN = 45
+SUB R_Amanar F_Pacuraru FW IF MIN = 60
+CHANGEPOS D_Balitiu DM IF MIN = 65
+SUB C_Boroi H_Ghita AM IF MIN = 75
+CHANGEPOS D_Balitiu MF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
