@@ -645,9 +645,9 @@ SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB E_Plummer D_Epureanu DF IF MIN = 60
-SUB M_Laudrup S_McMahon MF IF MIN = 65
-SUB Ricardinho D_Byrne FW IF MIN = 70
+SUB M_Laudrup S_McMahon MF IF MIN = 60
+SUB Ricardinho D_Byrne FW IF MIN = 65
+SUB E_Plummer D_Epureanu DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -720,13 +720,13 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW D_Dragan FW IF INJURED FW
 
-SUB R_Escobar N_Barbulescu MF IF MIN = 45
-SUB L_Bains T_X_Ghiuri DF IF MIN = 50
-SUB K_Layvin D_Dragan DF IF MIN = 78
+SUB L_Bains D_Dragan DF IF MIN = 45
+SUB R_Escobar N_Barbulescu MF IF MIN = 50
+SUB K_Layvin T_X_Ghiuri DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 45 SCORE >= 2
+TACTIC D IF MIN >= 50 SCORE >= 2
 
 
