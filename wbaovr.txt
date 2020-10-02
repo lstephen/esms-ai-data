@@ -388,8 +388,8 @@ FW C_Austin
 
 GK J_Bond
 DM C_Brunt
-FW B_Kapustka
 FW M_Pereira
+FW B_Kapustka
 FW K_Grosicki
 
 SUB GK J_Bond GK IF INJURED GK
@@ -399,9 +399,9 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB F_Krovinovic K_Grosicki AM IF MIN = 60
+SUB F_Krovinovic K_Grosicki AM IF MIN = 55
+SUB C_Austin M_Pereira FW IF MIN = 60
 SUB M_Phillips C_Brunt DM IF MIN = 65
-SUB C_Austin M_Pereira FW IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0

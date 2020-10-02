@@ -15,16 +15,16 @@ FW C_Austin
 
 GK J_Bond
 DM C_Brunt
-AM B_Kapustka
 FW M_Pereira
 FW K_Grosicki
+AM B_Kapustka
 
 PK: C_Austin
 AGG 20
 
-SUB 9 16 AM IF MIN = 60
+SUB 9 16 AM IF MIN = 55
+SUB 11 14 FW IF MIN = 60
 SUB 10 13 DM IF MIN = 65
-SUB 11 14 FW IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
