@@ -581,25 +581,25 @@ FW Ricardinho
    Overall     311     274     326     316     259     337     303 
 
 GK E_Manuel
-DF John_McNamara
+DF D_Epureanu
 FW A_Oldridge
 FW S_McMahon
 FW D_Byrne
 
 SUB GK E_Manuel GK IF INJURED GK
-SUB DF John_McNamara DF IF INJURED DF
+SUB DF D_Epureanu DF IF INJURED DF
 SUB DM A_Oldridge DM IF INJURED DM
 SUB MF A_Oldridge MF IF INJURED MF
 SUB AM A_Oldridge AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
 SUB Ricardinho D_Byrne FW IF MIN = 60
-SUB E_Plummer S_McMahon MF IF MIN = 65
-SUB M_Laudrup John_McNamara DF IF MIN = 70
+SUB M_Laudrup S_McMahon MF IF MIN = 65
+SUB E_Plummer D_Epureanu DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
+TACTIC D IF MIN >= 89 SCORE = 1
 TACTIC D IF MIN >= 48 SCORE >= 2
 
 
@@ -671,9 +671,9 @@ SUB MF C_Hurgoi MF IF INJURED MF
 SUB AM C_Hurgoi AM IF INJURED AM
 SUB FW C_Sandulescu FW IF INJURED FW
 
-SUB Zico_Jnr C_Hurgoi DM IF MIN = 55
-SUB L_Bains J_Milburn DF IF MIN = 60
-SUB G_Best M_Antonio DM IF MIN = 75
+SUB G_Best C_Hurgoi DM IF MIN = 55
+SUB Zico_Jnr M_Antonio DM IF MIN = 60
+SUB L_Bains J_Milburn DF IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
