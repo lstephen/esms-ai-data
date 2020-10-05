@@ -1,37 +1,32 @@
 msy
-C
+P
 
 GK Y_Hopfinger
 DF P_Lazar
 DF E_Skutnik
+DF M_Parvulescu
 DF W_Westfall
+DF I_Kazaku
 DM D_Balitiu
-DM I_Kazaku
-MF C_Boroi
-AM M_Parvulescu
-AM J_Moculescu
-AM R_Amanar
+DM C_Boroi
+FW J_Moculescu
+FW R_Amanar
 FW H_Ghita
 
 GK C_Ionita
 DF L_Roman
-DF T_Gheorghiu
+DF T_Cozma
+FW S_Kazaku
 FW F_Pacuraru
-FW P_Chivu
 
 PK: R_Amanar
 AGG 20
 
-SUB 3 14 DF IF MIN = 45
-CHANGEPOS 5 MF IF MIN = 50
-SUB 11 15 FW IF MIN = 55
-SUB 2 13 DF IF MIN = 75
-CHANGEPOS 9 DF IF MIN = 78
-CHANGEPOS 4 MF IF MIN = 81
-CHANGEPOS 4 DM IF MIN = 84
-CHANGEPOS 4 AM IF MIN = 87
-TACTIC E IF MIN >= 47 SCORE <= -2
-TACTIC C IF SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 59 SCORE >= 2
+SUB 3 13 DF IF MIN = 50
+SUB 2 14 DF IF MIN = 55
+SUB 11 16 FW IF MIN = 70
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 64 SCORE >= 2
