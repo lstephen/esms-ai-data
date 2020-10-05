@@ -9,26 +9,26 @@ DF A_Anguissa
 DF G_Barry
 DM J_Livermore
 DM C_Brunt
-DM S_Field
-FW M_Pereira
-FW F_Krovinovic
-
-GK J_Bond
-DF C_Townsend
-DF R_Harper
-FW M_Phillips
+MF M_Pereira
+MF F_Krovinovic
 FW C_Austin
 
-PK: M_Pereira
+GK J_Bond
+DF K_Wilson
+DF S_Field
+FW M_Phillips
+FW K_Grosicki
+
+PK: C_Austin
 AGG 20
 
-SUB 11 15 MF IF MIN = 45
-SUB 10 16 FW IF MIN = 50
-SUB 9 14 DM IF MIN = 70
+SUB 9 14 DM IF MIN = 45
+SUB 11 15 FW IF MIN = 60
+SUB 3 13 DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 53 SCORE >= 2
+TACTIC D IF MIN >= 47 SCORE >= 2
 SUB 6 13 DF IF SCORE <= -3
 SUB 6 13 DF IF SCORE >= 3

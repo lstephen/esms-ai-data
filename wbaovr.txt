@@ -368,47 +368,47 @@ DF A_Anguissa
 DF G_Barry
 DM J_Livermore
 DM C_Brunt
-DM S_Field
-FW M_Pereira
-FW F_Krovinovic
+MF M_Pereira
+MF F_Krovinovic
+FW C_Austin
                  N       D       A       C       L       P       E 
   STOPPING      24      24      24      24      24      24      24 
-  TACKLING      88     119      80      92      96      87      83 
-   PASSING      77      50      89      82      40     105      72 
-  SHOOTING      33      17      52      32      44      32      31 
-   SH Mean       9      11       9       9       9       9       9 
- SH Median      11      11      11      11      11      11      11 
-    SH Max      11      11      11      11      11      11      11 
-  SH Bonus       9       5      11       9       6      10       9 
+  TACKLING      82     114      75      86     100      81      77 
+   PASSING      89      59      92      90      44     108      88 
+  SHOOTING      31      17      56      29      47      30      33 
+   SH Mean      11      14      11      11      11      11      11 
+ SH Median      11      15      11      15      11      15      11 
+    SH Max      15      15      15      15      15      15      15 
+  SH Bonus      12       8      14      13       8      15      13 
    GK Qual      16      16      16      16      16      16      16 
-  GK Bonus      14      11      16      14      11      15      14 
+  GK Bonus      15      11      17      14      12      16      15 
        Agg      23      23      23      23      23      23      23 
-   Scoring      62      39      76      65      41      81      59 
- Defending      88     119      80      92      96      87      83 
-   Overall     169     147     182     176     140     193     161 
+   Scoring      69      45      80      70      45      82      70 
+ Defending      82     114      75      86     100      81      77 
+   Overall     177     157     185     181     150     193     174 
 
 GK J_Bond
-DF C_Townsend
-DF R_Harper
+DF K_Wilson
+DF S_Field
 FW M_Phillips
-FW C_Austin
+FW K_Grosicki
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF C_Townsend DF IF INJURED DF
+SUB DF K_Wilson DF IF INJURED DF
 SUB DM M_Phillips DM IF INJURED DM
 SUB MF M_Phillips MF IF INJURED MF
 SUB AM M_Phillips AM IF INJURED AM
-SUB FW C_Austin FW IF INJURED FW
+SUB FW M_Phillips FW IF INJURED FW
 
-SUB F_Krovinovic M_Phillips MF IF MIN = 45
-SUB M_Pereira C_Austin FW IF MIN = 50
-SUB S_Field R_Harper DM IF MIN = 70
+SUB M_Pereira S_Field DM IF MIN = 45
+SUB C_Austin M_Phillips FW IF MIN = 60
+SUB D_Furlong K_Wilson DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 53 SCORE >= 2
+TACTIC D IF MIN >= 47 SCORE >= 2
 
-SUB G_Barry C_Townsend DF IF SCORE <= -3
-SUB G_Barry C_Townsend DF IF SCORE >= 3
+SUB G_Barry K_Wilson DF IF SCORE <= -3
+SUB G_Barry K_Wilson DF IF SCORE >= 3
 
