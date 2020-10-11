@@ -512,7 +512,7 @@ FW D_Van_Ry
    Overall     292     238     305     295     275     316     281 
 
 GK Q_Bonnette
-GK S_Manescu
+DF W_Emmerling
 DF N_Morariu
 FW H_Kewell
 FW G_Mordino
@@ -524,10 +524,10 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB C_Owen G_Mordino FW IF MIN = 55
-SUB I_Drover N_Morariu DF IF MIN = 65
-SUB D_Van_Ry H_Kewell FW IF MIN = 78
-TACTIC A IF MIN >= 65 SCORE <= -2
+SUB D_Van_Ry G_Mordino FW IF MIN = 55
+SUB C_Owen H_Kewell FW IF MIN = 65
+SUB I_Drover N_Morariu DF IF MIN = 78
+TACTIC A IF MIN >= 78 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
@@ -600,14 +600,14 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB P_Lazar L_Roman DF IF MIN = 45
-SUB E_Skutnik F_Pacuraru FW IF MIN = 55
-CHANGEPOS J_Moculescu DF IF MIN = 60
-SUB M_Parvulescu T_Cozma DF IF MIN = 90
-TACTIC A IF MIN >= 77 SCORE <= -2
+SUB H_Ghita F_Pacuraru FW IF MIN = 50
+SUB P_Lazar L_Roman DF IF MIN = 55
+SUB E_Skutnik T_Cozma DM IF MIN = 84
+CHANGEPOS J_Moculescu DF IF MIN = 87
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 71 SCORE >= 2
+TACTIC C IF MIN >= 89 SCORE = 1
+TACTIC L IF MIN >= 78 SCORE >= 2
 
 

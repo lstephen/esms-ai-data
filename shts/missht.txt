@@ -14,7 +14,7 @@ FW C_Owen
 FW D_Van_Ry
 
 GK Q_Bonnette
-GK S_Manescu
+DF W_Emmerling
 DF N_Morariu
 FW H_Kewell
 FW G_Mordino
@@ -22,10 +22,10 @@ FW G_Mordino
 PK: C_Owen
 AGG 20
 
-SUB 10 16 FW IF MIN = 55
-SUB 6 14 DF IF MIN = 65
-SUB 11 15 FW IF MIN = 78
-TACTIC A IF MIN >= 65 SCORE <= -2
+SUB 11 16 FW IF MIN = 55
+SUB 10 15 FW IF MIN = 65
+SUB 6 14 DF IF MIN = 78
+TACTIC A IF MIN >= 78 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
