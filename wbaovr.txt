@@ -401,7 +401,7 @@ SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
 SUB S_Ajayi K_Wilson DF IF MIN = 45
-SUB D_Furlong A_Hegazy DF IF MIN = 50
+SUB D_Furlong A_Hegazy DF IF MIN = 60
 SUB R_Harper S_Field MF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
