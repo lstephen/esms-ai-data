@@ -317,6 +317,7 @@ L_Roman         19 18/ 6/ 9 | DF D :  23  -3 :  20 |  -3  0.6   7 ||  25 || DF-1
 P_Lazar         20 18/ 7/ 9 | DF D :  23  -3 :  20 |  -2  0.3   7 ||  25 || DF-11 DF -8 DF-11 DF -6 DF -7 DM -8 DF -3   R r 
 T_Gheorghiu     19 18/ 5/ 7 | DF D :  23  -3 :  19 |  -3  0.3   7 ||  23 || DF-13 DF -9 DF-13 DF -7 DF -9 DM-10 DF -3   R r 
 D_Balitiu       20 12/18/ 9 | MF P :  23  -4 :  19 |  -4  0.7   7 ||  23 || MF -4 MF -5 DM -8 DM -6 MF -6 DM -9 DM -6   R r 
+T_Cozma         18 16/ 9/ 5 | DF D :  21  -5 :  17 |  -5  0.2   7 ||  19 || DM-12 DF-10 DF-15 DF -9 DF-10 DM-11 DF -5   R r 
 C_Boroi         20 11/18/ 5 | MF P :  22  -5 :  17 |  -6  0.4   7 ||  18 || MF -5 MF -6 DM-11 DM -7 DM -8 DM-12 DM -7   R r 
 Y_Hopfinger     21    17    | GK N :  26 -13 :  12 | -11  1.4   7 ||  10 || GK-13 GK-13 GK-13 GK-13 GK-13 GK-13 GK-13   R r 
 
@@ -325,7 +326,6 @@ Y_Hopfinger     21    17    | GK N :  26 -13 :  12 | -11  1.4   7 ||  10 || GK-1
 E_Skutnik       17 15/ 8/ 4 | DF D :  20  -6 :  14 |   1  0.7   7 ||  22 || DM-13 DF-12 DF-17 DF-11 DF-12 DM-13 DF -6   R r 
 P_Chivu         18  5/ 5/17 | FW L :  25  -7 :  18 |  -3  0.8   7 ||  22 || AM-15 FW-15 FW-15 FW-12 FW-14 FW -7 FW-11   R r 
 S_Kazaku        16  8/15/ 9 | MF P :  19  -8 :  11 |   0  0.4   7 ||  19 || MF -8 MF-10 MF-12 MF-10 MF-11 AM-12 DM-12   R r 
-T_Cozma         18 16/ 9/ 5 | DF D :  21  -5 :  17 |  -5  0.2   7 ||  19 || DM-12 DF-10 DF-15 DF -9 DF-10 DM-11 DF -5   R r 
 C_Cinca         19 17/ 6/ 5 | DF D :  22  -4 :  17 |  -5  0.1   7 ||  19 || DM-14 DF-10 DF-15 DF -9 DF-10 DM-12 DF -4   R r 
 S_Zamfir        18 16/ 4/ 8 | DF D :  20  -6 :  14 |  -7  1.2   7 ||  15 || DM-16 DF-12 DF-15 DF -9 DF-11 DM-12 DF -6   R r 
 C_Ionita        21    17    | GK N :  26 -13 :  12 | -11  0.4   7 ||   9 || GK-13 GK-13 GK-13 GK-13 GK-13 GK-13 GK-13   R r 
@@ -343,7 +343,6 @@ T_Ris           22 18/ 5/15 | DF D :  23  -3 :  19 |  -3  0.6   7 ||  24 || DF-1
 E_Skutnik       17 15/ 8/ 4 | DF D :  20  -6 :  14 |   1  0.7   7 ||  22 || DM-13 DF-12 DF-17 DF-11 DF-12 DM-13 DF -6   R r 
 P_Chivu         18  5/ 5/17 | FW L :  25  -7 :  18 |  -3  0.8   7 ||  22 || AM-15 FW-15 FW-15 FW-12 FW-14 FW -7 FW-11   R r 
 S_Kazaku        16  8/15/ 9 | MF P :  19  -8 :  11 |   0  0.4   7 ||  19 || MF -8 MF-10 MF-12 MF-10 MF-11 AM-12 DM-12   R r 
-T_Cozma         18 16/ 9/ 5 | DF D :  21  -5 :  17 |  -5  0.2   7 ||  19 || DM-12 DF-10 DF-15 DF -9 DF-10 DM-11 DF -5   R r 
 C_Cinca         19 17/ 6/ 5 | DF D :  22  -4 :  17 |  -5  0.1   7 ||  19 || DM-14 DF-10 DF-15 DF -9 DF-10 DM-12 DF -4   R r 
 S_Manescu       23    19    | GK N :  29 -10 :  18 |  -7  1.3   6 ||  18 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
 S_Zamfir        18 16/ 4/ 8 | DF D :  20  -6 :  14 |  -7  1.2   7 ||  15 || DM-16 DF-12 DF-15 DF -9 DF-11 DM-12 DF -6   R r 
@@ -598,12 +597,12 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW P_Chivu FW IF INJURED FW
 
-SUB E_Skutnik T_Cozma DF IF MIN = 55
-SUB P_Lazar L_Roman DF IF MIN = 60
-TACTIC A IF MIN >= 72 SCORE <= -2
+SUB P_Lazar L_Roman DF IF MIN = 45
+SUB E_Skutnik T_Cozma DF IF MIN = 50
+TACTIC A IF MIN >= 74 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 72 SCORE >= 2
+TACTIC L IF MIN >= 73 SCORE >= 2
 
 
