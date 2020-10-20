@@ -4,9 +4,9 @@ P
 GK S_Johnstone
 DF K_Gibbs
 DF C_Townsend
+DF D_Furlong
 DF K_Wilson
 DF J_Livermore
-DF G_Barry
 DM C_Connolly
 DM A_Anguissa
 DM C_Brunt
@@ -14,21 +14,21 @@ FW M_Pereira
 FW M_Phillips
 
 GK J_Bond
-DF S_Ajayi
-DF D_Furlong
+DF R_Harper
 DF S_Field
 FW F_Krovinovic
+FW K_Grosicki
 
 PK: M_Phillips
 AGG 20
 
-SUB 4 14 DF IF MIN = 45
-SUB 6 15 DF IF MIN = 65
-SUB 3 13 DF IF MIN = 78
+SUB 5 14 DF IF MIN = 45
+SUB 10 15 FW IF MIN = 60
+SUB 11 13 MF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
-SUB 8 16 DM IF SCORE <= -3
-SUB 8 16 DM IF SCORE >= 3
+TACTIC D IF MIN >= 83 SCORE = 1
+TACTIC D IF MIN >= 62 SCORE >= 2
+SUB 8 13 DM IF SCORE <= -3
+SUB 8 13 DM IF SCORE >= 3
