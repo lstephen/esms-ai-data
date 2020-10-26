@@ -618,7 +618,7 @@ SUB FW B_McClair FW IF INJURED FW
 
 SUB D_Byrne B_McClair FW IF MIN = 45
 SUB John_McNamara W_Morgan DF IF MIN = 50
-SUB S_McMahon R_Pires MF IF MIN = 60
+SUB S_McMahon R_Pires MF IF MIN = 65
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC C IF SCORE = 0
@@ -694,9 +694,9 @@ SUB MF N_Niculaie MF IF INJURED MF
 SUB AM N_Niculaie AM IF INJURED AM
 SUB FW Zico_Jnr FW IF INJURED FW
 
-SUB N_Zaituc N_Niculaie DF IF MIN = 50
-SUB D_Boroi J_Milburn DF IF MIN = 65
-SUB K_Layvin Zico_Jnr MF IF MIN = 70
+SUB J_Cadette N_Niculaie MF IF MIN = 60
+SUB M_Antonio J_Milburn DM IF MIN = 65
+SUB Ridoutkha Zico_Jnr DM IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC N IF SCORE = 0
