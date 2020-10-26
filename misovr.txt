@@ -529,14 +529,14 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB D_Van_Ry H_Kewell FW IF MIN = 50
 SUB C_Owen G_Mordino FW IF MIN = 60
-SUB N_Morariu W_Emmerling DF IF MIN = 78
-TACTIC A IF MIN >= 84 SCORE <= -2
+SUB N_Morariu W_Emmerling DF IF MIN = 65
+SUB D_Van_Ry H_Kewell FW IF MIN = 78
+TACTIC A IF MIN >= 88 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 56 SCORE >= 2
+TACTIC L IF MIN >= 52 SCORE >= 2
 
 
 Forced:J_Moculescu/W_Westfall/R_Amanar/I_Kazaku/
@@ -605,14 +605,13 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB L_Roman E_Skutnik DF IF MIN = 65
-SUB M_Parvulescu F_Pacuraru FW IF MIN = 70
-CHANGEPOS J_Moculescu DF IF MIN = 75
-SUB P_Lazar T_Gheorghiu DF IF MIN = 78
-TACTIC A IF MIN >= 75 SCORE <= -2
+SUB L_Roman T_Gheorghiu DF IF MIN = 45
+SUB H_Ghita F_Pacuraru FW IF MIN = 50
+SUB P_Lazar E_Skutnik DF IF MIN = 84
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 75 SCORE >= 2
+TACTIC C IF MIN >= 56 SCORE >= 2
 
 
