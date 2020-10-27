@@ -290,7 +290,7 @@ DEFENSIVE        23  20  21  22  19  15
                          Min
                       NORMAL    23    18    19          20    18 
                    DEFENSIVE    23          21    19    16    15 
-                   ATTACKING    23    19    19          21    26 
+                   ATTACKING    23    19    19          21    24 
               COUNTER_ATTACK    23    18    20    20    20    21 
                    LONG_BALL    23                18          22 
                      PASSING    23    20                      21 
@@ -389,25 +389,25 @@ FW C_Austin
 GK J_Bond
 DF S_Ajayi
 DF C_Townsend
-DF N_Ferguson
+AM R_Harper
 FW M_Pereira
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF N_Ferguson DF IF INJURED DF
+SUB DF S_Ajayi DF IF INJURED DF
 SUB DM M_Pereira DM IF INJURED DM
 SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB K_Wilson S_Ajayi DF IF MIN = 50
-SUB D_Furlong N_Ferguson DF IF MIN = 65
-SUB G_Barry C_Townsend DF IF MIN = 70
+SUB D_Furlong S_Ajayi DF IF MIN = 45
+SUB K_Wilson C_Townsend DF IF MIN = 55
+SUB F_Krovinovic R_Harper DM IF MIN = 81
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 37 SCORE >= 2
 
-SUB K_Gibbs N_Ferguson DF IF SCORE <= -3
-SUB K_Gibbs N_Ferguson DF IF SCORE >= 3
+SUB K_Gibbs S_Ajayi DF IF SCORE <= -3
+SUB K_Gibbs S_Ajayi DF IF SCORE >= 3
 
