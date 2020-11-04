@@ -265,7 +265,7 @@ FW H_Ghita
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
   TACKLING     114     138      86     118     124     104     107 
-   PASSING      80      52      96      87      43     117      75 
+   PASSING      80      52      96      87      43     117      74 
   SHOOTING      84      42     135      73     125      75      80 
    SH Mean      16      18      15      16      15      16      16 
  SH Median      18      18      18      18      18      18      18 
@@ -376,7 +376,7 @@ DEFENSIVE        39  27  31  32  32  28
                    ATTACKING    26    21          19          23 
               COUNTER_ATTACK    26    20          18    23    22 
                    LONG_BALL    26    22          14          25 
-                     PASSING    26    22                      17 
+                     PASSING    26    22          17          22 
                     EUROPEAN    26    21    19    22    27    20 
 
 ** /free_agents.txt **
@@ -526,9 +526,9 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB C_Owen D_Van_Ry FW IF MIN = 55
-SUB X_Cullie H_Kewell MF IF MIN = 70
-SUB N_Morariu W_Emmerling DF IF MIN = 78
+SUB N_Morariu W_Emmerling DF IF MIN = 50
+SUB C_Owen D_Van_Ry FW IF MIN = 60
+SUB X_Cullie H_Kewell MF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC D IF SCORE = 0
@@ -600,8 +600,8 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW S_Kazaku FW IF INJURED FW
 
-SUB T_Cozma C_Cinca DF IF MIN = 60
-SUB L_Roman T_Gheorghiu DF IF MIN = 65
+SUB T_Cozma C_Cinca DF IF MIN = 55
+SUB L_Roman T_Gheorghiu DF IF MIN = 60
 SUB F_Pacuraru S_Kazaku MF IF MIN = 84
 TACTIC A IF MIN >= 48 SCORE <= -2
 TACTIC P IF SCORE = -1
