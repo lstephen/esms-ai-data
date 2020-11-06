@@ -265,7 +265,7 @@ FW H_Ghita
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
   TACKLING     114     138      86     118     124     104     107 
-   PASSING      80      52      96      87      43     117      74 
+   PASSING      80      52      96      87      43     117      75 
   SHOOTING      84      42     135      73     125      75      80 
    SH Mean      16      18      15      16      15      16      16 
  SH Median      18      18      18      18      18      18      18 
@@ -527,7 +527,7 @@ SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
 SUB N_Morariu W_Emmerling DF IF MIN = 50
-SUB C_Owen D_Van_Ry FW IF MIN = 60
+SUB C_Owen D_Van_Ry FW IF MIN = 55
 SUB X_Cullie H_Kewell MF IF MIN = 78
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -590,7 +590,7 @@ FW H_Ghita
 GK C_Ionita
 DF T_Gheorghiu
 DF C_Cinca
-DF S_Zamfir
+DF E_Skutnik
 FW S_Kazaku
 
 SUB GK C_Ionita GK IF INJURED GK
@@ -600,13 +600,13 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW S_Kazaku FW IF INJURED FW
 
-SUB T_Cozma C_Cinca DF IF MIN = 55
-SUB L_Roman T_Gheorghiu DF IF MIN = 60
-SUB F_Pacuraru S_Kazaku MF IF MIN = 84
-TACTIC A IF MIN >= 48 SCORE <= -2
+SUB L_Roman E_Skutnik DF IF MIN = 55
+SUB T_Cozma C_Cinca DF IF MIN = 60
+SUB P_Lazar T_Gheorghiu DF IF MIN = 81
+TACTIC A IF MIN >= 60 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 78 SCORE >= 2
+TACTIC L IF MIN >= 73 SCORE >= 2
 
 
