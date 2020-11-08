@@ -390,7 +390,7 @@ FW C_Austin
 
 GK J_Bond
 DF N_Ferguson
-DM J_Livermore
+DF J_Livermore
 AM R_Harper
 AM B_Kapustka
 
@@ -401,11 +401,11 @@ SUB MF B_Kapustka MF IF INJURED MF
 SUB AM B_Kapustka AM IF INJURED AM
 SUB FW B_Kapustka FW IF INJURED FW
 
-SUB K_Wilson N_Ferguson DF IF MIN = 45
-SUB D_Furlong J_Livermore DF IF MIN = 60
-SUB M_Pereira R_Harper DM IF MIN = 70
+SUB D_Furlong N_Ferguson DF IF MIN = 60
+SUB K_Wilson R_Harper DM IF MIN = 65
+SUB M_Phillips J_Livermore DF IF MIN = 70
 TACTIC P IF MIN >= 70 SCORE <= -2
-TACTIC P IF MIN >= 60 SCORE = -1
+TACTIC P IF MIN >= 70 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
