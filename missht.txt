@@ -1,32 +1,31 @@
 mis
-D
+P
 
 GK N_Kent
-DF G_C_Moore
 DF V_Barbieri
+DF O_Burgin
+DF X_Cullie
 DF N_Morariu
-MF O_Burgin
-MF X_Cullie
-MF O_Bravo
-MF P_Deusner
-MF I_Tatarescu
-MF I_Drover
+DF O_Bravo
+DM P_Deusner
+DM I_Tatarescu
 FW C_Owen
+FW D_Van_Ry
+FW G_Mordino
 
 GK Q_Bonnette
 GK S_Manescu
-MF W_Emmerling
-AM H_Kewell
-AM D_Van_Ry
+DF W_Emmerling
+DF L_Gabor
+FW H_Kewell
 
 PK: C_Owen
 AGG 20
 
-SUB 11 16 FW IF MIN = 55
-SUB 4 14 DF IF MIN = 60
-SUB 6 15 MF IF MIN = 78
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC D IF SCORE = 0
-TACTIC D IF SCORE = 1
-TACTIC D IF SCORE >= 2
+SUB 5 14 DF IF MIN = 60
+SUB 9 16 FW IF MIN = 70
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC C IF MIN >= 71 SCORE >= 2
