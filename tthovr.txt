@@ -616,9 +616,9 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW D_McHale FW IF INJURED FW
 
-SUB D_Byrne Moreto MF IF MIN = 45
-SUB John_McNamara E_Plummer DF IF MIN = 50
-SUB R_Pires M_Laudrup MF IF MIN = 78
+SUB D_Byrne M_Laudrup MF IF MIN = 45
+SUB John_McNamara E_Plummer DF IF MIN = 60
+SUB R_Morrison Moreto DM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
@@ -693,8 +693,8 @@ SUB AM N_Zaituc AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
 SUB D_Mario A_Milosovici FW IF MIN = 50
-SUB N_Niculaie J_Milburn DM IF MIN = 65
-SUB K_Layvin N_Zaituc DF IF MIN = 75
+SUB K_Layvin N_Zaituc DF IF MIN = 60
+SUB N_Niculaie J_Milburn DM IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC N IF SCORE = 0
