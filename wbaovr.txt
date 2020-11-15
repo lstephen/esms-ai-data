@@ -292,7 +292,7 @@ DEFENSIVE        23  21  21  22  19  15
                          Min
                       NORMAL    23    18    19          20    18 
                    DEFENSIVE    23          21    19    16    15 
-                   ATTACKING    23    19    19          21    24 
+                   ATTACKING    23    19    19          21    26 
               COUNTER_ATTACK    23    18    20    20    20    21 
                    LONG_BALL    23                18          20 
                      PASSING    23    20                      21 
@@ -390,7 +390,7 @@ FW C_Austin
 
 GK J_Bond
 DF S_Ajayi
-AM R_Harper
+DF N_Ferguson
 FW F_Krovinovic
 FW K_Grosicki
 
@@ -401,10 +401,10 @@ SUB MF F_Krovinovic MF IF INJURED MF
 SUB AM F_Krovinovic AM IF INJURED AM
 SUB FW K_Grosicki FW IF INJURED FW
 
-SUB K_Wilson R_Harper DM IF MIN = 55
-SUB M_Phillips S_Ajayi DF IF MIN = 60
+SUB K_Wilson N_Ferguson DF IF MIN = 60
+SUB C_Townsend S_Ajayi DF IF MIN = 65
 SUB C_Austin F_Krovinovic FW IF MIN = 70
-TACTIC P IF MIN >= 60 SCORE <= -2
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
