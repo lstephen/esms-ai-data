@@ -253,30 +253,30 @@ FW C_Owen
 PASSING
 GK Y_Hopfinger
 DF P_Lazar
+DF L_Roman
+DF M_Parvulescu
 DF W_Westfall
 DF I_Kazaku
-DF R_Amanar
-DF J_Moculescu
-DM M_Parvulescu
 DM D_Balitiu
 DM C_Boroi
-FW F_Pacuraru
+FW R_Amanar
+FW J_Moculescu
 FW H_Ghita
                  N       D       A       C       L       P       E 
   STOPPING      27      27      27      27      27      27      27 
-  TACKLING     111     137      86     115     127     103     109 
-   PASSING      91      61     104      97      47     125      87 
-  SHOOTING      76      31     128      62     120      64      70 
-   SH Mean      16      17      16      16      16      17      17 
+  TACKLING     114     139      86     118     124     104     107 
+   PASSING      80      52      96      88      43     118      75 
+  SHOOTING      84      42     136      73     126      75      81 
+   SH Mean      16      18      16      16      15      16      16 
  SH Median      18      18      18      18      18      18      18 
     SH Max      18      18      18      18      18      18      18 
-  SH Bonus      16      10      20      15      13      18      15 
+  SH Bonus      15       9      20      15      13      18      15 
    GK Qual      18      18      18      18      18      18      18 
-  GK Bonus      16      12      21      16      14      18      16 
-       Agg      28      28      28      28      28      28      28 
-   Scoring      86      51     112      85      72     105      82 
- Defending     111     137      86     115     127     103     109 
-   Overall     226     182     235     227     213     243     218 
+  GK Bonus      15      12      21      15      14      18      15 
+       Agg      29      29      29      29      29      29      29 
+   Scoring      82      49     110      83      71     104      77 
+ Defending     114     139      86     118     124     104     107 
+   Overall     221     179     233     225     210     243     210 
 
 ** First XI **
                             |                      | vAg Abs      || OVR ||  P     C     A     E     N     L     D   
@@ -368,8 +368,8 @@ DEFENSIVE        39  27  31  32  32  28
                          Max    42    41    39    37    36    37 
                   1st XI (N)    42    33    32                35 
                   1st XI (P)    42    37    29                38 
-                Reserves (N)    27    25    25                27 
-                Reserves (P)    27    26    23                29 
+                Reserves (N)    27    24    25                27 
+                Reserves (P)    27    25    23                32 
                          Min
                       NORMAL    26    20          19    28    22 
                    DEFENSIVE    26    20          16    23    17 
@@ -525,13 +525,13 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW H_Kewell FW IF INJURED FW
 
-SUB N_Morariu W_Emmerling DF IF MIN = 60
-SUB C_Owen H_Kewell FW IF MIN = 70
+SUB N_Morariu W_Emmerling DF IF MIN = 45
+SUB C_Owen H_Kewell FW IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC C IF MIN >= 71 SCORE >= 2
+TACTIC C IF MIN >= 70 SCORE >= 2
 
 
 Forced:I_Kazaku/R_Amanar/F_Pacuraru/
@@ -587,7 +587,7 @@ FW R_Amanar
 GK C_Ionita
 DF T_Gheorghiu
 DF C_Cinca
-MF S_Olteanu
+FW S_Olteanu
 FW P_Chivu
 
 SUB GK C_Ionita GK IF INJURED GK
@@ -597,13 +597,13 @@ SUB MF S_Olteanu MF IF INJURED MF
 SUB AM S_Olteanu AM IF INJURED AM
 SUB FW P_Chivu FW IF INJURED FW
 
-SUB L_Roman T_Gheorghiu DF IF MIN = 50
-SUB T_Cozma C_Cinca DF IF MIN = 60
+SUB L_Roman C_Cinca DF IF MIN = 60
+SUB T_Cozma T_Gheorghiu DF IF MIN = 65
 SUB S_Kazaku P_Chivu FW IF MIN = 81
-TACTIC A IF MIN >= 59 SCORE <= -2
+TACTIC A IF MIN >= 65 SCORE <= -2
 TACTIC A IF MIN >= 81 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 60 SCORE >= 2
+TACTIC L IF MIN >= 64 SCORE >= 2
 
 
