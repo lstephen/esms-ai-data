@@ -616,9 +616,9 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW B_McClair FW IF INJURED FW
 
-SUB D_Byrne B_McClair FW IF MIN = 45
-SUB D_McHale M_Laudrup MF IF MIN = 50
-SUB W_Morgan A_Salto DF IF MIN = 84
+SUB D_Byrne B_McClair FW IF MIN = 50
+SUB R_Morrison M_Laudrup MF IF MIN = 55
+SUB E_Plummer A_Salto DF IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
@@ -692,8 +692,8 @@ SUB AM N_Niculaie AM IF INJURED AM
 SUB FW K_Layvin FW IF INJURED FW
 
 SUB Ridoutkha N_Niculaie MF IF MIN = 55
-SUB C_Hurgoi D_Dragan MF IF MIN = 70
-SUB M_Antonio J_Milburn MF IF MIN = 75
+SUB C_Hurgoi J_Milburn MF IF MIN = 65
+SUB M_Antonio D_Dragan MF IF MIN = 75
 TACTIC C IF SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC D IF SCORE = 0
