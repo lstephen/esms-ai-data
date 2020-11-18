@@ -3,32 +3,32 @@ E
 
 GK Carlos_Bravo
 DF N_Stiles
+DF La_Huntellio
 DF W_Morgan
-DF E_Plummer
 DM S_Winzor
 DM Doriva
-DM Moreto
+DM D_McHale
 MF R_Pires
-MF R_Morrison
-MF D_McHale
-FW D_Byrne
+MF S_McMahon
+AM D_Byrne
+FW B_McClair
 
 GK E_Manuel
-DF John_McNamara
+DM E_Donk
 DM A_Salto
-MF M_Laudrup
-AM B_McClair
+DM R_Morrison
+DM Moreto
 
-PK: D_Byrne
+PK: B_McClair
 AGG 20
 
-SUB 11 16 FW IF MIN = 50
-SUB 9 15 MF IF MIN = 55
-SUB 4 14 DF IF MIN = 81
+SUB 10 16 MF IF MIN = 45
+SUB 7 15 DM IF MIN = 60
+SUB 3 13 DF IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 26 SCORE = 1
-TACTIC D IF MIN >= 13 SCORE >= 2
+TACTIC D IF MIN >= 44 SCORE = 1
+TACTIC D IF MIN >= 22 SCORE >= 2
 SUB 6 15 DM IF SCORE <= -3
 SUB 6 15 DM IF SCORE >= 3
