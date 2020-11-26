@@ -615,8 +615,8 @@ SUB MF R_Morrison MF IF INJURED MF
 SUB AM R_Morrison AM IF INJURED AM
 SUB FW R_Morrison FW IF INJURED FW
 
-SUB D_Byrne R_Morrison MF IF MIN = 45
-SUB D_McHale Moreto DM IF MIN = 60
+SUB D_Byrne Moreto MF IF MIN = 45
+SUB D_McHale R_Morrison DM IF MIN = 50
 SUB La_Huntellio E_Donk DF IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -690,9 +690,9 @@ SUB MF N_Niculaie MF IF INJURED MF
 SUB AM N_Niculaie AM IF INJURED AM
 SUB FW K_Layvin FW IF INJURED FW
 
-SUB M_Antonio J_Milburn MF IF MIN = 55
-SUB C_Hurgoi N_Niculaie MF IF MIN = 60
-SUB Ridoutkha D_Dragan MF IF MIN = 81
+SUB C_Hurgoi J_Milburn MF IF MIN = 60
+SUB Ridoutkha N_Niculaie MF IF MIN = 65
+SUB M_Antonio D_Dragan MF IF MIN = 78
 TACTIC C IF SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC D IF SCORE = 0
