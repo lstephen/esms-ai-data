@@ -1,34 +1,34 @@
 tthr
-D
+C
 
 GK D_Gogean
+DF T_X_Ghiuri
+DF K_Layvin
 DF J_Obi_Mikel
-DF G_Best
-DF N_Zaituc
-MF Ridoutkha
+DM Ridoutkha
+DM N_Niculaie
+DM Zico_Jnr
 MF C_Hurgoi
 MF D_Boroi
 MF M_Antonio
-MF Zico_Jnr
-MF J_Cadette
-FW A_Milosovici
+FW D_Mario
 
 GK A_Ghita
-MF K_Layvin
-MF N_Niculaie
-MF J_Milburn
-MF D_Dragan
+DM G_Best
+DM N_Zaituc
+DM J_Milburn
+FW A_Milosovici
 
-PK: A_Milosovici
+PK: D_Mario
 AGG 20
 
-SUB 6 15 MF IF MIN = 60
-SUB 5 14 MF IF MIN = 65
-SUB 8 16 MF IF MIN = 78
-TACTIC C IF SCORE <= -2
-TACTIC C IF SCORE = -1
-TACTIC D IF SCORE = 0
-TACTIC L IF MIN >= 2 SCORE = 1
-TACTIC L IF SCORE >= 2
-SUB 5 14 MF IF SCORE <= -3
-SUB 5 14 MF IF SCORE >= 3
+SUB 2 13 DF IF MIN = 55
+SUB 7 14 DM IF MIN = 65
+SUB 11 16 FW IF MIN = 81
+TACTIC P IF MIN >= 14 SCORE <= -2
+TACTIC P IF MIN >= 27 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 33 SCORE = 1
+TACTIC D IF MIN >= 17 SCORE >= 2
+SUB 4 13 DF IF SCORE <= -3
+SUB 4 13 DF IF SCORE >= 3
