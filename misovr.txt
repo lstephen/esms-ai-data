@@ -1,15 +1,15 @@
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
-V_Barbieri      28 25/19/18 | DF L :  47   9 :  57 |  13  1.0   1 ||  72 || DF  7 DF  7 DF  7 DF  8 DF  8 DF  9 DF  7       
+V_Barbieri      28 25/19/18 | DF L :  47   9 :  57 |  13  1.1   1 ||  72 || DF  7 DF  7 DF  7 DF  8 DF  8 DF  9 DF  7       
 N_Morariu       22 19/14/16 | DF L :  38   0 :  38 |  14  0.6   7 ||  59 || DF -3 DF -2 DF -1 DF -2 DF -1 DF  0 DF -1       
 O_Burgin        27 22/19/17 | DF L :  43   5 :  48 |   5  0.7   2 ||  56 || DF  4 DF  4 DF  4 DF  5 DF  4 DF  5 DF  4       
-G_C_Moore       32 26/19/16 | DF L :  47   9 :  56 |   0  1.1  -1 ||  56 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 DF  9       
+G_C_Moore       32 26/19/16 | DF L :  47   9 :  56 |   0  1.2  -1 ||  56 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 DF  9       
 I_Tatarescu     22 17/21/15 | MF C :  33   2 :  35 |  11  0.6   7 ||  54 || MF  2 MF  2 MF  2 DM  0 MF  2 MF -1 AM  1       
 W_Westfall      19 18/19/16 | MF C :  32   1 :  33 |  10  1.3   7 ||  51 || DM  0 MF  1 DM  1 DF  0 MF  1 MF  0 AM  1   R r 
-O_Bravo         26 18/23/15 | MF E :  39   5 :  44 |   3  0.3   3 ||  50 || MF  4 MF  5 MF  5 DM  2 MF  4 MF  1 MF  3       
-P_Deusner       24 16/22/ 9 | DM E :  35   1 :  36 |   7  1.0   5 ||  49 || MF  1 MF  1 DM  1 DM -4 MF  0 DM -4 DM -1       
+O_Bravo         26 18/23/15 | MF E :  39   5 :  44 |   3  0.4   3 ||  50 || MF  4 MF  5 MF  5 DM  2 MF  4 MF  1 MF  3       
+P_Deusner       24 16/22/ 9 | DM E :  35   1 :  36 |   7  1.1   5 ||  49 || MF  1 MF  1 DM  1 DM -4 MF  0 DM -4 DM -1       
 R_Amanar        19 14/14/19 | FW L :  32   0 :  32 |   9  0.3   7 ||  48 || AM -5 FW -4 FW -4 DF -4 FW -4 FW  0 FW -3   R r 
+N_Kent          28    28    | GK N :  42   3 :  45 |   1  0.4   1 ||  48 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 J_Moculescu     19 14/17/18 | AM L :  31   0 :  31 |   8  1.5   7 ||  47 || MF -2 AM -3 MF -3 DM -3 MF -2 AM  0 AM -2  SR r 
-N_Kent          28    28    | GK N :  42   3 :  45 |   1  0.4   1 ||  47 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 I_Kazaku        19 17/19/14 | MF C :  31   0 :  31 |   8  0.5   7 ||  46 || MF  0 MF  0 DM  0 DF -2 MF -1 DM -2 MF -1   R r 
 Alan_Michael    26 18/23/13 | DM E :  38   4 :  42 |   1  0.4   3 ||  46 || MF  4 MF  4 DM  4 DM  0 MF  3 DM  0 MF  2       
 C_Owen          30 10/16/24 | FW L :  38   6 :  44 |   0  0.8  -1 ||  43 || FW  1 FW  0 FW  1 FW  2 FW  0 FW  6 FW -1       
@@ -280,14 +280,14 @@ FW H_Ghita
 
 ** First XI **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
-V_Barbieri      28 25/19/18 | DF L :  47   9 :  57 |  13  1.0   1 ||  72 || DF  7 DF  7 DF  7 DF  8 DF  8 DF  9 DF  7       
+V_Barbieri      28 25/19/18 | DF L :  47   9 :  57 |  13  1.1   1 ||  72 || DF  7 DF  7 DF  7 DF  8 DF  8 DF  9 DF  7       
 O_Burgin        27 22/19/17 | DF L :  43   5 :  48 |   5  0.7   2 ||  56 || DF  4 DF  4 DF  4 DF  5 DF  4 DF  5 DF  4       
-G_C_Moore       32 26/19/16 | DF L :  47   9 :  56 |   0  1.1  -1 ||  56 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 DF  9       
+G_C_Moore       32 26/19/16 | DF L :  47   9 :  56 |   0  1.2  -1 ||  56 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 DF  9       
 I_Tatarescu     22 17/21/15 | MF C :  33   2 :  35 |  11  0.6   7 ||  54 || MF  2 MF  2 MF  2 DM  0 MF  2 MF -1 AM  1       
 W_Westfall      19 18/19/16 | MF C :  32   1 :  33 |  10  1.3   7 ||  51 || DM  0 MF  1 DM  1 DF  0 MF  1 MF  0 AM  1   R r 
-O_Bravo         26 18/23/15 | MF E :  39   5 :  44 |   3  0.3   3 ||  50 || MF  4 MF  5 MF  5 DM  2 MF  4 MF  1 MF  3       
-P_Deusner       24 16/22/ 9 | DM E :  35   1 :  36 |   7  1.0   5 ||  49 || MF  1 MF  1 DM  1 DM -4 MF  0 DM -4 DM -1       
-N_Kent          28    28    | GK N :  42   3 :  45 |   1  0.4   1 ||  47 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
+O_Bravo         26 18/23/15 | MF E :  39   5 :  44 |   3  0.4   3 ||  50 || MF  4 MF  5 MF  5 DM  2 MF  4 MF  1 MF  3       
+P_Deusner       24 16/22/ 9 | DM E :  35   1 :  36 |   7  1.1   5 ||  49 || MF  1 MF  1 DM  1 DM -4 MF  0 DM -4 DM -1       
+N_Kent          28    28    | GK N :  42   3 :  45 |   1  0.4   1 ||  48 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 Alan_Michael    26 18/23/13 | DM E :  38   4 :  42 |   1  0.4   3 ||  46 || MF  4 MF  4 DM  4 DM  0 MF  3 DM  0 MF  2       
 C_Owen          30 10/16/24 | FW L :  38   6 :  44 |   0  0.8  -1 ||  43 || FW  1 FW  0 FW  1 FW  2 FW  0 FW  6 FW -1       
 D_Van_Ry        28 14/17/22 | FW L :  36   5 :  41 |  -3  1.0   1 ||  40 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  5 FW  0       
@@ -465,78 +465,79 @@ A_Costacurta    17 15/ 8/10 | DF D :  20  -7 :  13 |  -1  0.9   7 ||  20 || DM-1
 Forced:V_Barbieri/N_Morariu/I_Tatarescu/
 ** Selection **
                             |                      | vAg Abs      || OVR ||  P     C     E     A     N     L     D   
-G_C_Moore       32 26/19/16 | DF L :  47   9 :  56 |   0  1.1  -1 ||  56 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 DF  9       
-V_Barbieri      28 25/19/18 | DF L :  47   9 :  57 |  13  1.0   1 ||  72 || DF  7 DF  7 DF  7 DF  8 DF  8 DF  9 DF  7       
-N_Kent          28    27    | GK N :  41   2 :  42 |  -2  0.4   1 ||  41 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
+N_Kent          28    27    | GK N :  41   2 :  42 |  -2  0.4   1 ||  42 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2       
+G_C_Moore       32 26/19/16 | DF L :  47   9 :  56 |   0  1.2  -1 ||  56 || DF  8 DF  8 DF  7 DF  8 DF  8 DF  9 DF  9       
+O_Bravo         26 18/23/15 | MF E :  39   5 :  44 |   3  0.4   3 ||  50 || MF  4 MF  5 MF  5 DM  2 MF  4 MF  1 MF  3       
+V_Barbieri      28 25/19/18 | DF L :  47   9 :  57 |  13  1.1   1 ||  72 || DF  7 DF  7 DF  7 DF  8 DF  8 DF  9 DF  7       
 Q_Bonnette      29    26    | GK N :  39   0 :  39 |  -5  1.4   0 ||  35 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-O_Burgin        27 22/19/17 | DF L :  43   5 :  48 |   5  0.7   2 ||  56 || DF  4 DF  4 DF  4 DF  5 DF  4 DF  5 DF  4       
-O_Bravo         26 18/23/15 | MF E :  39   5 :  44 |   3  0.3   3 ||  50 || MF  4 MF  5 MF  5 DM  2 MF  4 MF  1 MF  3       
 Alan_Michael    26 18/23/13 | DM E :  38   4 :  42 |   1  0.4   3 ||  46 || MF  4 MF  4 DM  4 DM  0 MF  3 DM  0 MF  2       
+O_Burgin        27 22/19/17 | DF L :  43   5 :  48 |   5  0.7   2 ||  56 || DF  4 DF  4 DF  4 DF  5 DF  4 DF  5 DF  4       
+I_Tatarescu     22 17/21/15 | MF C :  33   2 :  35 |  11  0.6   7 ||  54 || MF  2 MF  2 MF  2 DM  0 MF  2 MF -1 AM  1       
+P_Deusner       24 16/22/ 9 | DM E :  35   1 :  36 |   7  1.1   5 ||  49 || MF  1 MF  1 DM  1 DM -4 MF  0 DM -4 DM -1       
+G_Mordino       26 14/18/21 | AM L :  35   4 :  38 |  -2  0.9   3 ||  40 || FW  0 AM  0 AM  0 MF  0 AM  0 AM  4 AM  0       
+H_Kewell        25  5/21/18 | MF A :  35   1 :  35 |  -4  1.3   4 ||  37 || MF  0 MF -3 MF  0 MF  1 AM -2 AM -1 AM -6       
+I_Drover        27 18/18/19 | AM L :  34   3 :  36 |  -8  0.4   2 ||  31 || DF  0 AM  1 DM  0 DF  2 MF  1 AM  3 AM  1       
 D_Van_Ry        28 14/17/22 | FW L :  36   5 :  41 |  -3  1.0   1 ||  40 || FW  0 FW  0 FW  0 FW  0 FW  0 FW  5 FW  0       
 C_Owen          30 10/16/24 | FW L :  38   6 :  44 |   0  0.8  -1 ||  43 || FW  1 FW  0 FW  1 FW  2 FW  0 FW  6 FW -1       
-I_Tatarescu     22 17/21/15 | MF C :  33   2 :  35 |  11  0.6   7 ||  54 || MF  2 MF  2 MF  2 DM  0 MF  2 MF -1 AM  1       
-G_Mordino       26 14/18/21 | AM L :  35   4 :  38 |  -2  0.9   3 ||  40 || FW  0 AM  0 AM  0 MF  0 AM  0 AM  4 AM  0       
-I_Drover        27 18/18/19 | AM L :  34   3 :  36 |  -8  0.4   2 ||  31 || DF  0 AM  1 DM  0 DF  2 MF  1 AM  3 AM  1       
 X_Cullie        29 19/18/15 | DM E :  34   0 :  34 | -10  1.2   0 ||  25 || DF  0 DM  0 DM  0 DF  0 DF  0 DF  0 MF  0       
-P_Deusner       24 16/22/ 9 | DM E :  35   1 :  36 |   7  1.0   5 ||  49 || MF  1 MF  1 DM  1 DM -4 MF  0 DM -4 DM -1       
 N_Morariu       22 19/14/16 | DF L :  38   0 :  38 |  14  0.6   7 ||  59 || DF -3 DF -2 DF -1 DF -2 DF -1 DF  0 DF -1       
-H_Kewell        25  5/21/18 | MF A :  35   1 :  35 |  -4  1.3   4 ||  37 || MF  0 MF -3 MF  0 MF  1 AM -2 AM -1 AM -6       
 S_Manescu       23    19    | GK N :  29 -10 :  18 | -10  1.4   6 ||  15 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
 W_Emmerling     23 19/13/ 8 | DF D :  26  -1 :  25 |  -4  1.4   6 ||  29 || DF -6 DF -4 DF -5 DF -8 DF -5 DM -5 DF -1       
 T_Ris           22 18/ 5/15 | DF L :  34  -4 :  29 |   5  0.6   7 ||  42 || DF-11 DF -7 DF -5 DF -8 DF -7 DF -4 DF -4       
 L_Gabor         22 17/10/12 | DF D :  23  -4 :  18 |  -5  1.2   7 ||  21 || DF -9 DF -7 DF -6 DF -8 DF -7 DM -6 DF -4       
 
-NORMAL
+EUROPEAN
 GK N_Kent
 DF G_C_Moore
 DF V_Barbieri
 DF N_Morariu
 DM O_Burgin
+DM X_Cullie
 DM Alan_Michael
-DM P_Deusner
 MF O_Bravo
+MF P_Deusner
 MF I_Tatarescu
-MF I_Drover
 FW C_Owen
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     135     182      81     144     169     114     124 
-   PASSING     147     105     156     150      74     171     164 
-  SHOOTING      78      35     136      59     130      59      69 
-   SH Mean      18      20      18      19      18      19      19 
- SH Median      18      24      17      18      17      18      18 
+  TACKLING     136     183      81     145     170     115     126 
+   PASSING     147     106     156     151      74     171     165 
+  SHOOTING      76      34     132      58     125      58      66 
+   SH Mean      18      19      18      19      17      19      18 
+ SH Median      16      24      16      17      16      18      17 
     SH Max      24      24      24      24      24      24      24 
-  SH Bonus      21      15      28      20      15      23      22 
+  SH Bonus      20      15      27      19      15      23      22 
    GK Qual      27      27      27      27      27      27      27 
-  GK Bonus      26      20      39      25      21      29      28 
+  GK Bonus      26      20      38      25      21      29      28 
        Agg      19      19      19      19      19      19      19 
-   Scoring     124      82     149     120      92     133     132 
- Defending     135     182      81     144     169     114     124 
-   Overall     305     270     268     306     280     298     307 
+   Scoring     124      82     148     120      91     133     132 
+ Defending     136     183      81     145     170     115     126 
+   Overall     304     270     268     306     278     299     307 
 
 GK Q_Bonnette
-DF X_Cullie
-AM H_Kewell
-FW D_Van_Ry
-FW G_Mordino
+MF H_Kewell
+MF I_Drover
+AM D_Van_Ry
+AM G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF X_Cullie DF IF INJURED DF
+SUB DF I_Drover DF IF INJURED DF
 SUB DM H_Kewell DM IF INJURED DM
 SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB O_Burgin D_Van_Ry MF IF MIN = 55
-SUB P_Deusner G_Mordino MF IF MIN = 60
-CHANGEPOS I_Tatarescu DM IF MIN = 65
-CHANGEPOS O_Bravo DM IF MIN = 70
-SUB I_Drover H_Kewell MF IF MIN = 84
+SUB N_Morariu G_Mordino DF IF MIN = 55
+SUB C_Owen D_Van_Ry FW IF MIN = 60
+SUB P_Deusner H_Kewell MF IF MIN = 75
+CHANGEPOS X_Cullie DF IF MIN = 78
+CHANGEPOS G_Mordino MF IF MIN = 81
+CHANGEPOS I_Tatarescu DM IF MIN = 84
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
-TACTIC N IF SCORE = 0
-TACTIC L IF MIN >= 55 SCORE = 1
-TACTIC D IF MIN >= 34 SCORE >= 2
+TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 5 SCORE = 1
+TACTIC D IF MIN >= 30 SCORE >= 2
 
 
 Forced:W_Westfall/I_Kazaku/R_Amanar/F_Pacuraru/
@@ -603,15 +604,13 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW P_Chivu FW IF INJURED FW
 
-CHANGEPOS C_Boroi MF IF MIN = 50
 SUB T_Gheorghiu C_Cinca DF IF MIN = 55
-CHANGEPOS R_Amanar DM IF MIN = 60
 SUB F_Pacuraru P_Chivu FW IF MIN = 70
-SUB L_Roman T_Cozma DF IF MIN = 81
+SUB L_Roman T_Cozma DF IF MIN = 87
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 62 SCORE = 1
+TACTIC D IF MIN >= 60 SCORE = 1
 TACTIC D IF MIN >= 30 SCORE >= 2
 
 
