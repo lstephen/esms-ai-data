@@ -402,13 +402,13 @@ SUB AM R_Harper AM IF INJURED AM
 SUB FW C_Austin FW IF INJURED FW
 
 SUB K_Wilson D_Furlong DF IF MIN = 55
-SUB C_Brunt C_Austin FW IF MIN = 60
-SUB S_Ajayi S_Field DF IF MIN = 75
+SUB C_Townsend C_Austin FW IF MIN = 65
+SUB F_Krovinovic S_Field DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 80 SCORE >= 2
+TACTIC D IF MIN >= 59 SCORE >= 2
 
 SUB C_Connolly R_Harper DM IF SCORE <= -3
 SUB C_Connolly R_Harper DM IF SCORE >= 3
