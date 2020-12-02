@@ -601,7 +601,7 @@ FW D_Byrne
 
 GK E_Manuel
 DF E_Plummer
-DF E_Donk
+DF A_Salto
 FW S_McMahon
 FW B_McClair
 
@@ -612,14 +612,14 @@ SUB MF S_McMahon MF IF INJURED MF
 SUB AM S_McMahon AM IF INJURED AM
 SUB FW B_McClair FW IF INJURED FW
 
-SUB John_McNamara E_Plummer DF IF MIN = 45
-SUB D_Byrne B_McClair FW IF MIN = 50
-SUB M_Laudrup S_McMahon MF IF MIN = 75
+SUB W_Morgan E_Plummer DF IF MIN = 60
+SUB John_McNamara B_McClair FW IF MIN = 65
+SUB D_Byrne A_Salto DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 47 SCORE >= 2
+TACTIC D IF MIN >= 46 SCORE >= 2
 
 SUB Doriva E_Plummer DF IF SCORE <= -3
 SUB Doriva E_Plummer DF IF SCORE >= 3
@@ -689,8 +689,8 @@ SUB AM G_Best AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
 SUB T_X_Ghiuri G_Best DF IF MIN = 55
-SUB Zico_Jnr N_Zaituc DM IF MIN = 65
-SUB D_Mario A_Milosovici FW IF MIN = 81
+SUB D_Mario A_Milosovici FW IF MIN = 70
+SUB Zico_Jnr N_Zaituc DM IF MIN = 81
 TACTIC P IF MIN >= 14 SCORE <= -2
 TACTIC P IF MIN >= 27 SCORE = -1
 TACTIC C IF SCORE = 0
