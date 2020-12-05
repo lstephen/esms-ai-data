@@ -377,6 +377,7 @@ Keeper03        31    30    | GK N :  45   5 :  50 |   7  0.3   4 ||  61 || GK  
 E_Van_DerSarr   34    30    | GK N :  45   5 :  50 |   6  1.0   2 ||  58 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
 Keeper02        26    28    | GK N :  42   2 :  44 |   7  0.6   6 ||  57 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2     r 
 Keeper06        28    28    | GK N :  42   2 :  44 |   2  0.9   5 ||  52 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2     r 
+B_Celina        29  6/25/18 | AM A :  43   0 :  43 |   2  0.4   4 ||  49 || AM  0 AM  0 AM  0 AM  0 MF  0 AM -2 AM -2       
 Keeper08        33    28    | GK N :  42   2 :  44 |   1  0.9   3 ||  48 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2     r 
 Keeper05        35    30    | GK N :  45   5 :  50 |  -4  0.9   2 ||  48 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
 Keeper04        35    30    | GK N :  45   5 :  50 |  -4  0.3   2 ||  47 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
@@ -390,12 +391,12 @@ R_McCrorie      33    27    | GK N :  41   0 :  41 |  -2  0.6   3 ||  42 || GK  
 M_Adein         35    29    | GK N :  44   3 :  47 |  -7  0.5   2 ||  42 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 G_Babos         35    29    | GK N :  44   3 :  47 |  -7  0.1   2 ||  41 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 Higuita         35    29    | GK N :  44   3 :  47 |  -7  0.1   2 ||  41 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
-W_Zaha          35  8/27/19 | MF E :  43   3 :  47 |  -7  0.6   1 ||  41 || AM  3 MF  3 AM  3 AM  3 AM  3 AM  0 AM  1       
 Forward22       25  1/ 1/26 | FW L :  34  -3 :  32 |   0  0.7   6 ||  38 || FW-12 FW -6 FW -9 FW -6 FW -4 FW -3 FW -5       
 L_McQueen       29  8/10/25 | FW L :  37   0 :  37 |  -4  1.5   4 ||  38 || FW -5 FW -1 FW -2 FW -1 FW  0 FW  0 FW  0       
 Y_Van_Der_Vu    30  8/ 7/26 | FW L :  38   1 :  38 |  -4  0.6   3 ||  38 || FW -6 FW -2 FW -2 FW -2 FW  0 FW  1 FW  0       
 P_Centocelle    31  8/ 8/26 | FW L :  38   1 :  39 |  -3  0.7   3 ||  38 || FW -5 FW -1 FW -2 FW -1 FW  0 FW  1 FW  0       
 J_Vallejo       26 25/12/ 7 | DF D :  34   0 :  34 |  -3  0.2   6 ||  37 || DF -2 DF -2 DF -2 DF -1 DF -2 DM -1 DF  0       
+A_Akinbiyi      28  7/10/25 | FW L :  37   0 :  37 |  -5  0.2   4 ||  36 || FW -5 FW -2 FW -2 FW -1 FW  0 FW  0 FW  0       
 L_Shankland     31  8/10/25 | FW L :  37   0 :  37 |  -5  1.2   3 ||  36 || FW -5 FW -1 FW -2 FW -1 FW  0 FW  0 FW  0       
 Defender11      35 31/ 2/ 1 | DF D :  39   5 :  44 | -10  0.9   1 ||  36 || DF -5 DF -2 DF -2 DF -3 DF -3 DF  1 DF  5       
 L_Mckeon        35    28    | GK N :  42   2 :  44 | -10  1.0   2 ||  36 || GK  2 GK  2 GK  2 GK  2 GK  2 GK  2 GK  2     r 
@@ -411,10 +412,10 @@ Chidozie        26 25/ 8/ 6 | DF D :  33  -1 :  32 |  -5  0.5   6 ||  33 || DF -
 Defender18      28 27/ 3/ 1 | DF D :  35   0 :  34 |  -7  0.6   5 ||  32 || DF -9 DF -6 DF -6 DF -6 DF -6 DF -4 DF  0       
 D_Berbatov      35  9/ 8/27 | FW L :  39   2 :  42 | -12  0.6   1 ||  31 || FW -4 FW  0 FW  0 FW  0 FW  2 FW  2 FW  2       
 Jinjo           36    29    | GK N :  44   3 :  47 | -17  0.1   1 ||  31 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
+I_D_McNamara    30  8/ 5/25 | FW L :  36  -1 :  35 |  -8  0.4   3 ||  30 || FW -9 FW -3 FW -4 FW -5 FW -1 FW -1 FW -1       
 D_Williams      29 26/ 5/ 6 | DF D :  34  -1 :  33 |  -9  0.8   4 ||  29 || DF -7 DF -4 DF -5 DF -4 DF -5 DF -2 DF -1       
 Defender04      20 21/ 5/ 1 | DF D :  28  -7 :  20 |  -1  0.3   9 ||  28 || DF-13 DF-11 DF-11 DF-11 DF-11 DF-10 DF -7     r 
 S_Silva         22    21    | GK N :  32  -9 :  23 |  -3  0.2   8 ||  28 || GK -9 GK -9 GK -9 GK -9 GK -9 GK -9 GK -9     r 
-L_Cook          27  9/26/10 | MF P :  31   0 :  30 |  -7  0.5   5 ||  28 || MF  0 MF -1 MF -1 DM -2 MF -1 DM -6 AM -3       
 E_Militao       21 22/10/ 7 | DM L :  24  -4 :  20 |  -2  0.6   8 ||  27 || DF -7 DF -6 DF -6 DF -5 DF -6 DM -4 DF -5     r 
 L_Baines        31 25/ 9/ 5 | DF D :  34  -1 :  32 | -10  1.2   3 ||  27 || DF -5 DF -4 DF -4 DF -3 DF -4 DF -3 DF -1       
 R_Garliza       32 25/11/ 7 | DF D :  34  -1 :  33 |  -9  0.3   3 ||  27 || DF -3 DF -3 DF -2 DF -1 DF -3 DM -1 DF -1       
@@ -426,6 +427,7 @@ T_Purcell       30 12/25/ 7 | MF C :  33  -1 :  32 | -10  0.6   3 ||  25 || MF -
 Juninho         33 11/25/11 | MF C :  33   0 :  33 |  -9  0.3   2 ||  25 || MF -1 MF -2 MF  0 DM -2 MF -1 DM -4 AM -2       
 D_Beckham       26  9/25/ 8 | MF P :  29  -2 :  27 |  -9  0.6   5 ||  24 || MF -2 MF -3 MF -2 DM -4 MF -2 DM -7 AM -5       
 A_Cook          29 10/25/ 9 | MF C :  32  -1 :  31 | -11  0.5   4 ||  24 || MF -1 MF -3 MF -1 DM -3 MF -2 DM -6 AM -4       
+S_Defour        32  9/26/12 | MF P :  31   0 :  31 | -11  0.3   2 ||  23 || MF  0 MF -1 MF  0 DM -1 MF  0 DM -5 AM -2       
 A_Kilgour       33 25/ 6/10 | DF L :  33  -2 :  31 | -11  1.3   2 ||  23 || DF -6 DF -3 DF -4 DF -2 DF -4 DF -2 DF -2       
 Forward23       33 16/ 1/27 | FW D :  29   3 :  32 | -10  0.3   2 ||  23 || FW -8 FW -2 FW  0 FW -4 FW  2 FW  2 FW  3       
 Midfielder03    28  8/28/ 1 | MF P :  30  -1 :  29 | -12  0.6   4 ||  22 || MF -1 MF -3 MF -1 DM -5 MF -2 DM-10 AM -7       
