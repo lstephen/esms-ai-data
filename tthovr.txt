@@ -611,8 +611,8 @@ SUB AM R_Pires AM IF INJURED AM
 SUB FW B_McClair FW IF INJURED FW
 
 SUB E_Plummer N_Stiles DF IF MIN = 45
-SUB John_McNamara A_Salto DF IF MIN = 50
-SUB D_Byrne B_McClair FW IF MIN = 60
+SUB John_McNamara B_McClair FW IF MIN = 60
+SUB D_Byrne A_Salto DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
@@ -685,9 +685,9 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB N_Zaituc J_Milburn DF IF MIN = 60
-SUB D_Boroi D_Dragan DM IF MIN = 65
-SUB D_Mario A_Milosovici FW IF MIN = 84
+SUB Ridoutkha J_Milburn DF IF MIN = 60
+SUB M_Antonio A_Milosovici FW IF MIN = 70
+SUB N_Zaituc D_Dragan DF IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
