@@ -687,9 +687,9 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB Ridoutkha J_Milburn DF IF MIN = 65
+SUB N_Zaituc J_Milburn DF IF MIN = 60
 SUB M_Antonio A_Milosovici FW IF MIN = 70
-SUB N_Zaituc D_Dragan DF IF MIN = 84
+SUB D_Boroi D_Dragan DM IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
