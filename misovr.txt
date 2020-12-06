@@ -258,7 +258,7 @@ FW D_Van_Ry
 
 ** Reserves XI **
 PASSING
-GK X_Marsden
+GK S_Kembitzky
 DF P_Lazar
 DF L_Roman
 DF W_Westfall
@@ -280,7 +280,7 @@ FW H_Ghita
   SH Bonus      15       9      19      14      12      17      15 
    GK Qual       1       1       1       1       1       1       1 
   GK Bonus       1       1       1       1       1       1       1 
-       Agg      29      29      29      29      29      29      29 
+       Agg      28      28      28      28      28      28      28 
    Scoring      83      50     108      82      68     101      80 
  Defending     118     144      90     122     133     108     114 
    Overall     211     173     217     213     199     227     204 
@@ -387,7 +387,7 @@ DEFENSIVE        39  27  31  32  32  27
                          Min
                       NORMAL    26    20    20    18    28    22 
                    DEFENSIVE    26    20          14    15    17 
-                   ATTACKING    26    20          17    21    23 
+                   ATTACKING    26    20          17    21    21 
               COUNTER_ATTACK    26    20    20    17    19    23 
                    LONG_BALL    26    19          12          25 
                      PASSING    26    22          17          17 
@@ -537,14 +537,14 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB I_Tatarescu D_Van_Ry FW IF MIN = 50
 SUB N_Morariu E_Petrescu DF IF MIN = 55
-SUB H_Kewell G_Mordino DM IF MIN = 65
+SUB C_Owen D_Van_Ry FW IF MIN = 60
+SUB H_Kewell G_Mordino FW IF MIN = 81
 TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
+TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 23 SCORE >= 2
+TACTIC C IF MIN >= 20 SCORE = 1
+TACTIC C IF MIN >= 10 SCORE >= 2
 
 
 Forced:W_Westfall/I_Kazaku/R_Amanar/J_Janveau/
@@ -617,7 +617,7 @@ SUB FW F_Pacuraru FW IF INJURED FW
 
 SUB R_Amanar F_Pacuraru FW IF MIN = 55
 SUB T_Gheorghiu T_Cozma DF IF MIN = 60
-SUB C_Boroi S_Kazaku MF IF MIN = 90
+SUB H_Ghita S_Kazaku MF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
