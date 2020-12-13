@@ -533,9 +533,9 @@ SUB AM I_Drover AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
 SUB N_Morariu I_Drover DF IF MIN = 55
-SUB X_Cullie G_Mordino MF IF MIN = 60
-CHANGEPOS I_Tatarescu DM IF MIN = 65
-SUB D_Van_Ry C_Owen FW IF MIN = 70
+SUB X_Cullie G_Mordino MF IF MIN = 65
+CHANGEPOS O_Bravo DM IF MIN = 70
+SUB D_Van_Ry C_Owen FW IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
@@ -596,13 +596,13 @@ FW R_Amanar
  Defending     102     134      62     108     124      87      94 
    Overall     219     196     194     220     196     212     225 
 
-GK S_Hennigh
+GK U_Kelsey
 DF C_Cinca
 DF S_Zamfir
 MF S_Kazaku
 AM F_Pacuraru
 
-SUB GK S_Hennigh GK IF INJURED GK
+SUB GK U_Kelsey GK IF INJURED GK
 SUB DF C_Cinca DF IF INJURED DF
 SUB DM S_Kazaku DM IF INJURED DM
 SUB MF S_Kazaku MF IF INJURED MF
