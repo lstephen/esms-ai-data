@@ -532,9 +532,9 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW C_Owen FW IF INJURED FW
 
-SUB N_Morariu I_Drover DF IF MIN = 55
-SUB X_Cullie G_Mordino MF IF MIN = 65
-CHANGEPOS O_Bravo DM IF MIN = 70
+SUB X_Cullie G_Mordino MF IF MIN = 50
+CHANGEPOS I_Tatarescu DM IF MIN = 55
+SUB N_Morariu I_Drover DF IF MIN = 60
 SUB D_Van_Ry C_Owen FW IF MIN = 75
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
@@ -582,7 +582,7 @@ MF H_Ghita
 FW R_Amanar
                  N       D       A       C       L       P       E 
   STOPPING      21      21      21      21      21      21      21 
-  TACKLING     102     134      62     108     124      87      94 
+  TACKLING     102     135      62     108     124      87      94 
    PASSING     108      78     113     109      53     119     124 
   SHOOTING      53      26      91      40      87      40      47 
    SH Mean      14      16      14      15      14      15      14 
@@ -593,7 +593,7 @@ FW R_Amanar
   GK Bonus      13      10      19      13      11      15      14 
        Agg      29      29      29      29      29      29      29 
    Scoring      89      61     106      86      64      93      98 
- Defending     102     134      62     108     124      87      94 
+ Defending     102     135      62     108     124      87      94 
    Overall     219     196     194     220     196     212     225 
 
 GK U_Kelsey
@@ -609,14 +609,15 @@ SUB MF S_Kazaku MF IF INJURED MF
 SUB AM S_Kazaku AM IF INJURED AM
 SUB FW F_Pacuraru FW IF INJURED FW
 
-SUB X_Marsden F_Pacuraru MF IF MIN = 60
-CHANGEPOS C_Boroi DM IF MIN = 65
-SUB H_Ghita S_Kazaku MF IF MIN = 70
-SUB T_Gheorghiu C_Cinca DF IF MIN = 78
+SUB X_Marsden S_Kazaku DM IF MIN = 60
+SUB R_Amanar F_Pacuraru FW IF MIN = 65
+SUB T_Gheorghiu C_Cinca DF IF MIN = 70
+CHANGEPOS S_Kazaku MF IF MIN = 78
+CHANGEPOS C_Boroi DM IF MIN = 81
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 69 SCORE = 1
+TACTIC D IF MIN >= 67 SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
 
 
