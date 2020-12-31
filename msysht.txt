@@ -5,29 +5,28 @@ GK F_Hausman
 DF P_Lazar
 DF L_Roman
 DF T_Gheorghiu
-DF S_Zamfir
 DF T_Cozma
+DF J_Janveau
 DM X_Marsden
-MF S_Kazaku
+DM S_Kazaku
 AM H_Ghita
 FW F_Pacuraru
 FW R_Amanar
 
 GK S_Hennigh
 GK U_Kelsey
-DF J_Janveau
+DF S_Zamfir
 DF E_Skutnik
 MF P_Reils
 
 PK: R_Amanar
 AGG 20
 
-SUB 5 14 DF IF MIN = 45
-CHANGEPOS 8 DM IF MIN = 50
+SUB 6 14 DF IF MIN = 45
 SUB 7 16 MF IF MIN = 55
-SUB 6 15 DF IF MIN = 78
+SUB 5 15 DF IF MIN = 81
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC C IF MIN >= 32 SCORE = 1
-TACTIC D IF MIN >= 35 SCORE >= 2
+TACTIC D IF MIN >= 36 SCORE >= 2
