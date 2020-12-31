@@ -402,9 +402,9 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB F_Krovinovic M_Pereira MF IF MIN = 50
-SUB K_Wilson C_Townsend DF IF MIN = 60
-SUB G_Barry R_Harper DM IF MIN = 75
+SUB F_Krovinovic M_Pereira MF IF MIN = 60
+SUB K_Wilson C_Townsend DF IF MIN = 65
+SUB G_Barry R_Harper DM IF MIN = 70
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
