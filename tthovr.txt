@@ -627,14 +627,14 @@ SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW B_McClair FW IF INJURED FW
 
-SUB D_Byrne B_McClair FW IF MIN = 45
-SUB S_McMahon R_Pires MF IF MIN = 50
-SUB John_McNamara W_Morgan DF IF MIN = 55
+SUB John_McNamara W_Morgan DF IF MIN = 45
+SUB D_Byrne B_McClair FW IF MIN = 50
+SUB S_McMahon R_Pires MF IF MIN = 55
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 49 SCORE >= 2
+TACTIC D IF MIN >= 47 SCORE >= 2
 
 SUB S_Winzor W_Morgan DF IF SCORE <= -3
 SUB S_Winzor W_Morgan DF IF SCORE >= 3
@@ -703,8 +703,8 @@ SUB MF C_Hurgoi MF IF INJURED MF
 SUB AM C_Hurgoi AM IF INJURED AM
 SUB FW Dindo FW IF INJURED FW
 
-SUB N_Niculaie C_Hurgoi DM IF MIN = 45
-SUB N_Zaituc K_Layvin DF IF MIN = 55
+SUB N_Niculaie C_Hurgoi DM IF MIN = 55
+SUB N_Zaituc K_Layvin DF IF MIN = 65
 SUB T_X_Ghiuri J_Milburn DF IF MIN = 75
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
