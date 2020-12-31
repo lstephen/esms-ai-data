@@ -615,29 +615,29 @@ FW D_Byrne
    Overall     302     266     317     306     249     326     296 
 
 GK E_Manuel
-DF W_Morgan
 DF E_Plummer
 FW R_Pires
+FW B_Celina
 FW B_McClair
 
 SUB GK E_Manuel GK IF INJURED GK
-SUB DF W_Morgan DF IF INJURED DF
+SUB DF E_Plummer DF IF INJURED DF
 SUB DM R_Pires DM IF INJURED DM
 SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW B_McClair FW IF INJURED FW
 
-SUB John_McNamara W_Morgan DF IF MIN = 45
-SUB D_Byrne B_McClair FW IF MIN = 50
-SUB S_McMahon R_Pires MF IF MIN = 55
+SUB D_McHale B_McClair FW IF MIN = 45
+SUB D_Byrne R_Pires MF IF MIN = 50
+SUB John_McNamara E_Plummer DF IF MIN = 60
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 47 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 50 SCORE >= 2
 
-SUB S_Winzor W_Morgan DF IF SCORE <= -3
-SUB S_Winzor W_Morgan DF IF SCORE >= 3
+SUB S_Winzor E_Plummer DF IF SCORE <= -3
+SUB S_Winzor E_Plummer DF IF SCORE >= 3
 
 Forced:D_Boroi/N_Zaituc/
 ** Reserves Selection **
@@ -703,11 +703,11 @@ SUB MF C_Hurgoi MF IF INJURED MF
 SUB AM C_Hurgoi AM IF INJURED AM
 SUB FW Dindo FW IF INJURED FW
 
-SUB N_Niculaie C_Hurgoi DM IF MIN = 55
-SUB N_Zaituc K_Layvin DF IF MIN = 65
-SUB T_X_Ghiuri J_Milburn DF IF MIN = 75
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB N_Zaituc K_Layvin DF IF MIN = 60
+SUB N_Niculaie J_Milburn DM IF MIN = 65
+SUB G_Best C_Hurgoi MF IF MIN = 75
+TACTIC E IF MIN >= 13 SCORE <= -2
+TACTIC E IF MIN >= 26 SCORE = -1
 TACTIC N IF SCORE = 0
 TACTIC D IF MIN >= 26 SCORE = 1
 TACTIC D IF MIN >= 13 SCORE >= 2
