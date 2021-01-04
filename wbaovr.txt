@@ -402,13 +402,13 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB K_Wilson S_Ajayi DF IF MIN = 45
-SUB C_Austin M_Phillips FW IF MIN = 60
-SUB F_Krovinovic M_Pereira FW IF MIN = 70
+SUB C_Austin M_Phillips FW IF MIN = 50
+SUB F_Krovinovic M_Pereira FW IF MIN = 55
+SUB K_Wilson S_Ajayi DF IF MIN = 65
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 46 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 
