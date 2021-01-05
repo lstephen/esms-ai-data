@@ -1,33 +1,33 @@
 msy
-E
+P
 
 GK M_Hurgoi
 DF P_Lazar
 DF L_Roman
-DF T_Gheorghiu
-DM P_Sollomovici
+DF T_Cozma
+DF P_Sollomovici
+DF E_Skutnik
 DM M_Dumitru
-DM R_Amanar
-MF S_Kazaku
-MF C_Theodorescu
-MF H_Ghita
+DM S_Kazaku
 FW F_Pacuraru
+FW R_Amanar
+FW H_Ghita
 
 GK S_Hennigh
 GK U_Kelsey
+DF T_Gheorghiu
 DF S_Zamfir
-DM T_Cozma
-DM E_Skutnik
+MF C_Theodorescu
 
 PK: R_Amanar
 AGG 20
 
-CHANGEPOS 7 MF IF MIN = 50
-SUB 5 16 DM IF MIN = 55
-SUB 6 15 DM IF MIN = 60
-SUB 4 14 DF IF MIN = 70
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 66 SCORE = 1
-TACTIC D IF MIN >= 42 SCORE >= 2
+SUB 6 14 DF IF MIN = 60
+SUB 5 16 MF IF MIN = 70
+CHANGEPOS 7 DF IF MIN = 75
+SUB 7 15 DF IF MIN = 81
+TACTIC A IF MIN >= 40 SCORE <= -2
+TACTIC A IF MIN >= 60 SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 65 SCORE >= 2
