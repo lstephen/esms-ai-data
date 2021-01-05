@@ -4,29 +4,29 @@ P
 GK S_Johnstone
 DF K_Gibbs
 DF C_Townsend
-DF K_Wilson
 DF A_Anguissa
+DF J_Livermore
 DF G_Barry
 DM C_Connolly
-DM J_Livermore
 DM R_Harper
+DM C_Brunt
 MF F_Krovinovic
 FW C_Austin
 
 GK J_Bond
 DF S_Ajayi
+DF K_Wilson
+DF S_Field
 FW M_Pereira
-FW M_Phillips
-FW K_Grosicki
 
 PK: C_Austin
 AGG 20
 
-SUB 11 15 FW IF MIN = 50
-SUB 10 14 FW IF MIN = 55
-SUB 4 13 DF IF MIN = 65
+SUB 11 16 FW IF MIN = 45
+SUB 9 15 DM IF MIN = 60
+SUB 3 14 DF IF MIN = 70
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+TACTIC D IF MIN >= 54 SCORE >= 2
