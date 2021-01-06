@@ -629,11 +629,11 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB S_McMahon M_Laudrup DM IF MIN = 55
-SUB B_McClair D_Byrne FW IF MIN = 60
-SUB W_Morgan E_Plummer DF IF MIN = 70
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB R_Pires M_Laudrup DM IF MIN = 70
+SUB D_McHale D_Byrne FW IF MIN = 84
+SUB R_Morrison B_Celina AM IF MIN = 90
+TACTIC A IF MIN >= 84 SCORE <= -2
+TACTIC A IF MIN >= 90 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
@@ -691,27 +691,27 @@ FW A_Milosovici
    Overall     262     258     250     276     235     271     270 
 
 GK A_Ghita
+DF A_Stefanov
 DM G_Best
 DM J_Milburn
 DM D_Dragan
-FW Dindo
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF G_Best DF IF INJURED DF
+SUB DF A_Stefanov DF IF INJURED DF
 SUB DM G_Best DM IF INJURED DM
 SUB MF G_Best MF IF INJURED MF
 SUB AM G_Best AM IF INJURED AM
-SUB FW Dindo FW IF INJURED FW
+SUB FW G_Best FW IF INJURED FW
 
-SUB A_Milosovici Dindo FW IF MIN = 55
-SUB K_Layvin G_Best DF IF MIN = 60
-SUB Zico_Jnr J_Milburn DM IF MIN = 81
+SUB K_Layvin A_Stefanov DF IF MIN = 50
+SUB T_X_Ghiuri D_Dragan DF IF MIN = 60
+SUB D_Dragan J_Milburn DF IF MIN = 90
 TACTIC P IF MIN >= 22 SCORE <= -2
 TACTIC P IF MIN >= 43 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 30 SCORE = 1
 TACTIC D IF MIN >= 15 SCORE >= 2
 
-SUB J_Obi_Mikel G_Best DF IF SCORE <= -3
-SUB J_Obi_Mikel G_Best DF IF SCORE >= 3
+SUB J_Obi_Mikel A_Stefanov DF IF SCORE <= -3
+SUB J_Obi_Mikel A_Stefanov DF IF SCORE >= 3
 
