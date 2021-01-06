@@ -269,7 +269,7 @@ FW H_Ghita
   STOPPING      21      21      21      21      21      21      21 
   TACKLING     110     134      85     114     121     102     105 
    PASSING      63      40      76      68      34      93      59 
-  SHOOTING      77      42     123      68     112      70      74 
+  SHOOTING      77      42     123      68     113      70      74 
    SH Mean      16      18      16      17      15      16      16 
  SH Median      18      18      18      18      18      18      18 
     SH Max      18      18      18      18      18      18      18 
@@ -548,14 +548,14 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB Alan_Michael N_Morariu DM IF MIN = 81
-SUB X_Cullie G_Mordino MF IF MIN = 87
-SUB P_Deusner I_Drover DF IF MIN = 90
-TACTIC A IF MIN >= 81 SCORE <= -2
+SUB W_Westfall E_Petrescu DF IF MIN = 55
+SUB P_Deusner G_Mordino FW IF MIN = 60
+SUB I_Tatarescu I_Drover DM IF MIN = 70
+TACTIC A IF MIN >= 77 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC L IF MIN >= 87 SCORE = 1
-TACTIC L IF MIN >= 59 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 70 SCORE >= 2
 
 
 Forced:R_Amanar/H_Ghita/S_Kazaku/M_Dumitru/
@@ -623,14 +623,15 @@ SUB MF C_Theodorescu MF IF INJURED MF
 SUB AM C_Theodorescu AM IF INJURED AM
 SUB FW S_Zamfir FW IF INJURED FW
 
-CHANGEPOS S_Kazaku MF IF MIN = 45
-SUB T_Cozma S_Zamfir DF IF MIN = 50
-SUB P_Lazar T_Gheorghiu DF IF MIN = 75
-SUB M_Dumitru C_Theodorescu MF IF MIN = 90
-TACTIC A IF MIN >= 40 SCORE <= -2
-TACTIC A IF MIN >= 50 SCORE = -1
+CHANGEPOS S_Kazaku MF IF MIN = 65
+SUB T_Cozma T_Gheorghiu DF IF MIN = 70
+CHANGEPOS S_Kazaku MF IF MIN = 81
+SUB L_Roman S_Zamfir DF IF MIN = 87
+SUB P_Lazar C_Theodorescu DF IF MIN = 90
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 60 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 
