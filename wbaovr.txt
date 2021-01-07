@@ -405,9 +405,9 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB R_Harper M_Pereira DM IF MIN = 60
-SUB K_Gibbs K_Wilson DF IF MIN = 78
-SUB C_Townsend S_Field DF IF MIN = 84
+SUB J_Livermore S_Field DF IF MIN = 60
+SUB C_Townsend M_Pereira AM IF MIN = 81
+SUB R_Harper K_Wilson DF IF MIN = 84
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
