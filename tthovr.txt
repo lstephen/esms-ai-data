@@ -148,7 +148,7 @@ AM D_Mario
 FW B_McClair
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
-  TACKLING     153     211     137     158     168     151     144 
+  TACKLING     153     211     137     158     168     151     143 
    PASSING     139      97     146     139      66     156     144 
   SHOOTING      77      43     125      77     104      73      76 
    SH Mean      21      24      21      21      21      21      21 
@@ -159,7 +159,7 @@ FW B_McClair
   GK Bonus      27      21      30      26      22      28      28 
        Agg      19      19      19      19      19      19      19 
    Scoring     119      79     139     118      79     128     122 
- Defending     153     211     137     158     168     151     144 
+ Defending     153     211     137     158     168     151     143 
    Overall     317     284     332     319     261     328     315 
 
 ** 1st XI **
@@ -569,78 +569,78 @@ A_Aquilani      16 13/ 4/ 6 | DF E :  15 -15 :   1 |  -1 -26  1.0  11 || -16 || 
 Forced:B_McClair/S_McMahon/M_Laudrup/W_Morgan/
 ** Selection **
                             |                      | now vAg Abs      || OVR ||  P     E     C     A     L     N     D   
-B_McClair       29  5/ 9/29 | FW P :  37   2 :  39 |  41   3  1.2   4 ||  49 || FW  2 FW  5 FW  4 FW  8 FW  8 FW  7 FW  5       
-D_Byrne         28  6/12/25 | FW P :  36  -4 :  32 |  33  -6  0.8   4 ||  32 || FW -4 FW -1 FW -2 FW  0 FW  0 FW  0 FW  0       
 Carlos_Bravo    27    30    | GK P :  45   8 :  53 |  53  17  1.1   6 ||  76 || GK  8 GK  8 GK  8 GK  8 GK  8 GK  8 GK  8       
 R_Pires         34 10/26/18 | FW P :  40   0 :  40 |  42   3  1.3   1 ||  47 || MF  2 MF  2 MF  2 DM  2 AM -1 MF  2 AM  1       
-S_McMahon       27  7/25/18 | FW P :  39  -1 :  38 |  38   3  1.2   5 ||  47 || AM  0 MF  0 AM  0 AM  0 AM -2 AM  0 AM -1       
-B_Celina        29  6/25/18 | FW P :  38  -1 :  37 |  38  -1  0.6   4 ||  41 || AM  0 AM  0 AM  0 AM  0 AM -2 MF  0 AM -2       
 E_Manuel        33    27    | GK P :  41   0 :  41 |  41   2  0.7   3 ||  46 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0     r 
+S_McMahon       27  7/25/18 | FW P :  39  -1 :  38 |  38   3  1.2   5 ||  47 || AM  0 MF  0 AM  0 AM  0 AM -2 AM  0 AM -1       
 Doriva          28 22/23/10 | DF P :  41   3 :  45 |  42   4  0.5   4 ||  50 || DF  3 DM  0 DM  3 DF  2 DM  2 DM  3 MF  3     r 
+B_Celina        29  6/25/18 | FW P :  38  -1 :  37 |  38  -1  0.6   4 ||  41 || AM  0 AM  0 AM  0 AM  0 AM -2 MF  0 AM -2       
+S_Winzor        29 19/23/10 | DF P :  39   1 :  41 |  39   0  1.3   4 ||  43 || DM  2 DM -1 DM  2 DF  0 DM  0 DM  2 MF  1     r 
+M_Laudrup       24 14/26/ 7 | DM P :  33   0 :  33 |  34   5  0.4   6 ||  45 || DM  0 MF -1 MF  1 DM -2 DM -4 DM  0 AM -2       
+R_Morrison      29 17/24/10 | DF P :  38  -1 :  37 |  36  -3  1.4   4 ||  39 || DM  1 DM -2 MF  1 DM -1 DM -1 DM  1 AM  0     r 
+Moreto          27 18/23/ 9 | DF P :  38  -1 :  37 |  36   0  1.2   5 ||  41 || DM  1 DM -2 DM  0 DF -2 DM -1 DM  1 MF  0     r 
+D_McHale        33 16/23/12 | DF P :  37  -1 :  36 |  35  -4  1.5   2 ||  34 || DM  0 MF -3 MF  0 DM -1 DM -1 DM  0 AM  0     r 
+W_Morgan        26 27/12/ 7 | DF P :  38   0 :  38 |  36   1  0.5   6 ||  43 || DF  0 DF  1 DF  0 DF  1 MF  1 DF  0 DF  2       
 E_Plummer       29 26/12/11 | DF P :  38   0 :  38 |  37  -2  0.9   4 ||  40 || DF  0 DF  1 DF  0 DF  2 MF  2 DF  0 DF  1       
 N_Stiles        36 29/ 9/ 7 | DF P :  38   0 :  38 |  37  -5  0.9   1 ||  33 || DF  0 DF  2 DF  1 DF  2 MF  3 DF  0 DF  4       
-W_Morgan        26 27/12/ 7 | DF P :  38   0 :  38 |  36   1  0.5   6 ||  43 || DF  0 DF  1 DF  0 DF  1 MF  1 DF  0 DF  2       
-S_Winzor        29 19/23/10 | DF P :  39   1 :  41 |  39   0  1.3   4 ||  43 || DM  2 DM -1 DM  2 DF  0 DM  0 DM  2 MF  1     r 
-John_McNamara   34 26/ 9/10 | DF P :  36  -3 :  33 |  33  -6  1.0   2 ||  29 || DF -3 DF  0 DF -2 DF  0 MF  0 DF -2 DF  0       
-D_McHale        33 16/23/12 | DF P :  37  -1 :  36 |  35  -4  1.5   2 ||  34 || DM  0 MF -3 MF  0 DM -1 DM -1 DM  0 AM  0     r 
-R_Morrison      29 17/24/10 | DF P :  38  -1 :  37 |  36  -3  1.4   4 ||  39 || DM  1 DM -2 MF  1 DM -1 DM -1 DM  1 AM  0     r 
 E_Donk          28 25/12/ 7 | DF P :  36  -2 :  34 |  32  -7  1.3   5 ||  31 || DF -2 DF -1 DF -2 DF -1 DM -1 DF -2 DF  0       
-M_Laudrup       24 14/26/ 7 | DM P :  33   0 :  33 |  34   5  0.4   6 ||  45 || DM  0 MF -1 MF  1 DM -2 DM -4 DM  0 AM -2       
-Moreto          27 18/23/ 9 | DF P :  38  -1 :  37 |  36   0  1.2   5 ||  41 || DM  1 DM -2 DM  0 DF -2 DM -1 DM  1 MF  0     r 
+D_Byrne         28  6/12/25 | FW P :  36  -4 :  32 |  33  -6  0.8   4 ||  32 || FW -4 FW -1 FW -2 FW  0 FW  0 FW  0 FW  0       
+B_McClair       29  5/ 9/29 | FW P :  37   2 :  39 |  41   3  1.2   4 ||  49 || FW  2 FW  5 FW  4 FW  8 FW  8 FW  7 FW  5       
 A_Salto         26 25/11/ 5 | DF P :  35  -4 :  31 |  30  -6  0.6   6 ||  30 || DF -4 DF -2 DF -3 DF -2 DF -2 DF -3 DF -1       
+John_McNamara   34 26/ 9/10 | DF P :  36  -3 :  33 |  33  -6  1.0   2 ||  29 || DF -3 DF  0 DF -2 DF  0 MF  0 DF -2 DF  0       
 
-ATTACKING
+EUROPEAN
 GK Carlos_Bravo
 DF N_Stiles
 DF W_Morgan
 DF E_Plummer
-DF S_Winzor
-DF Doriva
-DM M_Laudrup
-AM R_Pires
-AM S_McMahon
-AM B_Celina
+DM S_Winzor
+DM Doriva
+DM R_Morrison
+MF R_Pires
+MF M_Laudrup
+MF S_McMahon
 FW B_McClair
                  N       D       A       C       L       P       E 
   STOPPING      45      45      45      45      45      45      45 
-  TACKLING     141     186     130     141     154     139     125 
-   PASSING     131      89     137     131      63     153     130 
-  SHOOTING      81      49     131      82     105      79      85 
-   SH Mean      20      23      20      20      20      20      19 
- SH Median      18      18      18      18      18      18      18 
+  TACKLING     131     199     111     143     181     129     126 
+   PASSING     157     114     162     157      77     168     180 
+  SHOOTING      58      34     103      53      89      53      58 
+   SH Mean      21      24      20      21      20      21      20 
+ SH Median      18      29      18      29      18      29      18 
     SH Max      29      29      29      29      29      29      29 
-  SH Bonus      22      14      25      22      17      24      24 
+  SH Bonus      24      17      28      26      15      28      26 
    GK Qual      30      30      30      30      30      30      30 
-  GK Bonus      27      21      31      27      23      29      29 
-       Agg      21      21      21      21      21      21      21 
-   Scoring     114      75     135     115      77     128     115 
- Defending     141     186     130     141     154     139     125 
-   Overall     302     264     321     303     250     319     292 
+  GK Bonus      29      22      34      28      22      30      32 
+       Agg      20      20      20      20      20      20      20 
+   Scoring     124      87     142     123      81     130     139 
+ Defending     131     199     111     143     181     129     126 
+   Overall     309     293     311     318     271     317     322 
 
 GK E_Manuel
 DF John_McNamara
-DM R_Morrison
 DM Moreto
-FW D_Byrne
+MF B_Celina
+AM D_Byrne
 
 SUB GK E_Manuel GK IF INJURED GK
 SUB DF John_McNamara DF IF INJURED DF
-SUB DM R_Morrison DM IF INJURED DM
-SUB MF R_Morrison MF IF INJURED MF
-SUB AM R_Morrison AM IF INJURED AM
+SUB DM B_Celina DM IF INJURED DM
+SUB MF B_Celina MF IF INJURED MF
+SUB AM B_Celina AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB Doriva Moreto DF IF MIN = 50
-SUB S_McMahon D_Byrne FW IF MIN = 70
-SUB B_McClair R_Morrison AM IF MIN = 87
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC P IF MIN >= 18 SCORE = 1
-TACTIC D IF MIN >= 46 SCORE >= 2
+SUB S_Winzor B_Celina MF IF MIN = 81
+SUB B_McClair D_Byrne FW IF MIN = 87
+SUB R_Pires Moreto AM IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
+TACTIC E IF SCORE = 0
+TACTIC D IF MIN >= 35 SCORE = 1
+TACTIC D IF MIN >= 18 SCORE >= 2
 
-SUB S_Winzor John_McNamara DF IF SCORE <= -3
-SUB S_Winzor John_McNamara DF IF SCORE >= 3
+SUB S_Winzor B_Celina DM IF SCORE <= -3
+SUB S_Winzor B_Celina DM IF SCORE >= 3
 
 Forced:D_Mario/G_Best/
 ** Reserves Selection **
