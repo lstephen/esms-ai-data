@@ -1,32 +1,32 @@
 wba
-P
+C
 
 GK S_Johnstone
 DF K_Gibbs
+DF S_Ajayi
 DF C_Townsend
-DF A_Anguissa
-DF J_Livermore
-DF G_Barry
-DM C_Connolly
-DM R_Harper
-DM C_Brunt
+DM A_Anguissa
+DM J_Livermore
+DM G_Barry
+MF C_Connolly
 MF F_Krovinovic
-FW C_Austin
+MF R_Harper
+FW R_Brewster
 
 GK J_Bond
-DF S_Ajayi
-DF N_Ferguson
-DF S_Field
-FW M_Pereira
+DF K_Wilson
+DM S_Field
+AM M_Pereira
+FW C_Austin
 
-PK: C_Austin
+PK: R_Brewster
 AGG 20
 
-SUB 5 15 DF IF MIN = 55
-SUB 9 14 DM IF MIN = 60
-SUB 3 16 AM IF MIN = 90
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 51 SCORE >= 2
+SUB 6 14 DM IF MIN = 45
+SUB 14 13 DF IF MIN = 84
+SUB 10 15 DM IF MIN = 87
+TACTIC A IF MIN >= 47 SCORE <= -2
+TACTIC P IF MIN >= 13 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 37 SCORE = 1
+TACTIC D IF MIN >= 19 SCORE >= 2
