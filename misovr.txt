@@ -3,14 +3,14 @@ W_Westfall      20 18/20/16 | DF P :  38   1 :  38 |  38  16  0.9   8 ||  63 || 
 V_Barbieri      29 25/19/18 | DF P :  45   7 :  52 |  50   8  0.9   1 ||  60 || DF  7 DF  8 DF  7 DF  9 DF  9 DF  9 DF  7 I     
 I_Tatarescu     23 17/21/15 | DF P :  37   0 :  37 |  37  11  0.8   7 ||  56 || MF  2 MF  2 MF  2 DM  2 DF  0 MF  0 AM  1       
 G_Suckley       20 17/19/15 | DF P :  36  -1 :  34 |  34  12  1.4   8 ||  55 || MF  0 DM  0 DM  0 DM  0 DF -1 MF -1 AM -1   R r 
-N_Kent          29    28    | GK P :  42   5 :  47 |  47   5  0.4   1 ||  53 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
+N_Kent          29    28    | GK P :  42   5 :  47 |  47   5  0.5   1 ||  53 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
 J_Moculescu     20 15/17/18 | FW P :  35  -3 :  31 |  31   9  1.5   8 ||  50 || MF -2 AM -2 MF -2 DF -2 DF -2 AM  0 AM -2   R r 
 O_Bravo         27 18/23/15 | DF P :  40   3 :  42 |  42   3  0.5   3 ||  49 || MF  4 MF  5 MF  5 DM  4 DF  2 MF  2 MF  3       
-O_Burgin        28 22/19/17 | DF P :  41   4 :  46 |  44   2  0.8   2 ||  49 || DF  4 DF  5 DF  4 DF  6 DF  5 DF  5 DF  4       
+O_Burgin        28 22/19/17 | DF P :  41   4 :  46 |  44   2  0.9   2 ||  49 || DF  4 DF  5 DF  4 DF  6 DF  5 DF  5 DF  4       
 Alan_Michael    27 18/23/13 | DF P :  39   2 :  41 |  40   2  0.7   3 ||  46 || MF  4 MF  4 DM  4 DM  4 DF  0 MF  0 MF  2       
 R_Amanar        20 14/15/19 | FW P :  34  -4 :  30 |  29   7  0.7   8 ||  45 || AM -4 AM -4 FW -4 DF -3 DF -3 FW  0 FW -3   R r 
 E_Petrescu      23 21/16/ 8 | DF P :  35  -2 :  34 |  32   6  0.6   7 ||  45 || DF -2 DF  0 DM -2 DF -1 DF -4 DM -3 DF  2       
-C_Owen          31 10/16/25 | FW P :  40   6 :  45 |  44   0  1.0   0 ||  45 || FW  6 FW  4 FW  5 FW  4 FW  9 FW 13 FW  3       
+C_Owen          31 10/16/25 | FW P :  40   6 :  45 |  44   0  1.1   0 ||  45 || FW  6 FW  4 FW  5 FW  4 FW  9 FW 13 FW  3       
 N_Morariu       23 19/14/16 | DF P :  34  -3 :  31 |  31   5  0.8   7 ||  44 || DF -3 DF -1 DF -1 DF  0 DF -1 DF  0 DF -1       
 P_Deusner       25 16/22/ 9 | DF P :  35  -2 :  33 |  33   6  0.9   5 ||  44 || MF  1 MF  1 DM  1 DM  0 DM -4 DM -4 DM -1       
 G_Mordino       27 14/18/21 | FW P :  38   0 :  38 |  37  -2  1.2   3 ||  40 || FW  0 AM  0 AM  0 AM  0 FW  0 AM  5 AM  0       
@@ -287,12 +287,12 @@ FW H_Ghita
 W_Westfall      20 18/20/16 | DF P :  38   1 :  38 |  38  16  0.9   8 ||  63 || MF  1 DM  2 DM  2 DM  2 DF  1 MF  1 AM  1     r 
 V_Barbieri      29 25/19/18 | DF P :  45   7 :  52 |  50   8  0.9   1 ||  60 || DF  7 DF  8 DF  7 DF  9 DF  9 DF  9 DF  7 I     
 I_Tatarescu     23 17/21/15 | DF P :  37   0 :  37 |  37  11  0.8   7 ||  56 || MF  2 MF  2 MF  2 DM  2 DF  0 MF  0 AM  1       
-N_Kent          29    28    | GK P :  42   5 :  47 |  47   5  0.4   1 ||  53 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
+N_Kent          29    28    | GK P :  42   5 :  47 |  47   5  0.5   1 ||  53 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
 O_Bravo         27 18/23/15 | DF P :  40   3 :  42 |  42   3  0.5   3 ||  49 || MF  4 MF  5 MF  5 DM  4 DF  2 MF  2 MF  3       
-O_Burgin        28 22/19/17 | DF P :  41   4 :  46 |  44   2  0.8   2 ||  49 || DF  4 DF  5 DF  4 DF  6 DF  5 DF  5 DF  4       
+O_Burgin        28 22/19/17 | DF P :  41   4 :  46 |  44   2  0.9   2 ||  49 || DF  4 DF  5 DF  4 DF  6 DF  5 DF  5 DF  4       
 Alan_Michael    27 18/23/13 | DF P :  39   2 :  41 |  40   2  0.7   3 ||  46 || MF  4 MF  4 DM  4 DM  4 DF  0 MF  0 MF  2       
 E_Petrescu      23 21/16/ 8 | DF P :  35  -2 :  34 |  32   6  0.6   7 ||  45 || DF -2 DF  0 DM -2 DF -1 DF -4 DM -3 DF  2       
-C_Owen          31 10/16/25 | FW P :  40   6 :  45 |  44   0  1.0   0 ||  45 || FW  6 FW  4 FW  5 FW  4 FW  9 FW 13 FW  3       
+C_Owen          31 10/16/25 | FW P :  40   6 :  45 |  44   0  1.1   0 ||  45 || FW  6 FW  4 FW  5 FW  4 FW  9 FW 13 FW  3       
 P_Deusner       25 16/22/ 9 | DF P :  35  -2 :  33 |  33   6  0.9   5 ||  44 || MF  1 MF  1 DM  1 DM  0 DM -4 DM -4 DM -1       
 D_Van_Ry        29 14/17/22 | FW P :  38   1 :  40 |  38  -4  1.2   1 ||  37 || FW  1 FW  0 FW  0 FW  0 FW  2 FW  7 FW  0       
 I_Drover        28 18/18/19 | DF P :  37   0 :  37 |  38  -5  0.9   2 ||  36 || DF  0 AM  1 DM  0 DF  2 DF  2 MF  3 AM  1       
@@ -483,60 +483,60 @@ A_Bumpus        19 16/13/18 | FW P :  32  -6 :  26 |  27   6  0.9   8 ||  41 || 
 Forced:W_Westfall/I_Tatarescu/O_Burgin/
 ** Selection **
                             |                      | now vAg Abs      || OVR ||  P     C     E     N     A     L     D   
-N_Kent          29    27    | GK P :  41   3 :  43 |  43   1  0.4   1 ||  45 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
-O_Bravo         27 18/23/15 | DF P :  40   3 :  42 |  42   3  0.5   3 ||  49 || MF  4 MF  5 MF  5 DM  4 DF  2 MF  2 MF  3       
+N_Kent          29    27    | GK P :  41   3 :  43 |  43   1  0.5   1 ||  45 || GK  3 GK  3 GK  3 GK  3 GK  3 GK  3 GK  3       
 Q_Bonnette      30    26    | GK P :  39   0 :  39 |  39  -3  1.4   0 ||  37 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
+O_Burgin        28 22/19/17 | DF P :  41   4 :  46 |  44   2  0.9   2 ||  49 || DF  4 DF  5 DF  4 DF  6 DF  5 DF  5 DF  4       
+O_Bravo         27 18/23/15 | DF P :  40   3 :  42 |  42   3  0.5   3 ||  49 || MF  4 MF  5 MF  5 DM  4 DF  2 MF  2 MF  3       
 Alan_Michael    27 18/23/13 | DF P :  39   2 :  41 |  40   2  0.7   3 ||  46 || MF  4 MF  4 DM  4 DM  4 DF  0 MF  0 MF  2       
-O_Burgin        28 22/19/17 | DF P :  41   4 :  46 |  44   2  0.8   2 ||  49 || DF  4 DF  5 DF  4 DF  6 DF  5 DF  5 DF  4       
-I_Tatarescu     23 17/21/15 | DF P :  37   0 :  37 |  37  11  0.8   7 ||  56 || MF  2 MF  2 MF  2 DM  2 DF  0 MF  0 AM  1       
-W_Westfall      20 18/20/16 | DF P :  38   1 :  38 |  38  16  0.9   8 ||  63 || MF  1 DM  2 DM  2 DM  2 DF  1 MF  1 AM  1     r 
-P_Deusner       25 16/22/ 9 | DF P :  35  -2 :  33 |  33   6  0.9   5 ||  44 || MF  1 MF  1 DM  1 DM  0 DM -4 DM -4 DM -1       
-C_Owen          31 10/16/25 | FW P :  40   6 :  45 |  44   0  1.0   0 ||  45 || FW  6 FW  4 FW  5 FW  4 FW  9 FW 13 FW  3       
-G_Mordino       27 14/18/21 | FW P :  38   0 :  38 |  37  -2  1.2   3 ||  40 || FW  0 AM  0 AM  0 AM  0 FW  0 AM  5 AM  0       
-H_Kewell        26  5/21/18 | FW P :  35  -3 :  32 |  31  -5  1.4   4 ||  31 || MF  0 MF -3 MF  0 AM -2 MF  0 AM -1 AM -6       
-I_Drover        28 18/18/19 | DF P :  37   0 :  37 |  38  -5  0.9   2 ||  36 || DF  0 AM  1 DM  0 DF  2 DF  2 MF  3 AM  1       
+C_Owen          31 10/16/25 | FW P :  40   6 :  45 |  44   0  1.1   0 ||  45 || FW  6 FW  4 FW  5 FW  4 FW  9 FW 13 FW  3       
 D_Van_Ry        29 14/17/22 | FW P :  38   1 :  40 |  38  -4  1.2   1 ||  37 || FW  1 FW  0 FW  0 FW  0 FW  2 FW  7 FW  0       
+I_Tatarescu     23 17/21/15 | DF P :  37   0 :  37 |  37  11  0.8   7 ||  56 || MF  2 MF  2 MF  2 DM  2 DF  0 MF  0 AM  1       
+G_Mordino       27 14/18/21 | FW P :  38   0 :  38 |  37  -2  1.2   3 ||  40 || FW  0 AM  0 AM  0 AM  0 FW  0 AM  5 AM  0       
+W_Westfall      20 18/20/16 | DF P :  38   1 :  38 |  38  16  0.9   8 ||  63 || MF  1 DM  2 DM  2 DM  2 DF  1 MF  1 AM  1     r 
+I_Drover        28 18/18/19 | DF P :  37   0 :  37 |  38  -5  0.9   2 ||  36 || DF  0 AM  1 DM  0 DF  2 DF  2 MF  3 AM  1       
 X_Cullie        30 19/18/15 | DF P :  37   0 :  37 |  36  -7  1.5   0 ||  31 || DF  0 DF  1 DM  0 DF  1 DF  0 DF  0 MF  0       
-E_Petrescu      23 21/16/ 8 | DF P :  35  -2 :  34 |  32   6  0.6   7 ||  45 || DF -2 DF  0 DM -2 DF -1 DF -4 DM -3 DF  2       
+P_Deusner       25 16/22/ 9 | DF P :  35  -2 :  33 |  33   6  0.9   5 ||  44 || MF  1 MF  1 DM  1 DM  0 DM -4 DM -4 DM -1       
 N_Morariu       23 19/14/16 | DF P :  34  -3 :  31 |  31   5  0.8   7 ||  44 || DF -3 DF -1 DF -1 DF  0 DF -1 DF  0 DF -1       
-N_Parasca       23 14/19/ 6 | DF P :  30  -7 :  23 |  23  -4  1.4   7 ||  28 || MF -3 MF -4 DM -4 DM -5 DM -9 DM -9 DM -5       
+H_Kewell        26  5/21/18 | FW P :  35  -3 :  32 |  31  -5  1.4   4 ||  31 || MF  0 MF -3 MF  0 AM -2 MF  0 AM -1 AM -6       
+E_Petrescu      23 21/16/ 8 | DF P :  35  -2 :  34 |  32   6  0.6   7 ||  45 || DF -2 DF  0 DM -2 DF -1 DF -4 DM -3 DF  2       
 S_Manescu       24    19    | GK P :  29 -10 :  18 |  18  -9  1.4   6 ||  16 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
 W_Emmerling     24 19/13/ 8 | DF P :  31  -6 :  25 |  24  -3  1.7   6 ||  29 || DF -6 DF -3 DF -5 DF -4 DF -7 DM -5 DF -1       
+N_Parasca       23 14/19/ 6 | DF P :  30  -7 :  23 |  23  -4  1.4   7 ||  28 || MF -3 MF -4 DM -4 DM -5 DM -9 DM -9 DM -5       
 T_Ris           23 18/ 5/15 | DF P :  26 -11 :  15 |  18  -8  0.8   7 ||  18 || DF-11 DF -7 DF -5 DF -5 DF -7 DF -4 DF -4       
 
-EUROPEAN
+NORMAL
 GK N_Kent
 DF O_Burgin
 DF E_Petrescu
-DF I_Drover
-DM X_Cullie
+DF X_Cullie
 DM Alan_Michael
 DM W_Westfall
+DM I_Drover
 MF O_Bravo
 MF P_Deusner
 MF I_Tatarescu
 FW C_Owen
                  N       D       A       C       L       P       E 
   STOPPING      41      41      41      41      41      41      41 
-  TACKLING     124     169      72     133     157     104     114 
+  TACKLING     124     169      72     133     157     104     115 
    PASSING     149     106     158     152      75     173     166 
-  SHOOTING      74      34     128      57     121      57      65 
-   SH Mean      18      20      18      19      18      19      19 
- SH Median      17      25      17      19      17      19      19 
+  SHOOTING      73      35     128      57     120      56      64 
+   SH Mean      18      20      18      19      17      19      19 
+ SH Median      17      25      16      19      16      19      17 
     SH Max      25      25      25      25      25      25      25 
-  SH Bonus      22      16      29      22      16      26      24 
+  SH Bonus      22      16      29      22      16      25      23 
    GK Qual      27      27      27      27      27      27      27 
   GK Bonus      27      20      41      26      21      31      29 
        Agg      20      20      20      20      20      20      20 
-   Scoring     124      82     148     120      90     134     132 
- Defending     124     169      72     133     157     104     114 
-   Overall     297     265     252     300     270     290     298 
+   Scoring     124      83     148     120      90     134     132 
+ Defending     124     169      72     133     157     104     115 
+   Overall     297     265     253     300     269     291     298 
 
 GK Q_Bonnette
 GK S_Manescu
-DM N_Morariu
-AM D_Van_Ry
-AM G_Mordino
+DF N_Morariu
+FW D_Van_Ry
+FW G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
 SUB DF N_Morariu DF IF INJURED DF
@@ -545,15 +545,19 @@ SUB MF G_Mordino MF IF INJURED MF
 SUB AM G_Mordino AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB X_Cullie G_Mordino DF IF MIN = 81
-CHANGEPOS O_Burgin DM IF MIN = 84
-SUB Alan_Michael D_Van_Ry AM IF MIN = 87
-SUB I_Drover N_Morariu DF IF MIN = 90
+SUB I_Drover G_Mordino DM IF MIN = 60
+SUB Alan_Michael D_Van_Ry FW IF MIN = 65
+CHANGEPOS C_Owen MF IF MIN = 70
+CHANGEPOS G_Mordino MF IF MIN = 78
+CHANGEPOS P_Deusner DM IF MIN = 81
+CHANGEPOS G_Mordino MF IF MIN = 84
+CHANGEPOS C_Owen MF IF MIN = 87
+SUB C_Owen N_Morariu AM IF MIN = 90
 TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
+TACTIC C IF MIN >= 90 SCORE = -1
+TACTIC N IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 28 SCORE >= 2
+TACTIC D IF MIN >= 32 SCORE >= 2
 
 
 Forced:G_Suckley/J_Moculescu/R_Amanar/M_Dumitru/
@@ -622,13 +626,17 @@ SUB MF E_Skutnik MF IF INJURED MF
 SUB AM E_Skutnik AM IF INJURED AM
 SUB FW S_Zamfir FW IF INJURED FW
 
-SUB P_Sollomovici E_Skutnik DF IF MIN = 50
-SUB T_Cozma T_Gheorghiu DF IF MIN = 70
-SUB M_Dumitru S_Zamfir DF IF MIN = 90
-TACTIC A IF MIN >= 65 SCORE <= -2
+SUB S_Kazaku E_Skutnik MF IF MIN = 70
+SUB P_Sollomovici T_Gheorghiu DF IF MIN = 75
+SUB M_Dumitru S_Zamfir DM IF MIN = 78
+CHANGEPOS G_Suckley MF IF MIN = 81
+CHANGEPOS E_Skutnik DM IF MIN = 84
+CHANGEPOS E_Skutnik DM IF MIN = 87
+CHANGEPOS S_Zamfir DF IF MIN = 90
+TACTIC A IF MIN >= 74 SCORE <= -2
 TACTIC A IF MIN >= 90 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 59 SCORE >= 2
+TACTIC D IF MIN >= 89 SCORE = 1
+TACTIC D IF MIN >= 58 SCORE >= 2
 
 
