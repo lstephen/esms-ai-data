@@ -418,7 +418,6 @@ N_Alvez         22 19/ 5/ 4 | DF P :  24 -13 :  11 |  12 -14  1.6   8 ||   8 || 
 K_Delco         16 12/ 6/ 4 | DF C :  16 -15 :   1 |  -1  -1  0.5   8 ||   7 || DM-17 DF-15 DF-16 DF-16 DF-21 DM-17 DF-11     r 
 W_Betsill       16  7/12/ 1 | MF P :  14 -13 :   1 |  -1  -1  0.5   8 ||   7 || MF-13 MF-15 DM-16 DM-17 DM-20 DM-20 DF-16     r 
 N_Neeser        16  2/12/ 5 | MF P :  14 -13 :   0 |  -1  -1  0.5   8 ||   6 || MF-13 MF-17 MF-17 MF-18 MF-19 AM-21 AM-20     r 
-V_Ling          16 12/ 6/ 3 | DF D :  16 -11 :   5 |  -1  -1  0.4   8 ||   6 || DM-17 DF-15 DF-16 DF-16 DF-21 DM-17 DF-11     r 
 B_Rowlings      16 12/ 5/ 4 | DF D :  16 -12 :   4 |  -2  -2  0.4   8 ||   5 || DM-18 DF-15 DF-16 DF-16 DF-21 DM-17 DF-12     r 
 B_Sherwin       16  3/12/ 4 | MF P :  14 -13 :   0 |  -2  -2  0.5   8 ||   5 || MF-13 MF-17 MF-17 MF-18 DM-19 AM-22 DM-20     r 
 I_Lalor         16 12/ 5/ 4 | DF D :  16 -12 :   4 |  -2  -2  0.4   8 ||   5 || DM-18 DF-15 DF-16 DF-16 DF-21 DM-17 DF-12     r 
@@ -532,27 +531,26 @@ FW D_Van_Ry
    Overall     285     233     293     289     265     309     274 
 
 GK Q_Bonnette
+GK S_Manescu
+DF W_Emmerling
 DF N_Morariu
-DF N_Parasca
-FW H_Kewell
 FW G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF N_Morariu DF IF INJURED DF
-SUB DM H_Kewell DM IF INJURED DM
-SUB MF H_Kewell MF IF INJURED MF
-SUB AM H_Kewell AM IF INJURED AM
+SUB DF W_Emmerling DF IF INJURED DF
+SUB DM G_Mordino DM IF INJURED DM
+SUB MF G_Mordino MF IF INJURED MF
+SUB AM G_Mordino AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB Alan_Michael H_Kewell AM IF MIN = 78
-SUB H_Kewell G_Mordino AM IF MIN = 81
-CHANGEPOS G_Mordino FW IF MIN = 84
-SUB I_Tatarescu N_Morariu AM IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
+SUB X_Cullie N_Morariu DF IF MIN = 45
+SUB O_Burgin W_Emmerling DF IF MIN = 70
+SUB O_Bravo G_Mordino MF IF MIN = 90
+TACTIC A IF MIN >= 88 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC C IF MIN >= 90 SCORE = 1
-TACTIC C IF MIN >= 48 SCORE >= 2
+TACTIC D IF MIN >= 72 SCORE >= 2
 
 
 Forced:G_Suckley/J_Moculescu/R_Amanar/M_Dumitru/
@@ -608,30 +606,31 @@ FW F_Pacuraru
  Defending     100     133      61     106     124      85      93 
    Overall     213     190     192     212     197     204     218 
 
-GK S_Hennigh
 GK U_Kelsey
 DM T_Cozma
 DM P_Sollomovici
 DM E_Skutnik
+MF C_Theodorescu
 
-SUB GK S_Hennigh GK IF INJURED GK
+SUB GK U_Kelsey GK IF INJURED GK
 SUB DF T_Cozma DF IF INJURED DF
-SUB DM E_Skutnik DM IF INJURED DM
-SUB MF E_Skutnik MF IF INJURED MF
-SUB AM E_Skutnik AM IF INJURED AM
-SUB FW E_Skutnik FW IF INJURED FW
+SUB DM C_Theodorescu DM IF INJURED DM
+SUB MF C_Theodorescu MF IF INJURED MF
+SUB AM C_Theodorescu AM IF INJURED AM
+SUB FW T_Cozma FW IF INJURED FW
 
-SUB M_Dumitru P_Sollomovici DF IF MIN = 60
-CHANGEPOS P_Sollomovici DM IF MIN = 65
-CHANGEPOS R_Amanar MF IF MIN = 70
-CHANGEPOS P_Sollomovici DM IF MIN = 75
-SUB H_Ghita E_Skutnik DM IF MIN = 78
-CHANGEPOS R_Amanar MF IF MIN = 87
-SUB R_Amanar T_Cozma DF IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB M_Dumitru T_Cozma DF IF MIN = 45
+CHANGEPOS T_Cozma DM IF MIN = 50
+CHANGEPOS T_Cozma DM IF MIN = 55
+CHANGEPOS T_Cozma DM IF MIN = 60
+CHANGEPOS T_Cozma DM IF MIN = 65
+CHANGEPOS T_Cozma DM IF MIN = 70
+SUB T_Cozma C_Theodorescu MF IF MIN = 75
+SUB H_Ghita P_Sollomovici DM IF MIN = 78
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 64 SCORE = 1
 TACTIC D IF MIN >= 33 SCORE >= 2
 
 
