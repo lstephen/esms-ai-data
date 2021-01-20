@@ -1,7 +1,13 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-L_Mckeon      35 eng 28  1  7  5 33 640 400 400 400
+Midfielder01 20  mon 2  2  20 11 31 400 400 400 400
+C_McGregor    30 sco  3 14 25  8 23 800 626 779 944
+C_Sanchez     32 col  1 17 25  6 30 300  83 788 388
+G_Potter      22 ire  2  8 25 18 20 600 145   8 192
+M_Icardi      28 arg  1  7  7 25 31 800 365 362 359
+R_Porteous    25 sco  1 25  8  7 32 600 259 584 297
+S_Haller      18 ger  2  1  7 18 43 200 198 208 203
+Jaunzi_I      32 spa  1  4 25  9 33 400 756  84 879
 Keeper02     25  ken 28 3  1  2  17 400 400 400 400
-C_Conche      26 ire  1 25 10  9 32 600 101 249 197
 G_Ogararu     30 hol  3 25  7  5 23 485  32 676  39
 P_Zabaleta    31 arg  1 25 10 10 11 400   1 490 480
 L_Insigne     26 ita  2  7 25 10 33 500 940  20 832
@@ -9,7 +15,6 @@ C_Plumb       30 sco  2 25  9  4 23 800  34 203 993
 A_Cham        28 arg  1 25  8  6 31 400  13 502 457
 S_Cooper      25 usa  3 25  8  9 32 300 277 406 298
 D_Berbatov    35 bul  2  9  8 27 37 300 144 247 409
-M_Langer      37 aut 30  1  1  2 31 450 400 400 400
 D_Lehman      29 ger  3  9  7 25 33 700 323 517 644
 A_Costacurta  29 ita  2 25  8  9 41 300 206 462 703
 L_Buchanan    26 swe  2  5  4 25 23 400 530 582 255
@@ -35,7 +40,6 @@ M_Maruoka     32 jap  2  8 25  9 18 300 125   9 844
 S_Cazorla     26 spa  2  9 25  5 20 700 618 591 346
 A_Hugo        32 fra 27  2  3  1 12 109 600 600 620
 Midfielder02 20  par 1  1  20 1  20 600 600 600 600
-Midfielder01 20  mon 2  2  20 11 31 400 400 400 400
 Forward01    20  swe 1  1  2  21 31 400 400 400 400
 Keeper03     31  pol 30 2  4  3  10 200 200 200 200
 Keeper02     26  nor 28 5  1  3  27 400 400 400 400
@@ -45,7 +49,6 @@ N_Gemmel      26 sco  2  4  8 19 22 477 751 881 665
 R_Escobar     20 col  2  8 11 15 23 600 803 422 336
 Forward07    18  fra 2  1  1  17 29 400 400 400 400
 Defender05   20  fin 2  21 2  8  25 200 200 200 200
-J_Derstroff   34 ger  2  6  4 23 32 800 519 179 505
 O_Hojiblanca  19 arg  1  7  8 18 20 600 600 657 855
 G_Bengescu    31 rom  1  9  8 25 32 800 496 622  14
 D_Stankovic   26 srb  1  5 25  8 42 600 854 226 259
@@ -115,9 +118,9 @@ R_Lewandowsk  33 ger  2  8 10 21 15 300 577 421 933
 Erik_Lamela   35 arg  1  6  8 23 42 400 796 235 349
 Higuita       35 col 29  3  5  3 43  93 300 300 300
 Forward02    20  mex 2  1  1  19 38 600 600 600 600
+Defender02   29  chi 2  26 1  11 29 200 200 200 200
 P_Centocelle  31 ita  3  8  8 26 20 300 360 320 430
 C_Tesfaye     29 egy  1 19 11  7 21 700 375 285 717
-Defender02   29  chi 2  26 1  11 29 200 200 200 200
 C_Sandulescu  24 rom  2  6  8 18 22 600 804 901 425
 D_Forlan      26 uru  3  7  9 16 31 500 948 440 431
 Forward12    20  uga 1  1  1  21 31 600 600 600 600
