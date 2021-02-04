@@ -411,13 +411,11 @@ V_Navarro       25    19    | GK P :  29 -10 :  18 |  18  -9  0.5   5 ||  14 || 
 V_Kleinhans     22  5/ 7/19 | FW P :  26 -12 :  13 |  14 -12  0.8   8 ||  11 || FW-12 FW-12 FW -9 FW-11 FW-10 FW -5 FW -9       
 I_Toner         23 19/ 6/ 6 | DF P :  25 -12 :  13 |  15 -11  0.8   7 ||  11 || DF-12 DF -7 DF -8 DF -8 DF-12 DM -9 DF -3       
 N_Trial         23  6/19/ 3 | MF P :  21  -6 :  15 |  14 -12  1.0   7 ||  10 || MF -6 MF -8 MF -8 MF-10 DM-13 DM-17 DM-13       
-O_Morris        16  7/12/ 3 | MF P :  15 -13 :   2 |   1   1  0.5   8 ||   9 || MF-13 MF-15 DM-16 DM-16 DM-19 DM-19 DF-16     r 
 N_Soolook       16  7/12/ 2 | MF P :  14 -13 :   1 |   0   0  0.5   8 ||   8 || MF-13 MF-15 DM-16 DM-17 DM-19 DM-20 DF-16     r 
 N_Alvez         22 19/ 5/ 4 | DF P :  24 -13 :  11 |  12 -14  1.6   8 ||   8 || DF-13 DF -8 DF -9 DF -9 DF-14 DM-11 DF -3       
 K_Delco         16 12/ 6/ 4 | DF C :  16 -15 :   1 |  -1  -1  0.5   8 ||   7 || DM-17 DF-15 DF-16 DF-16 DF-21 DM-17 DF-11     r 
 W_Betsill       16  7/12/ 1 | MF P :  14 -13 :   1 |  -1  -1  0.5   8 ||   7 || MF-13 MF-15 DM-16 DM-17 DM-20 DM-20 DF-16     r 
 N_Neeser        16  2/12/ 5 | MF P :  14 -13 :   0 |  -1  -1  0.5   8 ||   6 || MF-13 MF-17 MF-17 MF-18 MF-19 AM-21 AM-20     r 
-B_Rowlings      16 12/ 5/ 4 | DF D :  16 -12 :   4 |  -2  -2  0.4   8 ||   5 || DM-18 DF-15 DF-16 DF-16 DF-21 DM-17 DF-12     r 
 B_Sherwin       16  3/12/ 4 | MF P :  14 -13 :   0 |  -2  -2  0.5   8 ||   5 || MF-13 MF-17 MF-17 MF-18 DM-19 AM-22 DM-20     r 
 I_Lalor         16 12/ 5/ 4 | DF D :  16 -12 :   4 |  -2  -2  0.4   8 ||   5 || DM-18 DF-15 DF-16 DF-16 DF-21 DM-17 DF-12     r 
 R_Sebastian     16  6/12/ 1 | MF P :  14 -13 :   0 |  -1  -1  0.5   8 ||   5 || MF-13 MF-16 DM-17 DM-18 DM-20 DM-21 DF-17     r 
@@ -436,7 +434,6 @@ H_Bellrose      16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || 
 O_Crabb         16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
 O_Janke         16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
 R_Kipp          16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
-U_Starliper     16  4/ 5/12 | FW L :  18 -15 :   3 |  -3  -3  0.5   8 ||   2 || AM-18 FW-21 FW-17 FW-19 DM-20 FW-15 FW-15     r 
 W_Stierle       16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
 B_Cronin        16 12/ 2/ 5 | DF D :  15 -12 :   3 |  -4  -4  0.4   8 ||   0 || DM-20 DF-17 DF-16 DF-17 DF-22 DM-18 DF-12     r 
 C_Koch          16  1/12/ 2 | MF D :  10 -22 : -12 |  -4  -4  0.5   8 ||   0 || MF-14 MF-18 MF-19 MF-20 MF-21 AM-25 DM-22     r 
@@ -543,17 +540,19 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB W_Westfall H_Kewell MF IF MIN = 70
-CHANGEPOS H_Kewell AM IF MIN = 75
-CHANGEPOS H_Kewell AM IF MIN = 78
-CHANGEPOS I_Tatarescu DM IF MIN = 84
-SUB H_Kewell G_Mordino AM IF MIN = 87
-SUB I_Tatarescu N_Morariu DM IF MIN = 90
-TACTIC A IF MIN >= 81 SCORE <= -2
-TACTIC C IF SCORE = -1
+CHANGEPOS P_Deusner DM IF MIN = 55
+SUB D_Van_Ry H_Kewell FW IF MIN = 60
+SUB O_Bravo G_Mordino MF IF MIN = 65
+CHANGEPOS G_Mordino FW IF MIN = 75
+SUB Alan_Michael E_Petrescu MF IF MIN = 81
+CHANGEPOS E_Petrescu DM IF MIN = 84
+CHANGEPOS E_Petrescu DF IF MIN = 87
+CHANGEPOS P_Deusner DM IF MIN = 90
+TACTIC A IF MIN >= 84 SCORE <= -2
+TACTIC P IF MIN >= 75 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 70 SCORE >= 2
+TACTIC C IF SCORE >= 2
 
 
 Forced:G_Suckley/J_Moculescu/R_Amanar/M_Dumitru/
@@ -609,28 +608,29 @@ FW F_Pacuraru
  Defending      96     130      61     111     112      84      90 
    Overall     210     189     192     216     194     205     211 
 
-GK S_Hennigh
 GK U_Kelsey
 DF T_Gheorghiu
 DF S_Zamfir
 DF P_Sollomovici
+MF C_Theodorescu
 
-SUB GK S_Hennigh GK IF INJURED GK
+SUB GK U_Kelsey GK IF INJURED GK
 SUB DF T_Gheorghiu DF IF INJURED DF
-SUB DM P_Sollomovici DM IF INJURED DM
-SUB MF P_Sollomovici MF IF INJURED MF
-SUB AM P_Sollomovici AM IF INJURED AM
+SUB DM C_Theodorescu DM IF INJURED DM
+SUB MF C_Theodorescu MF IF INJURED MF
+SUB AM C_Theodorescu AM IF INJURED AM
 SUB FW S_Zamfir FW IF INJURED FW
 
-SUB L_Roman S_Zamfir DF IF MIN = 60
-CHANGEPOS G_Suckley MF IF MIN = 75
-SUB E_Skutnik T_Gheorghiu DF IF MIN = 81
-SUB P_Lazar P_Sollomovici DM IF MIN = 84
-CHANGEPOS G_Suckley MF IF MIN = 90
-TACTIC A IF MIN >= 48 SCORE <= -2
-TACTIC E IF MIN >= 59 SCORE = -1
+SUB E_Skutnik C_Theodorescu MF IF MIN = 50
+SUB P_Lazar S_Zamfir DF IF MIN = 55
+SUB M_Dumitru P_Sollomovici DF IF MIN = 65
+CHANGEPOS P_Sollomovici DM IF MIN = 70
+CHANGEPOS P_Sollomovici DM IF MIN = 78
+CHANGEPOS P_Sollomovici DM IF MIN = 81
+TACTIC A IF MIN >= 55 SCORE <= -2
+TACTIC E IF MIN >= 55 SCORE = -1
 TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 61 SCORE >= 2
+TACTIC C IF SCORE = 1
+TACTIC D IF MIN >= 63 SCORE >= 2
 
 
