@@ -1,34 +1,34 @@
 tth
-A
+C
 
 GK Carlos_Bravo
-DF N_Stiles
 DF W_Morgan
-DF John_McNamara
+DF E_Plummer
 DF Doriva
+DM S_Winzor
 DM R_Morrison
-DM D_McHale
 DM Moreto
-AM R_Pires
-AM G_Potter
+MF R_Pires
+MF M_Laudrup
+MF D_McHale
 FW B_McClair
 
 GK E_Manuel
-DF E_Plummer
-DM M_Laudrup
-FW S_McMahon
-FW B_Celina
+DF N_Stiles
+AM G_Potter
+AM S_McMahon
+AM B_Celina
 
 PK: B_McClair
 AGG 20
 
-SUB 9 15 MF IF MIN = 70
-SUB 6 14 DF IF MIN = 75
-SUB 10 16 MF IF MIN = 90
-TACTIC A IF SCORE <= -2
-TACTIC A IF SCORE = -1
-TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 53 SCORE = 1
-TACTIC D IF MIN >= 27 SCORE >= 2
-SUB 5 13 DF IF SCORE <= -3
-SUB 5 13 DF IF SCORE >= 3
+SUB 7 16 AM IF MIN = 70
+SUB 9 15 MF IF MIN = 87
+SUB 5 14 AM IF MIN = 90
+TACTIC E IF MIN >= 5 SCORE <= -2
+TACTIC E IF MIN >= 10 SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC D IF MIN >= 38 SCORE = 1
+TACTIC D IF MIN >= 19 SCORE >= 2
+SUB 4 13 DF IF SCORE <= -3
+SUB 4 13 DF IF SCORE >= 3
