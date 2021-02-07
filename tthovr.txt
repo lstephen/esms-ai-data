@@ -646,11 +646,11 @@ SUB MF S_McMahon MF IF INJURED MF
 SUB AM S_McMahon AM IF INJURED AM
 SUB FW S_McMahon FW IF INJURED FW
 
-SUB Moreto B_Celina AM IF MIN = 70
-SUB M_Laudrup S_McMahon MF IF MIN = 87
-SUB S_Winzor G_Potter AM IF MIN = 90
-TACTIC E IF MIN >= 5 SCORE <= -2
-TACTIC E IF MIN >= 10 SCORE = -1
+SUB Moreto G_Potter MF IF MIN = 60
+SUB D_McHale S_McMahon DM IF MIN = 84
+SUB B_McClair B_Celina FW IF MIN = 90
+TACTIC A IF MIN >= 42 SCORE <= -2
+TACTIC P IF MIN >= 68 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 38 SCORE = 1
 TACTIC D IF MIN >= 19 SCORE >= 2
@@ -711,27 +711,27 @@ FW D_Mario
    Overall     267     235     270     273     218     292     254 
 
 GK A_Ghita
-DF T_X_Ghiuri
+DF K_Layvin
 DF N_Zaituc
-DF D_Dragan
+DF J_Milburn
 FW A_Milosovici
 
 SUB GK A_Ghita GK IF INJURED GK
-SUB DF T_X_Ghiuri DF IF INJURED DF
+SUB DF K_Layvin DF IF INJURED DF
 SUB DM N_Zaituc DM IF INJURED DM
 SUB MF N_Zaituc MF IF INJURED MF
 SUB AM N_Zaituc AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB G_Best D_Dragan DF IF MIN = 60
-SUB D_Boroi T_X_Ghiuri DM IF MIN = 70
-SUB T_X_Ghiuri N_Zaituc DM IF MIN = 87
+SUB J_Cadette K_Layvin DM IF MIN = 81
+SUB Ridoutkha A_Milosovici DF IF MIN = 84
+SUB G_Best N_Zaituc DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 87 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 48 SCORE >= 2
 
-SUB Ridoutkha T_X_Ghiuri DF IF SCORE <= -3
-SUB Ridoutkha T_X_Ghiuri DF IF SCORE >= 3
+SUB Ridoutkha K_Layvin DF IF SCORE <= -3
+SUB Ridoutkha K_Layvin DF IF SCORE >= 3
 
