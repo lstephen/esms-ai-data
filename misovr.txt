@@ -412,7 +412,6 @@ V_Kleinhans     22  5/ 7/19 | FW P :  26 -12 :  13 |  14 -12  0.8   8 ||  11 || 
 I_Toner         23 19/ 6/ 6 | DF P :  25 -12 :  13 |  15 -11  0.8   7 ||  11 || DF-12 DF -7 DF -8 DF -8 DF-12 DM -9 DF -3       
 N_Trial         23  6/19/ 3 | MF P :  21  -6 :  15 |  14 -12  1.0   7 ||  10 || MF -6 MF -8 MF -8 MF-10 DM-13 DM-17 DM-13       
 N_Soolook       16  7/12/ 2 | MF P :  14 -13 :   1 |   0   0  0.5   8 ||   8 || MF-13 MF-15 DM-16 DM-17 DM-19 DM-20 DF-16     r 
-N_Alvez         22 19/ 5/ 4 | DF P :  24 -13 :  11 |  12 -14  1.6   8 ||   8 || DF-13 DF -8 DF -9 DF -9 DF-14 DM-11 DF -3       
 K_Delco         16 12/ 6/ 4 | DF C :  16 -15 :   1 |  -1  -1  0.5   8 ||   7 || DM-17 DF-15 DF-16 DF-16 DF-21 DM-17 DF-11     r 
 W_Betsill       16  7/12/ 1 | MF P :  14 -13 :   1 |  -1  -1  0.5   8 ||   7 || MF-13 MF-15 DM-16 DM-17 DM-20 DM-20 DF-16     r 
 N_Neeser        16  2/12/ 5 | MF P :  14 -13 :   0 |  -1  -1  0.5   8 ||   6 || MF-13 MF-17 MF-17 MF-18 MF-19 AM-21 AM-20     r 
@@ -540,14 +539,16 @@ SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB X_Cullie G_Mordino MF IF MIN = 78
-CHANGEPOS P_Deusner DM IF MIN = 81
-SUB Alan_Michael I_Drover AM IF MIN = 87
-SUB W_Westfall D_Van_Ry FW IF MIN = 90
-TACTIC P IF MIN >= 90 SCORE <= -2
-TACTIC P IF MIN >= 90 SCORE = -1
+SUB W_Westfall D_Van_Ry DM IF MIN = 45
+SUB X_Cullie I_Drover MF IF MIN = 50
+CHANGEPOS Alan_Michael DM IF MIN = 55
+CHANGEPOS Alan_Michael DM IF MIN = 65
+CHANGEPOS Alan_Michael DM IF MIN = 78
+SUB O_Bravo G_Mordino MF IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF SCORE = 1
+TACTIC D IF MIN >= 57 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
@@ -617,18 +618,18 @@ SUB MF C_Theodorescu MF IF INJURED MF
 SUB AM C_Theodorescu AM IF INJURED AM
 SUB FW S_Zamfir FW IF INJURED FW
 
-SUB M_Dumitru C_Theodorescu MF IF MIN = 45
-CHANGEPOS G_Suckley DM IF MIN = 50
-CHANGEPOS G_Suckley DM IF MIN = 55
-CHANGEPOS G_Suckley DM IF MIN = 60
-SUB T_Gheorghiu E_Skutnik DM IF MIN = 65
-CHANGEPOS E_Skutnik DF IF MIN = 75
-SUB E_Skutnik P_Sollomovici DF IF MIN = 78
-CHANGEPOS G_Suckley DM IF MIN = 90
-TACTIC A IF MIN >= 73 SCORE <= -2
+SUB M_Dumitru E_Skutnik DM IF MIN = 45
+CHANGEPOS G_Suckley DM IF MIN = 65
+SUB T_Gheorghiu C_Theodorescu AM IF MIN = 70
+CHANGEPOS R_Amanar DM IF MIN = 75
+CHANGEPOS R_Amanar MF IF MIN = 81
+SUB R_Amanar S_Zamfir DF IF MIN = 84
+CHANGEPOS G_Suckley MF IF MIN = 87
+CHANGEPOS C_Theodorescu DM IF MIN = 90
+TACTIC A IF MIN >= 71 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC D IF MIN >= 65 SCORE = 1
+TACTIC D IF MIN >= 56 SCORE = 1
 TACTIC D IF MIN >= 29 SCORE >= 2
 
 
