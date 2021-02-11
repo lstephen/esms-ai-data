@@ -9,26 +9,26 @@ DF J_Livermore
 DF G_Barry
 DM C_Connolly
 DM R_Harper
-DM C_Brunt
+DM S_Field
 MF M_Pereira
 FW R_Brewster
 
 GK J_Bond
-DF D_Furlong
-DF S_Field
+DF S_Ajayi
+DF K_Wilson
 FW F_Krovinovic
 FW M_Phillips
 
 PK: R_Brewster
 AGG 20
 
-SUB 8 14 MF IF MIN = 50
-SUB 10 15 AM IF MIN = 60
-SUB 2 13 DF IF MIN = 84
+SUB 4 14 DF IF MIN = 50
+SUB 3 13 DF IF MIN = 55
+SUB 7 15 MF IF MIN = 81
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 81 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 50 SCORE >= 2
-SUB 2 13 DF IF SCORE <= -3
-SUB 2 13 DF IF SCORE >= 3
+SUB 7 15 DM IF SCORE <= -3
+SUB 7 15 DM IF SCORE >= 3
