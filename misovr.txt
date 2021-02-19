@@ -386,13 +386,14 @@ DEFENSIVE        39  27  31  32  32  28
 
 ** /free_agents.txt **
                             |                      | now vAg Abs      || OVR ||  P     C     E     N     A     L     D   
+N_Dieryck       24 17/19/ 8 | DF P :  34  -4 :  30 |  29   2  1.2   6 ||  38 || DM -2 DM -2 DM -1 DM -2 DF -6 DM -5 DM -2       
 K_Coddaire      23  9/19/10 | MF P :  24  -3 :  20 |  21  -5  0.7   7 ||  23 || MF -3 MF -5 MF -5 MF -6 DM -7 MF-10 AM -8       
 V_Bodfield      22  9/19/ 7 | MF P :  23  -4 :  19 |  19  -8  0.5   8 ||  20 || MF -4 MF -6 MF -6 MF -7 DM -9 DM-13 MF -9       
 U_Slaiding      23 19/ 8/ 9 | DF P :  28 -10 :  18 |  19  -7  0.5   7 ||  20 || DF-10 DF -6 DF -6 DF -6 DF -9 DM -7 DF -2       
 Q_Kowal         22  5/19/10 | MF P :  23  -4 :  18 |  18  -8  0.5   8 ||  19 || MF -4 MF -7 MF -6 MF -8 MF -8 AM-12 AM-11       
 B_Stroop        22 19/ 6/10 | DF P :  27 -11 :  16 |  18  -9  0.7   8 ||  18 || DF-11 DF -6 DF -6 DF -6 DF -9 DF -7 DF -3       
 F_Brunnert      22    19    | GK P :  29 -10 :  18 |  18  -8  0.4   8 ||  18 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
-A_Hughes        23 19/ 8/ 8 | DF P :  27 -10 :  18 |  18  -8  0.6   7 ||  18 || DF-10 DF -6 DF -6 DF -6 DF-10 DM -7 DF -2       
+G_Dube          25 14/ 7/19 | FW P :  28 -10 :  18 |  20  -7  1.1   5 ||  18 || FW-10 FW -8 FW -7 DF -7 DF -7 FW -3 FW -5       
 K_Togliatti     22  8/19/ 6 | MF P :  23  -5 :  18 |  17  -9  0.6   8 ||  17 || MF -5 MF -7 MF -7 MF -8 DM-10 DM-14 MF-10       
 K_Hessom        23    19    | GK P :  29 -10 :  18 |  18  -8  0.6   7 ||  17 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
 S_Rivett        23    19    | GK P :  29 -10 :  18 |  18  -8  0.6   7 ||  17 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10       
@@ -426,7 +427,6 @@ D_Ivey          16  1/12/ 4 | MF E :  17 -18 :  -1 |  -3  -3  0.6   8 ||   3 || 
 L_Mccollum      16 12/ 3/ 6 | DF D :  15 -12 :   3 |  -3  -3  0.4   8 ||   3 || DM-19 DF-16 DF-16 DF-16 DF-21 DM-17 DF-12     r 
 P_Truchan       16  2/12/ 3 | MF E :  17 -18 :  -1 |  -3  -3  0.6   8 ||   3 || MF-14 MF-17 MF-18 MF-19 DM-20 AM-24 DM-21     r 
 A_Tryber        16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
-C_Jolley        16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
 G_Roboostoff    16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
 H_Bellrose      16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
 O_Crabb         16    12    | GK D :  18 -21 :  -3 |  -3  -3  0.5   8 ||   2 || GK-21 GK-21 GK-21 GK-21 GK-21 GK-21 GK-21     r 
@@ -528,27 +528,29 @@ FW D_Van_Ry
 GK S_Manescu
 DF E_Petrescu
 DF N_Morariu
+DF I_Drover
 FW H_Kewell
-FW G_Mordino
 
 SUB GK S_Manescu GK IF INJURED GK
 SUB DF E_Petrescu DF IF INJURED DF
 SUB DM H_Kewell DM IF INJURED DM
 SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
-SUB FW G_Mordino FW IF INJURED FW
+SUB FW I_Drover FW IF INJURED FW
 
-SUB W_Westfall N_Morariu DF IF MIN = 45
-SUB I_Tatarescu G_Mordino DM IF MIN = 78
-CHANGEPOS G_Mordino FW IF MIN = 81
-SUB D_Van_Ry H_Kewell AM IF MIN = 84
-CHANGEPOS H_Kewell FW IF MIN = 87
+SUB D_Van_Ry H_Kewell AM IF MIN = 45
+CHANGEPOS H_Kewell FW IF MIN = 50
+SUB O_Burgin N_Morariu DF IF MIN = 65
+CHANGEPOS H_Kewell MF IF MIN = 70
+SUB P_Deusner I_Drover DM IF MIN = 75
+CHANGEPOS I_Drover FW IF MIN = 81
+CHANGEPOS H_Kewell MF IF MIN = 84
 CHANGEPOS H_Kewell FW IF MIN = 90
-TACTIC A IF MIN >= 74 SCORE <= -2
+TACTIC A IF MIN >= 70 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC L IF MIN >= 56 SCORE >= 2
+TACTIC C IF MIN >= 61 SCORE >= 2
 
 
 Forced:G_Suckley/J_Moculescu/R_Amanar/M_Dumitru/
@@ -609,20 +611,20 @@ DF T_Gheorghiu
 DF S_Zamfir
 DF P_Sollomovici
 
-SUB GK S_Hennigh GK IF INJURED GK
+SUB GK U_Kelsey GK IF INJURED GK
 SUB DF T_Gheorghiu DF IF INJURED DF
 SUB DM P_Sollomovici DM IF INJURED DM
 SUB MF P_Sollomovici MF IF INJURED MF
 SUB AM P_Sollomovici AM IF INJURED AM
 SUB FW S_Zamfir FW IF INJURED FW
 
-SUB L_Roman T_Gheorghiu DF IF MIN = 45
-SUB E_Skutnik P_Sollomovici DM IF MIN = 87
-SUB P_Lazar S_Zamfir DF IF MIN = 90
-TACTIC A IF MIN >= 88 SCORE <= -2
+SUB L_Roman S_Zamfir DF IF MIN = 60
+SUB S_Zamfir P_Sollomovici DF IF MIN = 70
+SUB P_Lazar T_Gheorghiu DF IF MIN = 78
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 87 SCORE = 1
-TACTIC D IF MIN >= 75 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 77 SCORE >= 2
 
 
