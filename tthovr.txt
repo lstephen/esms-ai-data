@@ -652,14 +652,14 @@ SUB MF B_Celina MF IF INJURED MF
 SUB AM B_Celina AM IF INJURED AM
 SUB FW B_McClair FW IF INJURED FW
 
-SUB R_Morrison D_Byrne AM IF MIN = 55
-SUB S_McMahon B_Celina AM IF MIN = 70
-SUB D_Byrne B_McClair FW IF MIN = 87
+SUB G_Potter D_Byrne FW IF MIN = 70
+SUB N_Stiles B_McClair FW IF MIN = 75
+SUB W_Morgan B_Celina MF IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 72 SCORE >= 2
+TACTIC C IF MIN >= 90 SCORE = 1
+TACTIC D IF MIN >= 79 SCORE >= 2
 
 SUB S_Winzor John_McNamara DF IF SCORE <= -3
 SUB S_Winzor John_McNamara DF IF SCORE >= 3
@@ -716,23 +716,23 @@ FW D_Mario
    Overall     266     261     255     281     240     277     274 
 
 GK A_Ghita
-DM C_Hurgoi
 DM N_Zaituc
 DM J_Milburn
+DM D_Dragan
 FW A_Milosovici
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF N_Zaituc DF IF INJURED DF
-SUB DM C_Hurgoi DM IF INJURED DM
-SUB MF C_Hurgoi MF IF INJURED MF
-SUB AM C_Hurgoi AM IF INJURED AM
+SUB DM N_Zaituc DM IF INJURED DM
+SUB MF N_Zaituc MF IF INJURED MF
+SUB AM N_Zaituc AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB Ridoutkha J_Milburn DM IF MIN = 84
-SUB G_Best N_Zaituc DF IF MIN = 87
-SUB T_X_Ghiuri C_Hurgoi DM IF MIN = 90
-TACTIC P IF MIN >= 16 SCORE <= -2
-TACTIC P IF MIN >= 31 SCORE = -1
+SUB Zico_Jnr J_Milburn MF IF MIN = 65
+SUB G_Best D_Dragan DM IF MIN = 78
+SUB M_Antonio N_Zaituc DM IF MIN = 87
+TACTIC E IF MIN >= 25 SCORE <= -2
+TACTIC E IF MIN >= 68 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 32 SCORE = 1
 TACTIC D IF MIN >= 16 SCORE >= 2
