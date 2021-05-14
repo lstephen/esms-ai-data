@@ -292,7 +292,7 @@ DEFENSIVE        23  21  22  22  18  15
                       NORMAL    23    19    19          20    18 
                    DEFENSIVE    23          21    17    16    15 
                    ATTACKING    23    19    20          23    26 
-              COUNTER_ATTACK    23    19    19    22    21    21 
+              COUNTER_ATTACK    23    19    19          21    21 
                    LONG_BALL    23                19          18 
                      PASSING    23    21                      22 
                     EUROPEAN    23          19    24    20       
@@ -382,10 +382,10 @@ FW R_Brewster
    Overall     195     187     191     203     172     203     201 
 
 GK J_Bond
+DF S_Ajayi
 DF N_Ferguson
 AM M_Pereira
 AM M_Phillips
-AM B_Kapustka
 
 SUB GK J_Bond GK IF INJURED GK
 SUB DF N_Ferguson DF IF INJURED DF
@@ -394,11 +394,11 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB K_Gibbs N_Ferguson DF IF MIN = 60
-SUB F_Krovinovic B_Kapustka MF IF MIN = 65
-SUB S_Field M_Pereira MF IF MIN = 78
-TACTIC E IF MIN >= 15 SCORE <= -2
-TACTIC E IF MIN >= 29 SCORE = -1
+SUB F_Krovinovic S_Ajayi DF IF MIN = 70
+SUB A_Anguissa M_Pereira DM IF MIN = 87
+SUB J_Livermore N_Ferguson DM IF MIN = 90
+TACTIC A IF MIN >= 45 SCORE <= -2
+TACTIC P IF MIN >= 10 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC D IF MIN >= 40 SCORE = 1
 TACTIC D IF MIN >= 20 SCORE >= 2
