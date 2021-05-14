@@ -142,29 +142,29 @@ NORMAL
 GK N_Kent
 DF V_Barbieri
 DF O_Burgin
-DF X_Cullie
+DF I_Drover
+DM X_Cullie
 DM Alan_Michael
-DM I_Tatarescu
 DM W_Westfall
 MF O_Bravo
 MF P_Deusner
-MF I_Drover
+MF I_Tatarescu
 FW C_Owen
                  N       D       A       C       L       P       E 
   STOPPING      44      44      44      44      44      44      44 
-  TACKLING     129     175      77     138     162     109     119 
-   PASSING     151     108     160     154      76     176     167 
-  SHOOTING      78      35     137      60     129      60      69 
+  TACKLING     129     174      76     138     162     108     119 
+   PASSING     151     108     160     155      76     176     168 
+  SHOOTING      78      34     137      60     129      60      69 
    SH Mean      19      20      18      20      18      20      19 
- SH Median      18      25      17      18      17      18      18 
+ SH Median      18      25      17      18      17      19      18 
     SH Max      25      25      25      25      25      25      25 
   SH Bonus      22      16      29      21      16      25      24 
    GK Qual      29      29      29      29      29      29      29 
-  GK Bonus      29      21      43      27      23      33      31 
+  GK Bonus      29      21      44      27      23      33      31 
        Agg      20      20      20      20      20      20      20 
-   Scoring     127      84     152     123      94     137     134 
- Defending     129     175      77     138     162     109     119 
-   Overall     306     272     266     308     280     300     307 
+   Scoring     127      83     152     123      94     137     135 
+ Defending     129     174      76     138     162     108     119 
+   Overall     306     271     264     308     280     300     308 
 
 ** 1st XI **
 ATTACKING
@@ -523,26 +523,28 @@ FW C_Owen
    Overall     304     271     265     306     275     298     306 
 
 GK Q_Bonnette
-GK S_Manescu
+DM N_Morariu
 MF I_Drover
 AM D_Van_Ry
 AM G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF I_Drover DF IF INJURED DF
+SUB DF N_Morariu DF IF INJURED DF
 SUB DM I_Drover DM IF INJURED DM
 SUB MF I_Drover MF IF INJURED MF
 SUB AM I_Drover AM IF INJURED AM
 SUB FW D_Van_Ry FW IF INJURED FW
 
-SUB I_Tatarescu G_Mordino MF IF MIN = 60
-SUB X_Cullie D_Van_Ry DM IF MIN = 65
-SUB P_Deusner I_Drover DF IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB X_Cullie N_Morariu DM IF MIN = 65
+SUB W_Westfall D_Van_Ry MF IF MIN = 78
+SUB O_Bravo I_Drover DM IF MIN = 81
+CHANGEPOS P_Deusner DM IF MIN = 84
+CHANGEPOS P_Deusner DM IF MIN = 87
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC L IF MIN >= 64 SCORE = 1
-TACTIC L IF MIN >= 33 SCORE >= 2
+TACTIC D IF MIN >= 57 SCORE = 1
+TACTIC D IF MIN >= 29 SCORE >= 2
 
 
 Forced:G_Suckley/R_Amanar/S_Kazaku/M_Dumitru/
@@ -611,16 +613,15 @@ SUB MF C_Theodorescu MF IF INJURED MF
 SUB AM C_Theodorescu AM IF INJURED AM
 SUB FW T_Gheorghiu FW IF INJURED FW
 
-SUB M_Dumitru C_Theodorescu AM IF MIN = 60
-SUB L_Roman T_Cozma DF IF MIN = 65
-CHANGEPOS R_Amanar DM IF MIN = 70
-CHANGEPOS C_Theodorescu MF IF MIN = 75
-SUB P_Lazar T_Gheorghiu DF IF MIN = 78
-CHANGEPOS R_Amanar DM IF MIN = 87
-TACTIC E IF SCORE <= -2
+CHANGEPOS G_Suckley MF IF MIN = 78
+SUB E_Skutnik T_Gheorghiu DM IF MIN = 81
+CHANGEPOS T_Gheorghiu DF IF MIN = 84
+SUB M_Dumitru T_Cozma DM IF MIN = 87
+SUB S_Kazaku C_Theodorescu AM IF MIN = 90
+TACTIC A IF MIN >= 84 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 79 SCORE = 1
+TACTIC D IF MIN >= 68 SCORE = 1
 TACTIC D IF MIN >= 34 SCORE >= 2
 
 
