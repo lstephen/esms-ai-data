@@ -1,14 +1,25 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-S_Berghuis    29 hol  2  4 25 17 20 600 827 104 478
+Forward02    27  srb 1  15 15 26 28 800 800 800 800
+Forward01    29  den 2  3  12 28 29 800 800 800 800
+Midfielder01 30  hol 2  1  28 1  36 200 200 200 200
+Brian_Poole   27 sco  2  9 24  7 31 500 674 540 699
+S_Cuningham   30 ire  2 25  7  8 32 300  37 799 580
+M_Lopez       29 arg  2  7 25  9 32 500 101 238 486
+D_Costa       28 spa  3  7  9 25 42 700 607 748 725
+A_Souda       33 fra  2  6  8 26 31 400 490 595 868
+C_Dopolpoppod 29 gre  3  9 25 11 32 800 554 807 858
+A_Gemmel      30 sco  2  7  8 25 22 400 281 333  34
+Sergio        34 spa  2 11 25 12 21 600 274 892 206
+L_Blanc       32 fra  3 25  9 10 23 400   5 279 912
+C_Sanchez     33 col  1 17 25  6 30 300 173 873 378
+Midfielder02 21  sco 2  13 23 2  8  400 400 400 400
+Forward01    24  uga 2  10 1  25 37 200 200 200 200
 G_Taylor      30 sco  1 25 10  6 22 300  37 576 536
 M_Campbell    26 sco  2 16  9  7 31 400  22 364 127
 C_David       29 hol  2  9 25 10 22 600 680  51 650
 D_Mitsakos    29 usa  1  7  4 25 32 300 938 756 742
-R_Neves       35 por  2  5 32  4 33 400 942 137 570
-P_Lattuada    35 ita 31  3  2  1 42 177 700 700 700
 K_Burns       34 fra  1  7 25  6 41 500 281  20 120
 J_Stones      35 eng  3 25  7  5 22 600  40 285 908
-A_Shaw        30 eng  1 25 10 10 30 800   5 502 162
 T_Mings       34 eng  2 25  8  5 31 400   8 751 534
 Midfielder01 26  hol 2  15 27 1  34 600 600 600 600
 Midfielder02 29  aus 1  15 28 5  28 600 600 600 600
@@ -35,7 +46,6 @@ Keeper10     18  nzl 18 5  3  2  29 800 800 800 800
 C_Antscore    28 arg  3  4  6 18 31 400 448 496 188
 D_Pierre_Lous 33 fra  2  5  6 18 22 300 653  44 672
 I_Belfodil    32 fra  2  4  9 16 30 700 812 215 847
-W_Hunt        36 eng 29  3  3  1 31 580 500 500 500
 V_Lei         33 chn  1  4 26  6 32 500 514 724 499
 G_Mabbut      31 eng  3 25  9  5 11 300  17 894 694
 Forward01    20  spa 2  5  1  19 13 400 400 400 400
