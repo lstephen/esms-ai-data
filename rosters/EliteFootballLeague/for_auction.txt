@@ -1,8 +1,9 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-Forward02    27  srb 1  15 15 26 28 800 800 800 800
+Zizou         32 fra  1 10 25  9 30 300 474  15 494
+John_McNamara 35 eng  1 26  9 10 22 300 851 540 358
+Defender02   29  cro 1  28 17 12 30 600 600 600 600
 Forward01    29  den 2  3  12 28 29 800 800 800 800
 Midfielder01 30  hol 2  1  28 1  36 200 200 200 200
-Brian_Poole   27 sco  2  9 24  7 31 500 674 540 699
 S_Cuningham   30 ire  2 25  7  8 32 300  37 799 580
 M_Lopez       29 arg  2  7 25  9 32 500 101 238 486
 D_Costa       28 spa  3  7  9 25 42 700 607 748 725
@@ -15,7 +16,6 @@ C_Sanchez     33 col  1 17 25  6 30 300 173 873 378
 Midfielder02 21  sco 2  13 23 2  8  400 400 400 400
 Forward01    24  uga 2  10 1  25 37 200 200 200 200
 G_Taylor      30 sco  1 25 10  6 22 300  37 576 536
-M_Campbell    26 sco  2 16  9  7 31 400  22 364 127
 C_David       29 hol  2  9 25 10 22 600 680  51 650
 D_Mitsakos    29 usa  1  7  4 25 32 300 938 756 742
 K_Burns       34 fra  1  7 25  6 41 500 281  20 120
@@ -60,7 +60,6 @@ Macheda       26 spa  1 25  1  1 25 800 880 800 800
 S_Coleman     32 ire  1 25 11  5 32 800  60 239 849
 Forward12    18  nzl 1  4  1  18 24 400 400 400 400
 Forward10    17  rus 2  1  1  17 46 400 400 400 400
-Defender24   32  chi 1  28 22 8  25 400 400 400 400
 Michel        31 spa  2 16 24  9 22 300 416 941 431
 J_Castro      25 bos  1 24  9  6 13 700 945  40 847
 Forward01    17  par 1  4  1  17 42 400 400 400 400
@@ -71,7 +70,6 @@ Midfielder22 23  rus 2  1  23 1  37 600 600 600 600
 Defender01   26  rus 2  27 1  3  27 200 200 200 200
 Defender14   26  srb 1  27 5  1  29 200 200 200 200
 V_Fuentes     30 usa  1  9 24  5 21 400 177 858 139
-D_Horzano     25 nzl  2 24  9  7 22 300 962 499 110
 Defender07   33  den 1  28 1  8  28 600 600 600 600
 Midfielder28 29  nig 2  1  28 1  27 200 200 200 200
 Midfielder01 30  eng 2  1  28 1  26 400 400 400 400
