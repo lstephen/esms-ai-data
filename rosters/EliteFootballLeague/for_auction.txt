@@ -1,4 +1,9 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
+S_Leon        33 spa  2  5  8 25 22 300 304 514  18
+D_Archambault 35 usa  3  7 30 12 21 400  68  54 273
+Michel        31 spa  2 16 25  9 22 300 416  12 431
+A_Shaw        30 eng  1 25 10 10 30 800 165 502 162
+Jin_Sin_Ping  34 chn 28  5  3  2 13 511 300 300 300
 Zizou         32 fra  1 10 25  9 30 300 474  15 494
 John_McNamara 35 eng  1 26  9 10 22 300 851 540 358
 Defender02   29  cro 1  28 17 12 30 600 600 600 600
@@ -12,7 +17,6 @@ C_Dopolpoppod 29 gre  3  9 25 11 32 800 554 807 858
 A_Gemmel      30 sco  2  7  8 25 22 400 281 333  34
 Sergio        34 spa  2 11 25 12 21 600 274 892 206
 L_Blanc       32 fra  3 25  9 10 23 400   5 279 912
-C_Sanchez     33 col  1 17 25  6 30 300 173 873 378
 Midfielder02 21  sco 2  13 23 2  8  400 400 400 400
 Forward01    24  uga 2  10 1  25 37 200 200 200 200
 G_Taylor      30 sco  1 25 10  6 22 300  37 576 536
@@ -60,8 +64,6 @@ Macheda       26 spa  1 25  1  1 25 800 880 800 800
 S_Coleman     32 ire  1 25 11  5 32 800  60 239 849
 Forward12    18  nzl 1  4  1  18 24 400 400 400 400
 Forward10    17  rus 2  1  1  17 46 400 400 400 400
-Michel        31 spa  2 16 24  9 22 300 416 941 431
-J_Castro      25 bos  1 24  9  6 13 700 945  40 847
 Forward01    17  par 1  4  1  17 42 400 400 400 400
 Filipe_Luis   28 bra  2 25  4  8 41 400 663 838 310
 Midfielder43 29  bos 2  8  27 5  20 400 400 400 400
