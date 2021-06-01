@@ -13,7 +13,7 @@ MF R_Amanar
 MF H_Ghita
 FW F_Pacuraru
 
-GK U_Kelsey
+GK S_Hennigh
 DF T_Gheorghiu
 DF T_Cozma
 DM P_Sollomovici
@@ -22,11 +22,11 @@ MF C_Theodorescu
 PK: R_Amanar
 AGG 20
 
-SUB 6 16 AM IF MIN = 84
-SUB 5 14 MF IF MIN = 87
-SUB 2 13 DF IF MIN = 90
+SUB 9 16 MF IF MIN = 45
+SUB 3 13 DF IF MIN = 87
+SUB 4 15 DF IF MIN = 90
 TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 68 SCORE = 1
+TACTIC D IF MIN >= 81 SCORE = 1
 TACTIC D IF MIN >= 34 SCORE >= 2
