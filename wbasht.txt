@@ -10,25 +10,25 @@ DF A_Anguissa
 DM R_Harper
 DM J_Livermore
 DM S_Field
-MF F_Krovinovic
 FW E_Nketiah
+FW R_Brewster
 
 GK J_Bond
-DF S_Ajayi
+DF J_Branthwaite
 FW M_Pereira
-FW B_Kapustka
-FW R_Brewster
+FW F_Krovinovic
+FW M_Phillips
 
 PK: E_Nketiah
 AGG 20
 
-SUB 5 16 FW IF MIN = 60
-SUB 9 15 DF IF MIN = 78
-SUB 7 14 AM IF MIN = 90
+SUB 8 15 MF IF MIN = 55
+SUB 7 13 DM IF MIN = 60
+SUB 9 14 DM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 54 SCORE >= 2
-SUB 11 16 FW IF SCORE <= -3
-SUB 11 16 FW IF SCORE >= 3
+TACTIC D IF MIN >= 60 SCORE >= 2
+SUB 10 14 FW IF SCORE <= -3
+SUB 10 14 FW IF SCORE >= 3
