@@ -1,33 +1,35 @@
 msy
 E
 
-GK M_Hurgoi
+GK S_Lambertini
 DF L_Roman
 DF T_Gheorghiu
 DF S_Zamfir
 DM E_Skutnik
-DM G_Suckley
+DM Q_Dennet
 DM R_Amanar
 MF S_Kazaku
-MF J_Moculescu
+MF G_Threewitt
 MF H_Ghita
 FW F_Pacuraru
 
-GK U_Kelsey
-DF T_Cozma
-DM M_Dumitru
+GK M_Hurgoi
+DF F_Thieman
+DM P_Solomovici
 MF C_Theodorecu
-MF G_Threewitt
+FW S_Nesius
 
 PK: R_Amanar
 AGG 20
 
-SUB 5 15 DM IF MIN = 81
-SUB 7 16 MF IF MIN = 84
-SUB 10 14 DM IF MIN = 87
-CHANGEPOS 15 MF IF MIN = 90
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
+SUB 7 15 MF IF MIN = 60
+SUB 3 13 DF IF MIN = 65
+CHANGEPOS 8 DM IF MIN = 70
+CHANGEPOS 8 DM IF MIN = 75
+CHANGEPOS 8 DM IF MIN = 81
+SUB 6 14 DF IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
+TACTIC A IF MIN >= 90 SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 66 SCORE = 1
-TACTIC D IF MIN >= 33 SCORE >= 2
+TACTIC E IF SCORE = 1
+TACTIC D IF MIN >= 42 SCORE >= 2
