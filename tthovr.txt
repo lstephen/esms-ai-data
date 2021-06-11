@@ -602,9 +602,9 @@ FW B_McClair
    Overall     320     305     323     329     283     328     335 
 
 DM E_Donk
-DM R_Morrison
 MF M_Laudrup
 MF S_McMahon
+MF B_Celina
 AM D_Byrne
 
 SUB GK S_McMahon GK IF INJURED GK
@@ -614,10 +614,10 @@ SUB MF M_Laudrup MF IF INJURED MF
 SUB AM M_Laudrup AM IF INJURED AM
 SUB FW D_Byrne FW IF INJURED FW
 
-SUB D_Luca M_Laudrup MF IF MIN = 55
-SUB W_Morgan R_Morrison DF IF MIN = 70
-SUB Doriva S_McMahon DM IF MIN = 90
-TACTIC E IF SCORE <= -2
+SUB D_Luca B_Celina AM IF MIN = 45
+SUB B_McClair S_McMahon FW IF MIN = 78
+SUB D_Georgesco M_Laudrup DM IF MIN = 90
+TACTIC A IF MIN >= 63 SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 35 SCORE = 1
@@ -679,21 +679,21 @@ FW D_Mario
 
 GK A_Ghita
 MF A_Stefanov
-MF C_Hurgoi
 MF N_Zaituc
+MF J_Milburn
 MF A_Milosovici
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF A_Stefanov DF IF INJURED DF
-SUB DM C_Hurgoi DM IF INJURED DM
-SUB MF C_Hurgoi MF IF INJURED MF
-SUB AM C_Hurgoi AM IF INJURED AM
+SUB DM N_Zaituc DM IF INJURED DM
+SUB MF N_Zaituc MF IF INJURED MF
+SUB AM N_Zaituc AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB Ridoutkha C_Hurgoi MF IF MIN = 55
-SUB D_Boroi A_Milosovici MF IF MIN = 78
-SUB J_Obi_Mikel N_Zaituc MF IF MIN = 90
-TACTIC E IF MIN >= 17 SCORE <= -2
+SUB Ridoutkha N_Zaituc MF IF MIN = 65
+SUB G_Best A_Milosovici MF IF MIN = 81
+SUB T_X_Ghiuri J_Milburn DF IF MIN = 90
+TACTIC P IF MIN >= 11 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC L IF SCORE = 0
 TACTIC L IF SCORE = 1
