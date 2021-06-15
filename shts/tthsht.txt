@@ -1,34 +1,34 @@
 tth
-E
+A
 
-GK W_Hunt
+GK Carlos_Bravo
+DF D_Georgesco
 DF F_Sierralta
 DF W_Morgan
-DF E_Plummer
-DM D_Georgesco
-DM S_Winzor
-DM Doriva
-MF R_Pires
-MF D_Luca
-MF Moreto
+DF S_Winzor
+DF Doriva
+DM R_Morrison
+DM D_McHale
+AM D_Luca
+AM G_Potter
 FW B_McClair
 
-DM E_Donk
-MF M_Laudrup
-MF S_McMahon
-MF B_Celina
-AM D_Byrne
+GK W_Hunt
+DM M_Laudrup
+DM Moreto
+AM R_Pires
+FW S_McMahon
 
 PK: B_McClair
 AGG 20
 
-SUB 9 15 AM IF MIN = 45
-SUB 11 14 FW IF MIN = 78
-SUB 5 13 DM IF MIN = 90
-TACTIC A IF MIN >= 63 SCORE <= -2
-TACTIC E IF SCORE = -1
-TACTIC E IF SCORE = 0
-TACTIC D IF MIN >= 35 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
-SUB 7 13 DM IF SCORE <= -3
-SUB 7 13 DM IF SCORE >= 3
+SUB 7 16 FW IF MIN = 45
+SUB 4 14 DM IF MIN = 78
+SUB 8 13 DF IF MIN = 90
+TACTIC P IF MIN >= 90 SCORE <= -2
+TACTIC P IF MIN >= 90 SCORE = -1
+TACTIC A IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 58 SCORE >= 2
+SUB 2 14 DF IF SCORE <= -3
+SUB 2 14 DF IF SCORE >= 3
