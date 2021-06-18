@@ -598,29 +598,29 @@ FW B_McClair
    Overall     318     277     338     320     263     340     306 
 
 GK W_Hunt
+DF E_Plummer
 DM M_Laudrup
-DM Moreto
 AM R_Pires
 FW S_McMahon
 
 SUB GK W_Hunt GK IF INJURED GK
-SUB DF Moreto DF IF INJURED DF
+SUB DF E_Plummer DF IF INJURED DF
 SUB DM R_Pires DM IF INJURED DM
 SUB MF R_Pires MF IF INJURED MF
 SUB AM R_Pires AM IF INJURED AM
 SUB FW S_McMahon FW IF INJURED FW
 
-SUB R_Morrison S_McMahon FW IF MIN = 45
-SUB W_Morgan Moreto DM IF MIN = 78
-SUB D_McHale M_Laudrup DF IF MIN = 90
+SUB D_Luca S_McMahon MF IF MIN = 60
+SUB R_Morrison R_Pires DM IF MIN = 78
+SUB W_Morgan M_Laudrup DF IF MIN = 90
 TACTIC P IF MIN >= 90 SCORE <= -2
 TACTIC P IF MIN >= 90 SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 58 SCORE >= 2
+TACTIC D IF MIN >= 43 SCORE >= 2
 
-SUB D_Georgesco Moreto DF IF SCORE <= -3
-SUB D_Georgesco Moreto DF IF SCORE >= 3
+SUB D_Georgesco E_Plummer DF IF SCORE <= -3
+SUB D_Georgesco E_Plummer DF IF SCORE >= 3
 
 Forced:D_Boroi/
 ** Reserves Selection **
@@ -686,13 +686,13 @@ SUB MF N_Zaituc MF IF INJURED MF
 SUB AM N_Zaituc AM IF INJURED AM
 SUB FW Dindo FW IF INJURED FW
 
-SUB G_Best N_Zaituc DF IF MIN = 55
-SUB D_Boroi J_Milburn MF IF MIN = 81
-SUB J_Cadette K_Layvin DM IF MIN = 84
+SUB N_Niculaie K_Layvin DF IF MIN = 55
+SUB K_Layvin J_Milburn DF IF MIN = 75
+SUB C_Hurgoi N_Zaituc AM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 81 SCORE = 1
+TACTIC D IF MIN >= 90 SCORE = 1
 TACTIC D IF MIN >= 45 SCORE >= 2
 
 SUB G_Best K_Layvin DF IF SCORE <= -3
