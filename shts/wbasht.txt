@@ -4,31 +4,31 @@ P
 GK S_Johnstone
 DF K_Gibbs
 DF O_Wijndal
-DF C_Townsend
+DF K_Wilson
 DF C_Connolly
 DF A_Anguissa
+DM R_Harper
 DM J_Livermore
 DM S_Field
-FW M_Pereira
-FW E_Nketiah
+MF F_Krovinovic
 FW R_Brewster
 
 GK J_Bond
 DF J_Branthwaite
-DF R_Harper
-FW F_Krovinovic
+DF N_Ferguson
+FW M_Pereira
 FW M_Phillips
 
-PK: E_Nketiah
+PK: R_Brewster
 AGG 20
 
-SUB 10 14 AM IF MIN = 78
-SUB 14 15 MF IF MIN = 84
-SUB 3 13 DF IF MIN = 90
-TACTIC P IF SCORE <= -2
+SUB 3 13 DF IF MIN = 60
+SUB 9 14 DM IF MIN = 70
+SUB 2 15 AM IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 78 SCORE >= 2
+TACTIC D IF MIN >= 85 SCORE = 1
+TACTIC D IF MIN >= 51 SCORE >= 2
 SUB 5 13 DF IF SCORE <= -3
 SUB 5 13 DF IF SCORE >= 3
