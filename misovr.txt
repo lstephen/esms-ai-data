@@ -425,7 +425,6 @@ V_Navarro       26    19    | GK P :  29  -9 :  20 |  20 -12  0.5   4 ||  12 || 
 P_Jufer         23 19/ 6/ 7 | DF P :  26 -12 :  13 |  14 -11  0.8   7 ||  11 || DF-12 DF -9 DF -8 DF-10 DF-14 DM-10 DF -4       
 I_Toner         24 19/ 6/ 6 | DF P :  25 -13 :  13 |  13 -12  0.8   6 ||   8 || DF-13 DF -9 DF -9 DF-10 DF-15 DM-10 DF -4       
 N_Trial         24  6/19/ 3 | MF P :  21  -8 :  14 |  13 -13  1.0   6 ||   7 || MF -8 MF -9 MF -9 MF-11 MF-12 DM-18 MF-13       
-N_Fisher        17 13/ 5/ 5 | DF E :  17 -15 :   1 |   0  -3  0.9   8 ||   5 || DM-18 DF-16 DF-15 DF-17 DF-22 DM-17 DF-12     r 
 N_Alvez         23 19/ 5/ 4 | DF P :  24 -14 :  10 |  11 -14  1.7   7 ||   5 || DF-14 DF-10 DF-10 DF-12 DF-17 DM-12 DF -4       
 A_Tryber        16    12    | GK D :  18 -19 :  -1 |  -1  -4  0.5   8 ||   3 || GK-19 GK-19 GK-19 GK-19 GK-19 GK-19 GK-19     r 
 G_Roboostoff    16    12    | GK D :  18 -19 :  -1 |  -1  -4  0.5   8 ||   3 || GK-19 GK-19 GK-19 GK-19 GK-19 GK-19 GK-19     r 
@@ -444,7 +443,6 @@ D_Ivey          16  1/12/ 4 | MF E :  17 -18 :  -1 |  -4  -7  0.6   8 ||  -2 || 
 H_Webber        16  4/ 4/12 | FW L :  18 -18 :   0 |  -4  -7  0.5   8 ||  -2 || AM-19 FW-21 FW-17 FW-19 MF-21 FW-18 FW-16     r 
 I_Palacio       16  2/ 5/12 | FW L :  17 -18 :  -1 |  -4  -7  0.5   8 ||  -2 || AM-19 FW-21 FW-17 FW-20 MF-20 FW-18 FW-16     r 
 L_Mccollum      16 12/ 3/ 6 | DF D :  15 -13 :   2 |  -4  -7  0.4   8 ||  -2 || DM-20 DF-18 DF-17 DF-19 DF-23 DM-18 DF-13     r 
-N_Spalding      16  4/ 4/12 | FW L :  18 -18 :   0 |  -4  -7  0.5   8 ||  -2 || AM-19 FW-21 FW-17 FW-19 MF-21 FW-18 FW-16     r 
 P_Truchan       16  2/12/ 3 | MF D :  11 -22 : -11 |  -4  -7  0.5   8 ||  -2 || MF-16 MF-18 MF-18 MF-20 MF-19 DM-25 FW-21     r 
 C_Mcintyre      17 13/ 3/ 3 | DF D :  16 -12 :   4 |  -4  -7  0.6   8 ||  -3 || DM-21 DF-17 DF-17 DF-19 DF-24 DM-18 DF-12     r 
 S_Haslet        17 13/ 3/ 2 | DF D :  16 -12 :   4 |  -5  -8  0.6   8 ||  -4 || DM-21 DF-18 DF-17 DF-19 DF-25 DM-19 DF-12     r 
@@ -560,23 +558,25 @@ GK Q_Bonnette
 DF P_Warhurst
 DF N_Morariu
 DF I_Tatarescu
-DF I_Drover
+DF D_Balitiu
 
 SUB GK Q_Bonnette GK IF INJURED GK
 SUB DF P_Warhurst DF IF INJURED DF
 SUB DM I_Tatarescu DM IF INJURED DM
 SUB MF I_Tatarescu MF IF INJURED MF
 SUB AM I_Tatarescu AM IF INJURED AM
-SUB FW I_Drover FW IF INJURED FW
+SUB FW P_Warhurst FW IF INJURED FW
 
-SUB X_Cullie P_Warhurst DF IF MIN = 65
-SUB O_Burgin N_Morariu DF IF MIN = 87
-SUB W_Westfall I_Tatarescu MF IF MIN = 90
-TACTIC A IF MIN >= 77 SCORE <= -2
+SUB P_Deusner N_Morariu DM IF MIN = 75
+CHANGEPOS N_Morariu FW IF MIN = 78
+CHANGEPOS N_Morariu FW IF MIN = 84
+SUB W_Westfall I_Tatarescu DF IF MIN = 87
+SUB Alan_Michael D_Balitiu AM IF MIN = 90
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC C IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 73 SCORE >= 2
+TACTIC C IF MIN >= 47 SCORE >= 2
 
 
 Forced:R_Amanar/H_Ghita/S_Kazaku/M_Dumitru/
@@ -631,9 +631,9 @@ FW R_Amanar
    Overall     197     168     208     199     185     209     195 
 
 GK M_Hurgoi
+GK U_Kelsey
 DF P_Solomovici
 DF C_Cornea
-AM A_Ciumak
 FW G_Groza
 
 SUB GK M_Hurgoi GK IF INJURED GK
@@ -643,11 +643,8 @@ SUB MF C_Cornea MF IF INJURED MF
 SUB AM C_Cornea AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB R_Munteanu A_Ciumak DM IF MIN = 78
-CHANGEPOS A_Ciumak MF IF MIN = 81
-SUB E_Skutnik P_Solomovici DF IF MIN = 84
-CHANGEPOS A_Ciumak MF IF MIN = 87
-SUB R_Amanar C_Cornea DM IF MIN = 90
+SUB E_Skutnik P_Solomovici DF IF MIN = 45
+SUB R_Munteanu C_Cornea DM IF MIN = 55
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
