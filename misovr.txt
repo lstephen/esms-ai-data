@@ -392,6 +392,7 @@ W_Zogbaum       22 19/12/10 | DF P :  31  -7 :  24 |  23   0  1.5   8 ||  32 || 
 B_Molko         22  7/19/11 | AM P :  24  -6 :  18 |  19  -4  0.7   8 ||  25 || MF -5 MF -6 MF -5 MF -7 MF -6 MF-12 AM-10       
 T_Myre          22 19/12/ 5 | DF P :  30  -8 :  21 |  19  -4  1.4   8 ||  25 || DF -8 DF -6 DF -7 DF -8 DF-13 DM -8 DF -3       
 D_Vogelsang     24 19/ 8/14 | DF P :  29  -9 :  21 |  22  -4  1.0   6 ||  25 || DF -9 DF -6 DF -5 DF -6 DF -8 DF -4 DF -4       
+G_Simion        24 19/12/ 8 | DF P :  30  -7 :  23 |  21  -4  1.5   6 ||  25 || DF -7 DF -6 DF -6 DF -7 DF-10 DM -7 DF -3       
 G_Kraemmer      23  9/19/ 9 | MF P :  24  -5 :  18 |  19  -6  0.7   7 ||  21 || MF -5 MF -6 MF -5 MF -7 MF -8 DM-13 MF-10       
 I_Squitieri     24 11/19/ 8 | MF P :  24  -5 :  19 |  20  -6  0.5   6 ||  21 || MF -5 MF -5 MF -5 MF -7 DM -8 DM-11 MF -8       
 K_Coddaire      24  9/19/10 | MF P :  24  -5 :  19 |  20  -6  0.7   6 ||  21 || MF -5 MF -6 MF -5 MF -7 MF -7 MF-12 MF -9       
@@ -416,13 +417,13 @@ S_Hiler         25    19    | GK P :  29  -9 :  20 |  20 -10  0.3   5 ||  15 || 
 U_Bernardo      24  8/19/ 6 | MF P :  23  -6 :  16 |  16  -9  0.9   6 ||  14 || MF -6 MF -7 MF -7 MF -9 MF-10 DM-15 MF-11       
 C_Anex          24 19/ 7/ 7 | DF P :  26 -11 :  15 |  15 -10  1.5   6 ||  13 || DF-11 DF -8 DF -8 DF-10 DF-14 DM -9 DF -4       
 W_Hoolahan      24 19/ 7/ 8 | DF P :  27 -11 :  15 |  16  -9  0.7   6 ||  13 || DF-11 DF -8 DF -8 DF -9 DF-13 DM -9 DF -4       
-X_Rigdon        26    19    | GK P :  29  -9 :  20 |  20 -12  1.4   4 ||  13 || GK -9 GK -9 GK -9 GK -9 GK -9 GK -9 GK -9       
 S_Woolen        23  5/19/ 7 | MF P :  22  -7 :  15 |  15 -10  0.1   7 ||  12 || MF -7 MF -8 MF -7 MF-10 MF -9 MF-17 MF-13       
 V_Kleinhans     23  5/ 7/19 | FW P :  26 -11 :  14 |  15 -10  0.8   7 ||  12 || FW-11 FW-12 FW -8 FW-11 FW-10 FW -8 FW -9       
 X_Bonestell     23 19/ 5/ 9 | DF P :  25 -12 :  13 |  15 -11  1.3   7 ||  12 || DF-12 DF -9 DF -8 DF-10 DF-13 DM -9 DF -4       
 D_Ribicic       25  6/ 9/19 | FW P :  27 -10 :  18 |  18 -11  0.6   5 ||  12 || FW-10 FW-10 FW -7 FW -9 FW -9 FW -7 FW -8       
 V_Navarro       26    19    | GK P :  29  -9 :  20 |  20 -12  0.5   4 ||  12 || GK -9 GK -9 GK -9 GK -9 GK -9 GK -9 GK -9       
 P_Jufer         23 19/ 6/ 7 | DF P :  26 -12 :  13 |  14 -11  0.8   7 ||  11 || DF-12 DF -9 DF -8 DF-10 DF-14 DM-10 DF -4       
+U_Daugherty     17 13/ 6/ 6 | DF C :  18 -15 :   2 |   1  -1  0.9   8 ||   9 || DM-17 DF-15 DF-15 DF-16 DF-20 DM-16 DF-11     r 
 I_Toner         24 19/ 6/ 6 | DF P :  25 -13 :  13 |  13 -12  0.8   6 ||   8 || DF-13 DF -9 DF -9 DF-10 DF-15 DM-10 DF -4       
 N_Trial         24  6/19/ 3 | MF P :  21  -8 :  14 |  13 -13  1.0   6 ||   7 || MF -8 MF -9 MF -9 MF-11 MF-12 DM-18 MF-13       
 N_Alvez         23 19/ 5/ 4 | DF P :  24 -14 :  10 |  11 -14  1.7   7 ||   5 || DF-14 DF-10 DF-10 DF-12 DF-17 DM-12 DF -4       
@@ -556,27 +557,28 @@ FW G_Mordino
 
 GK Q_Bonnette
 DF P_Warhurst
-DF N_Morariu
 DF I_Tatarescu
 DF D_Balitiu
+DF I_Drover
 
 SUB GK Q_Bonnette GK IF INJURED GK
 SUB DF P_Warhurst DF IF INJURED DF
 SUB DM I_Tatarescu DM IF INJURED DM
 SUB MF I_Tatarescu MF IF INJURED MF
 SUB AM I_Tatarescu AM IF INJURED AM
-SUB FW P_Warhurst FW IF INJURED FW
+SUB FW I_Drover FW IF INJURED FW
 
-SUB P_Deusner N_Morariu DM IF MIN = 75
-CHANGEPOS N_Morariu FW IF MIN = 78
-CHANGEPOS N_Morariu FW IF MIN = 84
-SUB W_Westfall I_Tatarescu DF IF MIN = 87
-SUB Alan_Michael D_Balitiu AM IF MIN = 90
+SUB P_Deusner D_Balitiu DM IF MIN = 55
+SUB G_Mordino I_Tatarescu MF IF MIN = 70
+CHANGEPOS I_Tatarescu FW IF MIN = 75
+CHANGEPOS I_Tatarescu FW IF MIN = 78
+CHANGEPOS I_Tatarescu FW IF MIN = 81
+SUB X_Cullie P_Warhurst DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 90 SCORE = 1
-TACTIC C IF MIN >= 47 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC L IF MIN >= 58 SCORE >= 2
 
 
 Forced:R_Amanar/H_Ghita/S_Kazaku/M_Dumitru/
@@ -643,8 +645,11 @@ SUB MF C_Cornea MF IF INJURED MF
 SUB AM C_Cornea AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB E_Skutnik P_Solomovici DF IF MIN = 45
-SUB R_Munteanu C_Cornea DM IF MIN = 55
+CHANGEPOS R_Amanar DM IF MIN = 50
+SUB L_Roman C_Cornea DF IF MIN = 60
+SUB E_Skutnik P_Solomovici DF IF MIN = 70
+SUB R_Munteanu G_Groza FW IF MIN = 75
+CHANGEPOS R_Amanar DM IF MIN = 84
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
