@@ -1,4 +1,7 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
+N_Berti       21 ita  1  5 24  9 23 300 595   8   3
+K_Audarson    31 ice  2  4 25  9 32 400 892   5 583
+Keeper02     37  bra 33 4  5  5  30 600 600 600 600
 S_Leon        33 spa  2  5  8 25 22 300 304 514  18
 D_Archambault 35 usa  3  7 30 12 21 400  68  54 273
 Michel        31 spa  2 16 25  9 22 300 416  12 431
@@ -37,7 +40,6 @@ S_Hodges      27 aus  1 25 10  7 21 600 674 173 544
 E_Van_DerSarr 35 hol 30  1  3  1 32 640 500 500 500
 S_Assenjo     37 spa 29  3  3  4 34  88 300 300 300
 Forward13    18  swi 2  14 1  19 9  600 600 600 600
-J_Speelman    30 usa  2 26  1 11 29 200 200 200 200
 Lewis_Travis  30 eng  2  6 25 11 23 800 876 783 139
 Defender01   26  usa 2  27 8  11 27 200 200 200 200
 Midfielder34 33  ken 1  1  27 8  28 400 400 400 400
@@ -122,4 +124,5 @@ K_Strootman   28 hol  3 13 25  6 20 600 831 131 913
 R_Di_Mateo    30 ita  2 10 25 11 21 600  63  18 448
 L_Shaw        35 eng  2 25 12  7 31 400 193 110 322
 Defender01   27  pol 2  26 1  1  19 200 200 200 200
+Keeper02     37  bra 33 4  5  5  30 600 600 600 600
 Keeper02     37  bra 33 4  5  5  30 600 600 600 600
