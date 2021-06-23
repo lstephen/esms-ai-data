@@ -394,12 +394,12 @@ Jin_Sin_Ping    34    28    | GK P :  42  -1 :  41 |  41  -1  0.8   2 ||  42 || 
 Defender01      26 27/ 8/11 | DF P :  36  -3 :  33 |  34   1  0.4   6 ||  41 || DF -3 DF -1 DF -2 DF -4 MF  4 DF -2 DF -1       
 Midfielder14    27  1/27/16 | FW P :  37  -4 :  32 |  34  -2  1.6   5 ||  39 || MF  0 MF  1 AM -3 MF  0 AM -5 MF -1 AM -6       
 T_Sheringham    26  8/10/25 | FW P :  35  -6 :  28 |  32  -1  0.6   5 ||  36 || FW -6 FW -3 FW -2 FW -2 FW  0 FW  0 FW  0       
+S_Matthews      34  9/31/ 7 | MF P :  35   4 :  39 |  38  -4  0.7   1 ||  36 || MF  4 DM -1 MF  2 MF  3 DM -5 MF  3 AM -2       
 Midfielder08    25  1/26/15 | FW P :  35  -6 :  29 |  31  -1  0.4   6 ||  35 || MF -1 MF -1 AM -4 MF -2 AM -6 MF -2 AM -7       
 Defender04      27 28/ 1/17 | DF P :  34  -5 :  28 |  32  -4  1.6   5 ||  35 || DF -5 DF  0 DF -3 DF -3 MF  6 DF -3 FW  2       
 D_Archambault   35  7/30/12 | MF P :  35   3 :  38 |  38  -4  0.1   1 ||  35 || MF  3 MF  1 MF  2 MF  3 DM -4 MF  3 AM -2       
 Michel          31 16/25/ 9 | DF P :  37  -2 :  36 |  36  -6  0.6   3 ||  33 || DM  0 DM -1 MF  0 DM  0 DM -1 DM  0 AM -1       
 Midfielder02    21 13/23/ 2 | DM P :  28  -5 :  23 |  23  -2  0.7   8 ||  30 || MF -5 DM -8 MF -5 DM -6 DM -8 MF -5 AM -7     r 
-N_Berti         21  5/24/ 9 | MF P :  28  -4 :  24 |  23  -2  0.2   8 ||  29 || MF -4 MF -8 MF -6 MF -6 DM-10 MF -5 AM -8     r 
 D_Costa         28  7/ 9/25 | FW P :  34  -7 :  26 |  30  -6  1.4   4 ||  29 || FW -7 FW -3 FW -3 FW -2 FW  0 FW -1 FW -1       
 S_Hodges        27 25/10/ 7 | DF P :  35  -5 :  30 |  29  -7  1.0   5 ||  28 || DF -5 DF -4 DF -4 DF -7 DF  0 DF -4 DF -3       
 K_Strootman     28 13/25/ 6 | DM P :  31  -3 :  28 |  29  -7  0.8   4 ||  27 || MF -2 DM -4 MF -2 DM -3 DM -5 MF -2 AM -4       
@@ -607,14 +607,14 @@ SUB MF S_McMahon MF IF INJURED MF
 SUB AM S_McMahon AM IF INJURED AM
 SUB FW D_Luca FW IF INJURED FW
 
-SUB S_Winzor F_Sierralta DF IF MIN = 70
-SUB M_Laudrup B_Celina DM IF MIN = 75
-SUB D_McHale S_McMahon DM IF MIN = 90
-TACTIC A IF MIN >= 86 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB M_Laudrup S_McMahon DM IF MIN = 45
+SUB W_Morgan B_Celina AM IF MIN = 84
+SUB B_Celina D_Luca FW IF MIN = 90
+TACTIC P IF SCORE <= -2
+TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 50 SCORE >= 2
+TACTIC D IF MIN >= 53 SCORE >= 2
 
 SUB D_Georgesco F_Sierralta DF IF SCORE <= -3
 SUB D_Georgesco F_Sierralta DF IF SCORE >= 3
@@ -623,75 +623,74 @@ Forced:D_Mario/G_Best/D_Boroi/
 ** Reserves Selection **
                             |                      | now vAg Abs      || OVR ||  P     A     C     E     L     N     D   
 D_Mario         27  7/21/22 | FW P :  40  -1 :  38 |  38   2  1.2   5 ||  47 || FW -1 FW  0 FW  0 FW  0 AM  0 FW  0 FW  0     r 
-D_Boroi         24 15/24/13 | DF P :  37  -2 :  35 |  35   3  1.3   6 ||  45 || MF  0 DM -1 MF  0 DM -2 DM  0 MF  0 AM  0     r 
-Ridoutkha       30 18/24/ 8 | DF P :  38  -2 :  36 |  35  -4  0.4   3 ||  34 || DM -1 DM -3 MF -1 DM -1 DM -1 DM -1 AM -1     r 
 G_Best          24 19/22/ 9 | DF P :  38  -1 :  37 |  36   4  0.7   6 ||  46 || DM -1 DM -3 DM -1 DM -1 DM  0 DM -1 AM -1     r 
+Ridoutkha       30 18/24/ 8 | DF P :  38  -2 :  36 |  35  -4  0.4   3 ||  34 || DM -1 DM -3 MF -1 DM -1 DM -1 DM -1 AM -1     r 
+D_Boroi         24 15/24/13 | DF P :  37  -2 :  35 |  35   3  1.3   6 ||  45 || MF  0 DM -1 MF  0 DM -2 DM  0 MF  0 AM  0     r 
 J_Obi_Mikel     21 19/22/ 5 | DF P :  37  -2 :  34 |  33   8  1.3   8 ||  50 || DM -2 DM -5 DM -2 DM -2 DM -2 DM -2 MF -2     r 
-D_Gogean        22    22    | GK P :  33 -10 :  23 |  23  -2  0.2   8 ||  28 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
 J_Cadette       33 17/22/ 7 | DF P :  35  -4 :  31 |  30 -11  0.8   2 ||  21 || DM -3 DM -5 DM -3 DM -3 DM -3 DM -3 AM -3     r 
 Zico_Jnr        27 16/21/10 | DF P :  35  -4 :  31 |  30  -6  1.1   5 ||  30 || DM -3 DM -4 DM -3 DM -4 DM -2 DM -3 AM -3     r 
-M_Antonio       30 14/24/ 7 | DF P :  33  -6 :  28 |  28 -11  0.6   3 ||  20 || MF -3 DM -5 MF -3 DM -4 DM -4 MF -3 AM -4     r 
 K_Layvin        29 22/12/11 | DF P :  34  -5 :  29 |  28 -11  0.6   4 ||  22 || DF -5 DF -4 DF -5 DF -8 DM -1 DF -5 FW -3     r 
 N_Niculaie      24 17/22/ 2 | DF P :  34  -5 :  29 |  28  -5  0.9   6 ||  30 || DM -4 DM -7 DM -4 DM -4 DM -5 DM -4 MF -5     r 
+M_Antonio       30 14/24/ 7 | DF P :  33  -6 :  28 |  28 -11  0.6   3 ||  20 || MF -3 DM -5 MF -3 DM -4 DM -4 MF -3 AM -4     r 
+D_Gogean        22    22    | GK P :  33 -10 :  23 |  23  -2  0.2   8 ||  28 || GK-10 GK-10 GK-10 GK-10 GK-10 GK-10 GK-10     r 
 C_Hurgoi        24 16/23/ 1 | DF P :  33  -6 :  26 |  26  -6  1.4   6 ||  27 || DM -4 DM -8 MF -4 DM -4 DM -6 DM -5 MF -6     r 
 T_X_Ghiuri      27 22/11/ 7 | DF P :  32  -7 :  25 |  24 -12  1.0   5 ||  19 || DF -7 DF -6 DF -6 DF-10 DM -3 DF -7 FW -6     r 
 N_Zaituc        21 17/20/ 1 | DF P :  32  -7 :  25 |  24  -1  1.1   8 ||  31 || DM -5 DM -9 DM -6 DM -6 DM -6 DM -6 DM -6     r 
 J_Milburn       27 15/19/ 8 | DF P :  32  -8 :  24 |  23 -13  0.9   5 ||  16 || DM -6 DM -8 DM -6 DM -7 DM -5 DM -6 AM -6     r 
-D_Dragan        22 13/19/ 8 | DF P :  30 -10 :  20 |  20  -5  1.4   7 ||  23 || MF -7 DM -9 MF -7 DM -9 DM -6 MF -7 AM -7     r 
 A_Milosovici    21 10/14/19 | FW P :  31  -9 :  22 |  23  -2  1.6   8 ||  30 || FW -9 FW-10 FW -6 FW -5 AM -5 FW -5 FW -3     r 
-A_Ghita         22    18    | GK P :  27 -16 :  11 |  11 -14  0.5   8 ||   5 || GK-16 GK-16 GK-16 GK-16 GK-16 GK-16 GK-16     r 
+D_Dragan        22 13/19/ 8 | DF P :  30 -10 :  20 |  20  -5  1.4   7 ||  23 || MF -7 DM -9 MF -7 DM -9 DM -6 MF -7 AM -7     r 
 A_Stefanov      25 20/ 8/ 8 | DF P :  28 -11 :  18 |  17 -15  0.8   6 ||   9 || DF-11 DF -9 DF-10 DF-12 DM -5 DF-10 FW -7     r 
-Dindo           21  1/10/19 | FW P :  27 -14 :  13 |  15 -10  0.9   8 ||  14 || FW-14 FW-12 FW-11 FW -8 AM -9 FW -8 FW -8     r 
+A_Ghita         22    18    | GK P :  27 -16 :  11 |  11 -14  0.5   8 ||   5 || GK-16 GK-16 GK-16 GK-16 GK-16 GK-16 GK-16     r 
 
-NORMAL
+PASSING
 GK D_Gogean
-DF K_Layvin
+DF Ridoutkha
 DF J_Obi_Mikel
 DF G_Best
 DF Zico_Jnr
-DM Ridoutkha
+DF J_Cadette
+DM D_Boroi
 DM N_Niculaie
-DM J_Cadette
-MF D_Boroi
+DM C_Hurgoi
 MF M_Antonio
 FW D_Mario
                  N       D       A       C       L       P       E 
   STOPPING      33      33      33      33      33      33      33 
-  TACKLING     121     184     102     133     167     119     116 
-   PASSING     151     104     160     153      75     178     158 
-  SHOOTING      44      22      74      40      62      41      44 
-   SH Mean      16      19      15      16      15      16      15 
- SH Median      22      22      13      22      13      22      13 
+  TACKLING     127     181     113     135     156     125     120 
+   PASSING     144      95     154     147      72     180     139 
+  SHOOTING      41      19      66      37      55      39      41 
+   SH Mean      16      20      15      17      16      16      15 
+ SH Median      22      22      22      22      22      22      13 
     SH Max      22      22      22      22      22      22      22 
-  SH Bonus      21      13      21      20      11      23      19 
+  SH Bonus      20      12      22      19      13      22      17 
    GK Qual      22      22      22      22      22      22      22 
-  GK Bonus      21      16      25      21      16      23      22 
-       Agg      25      25      25      25      25      25      25 
-   Scoring     115      77     131     116      71     132     120 
- Defending     121     184     102     133     167     119     116 
-   Overall     278     257     275     288     237     296     277 
+  GK Bonus      21      15      23      20      16      23      21 
+       Agg      26      26      26      26      26      26      26 
+   Scoring     110      70     124     111      66     133     106 
+ Defending     127     181     113     135     156     125     120 
+   Overall     276     243     282     282     224     302     264 
 
 GK A_Ghita
 DF T_X_Ghiuri
-DM C_Hurgoi
-DM N_Zaituc
-AM A_Milosovici
+DF N_Zaituc
+DF D_Dragan
+FW A_Milosovici
 
 SUB GK A_Ghita GK IF INJURED GK
 SUB DF T_X_Ghiuri DF IF INJURED DF
-SUB DM C_Hurgoi DM IF INJURED DM
-SUB MF C_Hurgoi MF IF INJURED MF
-SUB AM C_Hurgoi AM IF INJURED AM
+SUB DM N_Zaituc DM IF INJURED DM
+SUB MF N_Zaituc MF IF INJURED MF
+SUB AM N_Zaituc AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB J_Obi_Mikel A_Milosovici AM IF MIN = 78
-SUB J_Cadette T_X_Ghiuri DM IF MIN = 81
-SUB K_Layvin N_Zaituc DF IF MIN = 87
+SUB Zico_Jnr T_X_Ghiuri DF IF MIN = 45
+SUB G_Best D_Dragan DF IF MIN = 78
+SUB N_Niculaie A_Milosovici DM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
-TACTIC N IF SCORE = 0
-TACTIC D IF MIN >= 30 SCORE = 1
-TACTIC D IF MIN >= 15 SCORE >= 2
+TACTIC P IF SCORE = 0
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 46 SCORE >= 2
 
 SUB J_Obi_Mikel T_X_Ghiuri DF IF SCORE <= -3
 SUB J_Obi_Mikel T_X_Ghiuri DF IF SCORE >= 3
