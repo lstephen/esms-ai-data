@@ -1,10 +1,22 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-S_Matthews    34 eng  3  9 31  7 32 300 371 419 820
-A_Souda       33 fra  2  6  8 26 31 400 490 595 868
+J_Ablanedo    34 spa 29  3  7  2 22  69 400 400 400
+Joachim_Ander 22 den  1 23  9  4 22 400 132  22 729
+A_Sanchez     30 chi  1 10  8 25 32 600 400 577 941
+E_Heskey      32 eng  3  4 10 25 32 400 736  65  17
+T_Blackett    31 eng  2 25 11  8 21 400 836 198 238
+A_Arbeloa     32 ita  1 25 11  8 21 400 340 692  15
+G_v_der_Wiel  36 hol  3 33  7  4 23 300 952 863 627
+Shane_Botwin  35 usa  2  7 31  9 20 400 974 742 753
+A_Shaw        30 eng  1 25 10 10 30 800 165 502 167
+C_Brown       32 eng  1 25  7  9 31 400   4 552 643
+R_Liverani    29 fra  1  7 18  8 11 300 786 247  73
+M_Ivanovic    24 cro  2  6  9 18 12 300 485 653 695
+J_A_Piere     33 fra  1  7  8 25 22 600 174 343  24
+P_Fornals     18 spa  1  1 17 14 28 200 220 255 250
+S_Coufal      19 cze  1 12 17 14 13 400 600 620 530
 K_Audarson    31 ice  2  4 25  9 32 400 892   5 583
 Keeper02     37  bra 33 4  5  5  30 600 600 600 600
 S_Leon        33 spa  2  5  8 25 22 300 304 514  18
-D_Archambault 35 usa  3  7 30 12 21 400  68  54 273
 Michel        31 spa  2 16 25  9 22 300 416  12 431
 Jin_Sin_Ping  34 chn 28  5  3  2 13 511 300 300 300
 Zizou         32 fra  1 10 25  9 30 300 474  15 494
@@ -39,7 +51,6 @@ X_Xavi        32 spa  2 15 25  7 16 300  85  31 876
 S_Hodges      27 aus  1 25 10  7 21 600 674 173 544
 E_Van_DerSarr 35 hol 30  1  3  1 32 640 500 500 500
 S_Assenjo     37 spa 29  3  3  4 34  88 300 300 300
-Forward13    18  swi 2  14 1  19 9  600 600 600 600
 Lewis_Travis  30 eng  2  6 25 11 23 800 876 783 139
 Defender01   26  usa 2  27 8  11 27 200 200 200 200
 Midfielder34 33  ken 1  1  27 8  28 400 400 400 400
@@ -67,7 +78,6 @@ Forward01    17  par 1  4  1  17 42 400 400 400 400
 Filipe_Luis   28 bra  2 25  4  8 41 400 663 838 310
 Midfielder43 29  bos 2  8  27 5  20 400 400 400 400
 Forward15    20  tur 1  5  1  20 26 400 400 400 400
-Midfielder22 23  rus 2  1  23 1  37 600 600 600 600
 Defender01   26  rus 2  27 1  3  27 200 200 200 200
 Defender14   26  srb 1  27 5  1  29 200 200 200 200
 V_Fuentes     30 usa  1  9 24  5 21 400 177 858 139
@@ -78,7 +88,6 @@ Midfielder41 27  fra 2  16 27 5  15 600 600 600 600
 Defender15   33  nzl 2  29 1  5  35 800 800 800 800
 Midfielder13 28  aus 1  1  27 1  23 800 800 800 800
 Midfielder14 27  ken 1  1  27 16 15 800 800 800 800
-Midfielder30 26  bel 2  5  28 1  23 600 600 600 600
 Forward14    29  mex 1  3  1  28 18 400 400 400 400
 E_Hyndman     32 usa  2 13 25  7 32 400 626  52 551
 Forlam        22 uga  1  6  6 18 31 600 600 600 600
@@ -95,7 +104,6 @@ Midfielder25 29  gha 2  1  27 11 35 800 800 800 800
 Keeper06     19  can 19 4  3  1  28 600 600 600 600
 Keeper07     17  arg 17 2  2  2  28 800 800 800 800
 Keeper08     19  bel 18 3  2  2  40 200 200 200 200
-Midfielder31 22  mon 2  2  22 1  27 800 800 800 800
 Keeper04     19  cam 17 3  4  1  23 200 200 200 200
 Midfielder18 20  civ 2  5  21 1  25 200 200 200 200
 Defender06   29  ice 1  26 1  7  46 200 200 200 200
@@ -105,7 +113,6 @@ D_Flanders    31 eng  1  4  7 25 42 300 596 826  19
 Midfielder04 30  swi 1  1  26 1  25 200 200 200 200
 Defender04   28  chn 2  26 1  1  27 200 200 200 200
 J_A_Lopez     35 arg  1 25 11  8 23 700  40 719 226
-D_Seaman      37 eng 34  1  5  5 30 910 800 800 800
 N_Zaniolo     28 ita  2 25  8  8 22 300  13 497 547
 Defender12   26  mon 1  27 1  5  44 200 200 200 200
 Defender02   29  sco 1  28 17 3  28 400 400 400 400
@@ -115,7 +122,6 @@ Midfielder05 21  fra 1  1  21 8  21 800 800 800 800
 Midfielder07 31  kor 2  22 31 1  26 800 800 800 800
 Midfielder08 25  spa 1  1  26 15 29 200 200 200 200
 Forward02    17  swe 1  1  4  17 18 400 400 400 400
-Forward07    17  kor 1  1  1  15 47 800 800 800 800
 Forward05    17  nzl 2  1  1  17 29 400 400 400 400
 Forward04    17  pol 2  12 4  17 28 200 200 200 200
 N_Devlin      26 wal  2 25  7  6 33 400  81  73 980
@@ -124,5 +130,3 @@ K_Strootman   28 hol  3 13 25  6 20 600 831 131 913
 R_Di_Mateo    30 ita  2 10 25 11 21 600  63  18 448
 L_Shaw        35 eng  2 25 12  7 31 400 193 110 322
 Defender01   27  pol 2  26 1  1  19 200 200 200 200
-Keeper02     37  bra 33 4  5  5  30 600 600 600 600
-Keeper02     37  bra 33 4  5  5  30 600 600 600 600
