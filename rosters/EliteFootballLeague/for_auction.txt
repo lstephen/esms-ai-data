@@ -1,19 +1,15 @@
 Player  Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb
-J_Ablanedo    34 spa 29  3  7  2 22  69 400 400 400
-Joachim_Ander 22 den  1 23  9  4 22 400 132  22 729
+Forward01    26  mex 1  1  1  28 28 400 400 400 400
+Forward02    26  jam 1  5  11 26 29 600 600 600 600
+Forward12    18  nzl 1  4  1  18 24 400 400 400 400
 A_Sanchez     30 chi  1 10  8 25 32 600 400 577 941
 E_Heskey      32 eng  3  4 10 25 32 400 736  65  17
 T_Blackett    31 eng  2 25 11  8 21 400 836 198 238
 A_Arbeloa     32 ita  1 25 11  8 21 400 340 692  15
-G_v_der_Wiel  36 hol  3 33  7  4 23 300 952 863 627
-Shane_Botwin  35 usa  2  7 31  9 20 400 974 742 753
 A_Shaw        30 eng  1 25 10 10 30 800 165 502 167
 C_Brown       32 eng  1 25  7  9 31 400   4 552 643
-R_Liverani    29 fra  1  7 18  8 11 300 786 247  73
 M_Ivanovic    24 cro  2  6  9 18 12 300 485 653 695
 J_A_Piere     33 fra  1  7  8 25 22 600 174 343  24
-P_Fornals     18 spa  1  1 17 14 28 200 220 255 250
-S_Coufal      19 cze  1 12 17 14 13 400 600 620 530
 K_Audarson    31 ice  2  4 25  9 32 400 892   5 583
 Keeper02     37  bra 33 4  5  5  30 600 600 600 600
 S_Leon        33 spa  2  5  8 25 22 300 304 514  18
@@ -72,7 +68,6 @@ B_Bambinino   34 ita  2 26  8  5 22 300 634 374 366
 J_Flanagan    27 eng  2 25  8  5 21 600 514 683 269
 Macheda       26 spa  1 25  1  1 25 800 880 800 800
 S_Coleman     32 ire  1 25 11  5 32 800  60 239 849
-Forward12    18  nzl 1  4  1  18 24 400 400 400 400
 Forward10    17  rus 2  1  1  17 46 400 400 400 400
 Forward01    17  par 1  4  1  17 42 400 400 400 400
 Filipe_Luis   28 bra  2 25  4  8 41 400 663 838 310
