@@ -1,35 +1,36 @@
 mis
-P
+C
 
 GK N_Kent
 DF V_Barbieri
 DF E_Gerets
 DF O_Burgin
-DF X_Cullie
-DF W_Westfall
+DM Alan_Michael
 DM O_Bravo
-DM P_Deusner
-DM I_Tatarescu
+MF P_Deusner
+AM I_Tatarescu
+AM W_Westfall
+AM I_Drover
 FW D_Van_Ry
-FW G_Mordino
 
 GK Q_Bonnette
-DF P_Warhurst
-DF N_Morariu
-DF D_Balitiu
-DF I_Drover
+AM P_Warhurst
+AM N_Morariu
+AM D_Balitiu
+FW G_Mordino
 
 PK: D_Van_Ry
 AGG 20
 
-SUB 11 15 FW IF MIN = 70
-SUB 5 13 FW IF MIN = 75
-CHANGEPOS 7 DF IF MIN = 78
-CHANGEPOS 15 DM IF MIN = 81
-CHANGEPOS 15 DM IF MIN = 84
-SUB 7 14 DF IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
-TACTIC P IF SCORE = -1
-TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 81 SCORE = 1
-TACTIC D IF MIN >= 81 SCORE >= 2
+SUB 10 16 MF IF MIN = 65
+SUB 5 15 MF IF MIN = 70
+CHANGEPOS 16 DM IF MIN = 75
+CHANGEPOS 9 DM IF MIN = 78
+CHANGEPOS 16 AM IF MIN = 81
+SUB 9 14 AM IF MIN = 84
+CHANGEPOS 15 DM IF MIN = 87
+TACTIC P IF MIN >= 52 SCORE <= -2
+TACTIC C IF SCORE = -1
+TACTIC C IF SCORE = 0
+TACTIC C IF SCORE = 1
+TACTIC D IF MIN >= 65 SCORE >= 2
