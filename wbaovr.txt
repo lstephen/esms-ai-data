@@ -292,7 +292,7 @@ DEFENSIVE        23  22  22  22  20  18
                       NORMAL    23    19    18          21       
                    DEFENSIVE    23          22    17    17       
                    ATTACKING    23    20    17          23    26 
-              COUNTER_ATTACK    23    19    18          21    28 
+              COUNTER_ATTACK    23    19    18    22    21    28 
                    LONG_BALL    23                19          20 
                      PASSING    23    19                      22 
                     EUROPEAN    23          19    24    28       
@@ -382,23 +382,23 @@ FW R_Brewster
    Overall     199     186     202     205     172     206     206 
 
 GK J_Bond
-DM J_Branthwaite
+DM C_Townsend
 DM N_Ferguson
 DM S_Field
 MF R_Harper
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF J_Branthwaite DF IF INJURED DF
+SUB DF N_Ferguson DF IF INJURED DF
 SUB DM R_Harper DM IF INJURED DM
 SUB MF R_Harper MF IF INJURED MF
 SUB AM R_Harper AM IF INJURED AM
 SUB FW R_Harper FW IF INJURED FW
 
-SUB K_Wilson S_Field DF IF MIN = 60
-SUB A_Anguissa J_Branthwaite DM IF MIN = 78
-SUB J_Livermore N_Ferguson DF IF MIN = 90
+SUB F_Krovinovic N_Ferguson DF IF MIN = 70
+SUB O_Wijndal S_Field MF IF MIN = 75
+SUB N_Ferguson C_Townsend DF IF MIN = 90
 TACTIC A IF MIN >= 28 SCORE <= -2
-TACTIC A IF MIN >= 55 SCORE = -1
+TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 48 SCORE = 1
 TACTIC D IF MIN >= 24 SCORE >= 2
