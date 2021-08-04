@@ -11,24 +11,24 @@ DM N_Niculaie
 DM D_Boroi
 DM C_Hurgoi
 MF M_Antonio
-FW D_Mario
+FW A_Milosovici
 
 GK A_Ghita
 DF K_Layvin
 DF N_Zaituc
+DF J_Milburn
 DF D_Dragan
-FW A_Milosovici
 
-PK: D_Mario
+PK: A_Milosovici
 AGG 20
 
-SUB 10 15 AM IF MIN = 84
-SUB 3 14 MF IF MIN = 87
-SUB 15 16 DF IF MIN = 90
+SUB 6 14 DF IF MIN = 45
+SUB 8 16 DM IF MIN = 78
+SUB 9 15 FW IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC P IF SCORE >= 2
-SUB 11 16 FW IF SCORE <= -3
-SUB 11 16 FW IF SCORE >= 3
+SUB 2 13 DF IF SCORE <= -3
+SUB 2 13 DF IF SCORE >= 3
