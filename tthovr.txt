@@ -613,14 +613,14 @@ SUB MF S_McMahon MF IF INJURED MF
 SUB AM S_McMahon AM IF INJURED AM
 SUB FW S_McMahon FW IF INJURED FW
 
-SUB S_Winzor F_Sierralta DF IF MIN = 65
-SUB M_Laudrup S_McMahon MF IF MIN = 78
-SUB W_Morgan B_Celina AM IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
+SUB Doriva B_Celina FW IF MIN = 78
+SUB G_Potter F_Sierralta FW IF MIN = 81
+SUB D_McHale S_McMahon AM IF MIN = 90
+TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 65 SCORE >= 2
+TACTIC D IF MIN >= 66 SCORE >= 2
 
 SUB Doriva F_Sierralta DF IF SCORE <= -3
 SUB Doriva F_Sierralta DF IF SCORE >= 3
@@ -678,7 +678,7 @@ FW D_Mario
 
 GK A_Ghita
 DF K_Layvin
-DF J_Milburn
+DF T_X_Ghiuri
 DF D_Dragan
 FW A_Milosovici
 
@@ -689,14 +689,14 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB N_Niculaie K_Layvin DM IF MIN = 70
-SUB J_Cadette D_Dragan MF IF MIN = 87
-SUB Zico_Jnr J_Milburn AM IF MIN = 90
+SUB D_Boroi D_Dragan DM IF MIN = 55
+SUB N_Zaituc A_Milosovici AM IF MIN = 75
+SUB J_Cadette K_Layvin DF IF MIN = 78
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 87 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 85 SCORE >= 2
 
 SUB N_Niculaie D_Dragan DM IF SCORE <= -3
 SUB N_Niculaie D_Dragan DM IF SCORE >= 3
