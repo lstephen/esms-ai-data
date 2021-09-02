@@ -602,26 +602,26 @@ GK W_Hunt
 DM E_Donk
 DM R_Morrison
 MF M_Laudrup
-MF B_Celina
+AM D_Luca
 
 SUB GK W_Hunt GK IF INJURED GK
 SUB DF E_Donk DF IF INJURED DF
-SUB DM B_Celina DM IF INJURED DM
-SUB MF B_Celina MF IF INJURED MF
-SUB AM B_Celina AM IF INJURED AM
-SUB FW B_Celina FW IF INJURED FW
+SUB DM M_Laudrup DM IF INJURED DM
+SUB MF M_Laudrup MF IF INJURED MF
+SUB AM M_Laudrup AM IF INJURED AM
+SUB FW D_Luca FW IF INJURED FW
 
-SUB Moreto B_Celina MF IF MIN = 45
-SUB G_Potter M_Laudrup MF IF MIN = 84
-SUB D_McHale R_Morrison DF IF MIN = 90
-TACTIC A IF MIN >= 90 SCORE <= -2
-TACTIC A IF MIN >= 90 SCORE = -1
+SUB S_Winzor M_Laudrup MF IF MIN = 65
+SUB S_McMahon D_Luca MF IF MIN = 81
+SUB D_McHale R_Morrison AM IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC D IF MIN >= 35 SCORE = 1
 TACTIC D IF MIN >= 18 SCORE >= 2
 
-SUB S_Winzor B_Celina DM IF SCORE <= -3
-SUB S_Winzor B_Celina DM IF SCORE >= 3
+SUB S_Winzor M_Laudrup DM IF SCORE <= -3
+SUB S_Winzor M_Laudrup DM IF SCORE >= 3
 
 Forced:D_Boroi/
 ** Reserves Selection **
@@ -687,9 +687,9 @@ SUB MF C_Hurgoi MF IF INJURED MF
 SUB AM C_Hurgoi AM IF INJURED AM
 SUB FW Dindo FW IF INJURED FW
 
-SUB J_Obi_Mikel C_Hurgoi DF IF MIN = 45
-SUB D_Boroi J_Milburn DM IF MIN = 84
-SUB M_Antonio N_Zaituc DM IF MIN = 90
+SUB J_Obi_Mikel N_Zaituc DF IF MIN = 50
+SUB Ridoutkha J_Milburn DM IF MIN = 75
+SUB D_Boroi C_Hurgoi DM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC A IF SCORE = 0
