@@ -393,14 +393,14 @@ SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB R_Harper F_Krovinovic FW IF MIN = 45
-SUB J_Livermore M_Pereira DM IF MIN = 70
-SUB K_Wilson J_Branthwaite DF IF MIN = 75
+SUB C_Connolly J_Branthwaite DF IF MIN = 75
+SUB E_Nketiah F_Krovinovic FW IF MIN = 81
+SUB S_Field M_Pereira DM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 88 SCORE >= 2
+TACTIC D IF MIN >= 66 SCORE >= 2
 
 SUB E_Nketiah M_Pereira FW IF SCORE <= -3
 SUB E_Nketiah M_Pereira FW IF SCORE >= 3
