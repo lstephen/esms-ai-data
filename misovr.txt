@@ -547,17 +547,17 @@ SUB MF H_Kewell MF IF INJURED MF
 SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB Alan_Michael N_Morariu DF IF MIN = 75
-CHANGEPOS N_Morariu DM IF MIN = 78
-CHANGEPOS N_Morariu DM IF MIN = 81
-CHANGEPOS N_Morariu MF IF MIN = 84
-SUB O_Bravo G_Mordino DF IF MIN = 87
-SUB D_Van_Ry H_Kewell FW IF MIN = 90
-TACTIC A IF MIN >= 85 SCORE <= -2
-TACTIC P IF MIN >= 87 SCORE = -1
+SUB D_Van_Ry H_Kewell FW IF MIN = 50
+SUB Alan_Michael N_Morariu DM IF MIN = 78
+CHANGEPOS N_Morariu DF IF MIN = 81
+CHANGEPOS P_Warhurst DM IF MIN = 84
+SUB X_Cullie G_Mordino DF IF MIN = 87
+CHANGEPOS G_Mordino MF IF MIN = 90
+TACTIC E IF SCORE <= -2
+TACTIC E IF SCORE = -1
 TACTIC N IF SCORE = 0
-TACTIC L IF MIN >= 74 SCORE = 1
-TACTIC L IF MIN >= 37 SCORE >= 2
+TACTIC L IF MIN >= 68 SCORE = 1
+TACTIC D IF MIN >= 34 SCORE >= 2
 
 
 Forced:S_Kazaku/H_Ghita/M_Dumitru/E_Skutnik/
@@ -611,7 +611,7 @@ FW H_Ghita
    Overall     271     209     297     275     235     304     271 
 
 GK S_Lambertini
-GK S_Hennigh
+GK U_Kelsey
 DF T_Gheorghiu
 DF S_Zamfir
 FW G_Groza
@@ -623,10 +623,13 @@ SUB MF G_Groza MF IF INJURED MF
 SUB AM G_Groza AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB P_Solomovici S_Zamfir DF IF MIN = 65
-SUB C_Cornea G_Groza FW IF MIN = 87
-TACTIC A IF MIN >= 65 SCORE <= -2
-TACTIC A IF MIN >= 65 SCORE = -1
+SUB E_Skutnik S_Zamfir DF IF MIN = 78
+SUB L_Roman G_Groza FW IF MIN = 81
+CHANGEPOS C_Cornea DM IF MIN = 84
+CHANGEPOS C_Cornea DF IF MIN = 87
+CHANGEPOS C_Cornea DF IF MIN = 90
+TACTIC A IF MIN >= 78 SCORE <= -2
+TACTIC A IF MIN >= 84 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
 TACTIC P IF SCORE >= 2
