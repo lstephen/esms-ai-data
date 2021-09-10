@@ -382,25 +382,25 @@ FW R_Brewster
    Overall     192     165     215     202     171     223     180 
 
 GK J_Bond
-DF J_Branthwaite
-DF N_Ferguson
 DF C_Townsend
+DF S_Field
 FW M_Pereira
+FW M_Phillips
 
 SUB GK J_Bond GK IF INJURED GK
-SUB DF J_Branthwaite DF IF INJURED DF
+SUB DF C_Townsend DF IF INJURED DF
 SUB DM M_Pereira DM IF INJURED DM
 SUB MF M_Pereira MF IF INJURED MF
 SUB AM M_Pereira AM IF INJURED AM
 SUB FW M_Pereira FW IF INJURED FW
 
-SUB F_Krovinovic M_Pereira MF IF MIN = 65
-SUB R_Harper N_Ferguson DM IF MIN = 70
-SUB K_Wilson C_Townsend DM IF MIN = 90
+SUB K_Gibbs S_Field DM IF MIN = 75
+SUB R_Harper C_Townsend DF IF MIN = 78
+SUB R_Brewster M_Pereira AM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC D IF MIN >= 90 SCORE = 1
-TACTIC D IF MIN >= 67 SCORE >= 2
+TACTIC P IF SCORE = 1
+TACTIC D IF MIN >= 75 SCORE >= 2
 
 
