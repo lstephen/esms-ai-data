@@ -1,6 +1,6 @@
                             |                      | now vAg Abs      || OVR ||  P     A     C     E     L     N     D   
 Carlos_Bravo    28    31    | GK P :  47   5 :  52 |  52  15  1.5   5 ||  73 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
-S_Winzor        30 23/27/11 | DF P :  47   7 :  54 |  51  12  0.8   3 ||  67 || DF  7 DM  5 DM  6 DM  5 MF  7 DM  7 MF  7       
+S_Winzor        30 23/27/11 | DF P :  47   7 :  54 |  51  12  0.9   3 ||  67 || DF  7 DM  5 DM  6 DM  5 MF  7 DM  7 MF  7       
 Doriva          29 24/25/11 | DF P :  46   7 :  53 |  50  11  1.6   4 ||  66 || DF  7 DF  5 DM  5 DF  5 MF  8 DM  6 MF  7       
 D_Georgesco     32 28/22/ 8 | DF P :  47   8 :  55 |  51  10  1.3   3 ||  65 || DF  8 DF  6 DF  5 DF  6 MF 10 DF  5 MF  8       
 F_Sierralta     27 29/12/17 | DF P :  43   4 :  47 |  47  11  0.8   5 ||  64 || DF  4 DF  6 DF  4 DF  8 MF 13 DF  4 FW  5       
@@ -17,8 +17,8 @@ G_Best          24 19/22/ 9 | DF P :  38  -1 :  37 |  35   3  0.9   6 ||  45 || 
 W_Hunt          36    29    | GK P :  44   0 :  44 |  44   0  0.8   1 ||  45 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
 S_McMahon       28  7/25/18 | FW P :  39  -2 :  36 |  37   1  1.3   4 ||  43 || MF  0 MF  0 AM -1 AM  0 AM -2 MF  0 FW -2       
 E_Plummer       30 27/12/11 | DF P :  39   0 :  39 |  39  -1  1.0   4 ||  43 || DF  0 DF  1 DF  0 DF  3 MF  6 DF  0 MF  0       
-D_McHale        34 18/25/13 | DF P :  41   1 :  42 |  41   0  0.5   1 ||  43 || DM  2 DM  2 MF  2 MF  1 DM  2 DM  2 AM  2       
-M_Laudrup       25 14/26/ 7 | DF P :  36  -4 :  32 |  33   0  0.9   6 ||  40 || MF  0 DM -3 MF  0 MF -2 DM -4 MF  0 AM -3       
+D_McHale        34 18/25/13 | DF P :  41   1 :  42 |  41   0  0.6   1 ||  43 || DM  2 DM  2 MF  2 MF  1 DM  2 DM  2 AM  2       
+M_Laudrup       25 14/26/ 7 | DF P :  36  -4 :  32 |  33   0  1.0   6 ||  40 || MF  0 DM -3 MF  0 MF -2 DM -4 MF  0 AM -3       
 N_Niculaie      24 18/24/ 2 | DF P :  37  -3 :  34 |  32   0  0.4   6 ||  38 || DM -1 DM -5 MF -2 DM -3 DM -4 DM -2 MF -2   R r 
 B_Celina        30  6/25/18 | FW P :  38  -2 :  36 |  37  -3  0.8   3 ||  38 || MF  0 MF  0 AM -2 AM  0 AM -2 MF -1 FW -2       
 Ridoutkha       30 18/24/ 8 | DF P :  38  -1 :  38 |  36  -3  0.8   3 ||  37 || DM  0 DM -2 MF  0 DM -2 DM -1 DM  0 MF -1   R r 
@@ -265,7 +265,7 @@ MF M_Antonio
 FW D_Mario
                  N       D       A       C       L       P       E 
   STOPPING      33      33      33      33      33      33      33 
-  TACKLING     132     187     117     140     161     130     125 
+  TACKLING     132     188     117     140     161     130     125 
    PASSING     149      98     158     151      74     185     143 
   SHOOTING      41      19      66      38      55      39      41 
    SH Mean      16      20      15      17      16      16      15 
@@ -276,13 +276,13 @@ FW D_Mario
   GK Bonus      20      15      23      20      16      23      21 
        Agg      26      26      26      26      26      26      26 
    Scoring     113      71     127     113      68     136     109 
- Defending     132     187     117     140     161     130     125 
+ Defending     132     188     117     140     161     130     125 
    Overall     283     250     286     290     230     310     271 
 
 ** First XI **
                             |                      | now vAg Abs      || OVR ||  P     A     C     E     L     N     D   
 Carlos_Bravo    28    31    | GK P :  47   5 :  52 |  52  15  1.5   5 ||  73 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
-S_Winzor        30 23/27/11 | DF P :  47   7 :  54 |  51  12  0.8   3 ||  67 || DF  7 DM  5 DM  6 DM  5 MF  7 DM  7 MF  7       
+S_Winzor        30 23/27/11 | DF P :  47   7 :  54 |  51  12  0.9   3 ||  67 || DF  7 DM  5 DM  6 DM  5 MF  7 DM  7 MF  7       
 Doriva          29 24/25/11 | DF P :  46   7 :  53 |  50  11  1.6   4 ||  66 || DF  7 DF  5 DM  5 DF  5 MF  8 DM  6 MF  7       
 D_Georgesco     32 28/22/ 8 | DF P :  47   8 :  55 |  51  10  1.3   3 ||  65 || DF  8 DF  6 DF  5 DF  6 MF 10 DF  5 MF  8       
 F_Sierralta     27 29/12/17 | DF P :  43   4 :  47 |  47  11  0.8   5 ||  64 || DF  4 DF  6 DF  4 DF  8 MF 13 DF  4 FW  5       
@@ -292,8 +292,8 @@ Moreto          28 19/25/ 9 | DF P :  40   1 :  42 |  40   4  1.1   4 ||  49 || 
 R_Morrison      30 19/26/10 | DF P :  42   2 :  44 |  42   3  0.4   3 ||  49 || DM  3 DM  1 MF  3 DM  1 DM  2 DM  3 MF  2       
 W_Morgan        27 28/12/ 7 | DF P :  39   0 :  39 |  38   2  1.0   5 ||  46 || DF  0 DF  0 DF  0 DF  3 MF  5 DF  0 DF  1       
 E_Plummer       30 27/12/11 | DF P :  39   0 :  39 |  39  -1  1.0   4 ||  43 || DF  0 DF  1 DF  0 DF  3 MF  6 DF  0 MF  0       
-D_McHale        34 18/25/13 | DF P :  41   1 :  42 |  41   0  0.5   1 ||  43 || DM  2 DM  2 MF  2 MF  1 DM  2 DM  2 AM  2       
-M_Laudrup       25 14/26/ 7 | DF P :  36  -4 :  32 |  33   0  0.9   6 ||  40 || MF  0 DM -3 MF  0 MF -2 DM -4 MF  0 AM -3       
+D_McHale        34 18/25/13 | DF P :  41   1 :  42 |  41   0  0.6   1 ||  43 || DM  2 DM  2 MF  2 MF  1 DM  2 DM  2 AM  2       
+M_Laudrup       25 14/26/ 7 | DF P :  36  -4 :  32 |  33   0  1.0   6 ||  40 || MF  0 DM -3 MF  0 MF -2 DM -4 MF  0 AM -3       
 
 ** First Squad (20) **
                             |                      | now vAg Abs      || OVR ||  P     A     C     E     L     N     D   
@@ -547,82 +547,82 @@ J_Zimmerman     34  5/21/ 4 | MF P :  23  -8 :  15 |  13 -28  0.4   1 || -13 || 
 R_Montolivo     15  7/13/ 5 | MF P :  16 -15 :   1 |   0 -25  1.1  11 || -14 || MF-15 DM-19 MF-17 DF-17 DM-15 MF-16 FW-15     r 
 A_Aquilani      16 13/ 4/ 6 | DF E :  15 -14 :   2 |  -2 -27  1.0  11 || -18 || DM-21 DF-19 DF-19 DF-14 DM-14 FW-19 FW-13     r 
 
-Forced:Doriva/D_Luca/B_McClair/
+Forced:D_Luca/G_Potter/W_Morgan/
 ** Selection **
                             |                      | now vAg Abs      || OVR ||  P     A     C     E     L     N     D   
 Carlos_Bravo    28    31    | GK P :  47   5 :  52 |  52  15  1.5   5 ||  73 || GK  5 GK  5 GK  5 GK  5 GK  5 GK  5 GK  5       
+Doriva          29 24/25/11 | DF P :  45   6 :  51 |  49   9  1.6   4 ||  63 || DF  6 DF  4 DM  5 DF  4 MF  6 DM  5 MF  6       
+D_Georgesco     32 26/20/ 7 | DF P :  44   4 :  48 |  45   4  1.3   3 ||  53 || DF  4 DF  2 DF  2 DF  4 MF  6 DF  2 MF  4       
 W_Hunt          36    29    | GK P :  44   0 :  44 |  44   0  0.8   1 ||  45 || GK  0 GK  0 GK  0 GK  0 GK  0 GK  0 GK  0       
-Doriva          29 24/25/11 | DF P :  46   7 :  53 |  50  11  1.6   4 ||  66 || DF  7 DF  5 DM  5 DF  5 MF  8 DM  6 MF  7       
-D_Georgesco     32 27/21/ 8 | DF P :  45   5 :  50 |  47   6  1.3   3 ||  56 || DF  5 DF  3 DF  3 DF  4 MF  7 DF  3 MF  5       
-S_Winzor        30 21/25/10 | DF P :  42   3 :  45 |  43   4  0.8   3 ||  51 || DF  3 DM  1 DM  3 DF  1 DM  2 DM  3 MF  3       
-R_Morrison      30 19/26/10 | DF P :  42   2 :  44 |  42   3  0.4   3 ||  49 || DM  3 DM  1 MF  3 DM  1 DM  2 DM  3 MF  2       
-F_Sierralta     27 28/12/17 | DF P :  42   3 :  45 |  46   9  0.8   5 ||  61 || DF  3 DF  5 DF  3 DF  7 MF 11 DF  3 FW  4       
+S_Winzor        30 21/24/10 | DF P :  42   3 :  44 |  42   3  0.9   3 ||  49 || DF  3 DM  1 DM  2 DF  1 DM  2 DM  2 MF  3     r 
+F_Sierralta     27 28/11/16 | DF P :  41   2 :  43 |  43   7  0.8   5 ||  56 || DF  2 DF  4 DF  2 DF  6 MF  9 DF  2 FW  3       
 D_Luca          24  4/25/21 | FW P :  41   0 :  41 |  41   9  1.9   6 ||  58 || FW  0 AM  2 AM  0 AM  2 AM  0 AM  0 FW -1       
-B_McClair       30  5/ 9/30 | FW P :  38   2 :  40 |  45   5  1.0   3 ||  54 || FW  2 FW  9 FW  6 FW  7 FW 11 FW  9 FW  7       
+R_Morrison      30 19/25/10 | DF P :  41   1 :  42 |  41   1  0.4   3 ||  46 || DM  2 DM  1 MF  2 DM  0 DM  1 DM  2 MF  1       
+D_McHale        34 18/25/13 | DF P :  41   1 :  42 |  41   0  0.6   1 ||  43 || DM  2 DM  2 MF  2 MF  1 DM  2 DM  2 AM  2       
+Moreto          28 19/25/ 9 | DF P :  40   1 :  42 |  40   4  1.1   4 ||  49 || DM  2 DM  0 MF  2 DM  0 DM  1 DM  2 MF  1       
+W_Morgan        27 28/12/ 7 | DF P :  39   0 :  39 |  38   2  1.0   5 ||  46 || DF  0 DF  0 DF  0 DF  3 MF  5 DF  0 DF  1       
 G_Potter        23  8/25/18 | FW P :  39  -2 :  37 |  38   8  0.9   7 ||  53 || MF  0 MF  0 AM -1 MF  0 AM -2 MF  0 FW -1       
-D_McHale        34 17/24/12 | DF P :  39   0 :  39 |  38  -3  0.5   1 ||  36 || DM  0 DM  0 MF  1 MF -1 DM  1 DM  1 AM  1     r 
+S_McMahon       28  7/25/18 | FW P :  39  -2 :  36 |  37   1  1.3   4 ||  43 || MF  0 MF  0 AM -1 AM  0 AM -2 MF  0 FW -2       
 B_Celina        30  6/25/18 | FW P :  38  -2 :  36 |  37  -3  0.8   3 ||  38 || MF  0 MF  0 AM -2 AM  0 AM -2 MF -1 FW -2       
-Moreto          28 18/24/ 9 | DF P :  38  -1 :  38 |  36   0  1.1   4 ||  41 || DM  0 DM -2 MF  0 DM -2 DM -1 DM  0 MF -1     r 
-S_McMahon       28  7/25/18 | FW P :  38  -3 :  35 |  36  -1  1.3   4 ||  40 || MF -1 MF -1 AM -2 AM -1 AM -3 MF -1 FW -2       
-E_Plummer       30 26/12/11 | DF P :  39  -1 :  38 |  37  -2  1.0   4 ||  40 || DF -1 DF  0 DF -1 DF  3 MF  5 DF -1 DF -1       
-M_Laudrup       25 14/26/ 7 | DF P :  36  -4 :  32 |  33   0  0.9   6 ||  40 || MF  0 DM -3 MF  0 MF -2 DM -4 MF  0 AM -3       
-D_Byrne         29  6/12/25 | FW P :  36  -5 :  30 |  33  -7  1.1   4 ||  31 || FW -5 FW -1 FW -2 FW -1 FW  0 FW  0 FW  0       
-W_Morgan        27 26/11/ 7 | DF P :  36  -3 :  33 |  33  -3  1.0   5 ||  35 || DF -3 DF -3 DF -3 DF  0 MF  1 DF -3 DF -1       
+E_Plummer       30 26/11/10 | DF P :  37  -2 :  35 |  35  -4  1.0   4 ||  35 || DF -2 DF -1 DF -2 DF  2 MF  3 DF -2 FW -2       
+B_McClair       30  5/ 9/29 | FW P :  37   1 :  38 |  43   3  1.0   3 ||  50 || FW  1 FW  8 FW  5 FW  6 FW  9 FW  8 FW  6       
 E_Donk          29 25/12/ 7 | DF P :  36  -3 :  33 |  32  -7  1.6   4 ||  30 || DF -3 DF -3 DF -3 DF  0 MF  0 DF -3 DM -2       
+D_Byrne         29  6/12/25 | FW P :  36  -5 :  30 |  33  -7  1.1   4 ||  31 || FW -5 FW -1 FW -2 FW -1 FW  0 FW  0 FW  0       
+M_Laudrup       25 14/25/ 7 | DF P :  35  -4 :  30 |  31  -1  1.0   6 ||  37 || MF -1 DM -3 MF -1 MF -2 DM -4 MF -1 AM -4       
 A_Salto         27 25/11/ 5 | DF P :  35  -5 :  30 |  30  -7  0.6   5 ||  28 || DF -5 DF -4 DF -4 DF -1 DF -1 DF -4 DF -3       
 
-COUNTER_ATTACK
+PASSING
 GK Carlos_Bravo
 DF F_Sierralta
 DF D_Georgesco
-DF E_Plummer
-DM S_Winzor
-DM Doriva
-MF R_Morrison
-MF M_Laudrup
-MF D_Luca
-MF D_McHale
-FW B_McClair
+DF W_Morgan
+DF S_Winzor
+DF Doriva
+DM R_Morrison
+DM Moreto
+DM D_McHale
+FW D_Luca
+FW G_Potter
                  N       D       A       C       L       P       E 
   STOPPING      47      47      47      47      47      47      47 
-  TACKLING     129     208     104     145     206     126     122 
-   PASSING     169     121     174     170      84     183     193 
-  SHOOTING      62      36     111      57      95      57      64 
-   SH Mean      21      24      20      22      20      22      21 
- SH Median      21      30      21      30      21      30      21 
-    SH Max      30      30      30      30      30      30      30 
-  SH Bonus      27      18      31      28      16      31      29 
+  TACKLING     167     224     154     174     183     165     157 
+   PASSING     127      85     147     135      66     171     123 
+  SHOOTING      64      31     100      60      85      61      60 
+   SH Mean      16      19      16      17      16      17      16 
+ SH Median      18      21      18      18      18      18      18 
+    SH Max      21      21      21      21      21      21      21 
+  SH Bonus      15      10      18      15      11      18      15 
    GK Qual      31      31      31      31      31      31      31 
-  GK Bonus      31      22      38      30      22      33      35 
-       Agg      21      21      21      21      21      21      21 
-   Scoring     133      93     153     132      87     141     150 
- Defending     129     208     104     145     206     126     122 
-   Overall     321     310     315     334     297     330     332 
+  GK Bonus      25      20      29      25      22      28      26 
+       Agg      20      20      20      20      20      20      20 
+   Scoring     106      67     131     110      72     134     102 
+ Defending     167     224     154     174     183     165     157 
+   Overall     302     265     330     313     254     342     291 
 
 GK W_Hunt
-DF W_Morgan
-DM Moreto
-AM G_Potter
-AM S_McMahon
+DF E_Plummer
+DF M_Laudrup
+FW S_McMahon
+FW B_McClair
 
 SUB GK W_Hunt GK IF INJURED GK
-SUB DF W_Morgan DF IF INJURED DF
-SUB DM G_Potter DM IF INJURED DM
-SUB MF G_Potter MF IF INJURED MF
-SUB AM G_Potter AM IF INJURED AM
-SUB FW G_Potter FW IF INJURED FW
+SUB DF E_Plummer DF IF INJURED DF
+SUB DM M_Laudrup DM IF INJURED DM
+SUB MF M_Laudrup MF IF INJURED MF
+SUB AM M_Laudrup AM IF INJURED AM
+SUB FW B_McClair FW IF INJURED FW
 
-SUB D_McHale S_McMahon DM IF MIN = 55
-SUB D_Luca Moreto MF IF MIN = 70
-SUB M_Laudrup G_Potter AM IF MIN = 90
-TACTIC A IF MIN >= 40 SCORE <= -2
-TACTIC E IF MIN >= 8 SCORE = -1
-TACTIC C IF SCORE = 0
-TACTIC D IF MIN >= 35 SCORE = 1
-TACTIC D IF MIN >= 18 SCORE >= 2
+SUB D_Georgesco B_McClair FW IF MIN = 84
+SUB D_McHale M_Laudrup AM IF MIN = 87
+SUB W_Morgan S_McMahon AM IF MIN = 90
+TACTIC A IF MIN >= 84 SCORE <= -2
+TACTIC P IF SCORE = -1
+TACTIC P IF SCORE = 0
+TACTIC D IF MIN >= 90 SCORE = 1
+TACTIC D IF MIN >= 59 SCORE >= 2
 
-SUB S_Winzor G_Potter DM IF SCORE <= -3
-SUB S_Winzor G_Potter DM IF SCORE >= 3
+SUB S_Winzor E_Plummer DF IF SCORE <= -3
+SUB S_Winzor E_Plummer DF IF SCORE >= 3
 
 Forced:J_Obi_Mikel/D_Boroi/
 ** Reserves Selection **
@@ -679,7 +679,7 @@ FW D_Mario
 GK A_Ghita
 DF K_Layvin
 DF N_Zaituc
-DF D_Dragan
+DF J_Milburn
 FW A_Milosovici
 
 SUB GK A_Ghita GK IF INJURED GK
@@ -689,14 +689,14 @@ SUB MF N_Zaituc MF IF INJURED MF
 SUB AM N_Zaituc AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB M_Antonio N_Zaituc MF IF MIN = 84
-SUB G_Best D_Dragan MF IF MIN = 87
-SUB C_Hurgoi K_Layvin DF IF MIN = 90
+SUB N_Niculaie A_Milosovici AM IF MIN = 81
+SUB M_Antonio N_Zaituc FW IF MIN = 84
+SUB G_Best K_Layvin DF IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 87 SCORE >= 2
+TACTIC P IF SCORE >= 2
 
 SUB D_Mario A_Milosovici FW IF SCORE <= -3
 SUB D_Mario A_Milosovici FW IF SCORE >= 3
