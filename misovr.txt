@@ -544,14 +544,18 @@ SUB MF D_Balitiu MF IF INJURED MF
 SUB AM D_Balitiu AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB W_Westfall D_Balitiu DM IF MIN = 84
-SUB D_Balitiu G_Mordino FW IF MIN = 87
-SUB Alan_Michael N_Morariu DF IF MIN = 90
-TACTIC A IF MIN >= 70 SCORE <= -2
-TACTIC P IF MIN >= 84 SCORE = -1
+SUB E_Gerets G_Mordino DF IF MIN = 55
+CHANGEPOS O_Bravo DM IF MIN = 60
+CHANGEPOS O_Bravo DM IF MIN = 65
+CHANGEPOS O_Bravo DM IF MIN = 70
+CHANGEPOS Alan_Michael MF IF MIN = 84
+SUB I_Tatarescu N_Morariu DF IF MIN = 87
+SUB V_Barbieri D_Balitiu MF IF MIN = 90
+TACTIC P IF MIN >= 48 SCORE <= -2
+TACTIC P IF MIN >= 87 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 69 SCORE >= 2
+TACTIC D IF MIN >= 84 SCORE >= 2
 
 
 Forced:I_Kazaku/R_Amanar/S_Kazaku/M_Dumitru/
@@ -608,7 +612,7 @@ FW H_Ghita
 
 GK M_Hurgoi
 DF L_Roman
-DF T_Gheorghiu
+DF S_Zamfir
 FW A_Ciumak
 FW G_Groza
 
@@ -619,12 +623,14 @@ SUB MF A_Ciumak MF IF INJURED MF
 SUB AM A_Ciumak AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB P_Solomovici L_Roman DF IF MIN = 84
-SUB F_Pacuraru A_Ciumak MF IF MIN = 87
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB P_Solomovici L_Roman DF IF MIN = 65
+CHANGEPOS C_Cornea MF IF MIN = 78
+SUB E_Skutnik S_Zamfir DF IF MIN = 87
+SUB M_Dumitru A_Ciumak MF IF MIN = 90
+TACTIC A IF MIN >= 87 SCORE <= -2
+TACTIC A IF MIN >= 87 SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+TACTIC C IF MIN >= 90 SCORE >= 2
 
 
