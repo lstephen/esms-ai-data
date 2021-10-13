@@ -535,31 +535,31 @@ FW D_Van_Ry
    Overall     302     271     264     314     273     298     298 
 
 GK Q_Bonnette
-DM E_Petrescu
 AM P_Warhurst
+AM N_Morariu
 AM D_Balitiu
 FW G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF E_Petrescu DF IF INJURED DF
+SUB DF P_Warhurst DF IF INJURED DF
 SUB DM D_Balitiu DM IF INJURED DM
 SUB MF D_Balitiu MF IF INJURED MF
 SUB AM D_Balitiu AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB O_Bravo D_Balitiu DM IF MIN = 60
-CHANGEPOS X_Cullie AM IF MIN = 65
-CHANGEPOS X_Cullie AM IF MIN = 70
-SUB O_Burgin E_Petrescu DF IF MIN = 75
-CHANGEPOS Alan_Michael MF IF MIN = 78
-SUB P_Deusner P_Warhurst FW IF MIN = 84
-CHANGEPOS P_Warhurst MF IF MIN = 87
-CHANGEPOS P_Warhurst MF IF MIN = 90
+SUB X_Cullie P_Warhurst FW IF MIN = 50
+CHANGEPOS P_Warhurst DF IF MIN = 55
+CHANGEPOS P_Warhurst MF IF MIN = 65
+CHANGEPOS P_Warhurst DM IF MIN = 75
+CHANGEPOS P_Warhurst DF IF MIN = 81
+CHANGEPOS P_Warhurst DM IF MIN = 84
+SUB P_Deusner D_Balitiu MF IF MIN = 87
+SUB I_Tatarescu N_Morariu AM IF MIN = 90
 TACTIC P IF MIN >= 47 SCORE <= -2
 TACTIC C IF SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
-TACTIC D IF MIN >= 71 SCORE >= 2
+TACTIC D IF MIN >= 65 SCORE >= 2
 
 
 Forced:I_Kazaku/R_Amanar/H_Ghita/M_Dumitru/
@@ -627,14 +627,12 @@ SUB MF A_Ciumak MF IF INJURED MF
 SUB AM A_Ciumak AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB L_Roman E_Skutnik DF IF MIN = 45
-SUB C_Cornea A_Ciumak DM IF MIN = 55
-CHANGEPOS A_Ciumak MF IF MIN = 60
-CHANGEPOS A_Ciumak MF IF MIN = 81
+SUB C_Cornea E_Skutnik DM IF MIN = 60
+SUB S_Kazaku A_Ciumak MF IF MIN = 87
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+TACTIC C IF MIN >= 46 SCORE >= 2
 
 
