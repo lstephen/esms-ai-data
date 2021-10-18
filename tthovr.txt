@@ -557,14 +557,14 @@ SUB MF S_McMahon MF IF INJURED MF
 SUB AM S_McMahon AM IF INJURED AM
 SUB FW D_Luca FW IF INJURED FW
 
-SUB D_Baboescu E_Plummer DM IF MIN = 45
-SUB G_Potter S_McMahon MF IF MIN = 75
-SUB E_Plummer D_Luca AM IF MIN = 90
+SUB G_Potter D_Luca FW IF MIN = 50
+SUB D_Luca B_Celina AM IF MIN = 84
+SUB Moreto S_McMahon FW IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 48 SCORE >= 2
+TACTIC D IF MIN >= 71 SCORE >= 2
 
 SUB M_Jordan D_Luca FW IF SCORE <= -3
 SUB M_Jordan D_Luca FW IF SCORE >= 3
@@ -623,8 +623,8 @@ FW D_Mario
 
 GK A_Ghita
 DF T_X_Ghiuri
+DF A_Stefanov
 DF D_Dragan
-DF Terry_Bull
 FW A_Milosovici
 
 SUB GK A_Ghita GK IF INJURED GK
@@ -634,14 +634,14 @@ SUB MF D_Dragan MF IF INJURED MF
 SUB AM D_Dragan AM IF INJURED AM
 SUB FW A_Milosovici FW IF INJURED FW
 
-SUB N_Zaituc A_Milosovici DM IF MIN = 84
-SUB J_Milburn Terry_Bull DF IF MIN = 87
-SUB C_Hurgoi T_X_Ghiuri DF IF MIN = 90
+SUB G_Sandulescu D_Dragan FW IF MIN = 60
+SUB K_Layvin T_X_Ghiuri DF IF MIN = 84
+SUB D_Boroi A_Milosovici FW IF MIN = 87
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 84 SCORE >= 2
+TACTIC P IF SCORE >= 2
 
 SUB D_Mario A_Milosovici FW IF SCORE <= -3
 SUB D_Mario A_Milosovici FW IF SCORE >= 3
