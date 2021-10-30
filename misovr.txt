@@ -537,24 +537,27 @@ FW D_Van_Ry
    Overall     310     274     272     312     281     304     311 
 
 GK Q_Bonnette
+DF E_Petrescu
 DF P_Warhurst
-DF N_Morariu
 MF D_Balitiu
 FW G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF P_Warhurst DF IF INJURED DF
+SUB DF E_Petrescu DF IF INJURED DF
 SUB DM D_Balitiu DM IF INJURED DM
 SUB MF D_Balitiu MF IF INJURED MF
 SUB AM D_Balitiu AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB I_Tatarescu D_Balitiu MF IF MIN = 45
-SUB W_Westfall N_Morariu AM IF MIN = 84
-CHANGEPOS O_Bravo DM IF MIN = 87
-SUB O_Bravo G_Mordino DF IF MIN = 90
-TACTIC A IF MIN >= 72 SCORE <= -2
-TACTIC P IF MIN >= 45 SCORE = -1
+CHANGEPOS Alan_Michael MF IF MIN = 55
+CHANGEPOS I_Tatarescu DM IF MIN = 60
+SUB E_Gerets E_Petrescu DF IF MIN = 65
+CHANGEPOS W_Westfall MF IF MIN = 78
+SUB I_Tatarescu P_Warhurst DF IF MIN = 84
+CHANGEPOS O_Burgin DM IF MIN = 87
+SUB O_Bravo D_Balitiu AM IF MIN = 90
+TACTIC P IF MIN >= 23 SCORE <= -2
+TACTIC P IF MIN >= 60 SCORE = -1
 TACTIC N IF SCORE = 0
 TACTIC C IF SCORE = 1
 TACTIC D IF MIN >= 35 SCORE >= 2
@@ -624,7 +627,7 @@ SUB MF A_Ciumak MF IF INJURED MF
 SUB AM A_Ciumak AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB S_Kazaku A_Ciumak MF IF MIN = 84
+SUB R_Munteanu A_Ciumak MF IF MIN = 81
 SUB F_Pacuraru G_Groza FW IF MIN = 90
 TACTIC E IF MIN >= 56 SCORE <= -2
 TACTIC C IF SCORE = -1
