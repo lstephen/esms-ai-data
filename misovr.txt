@@ -122,7 +122,7 @@ FW D_Van_Ry
                  N       D       A       C       L       P       E 
   STOPPING      44      44      44      44      44      44      44 
   TACKLING     137     185      82     147     171     116     127 
-   PASSING     153     110     163     157      77     179     171 
+   PASSING     154     110     163     157      77     179     171 
   SHOOTING      76      33     132      57     126      57      67 
    SH Mean      18      19      18      19      17      19      18 
  SH Median      17      23      17      17      17      17      17 
@@ -538,25 +538,25 @@ FW G_Mordino
 
 GK Q_Bonnette
 DF P_Warhurst
+DF N_Morariu
 DF I_Tatarescu
 DF D_Balitiu
-FW C_Wieling
 
 SUB GK Q_Bonnette GK IF INJURED GK
 SUB DF P_Warhurst DF IF INJURED DF
 SUB DM I_Tatarescu DM IF INJURED DM
 SUB MF I_Tatarescu MF IF INJURED MF
 SUB AM I_Tatarescu AM IF INJURED AM
-SUB FW C_Wieling FW IF INJURED FW
+SUB FW P_Warhurst FW IF INJURED FW
 
-SUB O_Bravo D_Balitiu DM IF MIN = 55
-SUB D_Van_Ry P_Warhurst FW IF MIN = 75
-SUB W_Westfall I_Tatarescu FW IF MIN = 90
-TACTIC P IF SCORE <= -2
+SUB G_Mordino D_Balitiu FW IF MIN = 60
+SUB D_Van_Ry P_Warhurst AM IF MIN = 87
+SUB X_Cullie N_Morariu DF IF MIN = 90
+TACTIC A IF MIN >= 90 SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
-TACTIC C IF MIN >= 79 SCORE = 1
-TACTIC C IF MIN >= 49 SCORE >= 2
+TACTIC C IF MIN >= 87 SCORE = 1
+TACTIC D IF MIN >= 71 SCORE >= 2
 
 
 Forced:I_Kazaku/R_Amanar/S_Kazaku/M_Dumitru/
@@ -624,16 +624,18 @@ SUB MF A_Ciumak MF IF INJURED MF
 SUB AM A_Ciumak AM IF INJURED AM
 SUB FW G_Groza FW IF INJURED FW
 
-SUB C_Cornea A_Ciumak DM IF MIN = 70
+SUB R_Munteanu A_Ciumak AM IF MIN = 60
+CHANGEPOS A_Ciumak MF IF MIN = 65
+CHANGEPOS A_Ciumak MF IF MIN = 70
 CHANGEPOS A_Ciumak MF IF MIN = 75
-SUB R_Munteanu G_Groza FW IF MIN = 78
-CHANGEPOS A_Ciumak MF IF MIN = 81
-SUB P_Solomovici E_Skutnik DF IF MIN = 87
-CHANGEPOS A_Ciumak MF IF MIN = 90
+SUB C_Cornea G_Groza AM IF MIN = 81
+CHANGEPOS G_Groza FW IF MIN = 84
+CHANGEPOS G_Groza FW IF MIN = 87
+SUB M_Dumitru E_Skutnik DM IF MIN = 90
 TACTIC A IF SCORE <= -2
 TACTIC A IF SCORE = -1
 TACTIC A IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC P IF SCORE >= 2
+TACTIC C IF MIN >= 45 SCORE >= 2
 
 
