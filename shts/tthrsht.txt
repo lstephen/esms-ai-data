@@ -4,31 +4,31 @@ E
 GK D_Gogean
 DF K_Layvin
 DF T_X_Ghiuri
-DF G_Best
-DM Ridoutkha
+DF J_Piang
 DM N_Niculaie
-DM C_Hurgoi
+DM G_Best
+DM Zico_Jnr
+MF Ridoutkha
 MF D_Boroi
-MF Zico_Jnr
-MF G_Sandulescu
+MF C_Hurgoi
 FW D_Mario
 
 GK A_Ghita
+DM A_Stefanov
 DM N_Zaituc
-DM Terry_Bull
-MF D_Dragan
+MF G_Sandulescu
 AM A_Milosovici
 
 PK: D_Mario
 AGG 20
 
-SUB 10 14 MF IF MIN = 65
-SUB 7 15 MF IF MIN = 70
-SUB 9 13 DM IF MIN = 87
-TACTIC E IF SCORE <= -2
-TACTIC E IF SCORE = -1
+SUB 6 15 DM IF MIN = 60
+SUB 3 14 DF IF MIN = 70
+SUB 10 16 MF IF MIN = 90
+TACTIC P IF MIN >= 70 SCORE <= -2
+TACTIC P IF MIN >= 70 SCORE = -1
 TACTIC E IF SCORE = 0
-TACTIC C IF MIN >= 23 SCORE = 1
+TACTIC C IF MIN >= 31 SCORE = 1
 TACTIC D IF MIN >= 41 SCORE >= 2
-SUB 6 15 DM IF SCORE <= -3
-SUB 6 15 DM IF SCORE >= 3
+SUB 9 14 MF IF SCORE <= -3
+SUB 9 14 MF IF SCORE >= 3
