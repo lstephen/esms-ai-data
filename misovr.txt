@@ -536,22 +536,25 @@ FW D_Van_Ry
    Overall     308     273     267     310     280     302     309 
 
 GK Q_Bonnette
-DM E_Petrescu
 DM N_Morariu
+MF H_Kewell
 MF D_Balitiu
 AM G_Mordino
 
 SUB GK Q_Bonnette GK IF INJURED GK
-SUB DF E_Petrescu DF IF INJURED DF
-SUB DM D_Balitiu DM IF INJURED DM
-SUB MF D_Balitiu MF IF INJURED MF
-SUB AM D_Balitiu AM IF INJURED AM
+SUB DF N_Morariu DF IF INJURED DF
+SUB DM H_Kewell DM IF INJURED DM
+SUB MF H_Kewell MF IF INJURED MF
+SUB AM H_Kewell AM IF INJURED AM
 SUB FW G_Mordino FW IF INJURED FW
 
-SUB O_Burgin N_Morariu DF IF MIN = 81
-SUB P_Deusner D_Balitiu AM IF MIN = 87
-SUB O_Bravo E_Petrescu DM IF MIN = 90
-TACTIC P IF MIN >= 87 SCORE <= -2
+SUB W_Westfall D_Balitiu MF IF MIN = 70
+SUB Alan_Michael G_Mordino MF IF MIN = 75
+CHANGEPOS G_Mordino DM IF MIN = 78
+CHANGEPOS G_Mordino DM IF MIN = 84
+SUB I_Tatarescu H_Kewell AM IF MIN = 87
+CHANGEPOS H_Kewell MF IF MIN = 90
+TACTIC E IF SCORE <= -2
 TACTIC E IF SCORE = -1
 TACTIC E IF SCORE = 0
 TACTIC C IF SCORE = 1
@@ -609,23 +612,26 @@ FW F_Pacuraru
  Defending      78     114      48      93      91      67      65 
    Overall     310     267     253     321     268     304     303 
 
-GK U_Kelsey
+GK S_Hennigh
 DF L_Roman
 DF T_Gheorghiu
 DF S_Zamfir
 AM A_Ciumak
 
-SUB GK U_Kelsey GK IF INJURED GK
+SUB GK S_Hennigh GK IF INJURED GK
 SUB DF L_Roman DF IF INJURED DF
 SUB DM A_Ciumak DM IF INJURED DM
 SUB MF A_Ciumak MF IF INJURED MF
 SUB AM A_Ciumak AM IF INJURED AM
 SUB FW L_Roman FW IF INJURED FW
 
-SUB E_Skutnik L_Roman DF IF MIN = 55
-SUB C_Cornea A_Ciumak MF IF MIN = 70
-TACTIC E IF MIN >= 55 SCORE <= -2
-TACTIC E IF MIN >= 81 SCORE = -1
+SUB R_Munteanu A_Ciumak DM IF MIN = 70
+CHANGEPOS A_Ciumak MF IF MIN = 75
+CHANGEPOS A_Ciumak MF IF MIN = 78
+CHANGEPOS A_Ciumak MF IF MIN = 87
+SUB P_Solomovici L_Roman DF IF MIN = 90
+TACTIC E IF MIN >= 72 SCORE <= -2
+TACTIC E IF MIN >= 90 SCORE = -1
 TACTIC C IF SCORE = 0
 TACTIC C IF SCORE = 1
 TACTIC C IF SCORE >= 2
