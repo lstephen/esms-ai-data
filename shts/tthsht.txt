@@ -5,16 +5,16 @@ GK Carlos_Bravo
 DF D_Georgesco
 DF E_Plummer
 DF T_Histelberg
-DF S_Winzor
 DF Doriva
+DF J_Obi_Mikel
+DM S_Winzor
 DM R_Morrison
-DM Moreto
 AM D_Luca
-AM G_Potter
+AM S_McMahon
 FW M_Jordan
 
 GK W_Hunt
-DF J_Obi_Mikel
+DM Moreto
 DM D_Baboescu
 FW B_Celina
 FW D_Byrne
@@ -22,13 +22,13 @@ FW D_Byrne
 PK: M_Jordan
 AGG 20
 
-SUB 9 14 DM IF MIN = 75
-SUB 3 13 DF IF MIN = 78
-SUB 4 15 AM IF MIN = 87
-TACTIC P IF SCORE <= -2
-TACTIC P IF SCORE = -1
+SUB 5 13 DM IF MIN = 81
+SUB 7 14 DM IF MIN = 87
+SUB 10 15 FW IF MIN = 90
+TACTIC A IF SCORE <= -2
+TACTIC P IF MIN >= 90 SCORE = -1
 TACTIC A IF SCORE = 0
-TACTIC D IF MIN >= 75 SCORE = 1
+TACTIC P IF SCORE = 1
 TACTIC D IF MIN >= 46 SCORE >= 2
 SUB 2 13 DF IF SCORE <= -3
 SUB 2 13 DF IF SCORE >= 3
