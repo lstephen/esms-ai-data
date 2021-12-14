@@ -9,26 +9,26 @@ DF Doriva
 DF J_Obi_Mikel
 DM D_Baboescu
 DM R_Morrison
+DM Moreto
 FW D_Luca
-FW G_Potter
 FW M_Jordan
 
 DF E_Plummer
-DF E_Donk
-DF A_Salto
+FW G_Potter
 FW S_McMahon
 FW B_Celina
+FW Da_Erikson
 
 PK: M_Jordan
 AGG 20
 
-SUB 3 14 DF IF MIN = 45
-SUB 9 15 MF IF MIN = 55
-SUB 14 12 DF IF MIN = 84
+SUB 8 12 DM IF MIN = 75
+SUB 9 13 DM IF MIN = 81
+SUB 7 14 DM IF MIN = 90
 TACTIC P IF SCORE <= -2
 TACTIC P IF SCORE = -1
 TACTIC P IF SCORE = 0
 TACTIC P IF SCORE = 1
-TACTIC D IF MIN >= 63 SCORE >= 2
-SUB 3 12 DF IF SCORE <= -3
-SUB 3 12 DF IF SCORE >= 3
+TACTIC D IF MIN >= 69 SCORE >= 2
+SUB 4 12 DF IF SCORE <= -3
+SUB 4 12 DF IF SCORE >= 3
